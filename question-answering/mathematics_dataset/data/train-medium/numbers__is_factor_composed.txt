@@ -1,0 +1,666 @@
+Misalkan l(v) = 7*v**2 - 6*v - 44. Apakah 11 membagi l(-4)?
+False
+Misalkan -g = -5*g - 16, -5*q + g + 2839 = 0. Apakah 47 membagi q?
+False
+Misalkan 0 = -g - 4 + 32. Misalkan w be 36/7*294/g. Misalkan -5*q = -5*x + 50, -3*x = -8*x + 4*q + w. Apakah 14 membagi x?
+True
+Misalkan -17*a = -20*a + 258. Misalkan 15 = -l + d, 4*l + 2*d + a = 2. Apakah 10 merupakan faktor dari (l*2)/(-2 + 1)?
+False
+Apakah (-1)/2 + ((-9411)/(-6))/1 adalah kelipatan dari 49?
+True
+Misalkan -134*b + 2880 = -128*b. Apakah 32 merupakan faktor dari b?
+True
+Misalkan 7*l + 195 = 12*l. Misalkan -3*s + 6*r - 2*r = -101, 0 = 2*s + 3*r - l. Apakah 11 merupakan faktor dari s?
+False
+Misalkan a(h) = 164 - 11*h. Apakah 21 membagi a(0)?
+False
+Misalkan g be -1 + 1/(-2)*-6. Misalkan n be 795/(-10) + g/(-4). Misalkan z = n - -122. Apakah z adalah kelipatan dari 14?
+True
+Misalkan j be (3*(-9)/(-2))/((-1)/(-6)). Misalkan -7*v + j = -297. Apakah 18 merupakan faktor dari v?
+True
+Misalkan x(p) = 16 - 128*p. Apakah 11 membagi x(-4)?
+True
+Misalkan w(b) = -307*b - 1. Misalkan u be w(-1). Misalkan k be 3 + -1 + 1 + 0. Misalkan -5*t + 40 = -3*l - u, 0 = -k*l + 9. Apakah t adalah kelipatan dari 10?
+False
+Misalkan o = -24 + 25. Misalkan x(b) = 12*b - 2. Apakah x(o) adalah kelipatan dari 5?
+True
+Misalkan 2*w - 22 = w. Misalkan x = 22 - w. Misalkan 5*a - a - 227 = k, -a + 2*k + 62 = x. Apakah 14 membagi a?
+True
+Apakah 19 merupakan faktor dari 2/(-6) - (7 - 3250/39)?
+True
+Misalkan j be 20/35 - (-20)/14. Misalkan 3*n = -c - c + 101, -54 = -c + j*n. Misalkan 8*h - 10*h + c = 0. Apakah 26 merupakan faktor dari h?
+True
+Misalkan z(g) = 2*g. Misalkan x be z(-3). Apakah 4/30*5 + (-272)/x adalah kelipatan dari 11?
+False
+Misalkan l be 428/8 - 15/10. Misalkan 3*d - d - l = 3*f, 2*f = 4*d - 48. Apakah 18 merupakan faktor dari (-1 - -2)/(f/(-1008))?
+True
+Misalkan 7*f - 3*f - 5*m - 16773 = 0, 4*f = -2*m + 16766. Apakah f/56 + (-1)/(-7) adalah kelipatan dari 25?
+True
+Misalkan r be 1/((4/(-20))/(-1)). Misalkan -13 = -r*j + 37. Apakah 3 membagi j?
+False
+Misalkan q = 205 - 63. Misalkan v = -98 + q. Misalkan 2*h - 4*i = 28, -4*h + 2*i + 2*i = -v. Apakah 2 membagi h?
+True
+Misalkan k = 8 - 6. Misalkan k*m - 20 = -2*u, -2*m - m + 12 = 0. Apakah 10 merupakan faktor dari ((-20)/2)/(u/(-15))?
+False
+Misalkan l = 10 + -12. Misalkan v be (l/6)/((-3)/189). Misalkan j = -11 + v. Apakah j adalah kelipatan dari 5?
+True
+Misalkan -4*w + 1296 = 8*w. Apakah 12 membagi w?
+True
+Misalkan i(c) = c**2 + 2*c - 3. Misalkan r be i(-4). Misalkan n(l) = -l + r + 9 + 8 - 4. Apakah 4 membagi n(10)?
+True
+Misalkan o(t) = 3*t**3 + 3*t**2 + 2*t - 1. Misalkan r be o(-2). Misalkan k = r - -24. Misalkan z = k + -1. Apakah 6 membagi z?
+True
+Misalkan 18 = -13*r + 19*r. Misalkan r*u - 10*u + 1386 = 0. Apakah 12 merupakan faktor dari u?
+False
+Misalkan s(r) = 7*r**3 + 10*r**2 - 99*r + 11. Apakah 23 membagi s(6)?
+False
+Misalkan o(t) = 3 - 4 + 72*t**2 + 87*t**2. Misalkan g be o(-1). Misalkan q = -65 + g. Apakah 31 merupakan faktor dari q?
+True
+Misalkan t = -12 + 14. Misalkan o be 0 + -2 + (t - 4). Misalkan p(c) = -c**3 - c**2 - 6*c - 5. Apakah 16 membagi p(o)?
+False
+Misalkan a(g) = g**2 + 5*g. Misalkan h be a(-6). Misalkan 0 = h*o - 4*o - 2. Apakah -2*o - (-18)/1 adalah kelipatan dari 16?
+True
+Misalkan s(n) = -9*n. Misalkan u be (-6)/(-5) + -2 + (-33)/15. Apakah s(u) adalah kelipatan dari 9?
+True
+Misalkan z = -2261 - -3910. Apakah z adalah kelipatan dari 51?
+False
+Misalkan -331*a + 3400 = -297*a. Apakah 3 merupakan faktor dari a?
+False
+Misalkan i(j) = -j**2 - 19*j - 3. Misalkan v be i(-18). Misalkan 0 = 14*l - v*l + 138. Apakah l adalah kelipatan dari 23?
+True
+Misalkan z(v) = v**2 - 4*v - 5. Misalkan m be z(4). Misalkan o(w) = w**3 + 6*w**2 + 3*w - 7. Misalkan f be o(m). Apakah 14 membagi 51 + (5 - f/1)?
+False
+Misalkan 0 = -x, 0*g + x + 694 = 2*g. Apakah g genap?
+False
+Misalkan h(q) = 2*q**2 + 3*q + 163. Apakah 57 membagi h(-16)?
+True
+Misalkan u = -82 + 63. Apakah (u + 7)/((-3)/8) adalah kelipatan dari 3?
+False
+Misalkan x(a) = 2*a**3 + 7*a**2 + 4*a + 4. Misalkan w be x(-3). Misalkan n(p) = 168*p. Apakah 42 merupakan faktor dari n(w)?
+True
+Misalkan n(p) = 718*p + 2. Misalkan y be n(1). Misalkan y = -0*d + 5*d. Misalkan -4*a - 2*u + d = 2*u, 5*a = -3*u + 188. Apakah 8 membagi a?
+True
+Apakah 14 merupakan faktor dari (302 - 3) + 1 + -8?
+False
+Misalkan m(r) = r**3 - 11*r**2 - 12*r + 30. Misalkan a be m(5). Misalkan v = a - -255. Apakah 5 membagi v?
+True
+Misalkan -3*j - 2 = -17, j = -c + 6. Misalkan q be (-2)/(-36)*3 + 1253/42. Apakah 6 membagi q*c/(15/6)?
+True
+Misalkan y(n) = 25 - 27*n. Misalkan w be y(5). Misalkan x = -56 - w. Apakah x adalah kelipatan dari 6?
+True
+Misalkan u + 2*u - 6 = 0. Misalkan 5*b + 520 = 5*z, 6*z - u*z + b = 436. Apakah 31 merupakan faktor dari z?
+False
+Misalkan n(l) = -785*l**3 + 4*l + 2. Apakah 34 membagi n(-1)?
+False
+Misalkan -g + 3*g = -672. Misalkan h = -123 - g. Apakah 20 membagi h?
+False
+Apakah 12 membagi ((-5)/(-15))/(5*1/5235)?
+False
+Apakah 8 merupakan faktor dari 14/63 + 2212/9?
+False
+Misalkan -2*a = 4*v, 4*v = -2*a - 2*a. Misalkan f(n) = n**2 + 2*n + 25. Apakah 8 merupakan faktor dari f(v)?
+False
+Misalkan 28*w - 25*w = 3. Misalkan g(l) = 98*l**2 + l. Apakah 33 merupakan faktor dari g(w)?
+True
+Misalkan g be -3 + (3 - (-4)/2). Misalkan g*m = 3*m - 28. Apakah (2 - 5)/((-6)/m) adalah kelipatan dari 14?
+True
+Misalkan b = -8706 + 12666. Apakah b adalah kelipatan dari 40?
+True
+Misalkan y(z) = -2*z**3 - 3*z + 15. Misalkan a(n) = n**3 + n**2 + 1. Misalkan l(w) = a(w) + y(w). Misalkan 8*d = 3*d. Apakah 3 merupakan faktor dari l(d)?
+False
+Misalkan v(m) = -23*m. Apakah 13 merupakan faktor dari v(-16)?
+False
+Misalkan i(o) = -o**3 - 18*o**2 + 26. Misalkan k be i(-18). Misalkan h = -30 + k. Misalkan u = h + 21. Apakah 9 merupakan faktor dari u?
+False
+Misalkan o(k) = 5*k**3 + 2*k**2 - 3*k + 4. Misalkan l be o(3). Misalkan -f - 3 = 0, 0*u - 4*u + l = -4*f. Apakah 6 merupakan faktor dari u?
+False
+Apakah 13 + ((-160)/(-4))/(-8) adalah kelipatan dari 8?
+True
+Misalkan g = 517 + 31. Apakah g adalah kelipatan dari 23?
+False
+Misalkan -82 = -4*f - 6. Misalkan 0 = 6*l - 23 - f. Apakah 5 merupakan faktor dari l?
+False
+Misalkan 0 = -11*t - 486 - 31. Misalkan z = 111 + t. Apakah 16 merupakan faktor dari z?
+True
+Misalkan v(j) = 2*j - 18. Misalkan r be v(9). Misalkan r = -4*k + p + 173, -k + 5*p + 48 = -0*k. Apakah k adalah kelipatan dari 4?
+False
+Misalkan r = 189 - -89. Misalkan h + 54 = r. Apakah 17 merupakan faktor dari h?
+False
+Misalkan 0 = 3*q + 4 - 13. Misalkan 3*f = -5*x + 471, 0*x - x + 87 = q*f. Apakah 24 merupakan faktor dari x?
+True
+Misalkan h be (-106)/4*-2 + 1/(-1). Misalkan 136*f = 132*f + h. Apakah 10 merupakan faktor dari f?
+False
+Misalkan o = 880 + 352. Apakah 77 membagi o?
+True
+Misalkan a be 2 - 0 - (3 - -25). Misalkan w(h) = -h**2 - 14*h - 5. Misalkan l be w(-9). Misalkan z = l + a. Apakah z adalah kelipatan dari 6?
+False
+Misalkan -o - 349 = -2*m + 274, m - 4*o = 308. Apakah 39 membagi m?
+True
+Misalkan y be (-6)/27 - 168/(-27). Misalkan i(f) = -f**3 + 5*f**2 + 6*f - 3. Misalkan h be i(y). Apakah (h + 18/8)*-4 adalah kelipatan dari 2?
+False
+Misalkan -5*k - 92 = 4*x - 2337, -4*k - x = -1796. Apakah 12 membagi k?
+False
+Misalkan j be 1*-4 + 3 - -1. Misalkan 2*n - 4*m = j, -4*m - 8 - 8 = -4*n. Misalkan 2*w - 33 = -3*k, -116 = 4*w - n*w + 4*k. Apakah w adalah kelipatan dari 8?
+True
+Misalkan o be -2 + (8 - 3) + -4. Misalkan b(p) = 34*p**3 + 1. Misalkan x be b(o). Misalkan a = -12 - x. Apakah 7 merupakan faktor dari a?
+True
+Misalkan i = -108 - -112. Apakah 20 membagi 2/(-2*i/(-176))?
+False
+Misalkan l = 568 + -474. Apakah 7 membagi l?
+False
+Misalkan -5*s - b + 2135 = 0, -10 = -2*b - 0*b. Apakah s adalah kelipatan dari 32?
+False
+Misalkan d be (-2 - 10/(-3))/((-1)/18). Misalkan t = d + 64. Apakah 8 membagi t?
+True
+Misalkan -5*a + 5*t = -1975, 5*a - 7*t - 1995 = -6*t. Apakah a adalah kelipatan dari 50?
+True
+Misalkan f = -1423 + 1820. Apakah 16 merupakan faktor dari f?
+False
+Apakah 23 membagi (46/(-8))/(-1 - 44/(-48))?
+True
+Misalkan t = -162 + 100. Misalkan n be 12/8 - t/(-4). Misalkan z = n - -20. Apakah 4 merupakan faktor dari z?
+False
+Misalkan l(u) = 1 - u. Misalkan b(x) = 29*x - 12. Misalkan v(w) = b(w) - 6*l(w). Apakah 32 membagi v(6)?
+True
+Misalkan k = -246 - -255. Misalkan j (r) menjadi turunan ke-pertama dari -r**3/3 + 11*r**2/2 - 12*r + 1. Apakah 5 merupakan faktor dari j(k)?
+False
+Misalkan m(u) = -34*u**3 + 2*u**2 + u + 2. Apakah m(-2) adalah kelipatan dari 28?
+True
+Misalkan r(t) = 62*t + 11. Misalkan n(u) = -184*u - 32. Misalkan v(d) = -5*n(d) - 14*r(d). Apakah v(4) adalah kelipatan dari 23?
+False
+Misalkan 24*c = 6*c + 14292. Apakah 6 merupakan faktor dari c?
+False
+Misalkan r = -431 - -635. Apakah 17 membagi r?
+True
+Misalkan v(s) = -s**3 - 5*s**2 - 5*s. Misalkan g be v(-4). Misalkan 5*n = -5*f + 280, 3*f - g*n = -5*n + 158. Apakah 10 merupakan faktor dari f?
+False
+Misalkan -t - 3 = 11. Misalkan o be 105/t*4/3. Misalkan f = 9 - o. Apakah 5 membagi f?
+False
+Misalkan 2*x + 2*y = -x + 31, y = -4. Misalkan -4*j + x + 47 = 0. Apakah j adalah kelipatan dari 5?
+True
+Misalkan 100 = 57*u - 56*u. Apakah u adalah kelipatan dari 20?
+True
+Misalkan -2343 = -54*z + 21*z. Apakah z adalah kelipatan dari 4?
+False
+Misalkan -3*z - 4*f = -3430, -9*z + 14*z = 2*f + 5760. Apakah 18 membagi z?
+False
+Misalkan s(i) = -i**2 - 12*i + 2*i**2 + 4 - 14*i + 30*i - 5*i**3. Apakah 17 merupakan faktor dari s(-3)?
+True
+Misalkan v(i) = 311*i - 222. Apakah 50 merupakan faktor dari v(8)?
+False
+Misalkan 4*w + 2632 = o, 32*o - 13196 = 27*o + 2*w. Apakah 12 merupakan faktor dari o?
+True
+Misalkan 13 + 17 = -5*w. Misalkan s(t) = 19*t - 11. Misalkan c(b) = 7*b - 4. Misalkan g(f) = -11*c(f) + 4*s(f). Apakah 4 membagi g(w)?
+False
+Misalkan -2*t = -5*t. Misalkan n = 2 - t. Misalkan 4*f = -2*c + c + 120, -n*f + 60 = c. Apakah 10 membagi f?
+True
+Misalkan h(j) = 5*j - 1. Misalkan y(w) = 1 - w. Misalkan o(i) = 3*i - 4. Misalkan s(k) = o(k) + 5*y(k). Misalkan b(a) = 4*h(a) + 9*s(a). Apakah 7 membagi b(4)?
+False
+Misalkan c = 101 - 117. Apakah 8 membagi (-392)/c + (-1)/2?
+True
+Misalkan q = 38 + -21. Misalkan -3*r = 3, 3*z - 4*r = -0*z + 193. Misalkan i = z - q. Apakah 14 membagi i?
+False
+Apakah 14*((-2 - -34) + -4) adalah kelipatan dari 14?
+True
+Misalkan h(t) = -47*t - 44. Apakah h(-7) adalah kelipatan dari 57?
+True
+Misalkan 3*n = -5*v + 10*v + 440, -v = 5*n - 724. Apakah 6 merupakan faktor dari n?
+False
+Misalkan g(u) = -11*u**3 - 2*u**2 + 4*u + 5. Misalkan -6*n + 10 = -11*n + 3*m, 3*n + 5*m + 6 = 0. Apakah g(n) adalah kelipatan dari 17?
+False
+Misalkan x be 1/(6/(-24)) + 163. Misalkan -3*a = 4*r - 2*r - 507, -a - 4*r = -x. Apakah 21 membagi a?
+False
+Apakah 22 merupakan faktor dari 178 + -4 + (-2)/(-1)?
+True
+Apakah 118 merupakan faktor dari (-92876)/(-38) - (-28)/(-266)?
+False
+Misalkan q = -141 + 225. Apakah 7 merupakan faktor dari q?
+True
+Misalkan l(n) = n - 16. Misalkan x be l(10). Apakah 3 merupakan faktor dari (-5 - x)/(1*(-4)/(-12))?
+True
+Misalkan u = 716 + -495. Misalkan -6*p + 5*p = 5*n - u, 975 = 5*p - n. Apakah p adalah kelipatan dari 33?
+False
+Misalkan j = 292 + -165. Apakah 16 merupakan faktor dari j?
+False
+Misalkan c (q) menjadi turunan ke-pertama dari q**4/4 + 5*q**3 + 11*q**2/2 + 3*q + 1. Misalkan 19*v - 17*v = -28. Apakah 13 merupakan faktor dari c(v)?
+False
+Misalkan -2*a - a + 4*m + 37 = 0, a - 12 = m. Misalkan t(d) = 14*d + 38. Apakah 24 merupakan faktor dari t(a)?
+True
+Misalkan 9 = 2*k + 1. Misalkan -2 = -2*o + k*o. Misalkan w(r) = -33*r - 1. Apakah w(o) adalah kelipatan dari 10?
+False
+Misalkan s be (-6 - (-36)/8)/(6/(-8)). Misalkan -16 = 4*c, 2*z - 3 = -3*c - 21. Apakah 17 membagi 151/3 - s/z?
+True
+Apakah 10 membagi (0 + 4/3)/((-4)/(-1026))?
+False
+Misalkan -29 = -2*u + 5*s, 0 = 5*u + s - 86 + 27. Misalkan y(o) = -5*o - u + 8*o + 3*o - 2*o. Apakah y(4) adalah kelipatan dari 4?
+True
+Misalkan z(a) = a**3 + 27*a**2 - 78. Apakah 107 membagi z(-12)?
+False
+Misalkan u(q) = -q**3 + 4*q**2 - q + 6. Misalkan z be u(4). Misalkan z - 14 = -3*l. Misalkan 40 = l*s + 16. Apakah 3 membagi s?
+True
+Misalkan 8 = -2*z + 6*z. Misalkan l - 36 = -z*y + 82, -5*l = -5*y + 265. Misalkan -3*q - y = -2*i + 51, 3*i - 148 = q. Apakah i adalah kelipatan dari 8?
+True
+Misalkan c(p) = -11*p**2 + 41*p - 29. Misalkan b(r) = -4*r**2 + 14*r - 10. Misalkan x(o) = -8*b(o) + 3*c(o). Apakah x(5) adalah kelipatan dari 3?
+False
+Misalkan 5*s + 3*u = 75, 39 = 5*s - 3*u - 6. Misalkan -s*b - 720 = -18*b. Apakah 21 merupakan faktor dari b?
+False
+Misalkan s + 3*v - 5 = -3*s, 0 = -5*s + 2*v + 12. Misalkan t(z) = 9*z**3 - z**2 + 3*z + 1. Apakah 11 merupakan faktor dari t(s)?
+False
+Misalkan v = -2 - -12. Apakah 13 membagi 408/5 - (-4)/v?
+False
+Misalkan c = 1981 - 959. Apakah 48 merupakan faktor dari c?
+False
+Misalkan s = -10 + 4. Misalkan q be (128/(-12))/((-1)/24). Apakah 10 membagi q/s*(-6)/4?
+False
+Misalkan x(u) = 18*u - 2. Misalkan n be x(1). Misalkan v(m) = -2*m**2 + 39*m + 6. Apakah 27 membagi v(n)?
+False
+Misalkan 7*d = -4*h + 3*d + 228, 10 = -2*d. Apakah 14 merupakan faktor dari h?
+False
+Apakah 18 membagi 115/92 - 3246/(-8)?
+False
+Misalkan t - 168 = 272. Apakah 40 membagi t?
+True
+Misalkan g = 639 + -87. Apakah 7 merupakan faktor dari g?
+False
+Misalkan x = -41 + 115. Misalkan i = x - 13. Apakah 29 membagi i?
+False
+Misalkan k be 11/(-22) + (-2)/(-4). Misalkan -3*f + 7 + 2 = k. Misalkan -5*y = 5*c - f*c - 284, 3*c = 5*y - 274. Apakah y adalah kelipatan dari 12?
+False
+Misalkan -15*p = -60102 + 12177. Apakah 15 merupakan faktor dari p?
+True
+Misalkan s (r) menjadi turunan ke-pertama dari -r**4/4 + r**3/3 - 42*r + 5. Misalkan u be s(0). Apakah 16 merupakan faktor dari ((-48)/10)/(u/700)?
+True
+Misalkan u = -280 + 533. Misalkan -8*m + u = -379. Apakah m adalah kelipatan dari 9?
+False
+Misalkan 0 = 2*l - 6 - 0. Misalkan -16 = -t + l*m - 6*m, -t + 5*m = 16. Misalkan -t*w + 21 + 11 = 0. Apakah w adalah kelipatan dari 8?
+True
+Misalkan 10*h - 13*h - 6 = 0, 2*h = -5*r + 3116. Apakah 24 membagi r?
+True
+Misalkan t = 10 + -12. Misalkan l = 13 + t. Misalkan l + 7 = u. Apakah 9 membagi u?
+True
+Misalkan l = -41 - -55. Misalkan 0 = -10*q + l*q - 168. Apakah 14 membagi q?
+True
+Misalkan -5*r - 15 - 15 = 0. Misalkan j be 7 + r - 3*3. Apakah 17 merupakan faktor dari 2*2 - (j - 25)?
+False
+Misalkan 8 = -7*t + 3*t. Misalkan u = t - -5. Misalkan -u*o = 25 - 97. Apakah 9 membagi o?
+False
+Misalkan 0 = -10*m + 21*m - 462. Misalkan 0 = 3*r + 3*f - m - 264, 2 = f. Apakah 50 membagi r?
+True
+Misalkan -5*k = 25, k + 40 = 5*w + 2*k. Misalkan -2*t = -5*t + w. Misalkan t*z - z - 24 = 0. Apakah z adalah kelipatan dari 5?
+False
+Misalkan b = 162 - 157. Misalkan -b*n - 12*d + 7*d = -2345, -3*d + 1874 = 4*n. Apakah 54 merupakan faktor dari n?
+False
+Misalkan l = -6 + 9. Misalkan -l*s - 1 - 11 = 0. Apakah s + (5 - 4) - -13 genap?
+True
+Misalkan -2*t - 15 = -3*g + t, 3*t = -3*g + 15. Misalkan n = 88 - g. Apakah 44 membagi n?
+False
+Misalkan -8*d + 3*d = 2*d. Apakah 7 membagi 1 + 24 + -5 + 8 + d?
+True
+Misalkan l be (-17 - (0 + 3))*1. Misalkan z = l + 28. Apakah 8 membagi z?
+True
+Misalkan r = 12 + -3. Misalkan y = -5 + 8. Misalkan q = r + y. Apakah 12 membagi q?
+True
+Misalkan -4*x - 136 = 4*a, 5*x - a + 168 = -5*a. Apakah 3 merupakan faktor dari (0 + -1)*40/x*24?
+True
+Misalkan y(c) = c**3 + 2*c**2 - 3*c - 2. Misalkan t be y(-2). Misalkan f(b) = 3*b**2 + 3*b + 9. Apakah f(t) adalah kelipatan dari 23?
+True
+Misalkan -1 = g - 4*o - 15, 3*g + 2*o - 28 = 0. Misalkan 10 = 5*c - g. Misalkan -3*p - 5*y = -20, -52 = -5*p - c*y + 5*y. Apakah p adalah kelipatan dari 10?
+True
+Misalkan s = 1 + 4. Misalkan x = s - 0. Misalkan -y + 0*y - 2 = x*g, 4*y = 5*g + 117. Apakah 9 membagi y?
+False
+Misalkan m = 28 + -24. Misalkan -3*w + m*w = 135. Apakah 26 merupakan faktor dari w?
+False
+Misalkan o(h) = 189*h + 36. Apakah 18 merupakan faktor dari o(3)?
+False
+Misalkan l be (7/(20 + 1))/((-2)/(-24)). Misalkan -i - 333 = -l*w - 4*i, 0 = -2*w - 5*i + 163. Apakah 14 membagi w?
+True
+Apakah 469 + (-35)/((-30)/6) adalah kelipatan dari 14?
+True
+Misalkan h = 38 - 32. Misalkan -4*q = -h*q + 60. Apakah 10 membagi q?
+True
+Misalkan j be (-10)/(-15) - (-151)/3. Apakah (-2)/(-6) - (-7990)/j adalah kelipatan dari 12?
+False
+Apakah 49 merupakan faktor dari (-11 + (-2028)/(-24))/(3/4)?
+True
+Misalkan d(q) = q**2 + 0*q**2 - q - 2*q**2 + 23. Misalkan -2*f + 6 = 0, 3*f = 2*i + i + 9. Apakah 6 membagi d(i)?
+False
+Misalkan j(p) = -p**3 - 7*p**2 + 9*p - 7. Misalkan g = -30 - -19. Misalkan c be 9/(-1) - (11 + g). Apakah 28 merupakan faktor dari j(c)?
+False
+Misalkan 0 = -906*k + 903*k + 7545. Apakah k adalah kelipatan dari 13?
+False
+Misalkan q = -889 - -1855. Apakah 23 merupakan faktor dari q?
+True
+Misalkan v = 87 + -15. Apakah 2*(v/64)/((-6)/(-40)) genap?
+False
+Misalkan w be -5*((-21)/(-5) - 3). Misalkan l = 15 + w. Apakah 33 merupakan faktor dari (-8)/((-20)/l + 2)?
+False
+Misalkan a(k) = 3*k**2 + k + 1. Misalkan b be ((-6)/(2 - (-7)/(-2)))/2. Apakah a(b) adalah kelipatan dari 3?
+True
+Misalkan s be 15*(-3 - 19/(-5)). Misalkan h = s - -15. Apakah h adalah kelipatan dari 4?
+False
+Misalkan 0 = -2*t - 0*t. Misalkan -v + t*v + 2 = 0. Apakah 28 membagi (67/2)/(1/v)?
+False
+Misalkan n(w) = w**3 + 11*w**2 + 24. Misalkan q be n(-11). Apakah (-236)/q*(3 + -9) adalah kelipatan dari 22?
+False
+Misalkan -5*c + 5 = -2*u + 20, 5*c + 75 = 5*u. Misalkan m be (5/4)/(2/8). Misalkan -u + 2 = -t + y, -m*y + 71 = 2*t. Apakah 9 membagi t?
+False
+Misalkan m = -36 + 28. Misalkan t (r) menjadi turunan ke-pertama dari r**4/4 + 3*r**3 + 7*r**2/2 + 2*r + 4. Apakah t(m) adalah kelipatan dari 4?
+False
+Misalkan j(u) = 4*u**3 + u. Misalkan -4*q - 3 = 5. Misalkan m = q - -3. Apakah 2 merupakan faktor dari j(m)?
+False
+Misalkan p = -2864 - -4019. Apakah 33 membagi p?
+True
+Misalkan v(x) = 7*x**2 + 2*x - 5. Misalkan q be v(5). Misalkan p be (8/12)/(2/q). Misalkan -j - p = -5*j. Apakah j adalah kelipatan dari 5?
+True
+Misalkan s(z) = -36*z - 6. Misalkan q be s(-10). Misalkan q = 3*w - 3*g, 4*w - 5*g - 230 = 2*w. Apakah w adalah kelipatan dari 24?
+True
+Misalkan 0 = 32*s - 12772 - 3356. Apakah 72 merupakan faktor dari s?
+True
+Misalkan f = 1686 + -1143. Misalkan f = 6*w - 3*w. Misalkan -5*s - 50 = 3*d - w, -4*s = -4. Apakah 21 membagi d?
+True
+Misalkan x = -39 - -46. Misalkan x*h + 65 = 569. Apakah 14 merupakan faktor dari h?
+False
+Misalkan 16*d - 1216 = -0*d. Apakah 2 membagi d?
+True
+Misalkan s = 169 - -236. Misalkan -3*n + 6*n - s = 2*y, 0 = -5*y. Apakah n adalah kelipatan dari 10?
+False
+Misalkan k = -20 - -24. Misalkan v(p) = 9*p + 7. Apakah v(k) adalah kelipatan dari 13?
+False
+Misalkan x = 341 + 58. Apakah 57 membagi x?
+True
+Apakah 5 merupakan faktor dari (-2)/30 - (-357896)/840?
+False
+Misalkan -12 = -5*v + 13. Misalkan -392 = -v*n + 3*o, -3*o = -n + 87 - 11. Apakah 24 merupakan faktor dari n?
+False
+Misalkan 2*o + 475 = -s - 31, 514 = -2*o - 3*s. Misalkan q = o + 360. Apakah 47 merupakan faktor dari q?
+False
+Misalkan a = -3*a. Misalkan 11*v - 3*v = 272. Misalkan a = -4*t + v + 6. Apakah 3 merupakan faktor dari t?
+False
+Misalkan h = -21 + 169. Misalkan 12*v - h = 8*v. Apakah 21 membagi v?
+False
+Misalkan g(k) = 6*k**3 - k**2 - k + 1. Misalkan c(f) = 3 + 2 + f**2 - 4 - 10*f + 0. Misalkan u be c(10). Apakah 5 merupakan faktor dari g(u)?
+True
+Misalkan w(v) = 19 - v. Misalkan 4*t = -3*r, -r + 4 = -2*r. Misalkan 23 = -3*i - 4*s + 73, 2*s = t*i - 38. Apakah w(i) genap?
+False
+Misalkan 3*v - y = -23, y - 28 = 4*v - y. Misalkan c = 13 + v. Misalkan 6*z = c*z + 54. Apakah z adalah kelipatan dari 19?
+False
+Misalkan q = 76 + -178. Misalkan g = 188 + q. Apakah g adalah kelipatan dari 29?
+False
+Misalkan z be 2/9 - (-9610)/90. Misalkan g = z + -72. Apakah 7 merupakan faktor dari g?
+True
+Misalkan h(d) = d**2 - 11*d - 8. Misalkan t be h(12). Misalkan x(p) = 4 + 7*p - t. Apakah 11 membagi x(4)?
+False
+Misalkan s(q) = 173*q**3 - 6*q**2 + 5*q - 2. Misalkan z(g) = -g**3 + g**2 - g. Misalkan a(o) = -s(o) - 6*z(o). Apakah a(-1) adalah kelipatan dari 43?
+False
+Misalkan m(n) = 2*n + 8. Misalkan p be m(8). Misalkan -5*t - 15 = -o, 0 = -o - 0*t - t - 9. Misalkan d = p + o. Apakah 9 merupakan faktor dari d?
+False
+Misalkan g(u) = -6*u - 12. Misalkan t(l) = -7*l - 12. Misalkan p(m) = 6*g(m) - 7*t(m). Apakah 21 merupakan faktor dari p(5)?
+False
+Misalkan r = -3 - -7. Misalkan 0 = 4*l - 3*f - 12, -3*l + r*f = -0*l - 16. Misalkan l = -4*o + 115 - 39. Apakah 8 merupakan faktor dari o?
+False
+Misalkan t = 509 + -284. Apakah 5 membagi t?
+True
+Misalkan i(s) = s - 3. Misalkan d be i(3). Misalkan 4*l - 52 = -b, -5*b + 3*l + 113 + 147 = d. Apakah 26 merupakan faktor dari b?
+True
+Misalkan j = -180 - -1513. Apakah 43 membagi j?
+True
+Misalkan q = -12 + 15. Misalkan c - 6 = -q. Apakah c adalah kelipatan dari 2?
+False
+Misalkan j = 4 - 6. Misalkan w(d) = -d + 1 - 2 - 18*d + 10*d. Apakah w(j) adalah kelipatan dari 4?
+False
+Misalkan -5*z + 3*k = -8*z - 186, 4*z = -k - 236. Misalkan -2*t + 37 - 287 = 0. Misalkan f = z - t. Apakah f adalah kelipatan dari 15?
+False
+Misalkan t be -3 - (-1 + 0 - -2). Misalkan p be 9/4 + (-3)/t. Misalkan -h + 14 = 2*a, 17 + 28 = 4*h - p*a. Apakah h adalah kelipatan dari 11?
+False
+Misalkan s(w) = 33*w**2 - 13*w**2 - w - 4 - 17*w**2. Apakah 10 merupakan faktor dari s(-4)?
+False
+Misalkan g = -4 - -4. Misalkan -m = -0*m - 12. Misalkan -13 - m = -2*r + 3*l, g = 5*r + 3*l - 52. Apakah 3 merupakan faktor dari r?
+False
+Misalkan w(b) = -2*b - 4. Misalkan g(t) = -3*t**2 - 3*t + 3. Misalkan j = 25 - 23. Misalkan r be g(j). Apakah 26 merupakan faktor dari w(r)?
+True
+Misalkan u(k) = 5 - k**2 - k - 2 + 0*k. Misalkan x(l) = -l**2 - 2*l + 35. Misalkan c be x(-7). Apakah 2 merupakan faktor dari u(c)?
+False
+Apakah 9 merupakan faktor dari ((-15)/4 + -6)*-24?
+True
+Apakah 6 merupakan faktor dari 74801/262 + (-3)/2?
+False
+Misalkan 6*y - 2488 = -2*u + 3*y, 3*u - y - 3710 = 0. Apakah 22 merupakan faktor dari u?
+False
+Misalkan q(v) = 2*v - 5. Misalkan d be q(4). Misalkan u = 8 - d. Misalkan -u*x + 258 = 98. Apakah x adalah kelipatan dari 15?
+False
+Misalkan h (o) menjadi turunan ke-ketiga dari -o**6/20 + o**5/20 - 6*o**2. Misalkan d be h(-3). Misalkan -4*c + d = 33. Apakah c adalah kelipatan dari 19?
+False
+Misalkan c = 10 - 10. Misalkan c = 3*u + u - 736. Apakah 12 membagi u/(-6)*(-3)/2?
+False
+Misalkan -27 = j - 107. Misalkan -2*c + 5*h = h + j, -c = -h + 38. Misalkan g = c + 100. Apakah 16 membagi g?
+True
+Misalkan 5*w - 2 = -l - 11, -3*l = 3*w - 9. Apakah 15 merupakan faktor dari 162 - (5/15 + (-20)/l)?
+True
+Misalkan 2*v - 1021 - 747 = 0. Apakah 17 membagi v?
+True
+Misalkan d be 10/(-2) - (8 - 19). Apakah 7 membagi (1 + 0)/(d*1/504)?
+True
+Misalkan p = -297 - -433. Misalkan -y + 101 + p = 0. Apakah 44 merupakan faktor dari y?
+False
+Misalkan -5*a - 10 = 0, -5*v + 11 + 13 = 3*a. Misalkan -v*i - 73 + 793 = 0. Apakah 20 membagi i?
+True
+Misalkan h be (-2 - (-1 - 1)) + 1. Misalkan r be ((-10)/(-15))/(h/6). Misalkan -r*s + 44 = -2*s. Apakah 12 merupakan faktor dari s?
+False
+Misalkan j(s) = -3 - 2*s + s**3 + 3 - 2*s + 3*s**2 + 5. Misalkan u be j(-4). Misalkan u*t = 2*r + 512, 0*t + 206 = 2*t - 2*r. Apakah t adalah kelipatan dari 30?
+False
+Misalkan z be ((-1)/(-2))/((-14)/(-168)). Apakah 16 membagi 2795/26 - z/(-4)?
+False
+Misalkan 0 = -3*q + 2*i + 6, 10 = 5*q + 7*i - 3*i. Apakah q/(0 + 2) - -102 adalah kelipatan dari 23?
+False
+Misalkan l be ((-308)/42)/(2 + (-85)/42). Misalkan -5*j + l = 2*j. Apakah 7 merupakan faktor dari j?
+False
+Misalkan -2*g = -7 - 7. Misalkan 3*d + 8*f - 110 = g*f, -5*d = -2*f - 176. Apakah 9 merupakan faktor dari d?
+True
+Misalkan q(i) = -i**3 - 10*i**2 - i + 822. Apakah 3 merupakan faktor dari q(0)?
+True
+Misalkan 2*s = 0, 3*w = 2*s + 6 - 0. Misalkan i = -28 + 68. Misalkan w*h - i = h. Apakah 14 membagi h?
+False
+Misalkan 0 = 9*n - 1376 + 476. Apakah 4 merupakan faktor dari n?
+True
+Misalkan c(o) = 5*o + 48. Misalkan u be c(-9). Apakah 12 membagi (-21)/(2*u/(-24))?
+True
+Misalkan 5*u - b = -0*b - 53, 4*u - b = -42. Misalkan a = u + 0. Apakah 3 merupakan faktor dari (3 + a + 4)*-1?
+False
+Misalkan p(f) = f**2 - f - 8. Misalkan i be p(5). Misalkan r be 3*(-1 + 52/i). Apakah (r + -7)*(-68)/(-3) adalah kelipatan dari 34?
+True
+Apakah 13 membagi 4527/12 - ((-78)/(-24) - 3)?
+True
+Misalkan l(b) = -b**3 + b**2 + b + 9. Misalkan t(g) = g**3 + 2*g**2 - 3*g. Misalkan 2*z + 12 = -2*z. Misalkan n be t(z). Apakah 9 membagi l(n)?
+True
+Misalkan 0 = -11*h + 11612 + 4415. Apakah 31 merupakan faktor dari h?
+True
+Misalkan i = 33 - 28. Misalkan -112 = i*o - 342. Apakah 6 membagi o?
+False
+Misalkan i(t) = 536*t + 208. Apakah i(4) adalah kelipatan dari 14?
+True
+Apakah (-128)/(-1)*352/44 adalah kelipatan dari 64?
+True
+Misalkan q be (-18 + 9)*(-3)/9. Misalkan -l = -q*l + 576. Apakah 32 membagi l?
+True
+Misalkan -4*s + 52 = 4*d, 5*d = -0*s - 3*s + 41. Misalkan 0 = 4*i - 3*m + s - 66, 3*i = -2*m + 49. Apakah 15 membagi i?
+True
+Misalkan q = 5 - 19. Apakah 8 membagi ((-21)/q)/(3/2)*83?
+False
+Misalkan 49 = -3*s + 4*w, -2*s - 3*w + 12 - 39 = 0. Misalkan -4*m + n - 129 = -0*m, -3*n - 140 = 5*m. Misalkan o = s - m. Apakah 16 membagi o?
+True
+Apakah 14 merupakan faktor dari 3484/7 - 18/(-63)?
+False
+Misalkan n + 2*b = 364, -9*b + 10*b = 2. Apakah 20 merupakan faktor dari n?
+True
+Misalkan k = 1639 + -1004. Apakah k adalah kelipatan dari 11?
+False
+Misalkan d = -17 + 15. Misalkan y be (-12)/(-2) - d/(-2). Misalkan -y*r - 11 = -446. Apakah 15 merupakan faktor dari r?
+False
+Misalkan -4*u = -2*w + 804, -5*w + 3*w + 207 = -u. Misalkan o = 294 + u. Misalkan -2*k = 5*h - 3*k - o, -2*k - 95 = -5*h. Apakah h adalah kelipatan dari 11?
+False
+Misalkan 4*r = -2*l + 4474, -r = 4*r + 3*l - 5593. Apakah 43 merupakan faktor dari r?
+True
+Misalkan d (s) menjadi turunan ke-kedua dari s**3/2 + 3*s**2/2 + 2*s. Misalkan -5*l + 5 = 4*y, 4*l - 5*l - 5*y - 20 = 0. Apakah 13 merupakan faktor dari d(l)?
+False
+Misalkan -3*t + 234 = -5*p, 4*t + 143 = -3*p - 9. Misalkan a = p + 53. Apakah a genap?
+False
+Misalkan 4*l - 7*a + 4*a = 15, 0 = 3*l + 4*a - 5. Apakah 8 membagi l + -4 + 1 + 209?
+False
+Misalkan y be 430/(-7) - 3/(-7). Misalkan i = 135 + y. Apakah i adalah kelipatan dari 8?
+False
+Misalkan f(j) = 70 - 4*j. Apakah 5 merupakan faktor dari f(-8)?
+False
+Apakah 14 merupakan faktor dari -2 + 2665*22/55?
+True
+Misalkan x = -118 - -226. Apakah x adalah kelipatan dari 9?
+True
+Misalkan p(x) = -39 - 6*x**2 - 4*x + 19*x + 5*x**2 + 2*x**2. Apakah 19 membagi p(12)?
+True
+Misalkan m = 89 + 71. Misalkan -2*a = 2*q - 82, -3*a = -8*a + 4*q + m. Apakah 18 membagi a?
+True
+Misalkan 0 = 6*f - 1516 - 1988. Apakah f adalah kelipatan dari 73?
+True
+Misalkan h = 2072 + -1367. Apakah 47 membagi h?
+True
+Misalkan z - 3 = 0, 5*l - 3*l + 179 = z. Misalkan t be l/(-3)*144/64. Misalkan 0 = -3*r + 2*r + t. Apakah 26 membagi r?
+False
+Misalkan 10*l - 3449 - 961 = 0. Apakah l adalah kelipatan dari 3?
+True
+Misalkan -1404 = -16*c + 1428. Apakah 3 merupakan faktor dari c?
+True
+Misalkan y(w) = 7*w**2 - 9*w + 5. Misalkan d = 32 + -29. Apakah 7 membagi y(d)?
+False
+Misalkan -9*y + 185 - 23 = 0. Misalkan 72 = -y*b + 20*b. Apakah 9 merupakan faktor dari b?
+True
+Misalkan -3*i = -9 + 6. Misalkan n(g) = 11*g**2 + i - 7*g**2 - 3*g**2 - g. Apakah n(-5) adalah kelipatan dari 16?
+False
+Misalkan 5 = 3*r - 7. Misalkan q be (-142 - -13)*(-3)/9. Misalkan -r*i = -5*s - 72, -2*s + 9 = -2*i + q. Apakah 13 merupakan faktor dari i?
+True
+Misalkan 850 = -9*z + 14*z - 5*d, -704 = -4*z - 4*d. Apakah 4 merupakan faktor dari z?
+False
+Misalkan o(p) = p**2 + 2*p + 4. Misalkan d be o(-4). Misalkan w = d + 21. Apakah 6 merupakan faktor dari w?
+False
+Misalkan g(y) = 3*y**3 + 3*y**2 + 7*y - 4. Misalkan q be g(4). Misalkan 29*d = 23*d + q. Apakah 17 merupakan faktor dari d?
+False
+Misalkan u = -11 + 23. Misalkan o be 57/2*40/u. Misalkan p = -4*p + o. Apakah p adalah kelipatan dari 11?
+False
+Misalkan f = -13 - -18. Misalkan 70 = 3*d + 2*d - 5*y, y = f*d - 74. Apakah 5 membagi d?
+True
+Misalkan y = 587 + 314. Apakah 17 membagi y?
+True
+Misalkan b (w) menjadi turunan ke-ketiga dari 5*w**4/24 + 3*w**3/2 + 17*w**2. Apakah 22 merupakan faktor dari b(7)?
+True
+Misalkan h(u) = 111*u - 99. Apakah 7 membagi h(6)?
+True
+Misalkan t(z) = 2*z**2 - 10. Misalkan l be t(-6). Misalkan d + 0*d - l = 0. Apakah d adalah kelipatan dari 5?
+False
+Misalkan -2*j + 6 = -j. Misalkan l = -1 + j. Misalkan 3*b - l*v = 4 + 11, v + 7 = b. Apakah 7 membagi b?
+False
+Misalkan 1 - 15 = -2*w + 2*z, 2*w = 4*z + 18. Misalkan w*u - 3*t = 523, 154 = -3*u + 2*t + 468. Apakah 27 membagi u?
+False
+Misalkan -4*k + 16 = -h - 2*k, -4*k = -4*h - 44. Misalkan p be 4 - 1/((-3)/h). Misalkan 0 = -3*s - 12, -3*a + 23 = -p*s - 15. Apakah a adalah kelipatan dari 9?
+False
+Misalkan 20*b = 14*b + 5880. Apakah 23 merupakan faktor dari b?
+False
+Misalkan -2*d = 4*u - 88, -2*d = -u + 3*u - 94. Misalkan n = -31 + d. Apakah 19 membagi n?
+True
+Misalkan n be -3 + 3 + (27 - 0). Misalkan m = n + -13. Misalkan 0 = 2*p - 5*f - 123, 4*p + 3*f = 271 + m. Apakah p adalah kelipatan dari 24?
+False
+Misalkan k(c) = -c**2 - 7*c + 12. Misalkan j be k(-8). Misalkan j*l = -0*i + 3*i - 58, 0 = 4*l + 4. Apakah i adalah kelipatan dari 18?
+True
+Misalkan c be ((-272)/(-12))/(2/24). Misalkan o = c - 163. Misalkan 5*q + 0*s - s = o, -s + 45 = 2*q. Apakah q adalah kelipatan dari 8?
+False
+Misalkan h (b) menjadi turunan ke-pertama dari -b**4/4 + 2*b**2 - 4*b - 24. Misalkan g be ((-6)/(-5))/(3/(-10)). Apakah h(g) adalah kelipatan dari 22?
+True
+Misalkan c(p) = p**3 - p**2 - 6*p - 7. Misalkan m be c(5). Misalkan a = m - 23. Apakah a adalah kelipatan dari 20?
+True
+Misalkan p be (-1183)/4 - (-23)/(-92). Misalkan w = -58 - p. Apakah 34 merupakan faktor dari w?
+True
+Misalkan i(g) = 2*g**2 - 9*g - 45. Misalkan n = -112 - -103. Apakah 12 merupakan faktor dari i(n)?
+False
+Misalkan b = -209 - -210. Misalkan v(t) = -t**2 + 2*t + 1. Misalkan i be v(-1). Apakah 8 merupakan faktor dari 19/(b/(i/(-2)))?
+False
+Misalkan x be -2 + 2 + 0 + 4. Misalkan z = 3 + -2. Apakah 9 merupakan faktor dari (3 - x)/(z/(-9))?
+True
+Misalkan m be ((-15)/25)/(2/10) + -64. Misalkan d = m - -211. Apakah 12 membagi d?
+True
+Misalkan -6*a + 9923 - 1487 = 0. Apakah 37 membagi a?
+True
+Misalkan v (r) menjadi turunan ke-kedua dari r**3 + 47*r**2/2 + 12*r. Apakah 4 membagi v(0)?
+False
+Misalkan d be (-2070)/(-40) + (-2)/(-8). Misalkan -2*y - y + 3*z = 78, -5*z + d = -2*y. Misalkan h = y - -45. Apakah 11 membagi h?
+False
+Misalkan x + 2*l = -5, x + 10 = -6*l + 3*l. Misalkan m(j) = -3 - 12*j**2 + 3*j + 2*j**2 + 2*j**3 + 0*j**2 - 2. Apakah m(x) adalah kelipatan dari 5?
+True
+Misalkan -5*f + 1 = 2*w - 24, 0 = -f - w + 5. Misalkan 343 = f*h - 47. Apakah 24 merupakan faktor dari h?
+False
+Apakah 6 merupakan faktor dari (-8)/1 + 9 - -107?
+True
+Misalkan r be -5*(-5)/25 - -4. Misalkan p(h) = 11*h - 1. Misalkan c(o) = 2 - 10*o. Misalkan b(k) = -4*c(k) - 3*p(k). Apakah 7 merupakan faktor dari b(r)?
+False
+Misalkan 9 = 2*s + s. Misalkan 3*o = 2*c - 7, 5*c + s*o + 40 = -o. Misalkan a(p) = -p**3 - 4*p**2 - 6*p - 2. Apakah a(c) adalah kelipatan dari 11?
+True
+Misalkan t(n) = n - n**3 + 11*n**2 - 17*n**2 - n**3 + 8. Apakah 6 membagi t(-4)?
+True
+Misalkan u(j) = 9*j + 4. Misalkan -49 = 5*h - 14. Misalkan o be (3 + -2 + -2)*h. Apakah 17 merupakan faktor dari u(o)?
+False
+Misalkan 4*i - i - 564 = 0. Misalkan z = -93 + i. Apakah z adalah kelipatan dari 14?
+False
+Misalkan 5*r - 4*r - 4*s - 245 = 0, -5*r + 1320 = -s. Apakah 74 membagi r?
+False
+Misalkan o = 22 - 14. Misalkan -4*p + 12 = -o*p. Apakah 16 merupakan faktor dari 4 - ((-144)/p)/(-4)?
+True
+Misalkan z (a) menjadi turunan ke-kedua dari a**5/20 - 11*a**4/12 + 5*a**3/6 + 11*a. Misalkan -3*u + 6 = 0, 5*m - 5*u - 47 = -u. Apakah 17 membagi z(m)?
+False
+Misalkan x(c) = -c - 8*c + 10*c + 11*c**2 - 14*c. Apakah x(4) adalah kelipatan dari 31?
+True
+Misalkan -5336 = -4*b - 3*c, -b + 0*b - 4*c + 1334 = 0. Apakah b adalah kelipatan dari 58?
+True
+Misalkan 32*g - 6016 - 448 = 0. Apakah g adalah kelipatan dari 12?
+False
+Misalkan c = 458 + -73. Apakah 12 membagi c?
+False
+Misalkan h be (-1 - -3)/((-2)/(-12)). Apakah (-339)/(-2) - 3/h*2 adalah kelipatan dari 34?
+False
+Misalkan p(c) = -2*c**3 - c**2 - 8*c - 21. Apakah p(-6) adalah kelipatan dari 47?
+True
+Misalkan n = 89 - -110. Misalkan 0 = v - 2*b + 121, 4*b + 545 = -5*v - 18. Misalkan o = v + n. Apakah 21 membagi o?
+True
+Misalkan 2*v - 380 = 6*v. Misalkan s = v + 175. Apakah s adalah kelipatan dari 16?
+True
+Misalkan 2*w - 644 = y, 1302 = 210*w - 206*w + 5*y. Apakah 19 membagi w?
+True
+Misalkan m be 4/5*5/2. Misalkan -7*s + m*s = 0. Misalkan s = x + 2*h, 4*x + 5*h - 12 = -3. Apakah 6 merupakan faktor dari x?
+True
+Apakah 74 membagi ((-24)/9)/8*-519?
+False
+Misalkan a be 3 + 3*(-2 + 1). Misalkan d(n) = n**3 + n + 54. Apakah d(a) adalah kelipatan dari 18?
+True
+Misalkan l (g) menjadi turunan ke-pertama dari -2*g + g**2 + 5/3*g**3 + 4. Apakah l(-4) adalah kelipatan dari 9?
+False
+Misalkan 0 = -12*w + 13*w. Misalkan -p + 0*y - 19 = -y, w = -4*p - y - 56. Misalkan z(f) = -f**3 - 14*f**2 + 14*f + 13. Apakah z(p) adalah kelipatan dari 18?
+False
+Misalkan k = -712 + 1290. Apakah 18 membagi k?
+False
+Misalkan -1 = 4*w + 3*i - 0*i, 22 = 5*w - 4*i. Misalkan d be -2*(-1 - -2) + 77. Misalkan -h + d = w*h. Apakah 25 membagi h?
+True
+Misalkan 2*j + 2*c = 2, 3*j + 2*j - 5*c = 45. Misalkan -3*k = -3*t + 3, -j*t + 1 = -k - 0. Apakah 13 membagi 183*-1*k/3?
+False
+Misalkan r = 354 + -237. Apakah 4 membagi r?
+False
+Apakah 3 merupakan faktor dari (4 - (-1 + 1)) + 81625/125?
+True
+Misalkan -3*h - 5*y = -38, 0 = -4*h + 5*y + 23 + 16. Misalkan 13*f + 108 = h*f. Apakah 21 merupakan faktor dari (f + -4)*(-1)/2?
+False
+Misalkan p (w) menjadi turunan ke-pertama dari -w**3/3 + 7*w**2/2 + 7*w + 2. Misalkan i be p(8). Misalkan s = i + 8. Apakah s adalah kelipatan dari 7?
+True
+Misalkan l = -387 - -596. Apakah 4 merupakan faktor dari l?
+False
+Misalkan y(o) = 199*o - 3. Misalkan s be y(1). Misalkan -2*t = x - s + 17, -5*x = -3*t + 236. Apakah 18 merupakan faktor dari t?
+False
+Misalkan k be 1150/90 + (-4)/(-18). Misalkan l(q) = -q**2 + 11*q + 32. Apakah 4 merupakan faktor dari l(k)?
+False
+Misalkan g = 73 - 10. Misalkan s = 82 - -49. Misalkan r = s - g. Apakah 17 merupakan faktor dari r?
+True
+Misalkan -3*k + 3 = -f, -2*f - 3*k - 28 - 14 = 0. Misalkan m = f - -9. Apakah (-3)/(-9)*(m - -99) adalah kelipatan dari 17?
+False

@@ -1,0 +1,666 @@
+Misalkan j be (-1 - (-20)/18)*2. Misalkan p be 14/5 - (-2)/10. Misalkan i = -3 + p. Apakah j lebih dari i?
+True
+Misalkan n be 68/10 - 8/(-40). Apakah n <= 7?
+True
+Misalkan s be (-1)/(-6) - (-2)/(-6). Misalkan r be 0 + 15/(-10) - -1. Apakah s lebih kecil dari r?
+False
+Misalkan p = 34 - 19. Misalkan n(d) = 2*d**2 + 21*d - 8. Misalkan l be n(-11). Misalkan t be (5/p)/(1/l). Apakah t lebih banyak 1?
+True
+Misalkan o be (2/(-24))/((-8)/(-60)). Apakah o sama dengan -2?
+False
+Misalkan r = 9 - 7. Misalkan -5*n + 9 + 1 = -5*b, -2*b = r*n - 8. Misalkan -5*q - 8 = -5*w + 17, -21 = 5*q - 4*w. Mana yang lebih besar: b atau q?
+b
+Misalkan t = 0 + -9. Misalkan o = -15 - t. Apakah -2 lebih besar dari o?
+True
+Misalkan j = 14 + -4. Misalkan n be (-8)/6*15/j. Misalkan d(v) = v - 1. Misalkan x be d(-2). Mana yang lebih kecil: n atau x?
+x
+Misalkan -5*j = 4*p + 35, -3*j - 2*p - p - 24 = 0. Misalkan q = -59 + 34. Misalkan z = -26 - q. Mana yang lebih kecil: j atau z?
+j
+Misalkan o = -2.3 + 2.5. Misalkan f = 0.1 + o. Mana yang lebih besar: 2/9 atau f?
+f
+Misalkan v be 9 - ((1 - 5) + 3). Apakah 10 kurang dari atau sama dengan v?
+True
+Misalkan s(x) = -x**3 - 7*x**2 - 9*x - 18. Misalkan k be s(-5). Apakah k < -23?
+False
+Misalkan i = 6 + -5.94. Misalkan a = i + 0.24. Misalkan u = a - 0.3. Apakah u dan -0.2 berbeda?
+True
+Misalkan r = -0.37 - 15.63. Misalkan t = r - -18. Apakah t setidaknya sama besar dengan -0.6?
+True
+Misalkan t be (-1)/3 - (-35)/115. Mana yang lebih kecil: t atau 0?
+t
+Misalkan h = 0.4 - -0.1. Misalkan u be 2/4 - 5/10. Apakah u >= h?
+False
+Misalkan o = 6.1 - 6. Misalkan h = o + -0.15. Apakah h lebih banyak 0.1?
+True
+Misalkan r = 1940 - 9761/5. Mana yang lebih besar: r atau -11?
+-11
+Misalkan 5*s = -3*h - 5, -4 = 4*s + h - 0. Misalkan z = 12 - 12. Mana yang lebih besar: z atau s?
+z
+Misalkan k(t) = 2*t**2 + 7*t + 9. Misalkan i be k(7). Misalkan y be (12/(-81))/(158/i). Misalkan b = y - 6/79. Apakah b dan 0 memiliki nilai yang sama?
+False
+Misalkan c = 3.05 + -0.05. Misalkan y = c - 2.9. Misalkan -4*d + q + 3 = 0, -6*q = -2*q - 4. Mana yang lebih besar: d atau y?
+d
+Misalkan n(s) = 2*s + 11. Misalkan c be n(-12). Apakah c paling tidak sama dengan -12?
+True
+Misalkan p be (40/(-30))/(4/(-6)). Misalkan 3*q - 4*a = -12 - 16, -3*q - 20 = -p*a. Mana yang lebih kecil: q atau -2?
+q
+Misalkan f = -536/3 - -177. Misalkan w(q) = -q**3 - q**2 - q - 2. Misalkan s be w(0). Apakah f lebih besar dari s?
+True
+Misalkan d = -31.8 - -31. Apakah d kurang dari -2/7?
+True
+Misalkan v = -821/7 - -117. Mana yang lebih besar: v atau -3?
+v
+Misalkan q be (8/66)/((-24)/(-36)). Mana yang lebih besar: -2 atau q?
+q
+Misalkan z = 0.02 + -0.05. Misalkan h = -1.03 - z. Misalkan k = -0.26 + -0.04. Apakah h lebih kecil dari k?
+True
+Misalkan z(l) = l**2 + l - 1. Misalkan v be z(0). Apakah v tidak sama dengan -2/25?
+True
+Misalkan t be (0 + -3)/3 + -1. Misalkan -5*f + 8*f - 12 = 0. Misalkan h = t + f. Apakah h dan -4 memiliki nilai yang sama?
+False
+Misalkan f = -1 + 0.9. Mana yang lebih kecil: 1 atau f?
+f
+Misalkan p(n) = n**2 - 4*n. Misalkan c be p(4). Misalkan c = -4*g + 5*f - 29, 4*f = 7 + 13. Apakah -1 setidaknya g?
+True
+Misalkan n be 10/80*4/6. Misalkan h(g) = g + 1. Misalkan m be h(-2). Mana yang lebih kecil: m atau n?
+m
+Misalkan b = 27 + -12. Misalkan -4*i - v - 2 = -b, -3*i = -2*v - 7. Mana yang lebih besar: 2 atau i?
+i
+Misalkan n(y) = -y**3 - 2*y**2 + 1. Misalkan g be n(-2). Misalkan f be (-2)/(-7) - 3279/5964. Misalkan d = -1/71 - f. Mana yang lebih kecil: g atau d?
+d
+Misalkan r = -0.026 + -0.074. Mana yang lebih kecil: -1/149 atau r?
+r
+Misalkan g = -0.088 + 0.288. Mana yang lebih kecil: -1/3 atau g?
+-1/3
+Misalkan 2*l - 1 - 9 = 0. Misalkan -l*u = 1 - 11. Misalkan w(x) = x**3 - 2*x**2 - x + 3. Misalkan t be w(2). Mana yang lebih besar: u atau t?
+u
+Misalkan -2*y = -y. Misalkan n = y - 2. Misalkan o be -2 + 3/(-3) + 2. Mana yang lebih kecil: n atau o?
+n
+Misalkan 5*h = 2*r - 25, 15 = -2*r - 3*h - 0. Apakah 3/4 lebih dari atau sama dengan r?
+True
+Misalkan -l = -4*n - 6, 4*n = -3*l + l. Misalkan -2*w + 11 = -w - l*s, w - 5*s - 23 = 0. Apakah w lebih dari 4?
+False
+Misalkan -5 = -2*w - 3*w. Misalkan -b + 1 + 2 = 0, -2*b + 26 = 5*a. Apakah w lebih kecil dari a?
+True
+Misalkan j be 60/(-18) - (-2)/6. Misalkan r be -5*(0 + 2 + j). Misalkan 5*m - i + 7 = 2*m, -5*m + r*i = 25. Apakah m lebih kecil dari -0.1?
+True
+Misalkan a be (-2)/8 + 1/4. Misalkan f(z) = 26 - 2*z. Misalkan l be f(12). Misalkan -l*i - i = a. Mana yang lebih besar: i atau -1/5?
+i
+Misalkan m(a) = -a**2 + a. Misalkan b be m(2). Misalkan -4 = t - 0. Misalkan s be t/14*-8 + b. Mana yang lebih besar: 1 atau s?
+1
+Misalkan g = 15 - 15.1. Apakah -1/6 dan g memiliki nilai yang berbeda?
+True
+Misalkan s = 0.2 - 0.1. Misalkan r = s + 0. Misalkan y = -0.162 - 1.838. Apakah r > y?
+True
+Misalkan 4*n - 22 = -6. Misalkan -n = 2*x - o, x - 2*x + o - 2 = 0. Apakah -1 > x?
+True
+Misalkan -a - 8 + 10 = 0. Misalkan 55 = -5*t + 5*z, -a*z = -t - 0*z - 16. Mana yang lebih besar: -3 atau t?
+-3
+Misalkan b = 2258/129 - 36/43. Apakah 16 tidak sama dengan b?
+True
+Misalkan i be (-108)/(-9) - 6/3. Mana yang lebih besar: i atau 12?
+12
+Misalkan y be (-4)/(-3)*(-6 - (-9)/6). Mana yang lebih besar: y atau 0?
+0
+Misalkan t = -3.3 - -3.2. Misalkan n(r) = r**2 - 6*r - 2. Misalkan k be n(6). Misalkan q = -2 + k. Apakah q lebih dari t?
+False
+Misalkan o be -3*3*(-4)/(-162). Misalkan f = -6 - -52/9. Apakah f dan o sama?
+True
+Misalkan d = -7.9 - -8. Misalkan s = d - 0.5. Misalkan t = 0.1 + s. Mana yang lebih besar: t atau 0.1?
+0.1
+Misalkan -3*l - 6*l + 9 = 0. Apakah l lebih kecil dari 4/7?
+False
+Misalkan u = 16 - -28. Mana yang lebih besar: 43 atau u?
+u
+Misalkan x be 4/10 + (-8)/30. Misalkan l(b) = -b**3 + 3*b**2 - 1. Misalkan j be l(3). Mana yang lebih kecil: x atau j?
+j
+Misalkan l be ((-24)/(-42))/(6/14). Apakah l paling tidak sama dengan 0?
+False
+Misalkan j be (5 + -4)/(2/(-4)). Misalkan k(l) = l**3 + l**2 + 1. Misalkan z be k(j). Misalkan u = 403/3 - 136. Apakah z lebih banyak u?
+True
+Misalkan 48 = i + 50. Apakah i dan -7 memiliki nilai yang berbeda?
+True
+Misalkan v = -21/176 + -1/16. Mana yang lebih besar: 0 atau v?
+0
+Misalkan f (h) menjadi turunan ke-pertama dari h**3/3 + 3*h**2 + 7*h - 3. Misalkan r be f(-5). Misalkan c be (-6 + 3)*1/(-3). Apakah c < r?
+True
+Misalkan l be 13 - 2/((-3)/3). Misalkan o be ((-2)/l)/(3/(-1314)). Misalkan h = o + -59. Mana yang lebih besar: -1 atau h?
+h
+Misalkan b = -1.2 - -7.2. Misalkan m = -9 + b. Mana yang lebih kecil: m atau -2/5?
+m
+Misalkan p(i) = 4*i + 3. Misalkan f be p(-1). Apakah -10 lebih banyak f?
+True
+Misalkan a = -681.18 - -688. Misalkan p = 0.18 + a. Mana yang lebih kecil: p atau 0?
+0
+Misalkan j(p) = -p**2 - 9*p + 4. Misalkan y be j(-9). Misalkan -7 + y = f. Apakah -4 > f?
+False
+Misalkan f = 0.05 + -8.85. Misalkan s = -8 - f. Misalkan k = 0.2 + s. Apakah 0.1 = k?
+False
+Misalkan o(m) = -m - 1. Misalkan 2*c + 2*c - r = -21, -9 = c - r. Misalkan j be o(c). Apakah j > 4?
+False
+Misalkan a = 281 - 2245/8. Misalkan w be ((-1)/(-2))/((-3)/12). Misalkan m be (1/w)/((-2)/(-4)). Mana yang lebih kecil: m atau a?
+m
+Misalkan d = -2 + 5/3. Misalkan s(r) = 4*r - 5. Misalkan b(t) = 9 - 9*t. Misalkan m(q) = 3*b(q) + 7*s(q). Misalkan g be m(8). Apakah g > d?
+True
+Misalkan r = 1/2 + 0. Misalkan z be 1/2*(-9 + 9). Mana yang lebih kecil: r atau z?
+z
+Misalkan m = -0.11 + 0.38. Misalkan u = m - 0.17. Misalkan g = 2.9 + -3. Apakah g setidaknya sama besar dengan u?
+False
+Misalkan v be ((-3)/75)/(8/5 + 0). Apakah v dan 0 berbeda?
+True
+Misalkan q(i) = 12 - 2*i. Misalkan t be q(5). Mana yang lebih kecil: t atau 3?
+t
+Misalkan -m = 2*m. Misalkan m = s, -4*s - 24 = -4*p - 2*s. Misalkan 2*y - 12 = -0. Apakah p kurang dari y?
+False
+Misalkan 4*w + 4 + 0 = 0. Misalkan g(o) = -o**3 - 11*o**2 - 8. Misalkan b be g(-8). Misalkan f = b - -2598/13. Apakah w > f?
+False
+Misalkan f = -0.62 - 0.38. Apakah f dan 2/21 sama?
+False
+Misalkan f = -3 - -3. Misalkan d = f - -4. Mana yang lebih besar: d atau 5?
+5
+Misalkan v = 1.2 - 1. Misalkan t = -438 + 875/2. Apakah v lebih besar dari t?
+True
+Misalkan w(o) = -3*o - 2. Misalkan n be w(2). Misalkan v be ((-60)/(-42))/((-2)/(-14)). Misalkan m = v + n. Apakah m paling tidak sama dengan 1/4?
+False
+Misalkan i(o) = o**3 - 3*o**2 - 4*o + 3. Misalkan z be i(4). Misalkan 0 = z*p - w + 16, -18 = 3*p - 3*w. Apakah p lebih kecil dari -1?
+True
+Misalkan 4*w = w - 3*x + 12, 3*w - 5*x = -28. Misalkan o(y) = y**2 + 2*y + 2. Misalkan d be o(-2). Misalkan q = d - 2. Mana yang lebih besar: q atau w?
+q
+Misalkan y be (-2 - -3)*(-2)/2. Misalkan z = 45/17 - 1069/391. Apakah z lebih kecil dari y?
+False
+Misalkan b = -84 + 83. Apakah b lebih dari -1?
+False
+Misalkan u be (3/(-18))/(-1) + (-14)/156. Mana yang lebih kecil: u atau -1?
+-1
+Misalkan z be (0 + 6)/((-4)/(-10)). Misalkan l be (z/2)/(-5) - -2. Misalkan a = -0.9 + -0.1. Mana yang lebih besar: a atau l?
+l
+Misalkan d (g) menjadi turunan ke-pertama dari -1/3*g**3 - 2 - 5/2*g**2 - g. Misalkan w be d(-4). Apakah w != 2?
+True
+Misalkan -5*y = 5, -3*s - 2*y - 15 = -5*y. Apakah 2 >= s?
+True
+Misalkan -s = 6*s - 21. Apakah 4 kurang dari atau sama dengan s?
+False
+Misalkan x = -16 + 17. Mana yang lebih kecil: -1/12 atau x?
+-1/12
+Misalkan k = -59/15 + 13/3. Misalkan n = -0.05 - -3.05. Apakah k kurang dari atau sama dengan n?
+True
+Misalkan k = -0.175 - 0.825. Misalkan m = 17 - 3. Misalkan q be (-22)/(-28) + (-4)/m. Apakah q paling tidak sama dengan k?
+False
+Misalkan -3*b - 4 - 17 = 0. Misalkan g + 2 = -0, -2*k = 5*g + 22. Misalkan l = k - b. Apakah l paling tidak sama dengan 1?
+True
+Misalkan 0 = -i - 4*q - 3, -51 = -5*i + 4*q + 6. Apakah 43/5 kurang dari i?
+True
+Misalkan g be (-2)/(-7 + (-4 - -5)). Apakah -0.1 != g?
+True
+Misalkan u = -8 - -4. Misalkan n = u + 1. Misalkan i be 1*n/(-30) + 0. Mana yang lebih besar: i atau 0?
+i
+Misalkan f = 415/4 - 103. Mana yang lebih besar: 0.2 atau f?
+f
+Misalkan c(v) = 7*v + 8. Misalkan b be c(-5). Mana yang lebih kecil: -29 atau b?
+-29
+Misalkan l be -5 + 4 + 0 + -1. Misalkan h(x) = x - 10. Misalkan j be h(7). Mana yang lebih kecil: j atau l?
+j
+Misalkan q(l) = -l**2 + 4*l + 4. Misalkan z be 2/(-7) + 148/28. Misalkan i be q(z). Misalkan a be (-12)/7 + (-10)/35. Apakah i dan a berbeda?
+True
+Misalkan d = 5.9 + -6. Mana yang lebih besar: -0.07 atau d?
+-0.07
+Misalkan g = -3.7 + -1.3. Misalkan q = -3 - g. Apakah q < 3?
+True
+Misalkan l be 3/2 + (-7)/14. Misalkan j = 10 - l. Mana yang lebih kecil: j atau 8?
+8
+Misalkan c (s) menjadi turunan ke-ketiga dari -s**5/60 + s**4/6 + 5*s**3/6 + 3*s**2. Misalkan f be c(5). Mana yang lebih besar: 1/8 atau f?
+1/8
+Misalkan p = -63 - -57. Apakah p lebih dari atau sama dengan 1?
+False
+Misalkan y = -3.5 + 6. Misalkan t = -0.5 + y. Mana yang lebih kecil: -1/3 atau t?
+-1/3
+Misalkan q = 1506/13 + -116. Mana yang lebih besar: q atau 1?
+1
+Misalkan z(m) = -m**3 - m**2 + 2*m + 1. Misalkan w be (2 - 1) + 2 + 1. Misalkan t be ((-6)/w)/(3/4). Misalkan h be z(t). Mana yang lebih kecil: h atau -1/5?
+-1/5
+Misalkan o = -0.06 - -0.1. Misalkan k = o - -0.96. Apakah k dan 0.1 tidak sama?
+True
+Misalkan r = 4 - 5. Misalkan m = r + 1. Misalkan d = -0.1 - m. Mana yang lebih kecil: -4 atau d?
+-4
+Misalkan g = -0.1 - -0.23. Misalkan k = -2.13 + g. Mana yang lebih besar: -0.4 atau k?
+-0.4
+Misalkan x = 63 - 47. Misalkan 0 = -4*y - 0*y - m - 6, 3*y - m = -1. Mana yang lebih besar: x atau y?
+x
+Misalkan c = 13.98 + -14. Misalkan p = -0.03 + c. Apakah -2 setidaknya sama besar dengan p?
+False
+Misalkan v = -161 - -2253/14. Misalkan k = 107 + -752/7. Misalkan f = v + k. Apakah 0.1 dan f memiliki nilai yang sama?
+False
+Misalkan -1 = 4*c - 5*f - 11, f + 2 = -5*c. Misalkan -v - 2*g - 7 = 0, -g = 4 + 1. Apakah c kurang dari atau sama dengan v?
+True
+Misalkan 3*w - 11*w - 136 = 0. Mana yang lebih besar: -16 atau w?
+-16
+Misalkan -4*o + n + 37 = 0, 6*n = -4*o + n + 31. Apakah o setidaknya 10?
+False
+Misalkan n(j) = -j**2 + 5*j - 3. Misalkan h be n(4). Mana yang lebih besar: h atau 3/8?
+h
+Misalkan q = -4 + 2. Apakah q kurang dari -0.1?
+True
+Misalkan v = -0.048 - 0.052. Mana yang lebih besar: v atau -0.13?
+v
+Misalkan g(a) = a + 7. Misalkan n be 16/(-6) - (-7)/(-21). Misalkan z be g(n). Mana yang lebih besar: 3 atau z?
+z
+Misalkan b(m) = -m**3 + 3*m**2 + 5*m + 1. Misalkan p be b(4). Misalkan d be 2*p/2*-1. Misalkan n be (-2)/d*(-10)/(-22). Mana yang lebih kecil: 1 atau n?
+n
+Misalkan y = 8 + -9. Misalkan a be 0 + 2 - (-2)/y. Mana yang lebih besar: a atau -6/13?
+a
+Misalkan k be 10/35 + 141/(-63) + 2. Mana yang lebih besar: -1 atau k?
+k
+Misalkan k be (58/(-6))/((-10)/15 + 1). Apakah k lebih besar dari -31?
+True
+Misalkan x be -2*3*16/(-312). Apakah 0 > x?
+False
+Misalkan z = 0.04 + 0.06. Misalkan s = -0.1 - z. Apakah s <= 1?
+True
+Misalkan z = -39/7 + 107/28. Misalkan x = 17/12 + z. Mana yang lebih kecil: x atau -1?
+-1
+Misalkan c be 12/(-4)*(1 + -2). Misalkan 3*t - 3*x = -0*x, 4*t + c*x - 14 = 0. Misalkan y be (-40)/(-15) + t/6. Apakah y dan 5/3 memiliki nilai yang sama?
+False
+Misalkan d be 1 - (2/3 - (-8)/(-12)). Apakah d sama dengan -6?
+False
+Misalkan -3*r = -7*r + 20. Misalkan r = 4*o + 1. Apakah 1 lebih besar dari o?
+False
+Misalkan t be (-5)/20 - 37/(-4). Misalkan t + 0 = -y. Apakah y <= -8?
+True
+Misalkan o(h) = -h**3 + 5*h**2 + 8*h + 2. Misalkan l be o(6). Misalkan j be 2 - l*(-3)/(-36). Apakah j > 0?
+True
+Misalkan 3*u - 5*p = 60, 0 = 4*u - 3*u - 4*p - 27. Misalkan -3*r - 6 = -u. Mana yang lebih kecil: r atau 4?
+r
+Misalkan n = 1.01 + -1. Misalkan l = 0.01 - n. Mana yang lebih besar: l atau -1?
+l
+Misalkan m(z) = -z**3 + 15*z**2 - 14*z + 18. Misalkan a be m(14). Apakah a != 17?
+True
+Misalkan w = 9 - 9. Misalkan u(z) = -z - 6. Misalkan a be u(-7). Misalkan l be 4/(-16) + a/(-12). Mana yang lebih besar: w atau l?
+w
+Misalkan f (o) menjadi turunan ke-kedua dari o**3/6 + o**2 - 10*o. Misalkan u be f(-6). Apakah -5 setidaknya sama besar dengan u?
+False
+Misalkan o be (-1 - 2) + -2 + 3. Misalkan i be (14/(-4))/((-1)/o). Apakah i dan -6 tidak sama?
+True
+Misalkan x = 8 + -7.7. Misalkan 1 = -5*i - 4. Misalkan t = i + 3/4. Apakah t lebih banyak x?
+True
+Misalkan o = 27 + -23. Misalkan q be (0 + -1)*(-3 + -1). Apakah q lebih dari o?
+False
+Misalkan r = -1 + 2. Misalkan t = 25 + -59. Misalkan i be (6/t)/(3/(-2)). Apakah r < i?
+False
+Misalkan l = 12/41 - -186/205. Apakah 0 lebih banyak l?
+True
+Misalkan q = 6 - 1. Misalkan u be (-3)/q*12/18. Apakah u sama dengan -0.2?
+False
+Misalkan t(q) = q**3 + 6*q**2 + 4*q - 7. Misalkan o be t(-5). Misalkan g be 0 - (2 - 66/3). Misalkan n be (-4)/10 + (-7)/g. Apakah n setidaknya o?
+True
+Misalkan h = -21 + 15. Mana yang lebih kecil: h atau -0.1?
+h
+Misalkan w = 24 + -8. Apakah w paling tidak sama dengan 15?
+False
+Misalkan a(n) = -n**3 - 3*n**2 + 3*n - 6. Misalkan y be a(-4). Misalkan m be (y/4)/((-1)/2). Misalkan d = -3.4 - -0.4. Apakah m kurang dari d?
+False
+Misalkan d = -2182/3 + 642. Misalkan o = -86 - d. Mana yang lebih kecil: o atau -0.1?
+o
+Misalkan t = 75 + -78. Misalkan i = -1 + -2. Apakah t lebih banyak i?
+True
+Misalkan -3*b + 4 = 4*k + 2*b, 5*b = -3*k + 3. Misalkan l be (0 + 1)/(k/5). Misalkan -l = x - 3*y, x + 1 = -0*x + y. Apakah 0 lebih kecil dari x?
+True
+Misalkan x = 28 - 28. Apakah x = -2/21?
+False
+Misalkan p = -0.6 + 1.3. Misalkan h = 0.81 + -0.11. Misalkan l = p - h. Mana yang lebih besar: 3 atau l?
+3
+Misalkan n be 16/56 + 495/(-1659). Apakah n setidaknya sama besar dengan 1?
+False
+Misalkan z = -4 + 9. Misalkan f = -7 + z. Mana yang lebih kecil: 0.2 atau f?
+f
+Misalkan u(l) = 10*l**2 + l. Misalkan c be u(-1). Misalkan -c = -p + 4*p. Mana yang lebih besar: -4 atau p?
+p
+Misalkan h be ((-1)/(76/6))/((-6)/40). Mana yang lebih kecil: 2 atau h?
+h
+Misalkan z(n) = -n**3 + 8*n**2 - 7*n - 1. Misalkan u be z(7). Apakah -1/2 < u?
+False
+Misalkan l(n) = 7*n + 4. Misalkan f be l(-11). Misalkan q = 217/3 + f. Misalkan o = 0.2 - -0.8. Mana yang lebih kecil: o atau q?
+q
+Misalkan r = -2297/7 + 329. Misalkan n = r - 4/21. Mana yang lebih kecil: -4 atau n?
+-4
+Misalkan c = -3 - -1. Misalkan -4*y - 1 = -9. Misalkan v be (-3)/12 - y/(-4). Mana yang lebih besar: c atau v?
+v
+Misalkan 0 = -2*v + 6*v + 32. Misalkan j be v/(-36) + (-6)/27. Misalkan j = -6*y + 3*y. Mana yang lebih besar: 1/4 atau y?
+1/4
+Misalkan h = -4 + 18. Misalkan m be (-4)/h + 120/28. Misalkan -5*o = 4*j - 40 + 11, 0 = -m*j - 3*o + 19. Apakah 1 sama dengan j?
+True
+Misalkan l = 24 - 15. Mana yang lebih kecil: l atau 1?
+1
+Misalkan p = -136 - -950/7. Misalkan h = 1 - 2. Mana yang lebih kecil: h atau p?
+h
+Misalkan j = -92 - -113. Apakah j lebih besar dari 22?
+False
+Misalkan l be (2 - 0)/(4/6). Misalkan d = l + -2. Misalkan q be ((-2)/4)/((-33)/(-12)). Apakah q setidaknya sama besar dengan d?
+False
+Misalkan y = 38 - 20. Apakah 17 paling tidak sama dengan y?
+True
+Misalkan 0 = -5*k + 13 + 12. Misalkan 0 = 4*t - 3 - k. Mana yang lebih kecil: 5/6 atau t?
+5/6
+Misalkan o(l) = l + 1. Misalkan d be o(1). Misalkan 2*n = -3*n - d*b + 10, 3*b + 6 = 3*n. Misalkan q be (n - -1)*(-1 + 0). Mana yang lebih besar: -4 atau q?
+q
+Misalkan u be 1*(-4)/6*12. Misalkan -454 = j - 446. Apakah j lebih besar dari u?
+False
+Misalkan f = 3.1 + -0.1. Misalkan g = 7 - f. Misalkan n = -2 - -3. Mana yang lebih kecil: g atau n?
+n
+Misalkan s be 1*(1 + (-4)/2). Misalkan 0 = d - p, 0 = -d + 2*p + 2*p + 3. Apakah d lebih besar dari s?
+False
+Misalkan 4*u - 64 = -4*s, -3*u + 3 = -3*s + 51. Apakah 16 dan s sama?
+True
+Misalkan x(g) = 3 - g. Misalkan d be x(3). Misalkan l be (-2)/(-1) - (d + 2). Apakah l dan -4/3 berbeda?
+True
+Misalkan b = 2 + -1.4. Misalkan v = b + -1.6. Misalkan a = 2 - 4. Mana yang lebih besar: a atau v?
+v
+Misalkan s = -2 - -1. Mana yang lebih kecil: s atau 1/168?
+s
+Misalkan b(t) = -t - 2. Misalkan a be b(-6). Misalkan 3*m - 1001 = 5*y + 7*m, m = -a*y - 803. Misalkan g = -1410/7 - y. Mana yang lebih kecil: g atau -1?
+-1
+Misalkan 0 = y - 5*g, -4*g - 11 = 4*y + 61. Misalkan o be (-10)/y + (-1)/6. Mana yang lebih besar: o atau 0?
+o
+Misalkan q = 35 - 34.9. Apakah q < 3?
+True
+Misalkan q = -0.09 + -1.91. Mana yang lebih besar: q atau 0.9?
+0.9
+Misalkan l be 3 - 3/2 - (-10)/(-4). Mana yang lebih kecil: l atau -4?
+-4
+Misalkan s be (-39)/45 - (-4)/(-30). Mana yang lebih kecil: -6 atau s?
+-6
+Misalkan h = -3.2 - -3. Apakah -0.2 dan h memiliki nilai yang berbeda?
+False
+Misalkan t be 117/63 + -2*2/(-4). Apakah 4 > t?
+True
+Misalkan l = -151 + 257. Apakah 107 lebih kecil dari l?
+False
+Misalkan w be 2/(-5) - (-537)/105. Misalkan r = w + -158/35. Misalkan n(c) = c**3 - 5*c**2 - 1. Misalkan y be n(5). Mana yang lebih kecil: r atau y?
+y
+Misalkan 0 = 4*d - 6 - 10. Misalkan -5*a - d = -2*q + 1, 1 = -a. Mana yang lebih besar: q atau 2?
+2
+Misalkan v(b) = 7*b + 36. Misalkan n be v(-5). Mana yang lebih besar: 1/16 atau n?
+n
+Misalkan r = 1.83 - 1.73. Misalkan i = -11 + 2. Mana yang lebih kecil: i atau r?
+i
+Misalkan c = -16 + 15. Misalkan i(d) = -d**3 - d**2 + d + 1. Misalkan z be i(-1). Mana yang lebih kecil: c atau z?
+c
+Misalkan k(m) = m**3 - 13*m**2 - 13*m - 17. Misalkan v be k(14). Misalkan b(o) = o**2 + 8*o - 6. Misalkan w be b(-9). Apakah v kurang dari atau sama dengan w?
+True
+Misalkan p = 2.2 - -6.8. Misalkan v = p - 10. Apakah -12 < v?
+True
+Misalkan d = 119 + -48. Mana yang lebih besar: 72 atau d?
+72
+Misalkan l be -1 + 2/(-5)*-5. Mana yang lebih besar: l atau 6/7?
+l
+Misalkan w(t) = -7*t**3 + t**2 + t. Misalkan z be w(-1). Misalkan 2*l = z*l. Apakah l tidak sama dengan -2?
+True
+Misalkan c be (-80)/(-30)*3/(-7). Mana yang lebih kecil: c atau 0?
+c
+Misalkan -4 = -5*m - 29. Misalkan c = 6 + m. Apakah -2/9 tidak sama dengan c?
+True
+Misalkan h(l) = 4*l + 10. Misalkan c be h(-3). Apakah c = 0?
+False
+Misalkan q = -2201/7 - -308. Mana yang lebih besar: q atau -5?
+-5
+Misalkan c be 2/(-8)*-7*(-30 + 54). Apakah c setidaknya 43?
+False
+Misalkan z be 5/(400/95) - 1. Mana yang lebih besar: z atau 0?
+z
+Misalkan t be 3/(-12) + 98/328. Mana yang lebih kecil: -1 atau t?
+-1
+Misalkan t = -13 + 14. Apakah t paling tidak sama dengan -3/28?
+False
+Misalkan v = -0.5 + 0.6. Misalkan k = -0.3 - v. Misalkan w = k + 0.2. Mana yang lebih kecil: w atau 1?
+w
+Misalkan c be (-24)/(-10) + (-24)/(-40). Misalkan s be 2/(-5) - c/5. Mana yang lebih besar: -5 atau s?
+s
+Misalkan s be (-12)/(-12)*0/2. Mana yang lebih kecil: -7 atau s?
+-7
+Misalkan 0 = 3*g - 0*g + 3. Mana yang lebih besar: g atau 3?
+3
+Misalkan v = 29 - 28. Mana yang lebih kecil: 2 atau v?
+v
+Misalkan -3 + 7 = -4*j. Misalkan p be 23/115 - (-4)/5. Apakah p dan j memiliki nilai yang sama?
+False
+Misalkan w = 7 + -6.8. Mana yang lebih kecil: 0.04 atau w?
+0.04
+Misalkan i (d) menjadi turunan ke-kedua dari -d**4/6 - 5*d**3/3 - 3*d**2/2 - 2*d. Misalkan l be i(-5). Apakah l < 1?
+True
+Misalkan v = -0.027 - 0.043. Apakah v lebih dari -2?
+True
+Misalkan r = -2.3 - -0.3. Misalkan s = 0.02 + 1.98. Misalkan n = s + r. Apakah n lebih dari atau sama dengan -6?
+True
+Misalkan s (x) menjadi turunan ke-kedua dari -x**4/6 + x**2/2 - 6*x. Misalkan g be s(1). Mana yang lebih besar: -1/7 atau g?
+-1/7
+Misalkan o be 0/(8/(-4 + 0)). Mana yang lebih besar: o atau -5/34?
+o
+Misalkan b(z) = z**2 + 6*z - 2. Misalkan s be b(-3). Apakah -11 >= s?
+True
+Misalkan i = 2 - 3. Misalkan 0*x - 5*x = 10. Apakah x kurang dari i?
+True
+Misalkan v be -4 + 2 + (-60)/(-5). Mana yang lebih kecil: v atau 11?
+v
+Misalkan c = -12.7 - -13. Apakah c > -4?
+True
+Misalkan f(a) = 11*a - 1. Misalkan q be f(-4). Misalkan l be 4/(-6)*q/6. Misalkan 1 + 0 = -5*j - 2*d, -l*j + 8 = -d. Mana yang lebih besar: j atau -1?
+j
+Misalkan k = 13 + -24. Misalkan s be k/5 + 3/15. Misalkan m = -111/140 + 3/70. Mana yang lebih kecil: m atau s?
+s
+Misalkan o(m) = -m**3 + 9*m**2 - m. Misalkan h be o(9). Misalkan f = 11 + h. Misalkan q be f - -1 - (-3 + -2). Apakah q lebih dari atau sama dengan 9?
+False
+Misalkan g + 2*j - 6 = -1, j = -g. Misalkan f be 20/(-6) - g/15. Mana yang lebih kecil: f atau -4?
+-4
+Misalkan -j - 5*s - 10 = 0, 4*j - 14 = -s - s. Misalkan a be (-6)/j*(-45)/(-18). Mana yang lebih besar: -1 atau a?
+-1
+Misalkan -g + 1 + 4 = 0. Apakah 7 dan g sama?
+False
+Misalkan f = -0.88 + 0.6. Misalkan j = 0.3 + f. Mana yang lebih kecil: j atau -0.1?
+-0.1
+Misalkan c = -0.18 - -0.2. Misalkan u = 0.31 + c. Misalkan l = u - 0.03. Apakah l != 1/4?
+True
+Misalkan -5*s = -s + 864. Misalkan q be (-2)/(-5) + s/315. Mana yang lebih besar: q atau 2?
+2
+Misalkan k = -474 - -765. Misalkan w be k/90 + (-3)/(-18). Apakah w lebih kecil dari 4?
+True
+Misalkan l = 23 + -25.6. Misalkan c = -1.6 - l. Mana yang lebih kecil: c atau -0.3?
+-0.3
+Misalkan 12 = 5*g + d - 0, 2*g - 4*d = 18. Misalkan s(v) = -v**3 - v**2 - v + 4. Misalkan h be s(0). Apakah h >= g?
+True
+Misalkan y be ((-22)/(-3))/(10/(-15)). Mana yang lebih kecil: y atau -7?
+y
+Misalkan d = -16/115 + -6/23. Mana yang lebih besar: d atau 5?
+5
+Misalkan u be (4/(-9))/(4/6). Apakah 0 lebih besar dari u?
+True
+Misalkan z(a) = a - 5. Misalkan w be z(4). Misalkan o = 0 - -2. Misalkan 2*m = -o*m - 4. Apakah w dan m memiliki nilai yang sama?
+True
+Misalkan r(y) = 2*y + 2. Misalkan f be r(-2). Misalkan c = f + 1. Misalkan h be (-64)/(-126) + 2/(-7). Mana yang lebih kecil: h atau c?
+c
+Misalkan r = -2 + 0. Misalkan n be -4 - (-6 - -3) - -1. Misalkan o = 0 + n. Mana yang lebih besar: o atau r?
+o
+Misalkan b be (-16)/(-56) + 1 + (-88)/14. Apakah 2 < b?
+False
+Misalkan p = -2 - -4. Misalkan t(i) = -i**3 + 6*i**2 - 6*i - 7. Misalkan q be t(5). Misalkan l be (q - -9) + 16/6. Apakah p lebih dari atau sama dengan l?
+True
+Misalkan v = 3 + -10. Misalkan o be (-5 - -8)/((-2)/4). Apakah o lebih dari atau sama dengan v?
+True
+Misalkan x(q) = q**3 - 6*q**2 - q - 4. Misalkan c be x(6). Misalkan o = c + 12. Misalkan s be (-1)/(0 + o/2). Mana yang lebih besar: s atau -3/5?
+-3/5
+Misalkan h be (-9 - -6) + 21/8. Mana yang lebih besar: -1 atau h?
+h
+Misalkan b = -14 + 16. Apakah -1/3 lebih kecil dari b?
+True
+Misalkan x(z) = 2 - 4*z**2 + 3*z**2 - 2*z**2 + 2*z**2. Misalkan g be x(2). Misalkan c be 2*(3/(-2) - 0). Mana yang lebih kecil: g atau c?
+c
+Misalkan -5*j + 3*j = 3*i, -4*i + 16 = 0. Misalkan z be ((-2)/j)/(2/(-10)). Apakah z lebih banyak -3?
+False
+Misalkan d be (1 - 0 - -2) + 4/4. Mana yang lebih kecil: 6 atau d?
+d
+Misalkan -3*x = -4*i - 12, -3*i - 2*i + 3*x - 12 = 0. Misalkan p = 0.1 + -0.2. Mana yang lebih kecil: p atau i?
+p
+Misalkan a be (-19)/8 + (0 - -2). Misalkan -2*x + 10 = -4*c, 5*x - c = 3*c + 13. Apakah x setidaknya a?
+True
+Misalkan i(l) = 3*l - 3. Misalkan n be i(2). Misalkan b be 5/2 - n/6. Misalkan 2*y = 4*y + b*f - 6, 5*f = -y + 15. Apakah 0 lebih dari atau sama dengan y?
+True
+Misalkan q be 5 - (4 + -5) - 4/2. Mana yang lebih besar: q atau 3?
+q
+Misalkan l = -21317/29 + 735. Apakah -1 paling tidak sama dengan l?
+True
+Misalkan o = -2 + 2. Mana yang lebih besar: -2/15 atau o?
+o
+Misalkan m = -25 + 19. Apakah m dan -6 sama?
+True
+Misalkan i = -14549/17 + 855. Misalkan p = i - -73/68. Misalkan w(x) = x**2 - 7*x + 5. Misalkan j be w(6). Apakah j lebih dari p?
+False
+Misalkan b(y) = -y**3 - 10*y**2 - 8*y + 10. Misalkan x be (-10)/4*(6 + -4). Misalkan u = -14 - x. Misalkan p be b(u). Apakah p <= -1/4?
+False
+Misalkan a = -3 - -5. Misalkan m(q) = q**3 - 3*q**2 + q + 3. Misalkan s be m(a). Apakah -1 > s?
+False
+Misalkan 114 = -5*x + 2*x. Misalkan o be x/(-8) - 12/16. Misalkan i be 2/3 + o/12. Apakah i lebih dari 3?
+False
+Misalkan -5 = 2*s - 7*s. Mana yang lebih kecil: -0.2 atau s?
+-0.2
+Misalkan -2*p - 2 = -0*p. Misalkan f = 4 - p. Misalkan -4*a + 7 = -6*o + 3*o, -f*o - 1 = 4*a. Apakah 0 < o?
+False
+Misalkan d = 2*w - 6, -2*d + w = -4*d - 7. Mana yang lebih besar: d atau 2?
+2
+Misalkan d be (-63)/(-18) + 2/4. Misalkan 23 = -d*b - 5*s + 64, 5 = s. Misalkan t be 1*(3 + (-6)/b). Apakah 3 dan t sama?
+False
+Misalkan t be (-24)/9 - (-2)/3. Misalkan -2*n + 2*g - 10 = 0, 22 = -2*n + 7*g - 2*g. Apakah n kurang dari atau sama dengan t?
+False
+Misalkan -c - c + a + 1 = 0, 0 = -4*c - a + 11. Misalkan i = c - -1. Misalkan -5*y - 5*l = -i*y + 21, 11 = 3*y - l. Apakah 2 paling tidak sama dengan y?
+True
+Misalkan h be 1*(-3 - 0/3). Misalkan o be h/(-5)*(-6)/9. Mana yang lebih kecil: o atau 1?
+o
+Misalkan h be 4 + ((-2)/(-4) - 57/(-266)). Mana yang lebih kecil: h atau -0.1?
+-0.1
+Misalkan r be -3 + (-5)/(-555)*339. Mana yang lebih besar: -1 atau r?
+r
+Misalkan -3*n - 3*w - 2 = 7, 0 = -2*w. Misalkan o be 2/(n/15*-1). Misalkan 2*a - 5 = 4*l + 3, -38 = -5*a + 4*l. Apakah o setidaknya a?
+True
+Misalkan u = 0.92 + 3.09. Misalkan d = u + -0.01. Misalkan f = -3.9 + 4. Apakah f > d?
+False
+Misalkan a = 3 + -4. Misalkan l be a/3 - (-10)/(-6). Misalkan g be 2 - (-1 + 26/8). Apakah l > g?
+False
+Misalkan m = 5/727 + 9301/21810. Misalkan n = m + 1/15. Mana yang lebih besar: 1 atau n?
+1
+Misalkan l = -2.2 + -0.8. Apakah l lebih kecil dari -6?
+False
+Misalkan b = 16.2 + 2.8. Misalkan f = 19.2 - b. Apakah -2/11 dan f berbeda?
+True
+Misalkan u be 1/(-3) - ((-232)/69 - -3). Mana yang lebih kecil: u atau 0?
+0
+Misalkan p = 79 - 56. Apakah 23 kurang dari atau sama dengan p?
+True
+Misalkan g(a) = a**2 - 5*a - 13. Misalkan s be g(7). Apakah 2/47 dan s berbeda?
+True
+Misalkan 11 = 2*f + 3. Misalkan o be (f*(-3)/(-6))/(-1). Misalkan i be (-6)/(-8)*(-12)/3. Apakah o dan i memiliki nilai yang sama?
+False
+Misalkan m = -1772 - -1762.11. Misalkan s = 0.11 - m. Mana yang lebih kecil: 1 atau s?
+1
+Misalkan -2*j + 4*j + 6 = 0. Misalkan -w = 4*r - 0*w + 27, -4*r - 3*w - 33 = 0. Misalkan y be (r + 2)/(2 + -1). Mana yang lebih kecil: j atau y?
+y
+Misalkan o(i) = -i**3 - 5*i**2 + 6*i. Misalkan z be o(-6). Misalkan z*n + 4 = 4*n. Mana yang lebih besar: 3/10 atau n?
+n
+Misalkan p be (4/(-40))/(3/(-30)). Mana yang lebih kecil: -1 atau p?
+-1
+Misalkan d(x) = -x**3 + 5*x**2 - x - 6. Misalkan p be d(4). Misalkan 5*r - p*r = 3. Misalkan j = -8 + 6. Mana yang lebih besar: r atau j?
+j
+Misalkan a be -5 + 5 - -1 - (0 + 31). Apakah -31 dan a memiliki nilai yang berbeda?
+True
+Misalkan z = 3.2 + 4. Misalkan l = z - 7. Mana yang lebih kecil: l atau -1/3?
+-1/3
+Misalkan r = -2*i + 10, -i - 4*r = -6*r + 5. Misalkan -5*l + i*g - 8 = 26, 2*l + 3*g + 1 = 0. Apakah l dan -1 berbeda?
+True
+Misalkan i(v) = -v**2 + 4*v + 2. Misalkan m be i(4). Misalkan c be (16/20)/(m/(-35)). Misalkan l = 29/2 + c. Apakah -1 setidaknya l?
+False
+Misalkan o(b) = b**3 - 6*b**2 - b + 8. Misalkan y be o(6). Misalkan 3*p = 2*p + y. Misalkan j be p/(-7) - (0 + 0). Mana yang lebih kecil: j atau 1?
+j
+Misalkan f be (25*(-2 + 1))/1. Misalkan w = 21 + f. Mana yang lebih besar: 0 atau w?
+0
+Misalkan -2*g + q = -0*g - 49, 90 = 5*g + 4*q. Misalkan g = -3*l + 4. Apakah l != -5?
+True
+Misalkan x be 5 + -3*(-6)/9. Misalkan d(v) = v - 3. Misalkan w be d(x). Misalkan n be (-4)/20*(-5)/w. Mana yang lebih kecil: n atau 6?
+n
+Misalkan y = 5 + 3. Misalkan 4*b + 3*r = y, 0 = -b + 3*r + 2*r - 21. Apakah -1 <= b?
+True
+Misalkan x = -6 - -5.3. Apakah x lebih besar dari 1/4?
+False
+Misalkan -2*r + 10 = -6. Apakah 6 setidaknya r?
+False
+Misalkan q = 297 - 1477/5. Apakah -2/11 dan q berbeda?
+True
+Misalkan 1 = 2*d + 27. Misalkan -j + 2*i = 2*j + 41, -3*i = -3*j - 45. Mana yang lebih kecil: d atau j?
+d
+Misalkan a = -10 + 11. Apakah 2 kurang dari a?
+False
+Misalkan 2*l = 34 + 12. Mana yang lebih kecil: l atau 22?
+22
+Misalkan z = -0.06 - -0.16. Mana yang lebih kecil: z atau -3?
+-3
+Misalkan a = -8 - -17. Misalkan -c + a = -0. Misalkan o = c - 3. Apakah 6 lebih besar dari o?
+False
+Misalkan q(f) = f**2 + 6*f + 6. Misalkan p be q(-5). Misalkan -4*d = -p + 5. Apakah -1 dan d memiliki nilai yang sama?
+True
+Misalkan 2*n - y - 42 = 2*y, -y = -2*n + 42. Apakah n dan 22 sama?
+False
+Misalkan w(a) = 2*a + 11. Misalkan d be w(-5). Mana yang lebih kecil: 1/27 atau d?
+1/27
+Misalkan 2*d - 3 - 3 = 0. Misalkan d*u = 4*u - 6. Apakah u dan 7 memiliki nilai yang berbeda?
+True
+Misalkan -5*i + 1 = -14. Misalkan m = 15 - 6. Misalkan -4*q = 2*h + m - 3, -h = 4*q + 1. Mana yang lebih besar: i atau q?
+i
+Misalkan 0 = -8*t + 4*t + 20, 4*t = -5*d + 10. Misalkan f be (1*2)/((-5)/2). Mana yang lebih besar: f atau d?
+f
+Misalkan d be (-3)/(-6) + (-1988)/(-40). Misalkan z = 51 - d. Mana yang lebih kecil: 2 atau z?
+z
+Misalkan k = -44 + 51. Apakah k tidak sama dengan 1/4?
+True
+Misalkan o = -1.44 + 1.3. Misalkan y = -0.06 + o. Apakah 0.2 dan y memiliki nilai yang berbeda?
+True
+Misalkan c = 152 + -150. Apakah c < 2?
+False
+Misalkan b = 9 + -21. Misalkan n = -15 - b. Apakah -1 kurang dari atau sama dengan n?
+False
+Misalkan -10 = -i - 0. Misalkan 3*t - i = 5*l, -16 = -5*t + 2*t - l. Misalkan -t*v = -v. Apakah v setidaknya 2/3?
+False
+Misalkan n be ((-3)/9)/(5/(-30)). Mana yang lebih besar: 5 atau n?
+5
+Misalkan u = -15 + 15. Mana yang lebih kecil: -2/9 atau u?
+-2/9
+Misalkan 24 = 2*s + 2*w, 3*s + 4*w - 16 - 24 = 0. Misalkan 4*r - s = -4. Misalkan f be (-4)/(-14) + 13/(-21). Apakah r lebih besar dari f?
+True
+Misalkan -o + 10 = -3*o. Apakah -14/3 tidak sama dengan o?
+True
+Misalkan h = 1.1 + 7.9. Apakah h > 1/3?
+True
+Misalkan l = 4601/6 + -770. Mana yang lebih kecil: -2 atau l?
+l
+Misalkan t = 781/150 - 111/25. Misalkan k = 4/15 - t. Mana yang lebih besar: -1/4 atau k?
+-1/4
+Misalkan a be -1 - -1 - (4 - 5). Mana yang lebih kecil: a atau -1/2?
+-1/2
+Misalkan u = -5 + 2. Misalkan c(g) = g**2 + 4*g + 3. Misalkan v be c(u). Misalkan -d = -3 - v. Apakah d setidaknya 3?
+True
+Misalkan r = 82 - 80. Apakah 5/2 setidaknya r?
+True
+Misalkan l be (4/(-10))/((-3)/420). Misalkan b be 20/70 - 30/l. Apakah b >= -2/5?
+True
+Misalkan q be 1/4 - 23/44. Misalkan j(m) = 2*m + 1. Misalkan -4*i - 1 = -0*w - 3*w, 5*w - 2*i = -3. Misalkan k be j(w). Mana yang lebih kecil: k atau q?
+k
+Misalkan -3*i - 24 = -7*i. Apakah i dan 4 berbeda?
+True
+Misalkan -3*z = -3, 0 = -2*g + 3*z + 2*z - 7. Misalkan j be 0/(46/(-253) + (-70)/(-22)). Apakah g paling tidak sama dengan j?
+True
+Misalkan i(d) = -d**2 - 10*d + 6. Misalkan x be i(-7). Misalkan 5*p - 2*l - x = 0, -5*l + 5 = -2*p + 20. Apakah 6 != p?
+True
+Misalkan -2*q - 5*k + 37 = 0, 5*q - 4*k - k = 5. Misalkan v = -v + q. Misalkan p = v + -11/3. Mana yang lebih kecil: -0.5 atau p?
+p
+Misalkan g = 118.962 - 119. Apakah g sama dengan -1/6?
+False
+Misalkan 3*s - 3 = -3*b + 6, 3*b + 7 = s. Misalkan y be (-18)/(-9) + (-2)/b. Misalkan 3*w = 3*c - 6, w = -2*c + 5*w. Apakah y dan c memiliki nilai yang berbeda?
+False
+Misalkan l = -3.5 - -0.5. Misalkan q = 2.97 + l. Apakah 2/3 > q?
+True
+Misalkan u be (-10)/12*12/(-40). Misalkan a(j) = -j - 5. Misalkan l be a(-6). Misalkan z = l + -2. Mana yang lebih kecil: u atau z?
+z

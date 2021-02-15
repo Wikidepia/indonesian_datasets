@@ -1,0 +1,666 @@
+Berapa nilai kedua terbesar dalam 2/19, -2, 23933, 4?
+4
+Manakah nilai terkecil?  (a) -4  (b) -262  (c) 0.44  (d) -86
+b
+Manakah nilai keenam terkecil?  (a) -0.4  (b) -4/7  (c) -1.2  (d) -1/21  (e) -0.2  (f) -1.7  (g) 2/475
+d
+Berapa nilai ketiga terbesar dalam 59.5, 21, 3/4, 4, 0.4, 0?
+4
+Berapa nilai kedua terkecil dalam -0.3, 5, 16665, -1/5, -0.5?
+-0.3
+Berapa nilai ketiga terbesar dalam -2, 4, 218235, 10, -3?
+4
+Berapa nilai keempat terbesar dalam 14/13, -0.1, 457, -5, 10?
+-0.1
+Berapa nilai kedua terkecil dalam 0.2, -18057, -3, 11/2, 0.4?
+-3
+Manakah nilai kelima terbesar?  (a) -3/7  (b) 24  (c) -11  (d) 1/3  (e) -3/2  (f) -3  (g) -12/25
+e
+Manakah nilai kedua terkecil?  (a) 7  (b) -16  (c) 0.07863
+c
+Berapa nilai terbesar dalam -0.2, 1/3, 9807404?
+9807404
+Berapa nilai keenam terbesar dalam -32/5, 3.1, 2/21, 0.5, 2/5, 8?
+-32/5
+Manakah nilai keempat terkecil?  (a) 142  (b) -2/9  (c) 3/2  (d) -2/19  (e) -2/7
+c
+Manakah nilai keenam terkecil?  (a) -0.2  (b) 1/37  (c) 0.01  (d) -1  (e) 715  (f) -0.3  (g) 0.3
+g
+Berapa nilai terbesar dalam -6, 609, -0.6, 32/9?
+609
+Manakah nilai ketiga terkecil?  (a) -2023  (b) -2349  (c) -5  (d) -8
+d
+Manakah nilai terbesar?  (a) -29  (b) -1  (c) 228/11  (d) 0  (e) 4  (f) 1/5
+c
+Berapa nilai kedua terkecil dalam 2/5, -13, 1/2, 3, -8, 312/23?
+-8
+Manakah nilai ketiga terkecil?  (a) 4  (b) -11  (c) 0.3  (d) 6  (e) -6/23  (f) -4
+e
+Manakah nilai terkecil?  (a) 1  (b) -20  (c) 5/11  (d) -1  (e) -875  (f) 1/3
+e
+Manakah nilai kedua terkecil?  (a) -0.089  (b) -0.4  (c) -0.3  (d) -24  (e) 0.095
+b
+Manakah nilai kedua terbesar?  (a) 0.3  (b) -1/7  (c) -49.8  (d) -2.1  (e) 3  (f) 5/6
+f
+Manakah nilai terkecil?  (a) 0.2  (b) 0.09  (c) 3  (d) 0.5  (e) 122  (f) -0.2  (g) -3
+g
+Berapa nilai kedua terbesar dalam -1, 0.4, -2.054, -5/17, 0.5?
+0.4
+Manakah nilai kedua terbesar?  (a) 3/5  (b) 34  (c) 50  (d) -13/6  (e) 1/11  (f) -0.4  (g) 0.3
+b
+Berapa nilai kelima terbesar dalam 158, -3/5, 3, -1/17, -1/12, -1/207?
+-1/12
+Berapa nilai keempat terbesar dalam 4, 1590, 2, 2/99?
+2/99
+Manakah nilai kelima terbesar?  (a) -1/3  (b) 1.5  (c) -19/4  (d) -4  (e) -2  (f) -0.8
+d
+Manakah nilai keempat terbesar?  (a) 4  (b) -14  (c) -4  (d) 1  (e) 0.040371
+c
+Manakah nilai kelima terkecil?  (a) -3/7  (b) -153/4  (c) 3/4  (d) 123  (e) -3/5  (f) -1/9
+c
+Berapa nilai kedua terkecil dalam 2/441, -1, 0.3, -22/7, 0.04, 82?
+-1
+Manakah nilai ketujuh terbesar?  (a) -4  (b) -3/5  (c) -5  (d) 12  (e) 11.4  (f) -0.07  (g) -0.1
+c
+Berapa nilai kedua terkecil dalam 142, -3, -3/2, 277, 3/7?
+-3/2
+Manakah nilai terkecil?  (a) -12  (b) -0.7  (c) -1  (d) 1  (e) 2124  (f) 1/3
+a
+Berapa nilai ketiga terkecil dalam -108, -37, -264?
+-37
+Manakah nilai terkecil?  (a) 9  (b) -4/11  (c) -2/275  (d) -98
+d
+Manakah nilai keenam terkecil?  (a) 2/7  (b) -1/3  (c) -2/7  (d) 0.28  (e) 9/98  (f) -65/4
+a
+Berapa nilai kelima terkecil dalam 0, -0.18, -3, 988485, 0.4?
+988485
+Berapa nilai kedua terbesar dalam -1/3, 0.1738, -111.3?
+-1/3
+Manakah nilai ketiga terkecil?  (a) 1/6  (b) -1/7  (c) -29.4  (d) -30  (e) 5
+b
+Berapa nilai ketujuh terbesar dalam -3/4, -4/3, -0.1, -2, -4, -56, 23?
+-56
+Manakah nilai keempat terbesar?  (a) -2  (b) -5  (c) 1/12722  (d) 0.2  (e) 18
+a
+Manakah nilai terbesar?  (a) 6  (b) -0.9  (c) 3  (d) 986
+d
+Manakah nilai kedua terbesar?  (a) -3  (b) -11  (c) 41514/7  (d) 16/7
+d
+Berapa nilai keenam terbesar dalam 3, -3, -636, -4, 0.04, 0.8, 2/3?
+-4
+Manakah nilai keempat terbesar?  (a) 1  (b) 1775  (c) -16  (d) -0.045  (e) -13
+e
+Manakah nilai ketiga terbesar?  (a) -4  (b) 0.6  (c) 9  (d) -13380
+a
+Berapa nilai kedua terkecil dalam -15/7, -1/4, 4/17, -16/17, 1?
+-16/17
+Berapa nilai keempat terbesar dalam -0.2, 11649, 4, -0.015, -28?
+-0.2
+Manakah nilai kedua terkecil?  (a) 2/11  (b) 0.2  (c) -6  (d) -13/1282  (e) 1
+d
+Manakah nilai terkecil?  (a) -2.2  (b) -6  (c) -85143
+c
+Berapa nilai terbesar dalam -1, -0.105, 9.144, 7?
+9.144
+Berapa nilai ketiga terbesar dalam 0.1, 5340, -4, -3/1427, -2?
+-3/1427
+Berapa nilai kedua terkecil dalam -1/5, -2/11, 145, 1467?
+-2/11
+Manakah nilai kedua terbesar?  (a) 11  (b) 4  (c) -0.3  (d) -53  (e) 5  (f) 0.12
+e
+Manakah nilai keempat terkecil?  (a) -1/4  (b) -0.4  (c) 6423  (d) 1.1  (e) 0  (f) 1
+f
+Manakah nilai terbesar?  (a) -64411  (b) -0.14  (c) 3
+c
+Berapa nilai kedua terbesar dalam -36, -84, -2, 3, 15?
+3
+Manakah nilai kelima terkecil?  (a) -5  (b) 1.1  (c) 0.4  (d) -2.9  (e) -1/5519
+b
+Berapa nilai keempat terbesar dalam 2, 14, -36, -4, 12/49, -5, 0.5?
+12/49
+Manakah nilai keempat terkecil?  (a) -6  (b) -2/5  (c) 3/7  (d) -3  (e) -8  (f) 35  (g) -34
+d
+Berapa nilai ketiga terkecil dalam 4, 6, -1/7, 2/11, 0.25856?
+0.25856
+Berapa nilai terkecil dalam -17223, 1/8, -0.5, -0.52?
+-17223
+Manakah nilai keenam terbesar?  (a) -2  (b) 2  (c) -13  (d) -1080  (e) 61  (f) -4
+d
+Manakah nilai kedua terbesar?  (a) 2/3  (b) -0.024  (c) -13  (d) 5  (e) -1445
+a
+Manakah nilai kedua terkecil?  (a) -20/41  (b) -7/25  (c) 6  (d) 2/3
+b
+Manakah nilai kedua terkecil?  (a) -54268  (b) 2/23  (c) 135
+b
+Manakah nilai terkecil?  (a) -2/3  (b) 5  (c) 1  (d) 6/26627  (e) 0.4  (f) 1.8
+a
+Manakah nilai keempat terbesar?  (a) 0.4  (b) -0.3  (c) -5866  (d) -2/3  (e) -5  (f) 30
+d
+Manakah nilai keempat terkecil?  (a) 5  (b) -32014  (c) 1/6  (d) 2/17  (e) 115  (f) 0
+c
+Berapa nilai keempat terbesar dalam -956, 1, -2, 5, -0.5, 1/19?
+-0.5
+Berapa nilai keenam terkecil dalam -2/3, 0.3, -2/21, 3/127, -0.5, 4.72?
+4.72
+Berapa nilai kedua terbesar dalam -0.974, 0, 6122?
+0
+Berapa nilai terkecil dalam -1, 2339, 0.31, -0.09, -0.5, 0.3, 0?
+-1
+Berapa nilai ketujuh terbesar dalam 1/7, 4/7, 4, 9604, -1, -0.1, -0.3?
+-1
+Manakah nilai keempat terbesar?  (a) 2  (b) 3  (c) 137901  (d) -3
+d
+Berapa nilai terkecil dalam -0.135, 5, -1/26, 0.1, -18, -2, -7?
+-18
+Manakah nilai kedua terbesar?  (a) -0.5  (b) 2/18551  (c) 24  (d) 1  (e) 2/15  (f) 2/3
+d
+Berapa nilai kedua terbesar dalam 5/531, 0.4, 2/7, 0.2, -1/3, -0.3, -2658?
+2/7
+Berapa nilai keempat terkecil dalam -2, 10038, -21, 237?
+10038
+Manakah nilai kedua terbesar?  (a) -1.2439  (b) 22  (c) 0
+c
+Berapa nilai kedua terbesar dalam 340, -2, -509/8?
+-2
+Berapa nilai terkecil dalam -7.5, 2848, -47?
+-47
+Berapa nilai keempat terkecil dalam -29, 2/19, 3, 12, -3, 2/3, -0.27?
+2/19
+Berapa nilai ketiga terbesar dalam 4, -116782, 0, -40/3?
+-40/3
+Berapa nilai ketiga terkecil dalam 7/2, -0.2, 0.4, -2, 67, -1/4, 8/95?
+-0.2
+Manakah nilai kedua terkecil?  (a) 5  (b) -2/11  (c) -2  (d) 0.05  (e) 5/4  (f) -16  (g) 47
+c
+Berapa nilai keenam terbesar dalam -1900, 5, -0.02, 0.1, -4, 6?
+-1900
+Berapa nilai terkecil dalam -42, 89, -101?
+-101
+Berapa nilai kelima terkecil dalam -0.2, 12991, -1.23, 2/9, 4?
+12991
+Manakah nilai ketiga terkecil?  (a) 1.8  (b) -1/173  (c) -0.07  (d) 0.012
+d
+Berapa nilai keenam terbesar dalam -2/9, -2, 837.37, -3, 4, 1/4?
+-3
+Manakah nilai terbesar?  (a) -7/3  (b) 4  (c) 0.4  (d) 1  (e) -0.5  (f) -35
+b
+Manakah nilai kedua terbesar?  (a) -1/6  (b) -2/21  (c) -335413
+a
+Berapa nilai kedua terbesar dalam -33, -4, 1/105, 5, -0.4?
+1/105
+Berapa nilai keempat terbesar dalam 5, -2, 289, -6.7, 0, -5/4, 87?
+0
+Manakah nilai kedua terkecil?  (a) 7  (b) -14277  (c) 0
+c
+Berapa nilai keempat terbesar dalam 0.3, -4/11, -4, -13, 2.9, 3, -0.4?
+-4/11
+Berapa nilai kelima terkecil dalam -751, 3/11, -0.234, 0.1, 2?
+2
+Berapa nilai ketiga terkecil dalam -0.1, 2, -2, -365, 1/7, 7?
+-0.1
+Manakah nilai keempat terkecil?  (a) 1  (b) 0.016  (c) -4  (d) 1/4  (e) 554  (f) -0.07
+d
+Berapa nilai keempat terbesar dalam -58, 1458, -2/43, -0.1?
+-58
+Manakah nilai keenam terbesar?  (a) -1  (b) -5  (c) -0.2801  (d) 1  (e) -0.4  (f) -3
+b
+Manakah nilai terbesar?  (a) -8.8811  (b) -10/541  (c) -3
+b
+Berapa nilai ketiga terkecil dalam 774, 0.1, -56, -2/11, 2, 1?
+0.1
+Manakah nilai kedua terbesar?  (a) -0.5  (b) -615870410  (c) -1/5
+a
+Manakah nilai kedua terkecil?  (a) 442523  (b) 3  (c) 6
+c
+Berapa nilai terkecil dalam 33, 263, 5, 13, 6, -2/5?
+-2/5
+Berapa nilai ketiga terbesar dalam 609, 13, -13369?
+-13369
+Berapa nilai ketiga terkecil dalam -3/4, 163894, 2, 3, 0.48?
+2
+Berapa nilai kedua terkecil dalam 209, -12278, -1.4?
+-1.4
+Manakah nilai keenam terkecil?  (a) 0.2  (b) -3/8  (c) -0.64769  (d) 4  (e) 7  (f) 1/4  (g) 0
+d
+Manakah nilai keempat terkecil?  (a) -3/4  (b) 2  (c) 6700106  (d) -4  (e) -3
+b
+Manakah nilai ketiga terbesar?  (a) 6  (b) 22  (c) -4  (d) 12  (e) -1/3  (f) -3  (g) -2/11
+a
+Berapa nilai kelima terbesar dalam -1, -186/11, -23, -5, 0.1?
+-23
+Berapa nilai terkecil dalam -3, -65, -3.074, 2/5, 7, 4?
+-65
+Manakah nilai ketiga terkecil?  (a) 174  (b) 4/7  (c) 1/13  (d) 260
+a
+Manakah nilai terbesar?  (a) 0.07  (b) -3  (c) -5  (d) 98  (e) 2  (f) -446.3  (g) -1
+d
+Berapa nilai kedua terbesar dalam 76, 11265, -0.2, 0.8?
+76
+Manakah nilai kedua terkecil?  (a) -27  (b) 0  (c) 18/5  (d) -301  (e) 1/5  (f) 4/5  (g) -1/2
+a
+Berapa nilai ketiga terbesar dalam -55, 22/87, 4/5, 3, -1?
+22/87
+Berapa nilai kelima terkecil dalam -13, -1/5, 0.17, 3, 6, 2?
+3
+Berapa nilai kedua terkecil dalam -62018, -0.003, 0.3, -1?
+-1
+Manakah nilai kedua terbesar?  (a) 6  (b) 194210  (c) -0.2
+a
+Berapa nilai kedua terbesar dalam -3, 2, -1.2, 1, -10, 85, -13?
+2
+Manakah nilai kelima terkecil?  (a) 0.1  (b) 19/3  (c) 0.3  (d) 59/13  (e) 5  (f) 0.5
+e
+Berapa nilai kedua terbesar dalam -2, 7864, 186, 1, -2/3?
+186
+Manakah nilai kelima terbesar?  (a) 0.3  (b) -3.341  (c) 21  (d) -5  (e) -2  (f) -6
+d
+Manakah nilai ketiga terkecil?  (a) 2/17  (b) 12/11  (c) -3/10  (d) -1/111  (e) 10  (f) -0.1
+d
+Berapa nilai keenam terkecil dalam -4, -2/3, 2, 4, 56, -6, -21?
+4
+Manakah nilai terbesar?  (a) -1  (b) -169285000  (c) 4
+c
+Berapa nilai ketiga terbesar dalam 26, 4, -2/13, 1.5924?
+1.5924
+Berapa nilai ketiga terkecil dalam -4, 3, -0.15, 6.5, 0.424?
+0.424
+Manakah nilai kedua terkecil?  (a) -2/257  (b) -2  (c) 1/2  (d) 2.439  (e) 12  (f) 5/3  (g) 0
+a
+Manakah nilai ketiga terkecil?  (a) 10  (b) 1/5  (c) 1/10  (d) 2/15  (e) -2/5  (f) 57
+d
+Manakah nilai ketiga terbesar?  (a) 4/3  (b) -62846  (c) -0.3  (d) -2/847
+c
+Berapa nilai ketiga terkecil dalam -0.5, 5, 6/103, -6, -80?
+-0.5
+Manakah nilai keempat terkecil?  (a) -0.5  (b) 8372  (c) 2241  (d) -2/11
+b
+Manakah nilai keempat terbesar?  (a) -2  (b) 1/4  (c) -408  (d) 0.206
+c
+Berapa nilai kelima terbesar dalam 0.08, -257, 1/2, 5, -11.4, -3/2?
+-11.4
+Manakah nilai terkecil?  (a) -2  (b) -29  (c) -3/7  (d) 134  (e) -1/7  (f) -1  (g) -4
+b
+Berapa nilai keempat terkecil dalam 4, -4, 5/4, -369, -13, 2/5, -11?
+-4
+Berapa nilai ketiga terkecil dalam 13.949, -2/3, -0.2, -22?
+-0.2
+Berapa nilai terbesar dalam -2/3, 1/7, 4, 0, -1, 3537/28, 103?
+3537/28
+Berapa nilai kedua terkecil dalam 1, 0.4, -5/7, -1.8299?
+-5/7
+Manakah nilai keenam terkecil?  (a) -1  (b) -4  (c) 1/5  (d) 0.385  (e) -2  (f) 0.529
+f
+Manakah nilai kedua terkecil?  (a) -17990  (b) -8/3  (c) -0.4  (d) -76
+d
+Berapa nilai kedua terbesar dalam -0.2, 2/17, -31, 12, 2, 4, -2/15?
+4
+Berapa nilai ketiga terbesar dalam -8, 8/253, -21, 0.04?
+-8
+Berapa nilai kedua terbesar dalam 0.036438, -1.7, 1.6?
+0.036438
+Manakah nilai ketiga terbesar?  (a) 1/5  (b) -6.831  (c) 0.21  (d) 0  (e) 3
+a
+Berapa nilai keempat terbesar dalam 191, -343, -150, 0?
+-343
+Manakah nilai keenam terkecil?  (a) -82  (b) -2  (c) 0.3  (d) -0.05  (e) -0.1  (f) 3  (g) -2/11
+c
+Berapa nilai ketiga terbesar dalam 0.2, -3, -15, 80, 1/3, 4?
+1/3
+Berapa nilai keempat terbesar dalam -1/3, -14, -1/27, 3, -8136?
+-14
+Manakah nilai kedua terbesar?  (a) -227.2833  (b) -1  (c) 12
+b
+Manakah nilai ketiga terbesar?  (a) -644  (b) 18  (c) -0.2
+a
+Manakah nilai terkecil?  (a) 388  (b) -2/3  (c) -4  (d) -0.1  (e) -0.3  (f) 10
+c
+Berapa nilai keenam terkecil dalam 1/18, -0.4, 5.77, 1, -5/9, -5, 1/2?
+1
+Berapa nilai kelima terbesar dalam -234, -4/3, 4/29, 103, 0.3?
+-234
+Berapa nilai ketiga terkecil dalam 2347267, 0.3, 2/5, -1?
+2/5
+Berapa nilai terbesar dalam -2/5, -3/4, -13, 3/2, -1, -404?
+3/2
+Berapa nilai keenam terkecil dalam -2/5, 1, 7/2, -6, 816/11, -1/2?
+816/11
+Manakah nilai kedua terkecil?  (a) -4/5  (b) -8/19  (c) -0.108917  (d) 0.3
+b
+Manakah nilai ketiga terbesar?  (a) 10  (b) 43/7  (c) -0.009  (d) -1/3  (e) 0.5
+e
+Berapa nilai terbesar dalam -2426, -323, -4/5, -2/5?
+-2/5
+Berapa nilai keempat terbesar dalam -2, 0.3, 1/6, 3759, -4, -17.2?
+-2
+Berapa nilai terkecil dalam 1/9, 0, -7/1000?
+-7/1000
+Berapa nilai keempat terbesar dalam -0.1, 94, 167, 1/5, -11, 4, -0.4?
+1/5
+Berapa nilai keempat terkecil dalam -0.4, 5/7, -3, 2/2857, 3/5?
+3/5
+Manakah nilai terbesar?  (a) -13  (b) -1087069  (c) 0.6
+c
+Manakah nilai kedua terkecil?  (a) 2.05  (b) 6  (c) 0.858
+a
+Berapa nilai kedua terkecil dalam -3/14, 5652, 13, 2?
+2
+Berapa nilai terkecil dalam 2, 4, 3, 87691, 0.01?
+0.01
+Berapa nilai kedua terkecil dalam -48433, -0.6, 4/13?
+-0.6
+Berapa nilai terbesar dalam 110654, 3, 0.4, 0.7?
+110654
+Manakah nilai terkecil?  (a) -34  (b) 4  (c) 6/11  (d) -0.05  (e) 1  (f) -231  (g) -1/3
+f
+Manakah nilai keempat terkecil?  (a) 0.3  (b) -1  (c) 15/25264  (d) 12
+d
+Manakah nilai terbesar?  (a) -1/6  (b) -45/13  (c) -1/5388
+c
+Manakah nilai keempat terbesar?  (a) -32  (b) 0  (c) 0.9  (d) 10  (e) 3/8
+b
+Berapa nilai kedua terkecil dalam -3.90844, 2/25, -3?
+-3
+Manakah nilai ketiga terbesar?  (a) -9  (b) 5  (c) -199813
+c
+Berapa nilai keempat terbesar dalam 143, 1/4, 1, -17, -3, -102?
+-3
+Manakah nilai kelima terbesar?  (a) 5  (b) -51  (c) 2/7  (d) 115/33  (e) 4
+b
+Berapa nilai keempat terkecil dalam -4375, 2, -4, 1, 4/3?
+4/3
+Manakah nilai keempat terkecil?  (a) -2/19  (b) 2/7  (c) -1/2  (d) -1.43  (e) -1/5  (f) 1/8
+a
+Manakah nilai ketiga terkecil?  (a) 3  (b) 0  (c) 2  (d) -1/182  (e) 11  (f) -84/5  (g) -5
+d
+Berapa nilai ketiga terbesar dalam 3/4, 3, 15459864?
+3/4
+Manakah nilai keempat terkecil?  (a) 58  (b) 1177  (c) 2  (d) -1  (e) 4
+a
+Manakah nilai kedua terbesar?  (a) 696699  (b) -199  (c) 2/11
+c
+Manakah nilai kedua terkecil?  (a) 302  (b) -1565/6  (c) -7  (d) 0.1
+c
+Berapa nilai keempat terbesar dalam -4942, 0.4, 3, -9, 6/11?
+-9
+Manakah nilai ketiga terbesar?  (a) -0.5  (b) 9/10  (c) -2  (d) 94  (e) 121  (f) -0.2
+b
+Berapa nilai kedua terkecil dalam -110, 0.2, 65976?
+0.2
+Berapa nilai keempat terbesar dalam -0.0487, 1, -67, 2?
+-67
+Berapa nilai ketiga terbesar dalam 15, -6, -4, 0, -366?
+-4
+Manakah nilai terkecil?  (a) 1/3  (b) -7503  (c) 2.7  (d) 4
+b
+Manakah nilai kelima terbesar?  (a) 5  (b) -14/3  (c) 2  (d) 2/11  (e) 0.0056
+b
+Berapa nilai terkecil dalam 1/3, -1, 2079654?
+-1
+Manakah nilai keempat terkecil?  (a) -17  (b) 2/7  (c) -2  (d) -1  (e) -24  (f) 0.0359  (g) 17
+d
+Berapa nilai keempat terkecil dalam 3/8, 32, -3/325, -2/15, 2/7, -4?
+2/7
+Manakah nilai kedua terkecil?  (a) 18.5  (b) 0.5  (c) 1/3  (d) 2  (e) 3/2  (f) -0.6  (g) 0.1
+g
+Berapa nilai keempat terkecil dalam -0.65, 68/7, -1/14, -4, 1/2, -4/3?
+-1/14
+Manakah nilai keempat terbesar?  (a) 8  (b) 461  (c) -5  (d) 1/4  (e) 12.974
+d
+Berapa nilai kedua terbesar dalam 1/3, -8, 0.9, 6/43, 1/4, 21?
+0.9
+Berapa nilai kelima terbesar dalam 0.07, -24524, 0.1, 0.4, -2/7?
+-24524
+Manakah nilai ketiga terkecil?  (a) -0.987  (b) 2/5  (c) 6  (d) -0.11  (e) -0.5  (f) 2
+d
+Manakah nilai kelima terkecil?  (a) 0.2  (b) -2/103  (c) 5  (d) -16  (e) 2/9  (f) -5  (g) 2
+e
+Manakah nilai terbesar?  (a) -6/55  (b) 0.3  (c) -0.3  (d) 1/23  (e) 5/3  (f) 0.1  (g) 135.8
+g
+Manakah nilai terkecil?  (a) 3  (b) -23  (c) 7/6  (d) 0  (e) 299  (f) 2
+b
+Manakah nilai kelima terbesar?  (a) -592  (b) -12  (c) -2  (d) 0.34  (e) -3  (f) 0.8
+b
+Berapa nilai ketiga terkecil dalam 5, -8, -2374/365?
+5
+Berapa nilai keempat terkecil dalam -1/73, -23, 0, 0.03, -0.5, 24?
+0
+Manakah nilai kelima terkecil?  (a) 0.176136  (b) 0.06  (c) 2  (d) -3  (e) -1.1
+c
+Berapa nilai keempat terkecil dalam -14.133, 2/1831, -0.5, 5, -1, 2/5?
+2/1831
+Berapa nilai ketiga terbesar dalam 2.8, -6/11, 0.195?
+-6/11
+Berapa nilai terkecil dalam 5, -8830, -1, 1/3, 4, 2/87, -4?
+-8830
+Manakah nilai kedua terkecil?  (a) -21319  (b) 2/11009  (c) -5
+c
+Manakah nilai kedua terkecil?  (a) 4  (b) -0.9  (c) 658.576
+a
+Manakah nilai terkecil?  (a) 1.32  (b) 847  (c) 2  (d) -2  (e) -1  (f) 1/9
+d
+Berapa nilai ketiga terkecil dalam 1253, -279.2, 11?
+1253
+Manakah nilai kedua terkecil?  (a) -5  (b) -578  (c) -288  (d) -5/11
+c
+Berapa nilai keempat terbesar dalam 0.093, 0, -6, 3/4, 91?
+0
+Manakah nilai keempat terbesar?  (a) 3  (b) 0.5  (c) -0.5  (d) 4  (e) 5  (f) -2  (g) 124.7
+a
+Berapa nilai keempat terbesar dalam 187, -2, -0.07, 18, 2.5?
+-0.07
+Manakah nilai ketiga terbesar?  (a) 108/7  (b) -3/7  (c) 40938
+b
+Berapa nilai terbesar dalam -2/21, -0.8, 0, -2, -2/15, -5/4, -1/64121?
+0
+Berapa nilai keenam terkecil dalam 0.1, -0.01462, -25, -2/11, -1, 19/13?
+19/13
+Manakah nilai ketiga terbesar?  (a) 60  (b) -0.3  (c) -1  (d) -4770
+c
+Berapa nilai kelima terkecil dalam 2/11, 990/19, 0.5, 1, -3?
+990/19
+Berapa nilai terkecil dalam -4791204, 3/7, -2, -3/4, -4, 2/3, 3?
+-4791204
+Berapa nilai terbesar dalam 26820, -2/13, -2/11, 3?
+26820
+Berapa nilai ketiga terbesar dalam 84/19, 20875, 3?
+3
+Berapa nilai kedua terbesar dalam 1, 130.6, 75, -3?
+75
+Berapa nilai ketiga terkecil dalam 15/23, 0.2, 3763.5, 1/4, 4, -5?
+1/4
+Berapa nilai kedua terbesar dalam -2/7, 0.3, -30/7, 10, -327/92, -0.3?
+0.3
+Manakah nilai terbesar?  (a) -2  (b) 1  (c) -3127  (d) 2
+d
+Berapa nilai ketiga terbesar dalam -7/74, -4.28, -0.4?
+-4.28
+Berapa nilai kedua terbesar dalam -1/6, -0.03, 4/3, -93.5, 48?
+4/3
+Berapa nilai ketiga terbesar dalam 2/15, -278855, 1/4, -1, 3?
+2/15
+Manakah nilai terbesar?  (a) 2/3  (b) 21  (c) -1  (d) 3  (e) 0.05  (f) 0.3  (g) 0.04
+b
+Berapa nilai kedua terbesar dalam -159, 4, 2, 44, 63, 0.3?
+44
+Manakah nilai terbesar?  (a) 4/5  (b) 1  (c) 0.4535445  (d) 3/4
+b
+Manakah nilai kedua terkecil?  (a) -0.12  (b) 99/61  (c) -0.4
+a
+Berapa nilai ketiga terbesar dalam 0.08, -2/5, -2, 0.286, 6, 0.86?
+0.286
+Manakah nilai kedua terbesar?  (a) 6/5  (b) -1  (c) 1.042  (d) 0.02  (e) 0.2
+c
+Manakah nilai terbesar?  (a) 1  (b) -0.194211  (c) -5.3  (d) 2
+d
+Berapa nilai kedua terbesar dalam -1/4, 2/5, 1.2208?
+2/5
+Berapa nilai terkecil dalam -48/8921, 82, 0.1?
+-48/8921
+Berapa nilai kedua terkecil dalam -3, 1/2, -2.4, -0.4, 5, 2/21, 0.4?
+-2.4
+Manakah nilai ketiga terkecil?  (a) 7  (b) 1/60  (c) 1  (d) -1  (e) -1/3  (f) 0.39
+b
+Manakah nilai keenam terbesar?  (a) 0  (b) -1135472  (c) 3/2  (d) -2  (e) 1.2  (f) 4/9
+b
+Berapa nilai keenam terbesar dalam 1, 1/2, -2, -3/5, -8/5, 133.9?
+-2
+Manakah nilai kedua terkecil?  (a) -0.4  (b) 1  (c) 0.1  (d) -2  (e) 72788  (f) 2/3  (g) 5
+a
+Berapa nilai ketiga terbesar dalam 4, 2, -1, 0.08, -90, -16, -0.2?
+0.08
+Berapa nilai kedua terbesar dalam 6264/11, 1/6, 0, 4, -2?
+4
+Manakah nilai kedua terkecil?  (a) 2  (b) 5  (c) 0.2  (d) 3  (e) -1  (f) -1/6  (g) 51.4985
+f
+Berapa nilai kelima terbesar dalam 5, 1/5, -0.4, 26/3, 2/5?
+-0.4
+Berapa nilai kedua terbesar dalam 0.2, -2/9, -4, -5/2, 302, 52, -2/23?
+52
+Manakah nilai keempat terkecil?  (a) -5.628  (b) -0.5  (c) 59  (d) 2
+c
+Berapa nilai kedua terkecil dalam -12, -410, -884, -0.2?
+-410
+Berapa nilai ketiga terbesar dalam -89, 23, 2/3, 0.3, -1/2?
+0.3
+Berapa nilai kedua terbesar dalam 265/156, 1/4, -1, 5?
+265/156
+Manakah nilai kedua terkecil?  (a) -1  (b) 23/3  (c) 1  (d) 326331
+c
+Manakah nilai ketiga terkecil?  (a) 2.7  (b) 4  (c) -0.089  (d) -1/546
+a
+Manakah nilai kedua terkecil?  (a) -8/3  (b) -9137  (c) -7
+c
+Manakah nilai ketiga terbesar?  (a) -1.4  (b) -5  (c) -139  (d) -6381
+c
+Berapa nilai kelima terkecil dalam 3, -8/5, 0.5, 182, -52?
+182
+Berapa nilai keempat terbesar dalam 0.1, 11, -3, 72721?
+-3
+Manakah nilai ketiga terkecil?  (a) 0.4  (b) 0  (c) -16823881
+a
+Berapa nilai keempat terkecil dalam -4/63, 3, 0.2, -1, 5?
+3
+Berapa nilai keenam terbesar dalam 12, -2/9, 1/3, -43/6, -0.1, -218?
+-218
+Berapa nilai kedua terbesar dalam 5, -14327, 35, 1/5, 1/2, -5?
+5
+Manakah nilai kedua terbesar?  (a) 0  (b) -1/3  (c) -1/6  (d) -2  (e) -4/15  (f) 2
+a
+Berapa nilai terbesar dalam 2/3, -4/393, 1/4, -4, 14/29?
+2/3
+Berapa nilai kedua terkecil dalam 0.4, -10, 387/7, -2/13?
+-2/13
+Manakah nilai kedua terbesar?  (a) 363  (b) -2  (c) -27  (d) -1/58
+d
+Manakah nilai terbesar?  (a) -38  (b) 5  (c) 225  (d) -1/113  (e) 12
+c
+Manakah nilai terbesar?  (a) 12  (b) 17  (c) -2.53176
+b
+Berapa nilai ketiga terbesar dalam -80, -1/3, 36142?
+-80
+Manakah nilai kedua terkecil?  (a) 9  (b) 148  (c) -0.2  (d) -0.4  (e) -24  (f) 5  (g) -2/3
+g
+Berapa nilai kedua terbesar dalam 3, -192, -0.52, -2/3, 0.1?
+0.1
+Manakah nilai kedua terkecil?  (a) 0.2  (b) 2/19  (c) 55930  (d) 144/11
+a
+Berapa nilai kedua terkecil dalam -0.24, 3040, 2, -1/52?
+-1/52
+Berapa nilai kedua terbesar dalam -2904.6, -1/4, 1/4, 1, -0.2?
+1/4
+Manakah nilai terbesar?  (a) -8/19  (b) -8  (c) 1/541
+c
+Berapa nilai keempat terkecil dalam 2/5, -13.6, -11, 0.37, -8?
+0.37
+Berapa nilai keempat terbesar dalam -2, 2, -2/29, 3, 0.5, -6170, 0.03?
+0.03
+Manakah nilai ketiga terbesar?  (a) -1/1987  (b) 5  (c) -292  (d) -0.06
+d
+Berapa nilai kedua terkecil dalam -2/7, 0, -3.694, 2/15, 3?
+-2/7
+Manakah nilai ketiga terbesar?  (a) 4309  (b) 0.4  (c) 3  (d) -37  (e) -11
+b
+Manakah nilai ketiga terkecil?  (a) 1067  (b) -2  (c) -188  (d) -1/5
+d
+Berapa nilai kedua terkecil dalam 504, -1/5063, -0.3, 10/11?
+-1/5063
+Manakah nilai kelima terkecil?  (a) 0.03  (b) -14/41  (c) 6/13  (d) -4  (e) -8  (f) 4
+c
+Manakah nilai kelima terkecil?  (a) 1/4  (b) 2/113  (c) 0.5  (d) -5/23  (e) -5/24  (f) 5  (g) 2/7
+g
+Berapa nilai kedua terkecil dalam -546575, 1.7, 33/4?
+1.7
+Manakah nilai terkecil?  (a) 4  (b) -2/13  (c) -3.9  (d) -2  (e) -0.01  (f) -3
+c
+Manakah nilai ketiga terbesar?  (a) 0.5  (b) -2  (c) -11  (d) -2/7  (e) -1.64  (f) 45  (g) 1
+a
+Manakah nilai ketiga terkecil?  (a) 0.2  (b) 2/11  (c) 165  (d) 5/7  (e) -25
+a
+Berapa nilai terkecil dalam -112918, 1/2, 6/53, -5?
+-112918
+Berapa nilai terkecil dalam 8.94337, -0.2, -16, 1/3?
+-16
+Berapa nilai terkecil dalam -77, 63, 4/7, 201?
+-77
+Berapa nilai terkecil dalam 17, -1/4, 3, -2/29, -1, -0.5, 13.9?
+-1
+Manakah nilai keenam terkecil?  (a) 65  (b) -0.5  (c) -2/5  (d) -3  (e) -43/15  (f) 0
+a
+Manakah nilai kedua terbesar?  (a) 61  (b) -41  (c) 38  (d) 1
+c
+Berapa nilai keenam terkecil dalam -0.2, 0.1, -78, -2/9, 0.5, -2, 30?
+0.5
+Manakah nilai kedua terbesar?  (a) 2/5  (b) 4  (c) 0.7  (d) 156  (e) 0  (f) 1/3
+b
+Berapa nilai kedua terbesar dalam 824, 13, -2738?
+13
+Berapa nilai keenam terkecil dalam -0.2, -4, -10, 1.12, -3, 8/17?
+1.12
+Berapa nilai ketiga terkecil dalam -3/8, -0.4, 353568?
+353568
+Manakah nilai terbesar?  (a) -5/3  (b) -4/7  (c) 245  (d) 5  (e) -5  (f) -581  (g) 1/4
+c
+Berapa nilai terkecil dalam -5, -1255, -16899?
+-16899
+Berapa nilai terbesar dalam 517, -0.1397, -4/3, 5, -1?
+517
+Manakah nilai keempat terbesar?  (a) -4  (b) 1/7  (c) 388  (d) -3.9  (e) -3/8
+d
+Berapa nilai terkecil dalam -2, 16277, 314?
+-2
+Berapa nilai keempat terbesar dalam -1/766, -0.1, -25, 2/261, -0.09, 3?
+-0.09
+Manakah nilai ketiga terkecil?  (a) -1283  (b) -29  (c) -35/6
+c
+Berapa nilai terkecil dalam 0, -1/7, 15, -1339, -19, -3?
+-1339
+Manakah nilai terkecil?  (a) 1  (b) 2  (c) -6588/37
+c
+Manakah nilai kelima terbesar?  (a) 3/5  (b) -1/35  (c) 4  (d) 1.1  (e) -10  (f) -1/9
+f
+Berapa nilai kelima terbesar dalam 3, 7/2, 0, 1, 1/36?
+0
+Manakah nilai keenam terkecil?  (a) 5099  (b) 0.2  (c) -0.5  (d) -17  (e) 3  (f) 0.4  (g) -0.6
+e
+Manakah nilai kedua terkecil?  (a) -8  (b) 1689  (c) -6  (d) -1/71
+c
+Berapa nilai terbesar dalam -0.0182, 0.05, 1/7, 271?
+271
+Manakah nilai ketiga terkecil?  (a) 0.2  (b) -3/34  (c) -0.04  (d) -0.1  (e) 996  (f) -11
+b
+Manakah nilai terbesar?  (a) -1  (b) 45467/8  (c) 1/10  (d) -7
+b
+Manakah nilai terkecil?  (a) 6/13  (b) -3380  (c) -0.5
+b
+Manakah nilai terbesar?  (a) 1.56  (b) -6/19  (c) 13.2  (d) 2
+c
+Berapa nilai keempat terkecil dalam -9120, 1, 2/21, 1.9?
+1.9
+Berapa nilai keenam terbesar dalam -1/3, -1/2, 766, -5, -0.172, -0.3?
+-5
+Manakah nilai terbesar?  (a) 5  (b) -437025  (c) 0.04  (d) -0.2
+a
+Manakah nilai ketiga terkecil?  (a) -3  (b) -3008  (c) 30/7  (d) -2/5
+d
+Berapa nilai ketiga terbesar dalam -0.05, -5, 0.1461, 0.5, 2/2697?
+2/2697

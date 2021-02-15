@@ -1,0 +1,2000 @@
+Apakah 613589239 komposit?
+True
+Apakah 2635903271 komposit?
+True
+Apakah 74708819 prima?
+False
+Apakah 161240621 komposit?
+False
+Apakah 1634562581 bilangan prima?
+False
+Apakah 12345559141 komposit?
+False
+Apakah 1881613561 bilangan komposit?
+False
+Apakah 378595193 prima?
+True
+Apakah 36288017 bilangan komposit?
+False
+Apakah 147991309 bilangan prima?
+False
+Apakah 1825076941 komposit?
+True
+Apakah 272922271 bilangan prima?
+True
+Apakah 176342723 prima?
+True
+Apakah 9888887659 bilangan komposit?
+True
+Apakah 2283933449 bilangan komposit?
+True
+Apakah 557793433 komposit?
+True
+Apakah 629347807 bilangan prima?
+False
+Apakah 229698797 prima?
+True
+Apakah 243812833 bilangan prima?
+False
+Apakah 268544729 bilangan prima?
+False
+Apakah 1685770109 prima?
+True
+Apakah 2843878601 bilangan komposit?
+True
+Apakah 2238735799 komposit?
+True
+Apakah 2311519433 prima?
+False
+Apakah 2385724897 komposit?
+False
+Apakah 30770903 bilangan prima?
+False
+Apakah 104237554 prima?
+False
+Apakah 1141285247 bilangan komposit?
+False
+Apakah 824872981 bilangan prima?
+True
+Apakah 297450269 komposit?
+True
+Apakah 5397100131 komposit?
+True
+Apakah 3356101799 komposit?
+False
+Apakah 1534771261 bilangan prima?
+True
+Apakah 134415833 komposit?
+True
+Apakah 196897529 komposit?
+False
+Apakah 395395253 bilangan prima?
+False
+Apakah 455752897 prima?
+True
+Apakah 70529989 bilangan komposit?
+True
+Apakah 1723494517 komposit?
+False
+Apakah 2938073057 bilangan prima?
+True
+Apakah 946188821 komposit?
+False
+Apakah 3031034059 bilangan prima?
+True
+Apakah 2638283527 bilangan prima?
+False
+Apakah 289356911 bilangan prima?
+True
+Apakah 309123277 bilangan komposit?
+True
+Apakah 1285636663 prima?
+False
+Apakah 1993123079 bilangan prima?
+True
+Apakah 64222889 prima?
+False
+Apakah 262111267 bilangan prima?
+False
+Apakah 299090443 prima?
+True
+Apakah 55409251 komposit?
+False
+Apakah 680255113 bilangan prima?
+True
+Apakah 2273832481 bilangan prima?
+True
+Apakah 561160681 bilangan prima?
+True
+Apakah 908548871 komposit?
+False
+Apakah 396183979 bilangan prima?
+True
+Apakah 548739071 komposit?
+False
+Apakah 437696551 bilangan komposit?
+False
+Apakah 409091833 bilangan prima?
+False
+Apakah 44083813 bilangan komposit?
+False
+Apakah 434119853 bilangan komposit?
+True
+Apakah 1364768161 komposit?
+False
+Apakah 2432952349 prima?
+True
+Apakah 25746199 bilangan komposit?
+False
+Apakah 166828829 komposit?
+False
+Apakah 1041152921 bilangan komposit?
+False
+Apakah 1078342813 bilangan prima?
+False
+Apakah 2747259997 komposit?
+True
+Apakah 56321803 bilangan prima?
+True
+Apakah 3389948203 komposit?
+False
+Apakah 351879817 bilangan komposit?
+True
+Apakah 222123211 bilangan komposit?
+True
+Apakah 890819911 bilangan komposit?
+True
+Apakah 336433301 komposit?
+True
+Apakah 137216167 prima?
+False
+Apakah 179817403 prima?
+True
+Apakah 2694589999 bilangan komposit?
+False
+Apakah 175286329 komposit?
+False
+Apakah 1021661249 bilangan komposit?
+True
+Apakah 11817371255 prima?
+False
+Apakah 80515702 prima?
+False
+Apakah 124741453 prima?
+False
+Apakah 233239351 bilangan prima?
+True
+Apakah 109010711 komposit?
+False
+Apakah 473556691 bilangan komposit?
+False
+Apakah 100415411 komposit?
+False
+Apakah 541258789 komposit?
+False
+Apakah 378379703 komposit?
+True
+Apakah 633966995 komposit?
+True
+Apakah 566573179 prima?
+False
+Apakah 351711989 komposit?
+False
+Apakah 207937031 bilangan prima?
+True
+Apakah 825188383 prima?
+True
+Apakah 632853401 bilangan komposit?
+False
+Apakah 850250189 bilangan prima?
+False
+Apakah 34944191 komposit?
+False
+Apakah 2703461581 bilangan prima?
+True
+Apakah 694207361 prima?
+True
+Apakah 845789719 prima?
+True
+Apakah 964715761 komposit?
+True
+Apakah 957415651 bilangan prima?
+False
+Apakah 265459409 bilangan prima?
+False
+Apakah 4301469721 bilangan prima?
+True
+Apakah 1686268859 bilangan komposit?
+True
+Apakah 805402699 komposit?
+False
+Apakah 170244391 prima?
+True
+Apakah 768091539 bilangan prima?
+False
+Apakah 392959117 prima?
+False
+Apakah 25438271 prima?
+True
+Apakah 2977212487 bilangan prima?
+False
+Apakah 685519091 bilangan prima?
+False
+Apakah 471739007 prima?
+True
+Apakah 1434274161 bilangan prima?
+False
+Apakah 997097359 bilangan komposit?
+True
+Apakah 253668539 bilangan komposit?
+True
+Apakah 419867879 prima?
+True
+Apakah 1065546653 bilangan komposit?
+False
+Apakah 1069424641 prima?
+True
+Apakah 1129561091 bilangan prima?
+False
+Apakah 558599083 bilangan prima?
+False
+Apakah 6804157 prima?
+False
+Apakah 547123711 komposit?
+False
+Apakah 155903999 prima?
+True
+Apakah 1066233017 komposit?
+False
+Apakah 1581026329 bilangan prima?
+False
+Apakah 1474034959 bilangan prima?
+True
+Apakah 924000433 bilangan komposit?
+True
+Apakah 6842108423 bilangan komposit?
+False
+Apakah 438857249 bilangan prima?
+True
+Apakah 1075224223 bilangan prima?
+True
+Apakah 621704119 bilangan komposit?
+False
+Apakah 2828140801 komposit?
+True
+Apakah 35477077 komposit?
+True
+Apakah 226451243 bilangan komposit?
+True
+Apakah 522548921 bilangan komposit?
+False
+Apakah 1218382567 bilangan komposit?
+True
+Apakah 14670407 prima?
+False
+Apakah 1521201989 prima?
+False
+Apakah 15601879 bilangan prima?
+False
+Apakah 296697389 prima?
+False
+Apakah 233304649 bilangan komposit?
+False
+Apakah 456112387 prima?
+True
+Apakah 2184237259 bilangan komposit?
+False
+Apakah 1138788281 prima?
+True
+Apakah 189850741 komposit?
+True
+Apakah 1221277641 bilangan prima?
+False
+Apakah 2472160277 komposit?
+False
+Apakah 764013781 bilangan komposit?
+False
+Apakah 683040427 bilangan komposit?
+False
+Apakah 2820152323 komposit?
+True
+Apakah 558032498 komposit?
+True
+Apakah 2173657217 komposit?
+False
+Apakah 1088282707 komposit?
+False
+Apakah 2166542309 bilangan komposit?
+False
+Apakah 235685546 bilangan prima?
+False
+Apakah 704252477 komposit?
+True
+Apakah 42859969 bilangan komposit?
+False
+Apakah 226502833 prima?
+False
+Apakah 946742921 bilangan komposit?
+False
+Apakah 510638237 prima?
+True
+Apakah 412874729 prima?
+True
+Apakah 2898103 prima?
+False
+Apakah 200785049 prima?
+True
+Apakah 1201065737 bilangan prima?
+False
+Apakah 1040017613 prima?
+False
+Apakah 263007383 bilangan komposit?
+True
+Apakah 565249709 bilangan komposit?
+False
+Apakah 840577879 komposit?
+True
+Apakah 1880407855 bilangan prima?
+False
+Apakah 714168489 prima?
+False
+Apakah 360572395 prima?
+False
+Apakah 2160386359 komposit?
+False
+Apakah 817560049 prima?
+False
+Apakah 2974544561 prima?
+False
+Apakah 1106382949 bilangan prima?
+False
+Apakah 2343406411 bilangan prima?
+True
+Apakah 175073797 komposit?
+True
+Apakah 17018821 bilangan komposit?
+True
+Apakah 2424503 bilangan komposit?
+True
+Apakah 3923988181 bilangan komposit?
+True
+Apakah 416409913 komposit?
+False
+Apakah 502453799 bilangan prima?
+True
+Apakah 606002374 bilangan prima?
+False
+Apakah 2374624411 bilangan prima?
+False
+Apakah 1313748347 bilangan komposit?
+True
+Apakah 85602799 prima?
+True
+Apakah 17153477 prima?
+False
+Apakah 1975034291 bilangan komposit?
+True
+Apakah 474652307 prima?
+False
+Apakah 28477619 komposit?
+False
+Apakah 851485262 komposit?
+True
+Apakah 119958911 bilangan prima?
+True
+Apakah 1893851822 komposit?
+True
+Apakah 713271011 bilangan prima?
+False
+Apakah 354910051 komposit?
+False
+Apakah 1966108553 komposit?
+True
+Apakah 1871555047 bilangan prima?
+True
+Apakah 279008489 bilangan komposit?
+True
+Apakah 312146059 prima?
+False
+Apakah 970749053 bilangan prima?
+True
+Apakah 1977895519 bilangan komposit?
+False
+Apakah 99329911 bilangan prima?
+False
+Apakah 181077563 bilangan prima?
+False
+Apakah 513862529 bilangan prima?
+True
+Apakah 226353157 bilangan komposit?
+False
+Apakah 3415579703 bilangan prima?
+False
+Apakah 1783943131 komposit?
+False
+Apakah 1883044199 bilangan komposit?
+False
+Apakah 2703142615 bilangan komposit?
+True
+Apakah 107858773 bilangan komposit?
+True
+Apakah 387222881 bilangan prima?
+True
+Apakah 1428469967 bilangan prima?
+False
+Apakah 963314609 komposit?
+False
+Apakah 2428760855 bilangan komposit?
+True
+Apakah 1727955403 komposit?
+False
+Apakah 2039704913 bilangan komposit?
+False
+Apakah 1032091157 prima?
+True
+Apakah 562949089 komposit?
+False
+Apakah 2038598827 komposit?
+False
+Apakah 1050795971 komposit?
+False
+Apakah 254168591 prima?
+True
+Apakah 124089193 bilangan prima?
+True
+Apakah 182761487 komposit?
+False
+Apakah 578847889 komposit?
+False
+Apakah 2139084301 prima?
+False
+Apakah 359244397 bilangan komposit?
+False
+Apakah 1723167997 bilangan komposit?
+False
+Apakah 1420278245 bilangan komposit?
+True
+Apakah 1018833449 bilangan komposit?
+False
+Apakah 435991 komposit?
+True
+Apakah 143807207 komposit?
+True
+Apakah 402167687 bilangan komposit?
+False
+Apakah 5715839 bilangan komposit?
+False
+Apakah 1368326035 bilangan komposit?
+True
+Apakah 285930113 bilangan prima?
+False
+Apakah 2318850143 bilangan prima?
+True
+Apakah 2569065409 komposit?
+True
+Apakah 297380143 bilangan komposit?
+False
+Apakah 76933199 prima?
+False
+Apakah 756684307 prima?
+True
+Apakah 2246647657 prima?
+False
+Apakah 834006497 prima?
+False
+Apakah 159821059 komposit?
+True
+Apakah 1809392153 prima?
+True
+Apakah 163667963 komposit?
+True
+Apakah 1475708219 prima?
+True
+Apakah 198013589 komposit?
+False
+Apakah 1278213103 prima?
+True
+Apakah 9550847 bilangan prima?
+False
+Apakah 5366330489 komposit?
+True
+Apakah 386893291 bilangan prima?
+True
+Apakah 3629780861 komposit?
+True
+Apakah 1951359167 prima?
+True
+Apakah 3269309 bilangan prima?
+False
+Apakah 2348197109 komposit?
+True
+Apakah 1316281247 komposit?
+False
+Apakah 138842299 bilangan komposit?
+True
+Apakah 578641169 komposit?
+False
+Apakah 832584187 komposit?
+True
+Apakah 414683911 bilangan prima?
+False
+Apakah 215431863 komposit?
+True
+Apakah 439184101 bilangan prima?
+True
+Apakah 1311002723 bilangan prima?
+True
+Apakah 354886933 prima?
+False
+Apakah 769001546 prima?
+False
+Apakah 431121389 prima?
+True
+Apakah 171771233 bilangan prima?
+False
+Apakah 1607799617 komposit?
+False
+Apakah 641883259 prima?
+True
+Apakah 993313231 bilangan komposit?
+False
+Apakah 1035214463 bilangan komposit?
+True
+Apakah 3368162627 bilangan komposit?
+True
+Apakah 1816163939 komposit?
+False
+Apakah 1487864647 bilangan prima?
+False
+Apakah 657312841 prima?
+False
+Apakah 1503425699 bilangan prima?
+False
+Apakah 814009667 bilangan komposit?
+True
+Apakah 90829771 bilangan prima?
+True
+Apakah 17712358 komposit?
+True
+Apakah 1278404047 prima?
+False
+Apakah 157829923 prima?
+True
+Apakah 1616176697 bilangan prima?
+True
+Apakah 90868601 prima?
+False
+Apakah 1045646843 komposit?
+False
+Apakah 72931801 prima?
+False
+Apakah 2125879399 bilangan prima?
+False
+Apakah 737717639 prima?
+True
+Apakah 125709491 prima?
+False
+Apakah 280908713 bilangan prima?
+True
+Apakah 736198391 komposit?
+False
+Apakah 1980697153 bilangan prima?
+False
+Apakah 2165555059 prima?
+True
+Apakah 886229549 prima?
+True
+Apakah 2003631017 bilangan komposit?
+True
+Apakah 654713557 komposit?
+True
+Apakah 725719333 bilangan prima?
+True
+Apakah 121683697 komposit?
+False
+Apakah 252779561 prima?
+True
+Apakah 260583469 bilangan komposit?
+False
+Apakah 1432200781 bilangan prima?
+False
+Apakah 144552373 bilangan prima?
+False
+Apakah 1344133081 komposit?
+True
+Apakah 474801185 prima?
+False
+Apakah 289546951 prima?
+False
+Apakah 145127887 bilangan komposit?
+False
+Apakah 1842566017 komposit?
+True
+Apakah 173861869 bilangan prima?
+True
+Apakah 2963066047 komposit?
+False
+Apakah 193597211 bilangan komposit?
+False
+Apakah 2196725847 prima?
+False
+Apakah 1103622361 bilangan prima?
+True
+Apakah 1880173927 bilangan komposit?
+False
+Apakah 423183427 komposit?
+True
+Apakah 865754633 komposit?
+False
+Apakah 250174357 prima?
+True
+Apakah 185652391 prima?
+True
+Apakah 53090827 komposit?
+True
+Apakah 161442445 prima?
+False
+Apakah 118161093 bilangan komposit?
+True
+Apakah 308341294 bilangan komposit?
+True
+Apakah 631805465 bilangan prima?
+False
+Apakah 647213019 komposit?
+True
+Apakah 942670293 bilangan prima?
+False
+Apakah 405955703 prima?
+True
+Apakah 354387419 komposit?
+False
+Apakah 253925029 bilangan prima?
+False
+Apakah 647309581 prima?
+False
+Apakah 1997117729 bilangan komposit?
+True
+Apakah 43018511 bilangan komposit?
+True
+Apakah 389393629 bilangan prima?
+True
+Apakah 1031593 prima?
+True
+Apakah 138720941 komposit?
+True
+Apakah 3242807263 bilangan komposit?
+True
+Apakah 746491429 prima?
+True
+Apakah 21580054 bilangan prima?
+False
+Apakah 388155667 bilangan komposit?
+False
+Apakah 1201912079 bilangan komposit?
+True
+Apakah 926956099 bilangan prima?
+True
+Apakah 496075091 komposit?
+True
+Apakah 163029199 bilangan komposit?
+False
+Apakah 663670621 bilangan prima?
+True
+Apakah 326340473 komposit?
+True
+Apakah 290313853 prima?
+False
+Apakah 2762589107 bilangan komposit?
+False
+Apakah 247906237 prima?
+True
+Apakah 1393697047 komposit?
+False
+Apakah 568339333 bilangan prima?
+True
+Apakah 1816392857 bilangan prima?
+False
+Apakah 497416393 prima?
+False
+Apakah 823473913 prima?
+True
+Apakah 1679863553 bilangan komposit?
+False
+Apakah 138828517 komposit?
+True
+Apakah 252996697 komposit?
+False
+Apakah 535505977 komposit?
+False
+Apakah 105791453 prima?
+False
+Apakah 761826077 bilangan prima?
+False
+Apakah 864657103 komposit?
+False
+Apakah 339158311 prima?
+True
+Apakah 65615241 bilangan komposit?
+True
+Apakah 1085666161 bilangan komposit?
+False
+Apakah 2506224001 prima?
+False
+Apakah 587116313 bilangan prima?
+False
+Apakah 674164021 bilangan komposit?
+False
+Apakah 419221441 bilangan prima?
+False
+Apakah 2161366759 komposit?
+False
+Apakah 1476462107 komposit?
+False
+Apakah 788020939 komposit?
+False
+Apakah 4471074961 komposit?
+False
+Apakah 434128165 komposit?
+True
+Apakah 229399813 bilangan prima?
+True
+Apakah 4674611345 komposit?
+True
+Apakah 410616337 bilangan prima?
+False
+Apakah 205884031 bilangan prima?
+True
+Apakah 1292074226 komposit?
+True
+Apakah 76673843 bilangan prima?
+True
+Apakah 1140491203 bilangan prima?
+True
+Apakah 796968877 bilangan prima?
+True
+Apakah 727621417 prima?
+False
+Apakah 231674617 prima?
+False
+Apakah 261696041 bilangan prima?
+True
+Apakah 27252947 bilangan komposit?
+False
+Apakah 517625411 komposit?
+True
+Apakah 762487669 bilangan komposit?
+True
+Apakah 796918351 bilangan komposit?
+True
+Apakah 442221653 bilangan komposit?
+False
+Apakah 507677299 komposit?
+False
+Apakah 2894160545 prima?
+False
+Apakah 1387542854 bilangan komposit?
+True
+Apakah 74115259 bilangan komposit?
+False
+Apakah 818878573 prima?
+True
+Apakah 97992703 bilangan komposit?
+False
+Apakah 216318715 komposit?
+True
+Apakah 372238967 prima?
+True
+Apakah 105756503 bilangan komposit?
+False
+Apakah 2478854197 prima?
+True
+Apakah 2845144961 bilangan komposit?
+False
+Apakah 1806478855 bilangan prima?
+False
+Apakah 337729501 bilangan prima?
+True
+Apakah 2479985671 prima?
+False
+Apakah 2826460811 bilangan komposit?
+False
+Apakah 693640027 prima?
+False
+Apakah 5805131629 komposit?
+True
+Apakah 689468107 prima?
+True
+Apakah 410795831 prima?
+False
+Apakah 950606065 bilangan komposit?
+True
+Apakah 2503261421 bilangan komposit?
+False
+Apakah 47240257 bilangan prima?
+True
+Apakah 2558557223 bilangan komposit?
+False
+Apakah 304526711 komposit?
+True
+Apakah 180631771 bilangan prima?
+False
+Apakah 228128023 bilangan komposit?
+False
+Apakah 480230197 bilangan prima?
+False
+Apakah 1054555849 prima?
+False
+Apakah 419836015 bilangan prima?
+False
+Apakah 252869987 prima?
+True
+Apakah 975964891 prima?
+False
+Apakah 2762052338 bilangan komposit?
+True
+Apakah 5362630379 bilangan prima?
+False
+Apakah 822605921 prima?
+True
+Apakah 148851203 bilangan komposit?
+False
+Apakah 1109556353 bilangan prima?
+True
+Apakah 683595697 prima?
+False
+Apakah 113431459 komposit?
+True
+Apakah 2614979197 komposit?
+False
+Apakah 2948253013 bilangan prima?
+False
+Apakah 266738821 prima?
+False
+Apakah 524070737 prima?
+False
+Apakah 40668229 prima?
+False
+Apakah 450659633 prima?
+True
+Apakah 298059863 bilangan prima?
+False
+Apakah 1065818239 bilangan komposit?
+False
+Apakah 2442674873 komposit?
+False
+Apakah 109333493 prima?
+False
+Apakah 129309109 komposit?
+False
+Apakah 424428071 bilangan prima?
+False
+Apakah 219076369 prima?
+False
+Apakah 164786813 komposit?
+False
+Apakah 3534048541 bilangan prima?
+True
+Apakah 1616237333 bilangan komposit?
+True
+Apakah 2620290298 bilangan komposit?
+True
+Apakah 29629207 bilangan komposit?
+False
+Apakah 188965913 komposit?
+True
+Apakah 182612977 bilangan prima?
+True
+Apakah 1026137039 bilangan komposit?
+False
+Apakah 831880559 bilangan prima?
+False
+Apakah 526158329 bilangan prima?
+True
+Apakah 51930533 komposit?
+False
+Apakah 1127137189 komposit?
+False
+Apakah 1188358841 bilangan komposit?
+False
+Apakah 605077349 bilangan prima?
+True
+Apakah 1004699249 bilangan komposit?
+False
+Apakah 147283769 komposit?
+True
+Apakah 2109029687 bilangan komposit?
+False
+Apakah 740592599 bilangan prima?
+False
+Apakah 673525421 komposit?
+False
+Apakah 664781219 prima?
+True
+Apakah 1109513263 komposit?
+False
+Apakah 526518547 bilangan komposit?
+True
+Apakah 958960159 komposit?
+False
+Apakah 684668639 bilangan prima?
+True
+Apakah 2924307051 komposit?
+True
+Apakah 5114781013 bilangan komposit?
+False
+Apakah 392987411 bilangan komposit?
+False
+Apakah 124616659 komposit?
+True
+Apakah 2390520079 bilangan prima?
+True
+Apakah 1616113619 komposit?
+True
+Apakah 389927653 bilangan prima?
+True
+Apakah 106220657 bilangan komposit?
+True
+Apakah 1809419603 prima?
+True
+Apakah 2070401963 komposit?
+True
+Apakah 224508181 bilangan komposit?
+True
+Apakah 1654097539 bilangan prima?
+False
+Apakah 1865711017 prima?
+True
+Apakah 1781122163 komposit?
+False
+Apakah 3292629259 bilangan prima?
+False
+Apakah 440611903 bilangan komposit?
+False
+Apakah 1329858547 prima?
+False
+Apakah 2631389419 bilangan komposit?
+False
+Apakah 176516611 komposit?
+False
+Apakah 127800287 bilangan prima?
+True
+Apakah 1900447361 bilangan komposit?
+False
+Apakah 18552979 bilangan komposit?
+True
+Apakah 9409567 bilangan prima?
+False
+Apakah 2152140983 prima?
+True
+Apakah 476839343 bilangan prima?
+False
+Apakah 465559511 prima?
+False
+Apakah 24136513 komposit?
+False
+Apakah 390495229 komposit?
+True
+Apakah 76396837 bilangan prima?
+False
+Apakah 414168077 bilangan komposit?
+False
+Apakah 826385191 bilangan komposit?
+False
+Apakah 7344825703 komposit?
+False
+Apakah 4092220309 bilangan komposit?
+False
+Apakah 977925239 bilangan komposit?
+False
+Apakah 338627209 prima?
+False
+Apakah 127106087 bilangan komposit?
+False
+Apakah 103011583 prima?
+True
+Apakah 5702021965 prima?
+False
+Apakah 1477609751 bilangan komposit?
+False
+Apakah 4246991531 prima?
+True
+Apakah 4091643879 prima?
+False
+Apakah 1785524165 bilangan prima?
+False
+Apakah 508791169 bilangan komposit?
+False
+Apakah 126560477 bilangan komposit?
+False
+Apakah 198542741 bilangan prima?
+False
+Apakah 1052386151 bilangan prima?
+True
+Apakah 166011931 bilangan prima?
+False
+Apakah 42356957 prima?
+True
+Apakah 46374299 bilangan komposit?
+False
+Apakah 24596566 prima?
+False
+Apakah 160767409 bilangan prima?
+False
+Apakah 378770663 bilangan prima?
+True
+Apakah 1765236527 bilangan komposit?
+True
+Apakah 905997581 bilangan komposit?
+True
+Apakah 1227241723 bilangan prima?
+False
+Apakah 728650123 komposit?
+False
+Apakah 1437862807 bilangan komposit?
+False
+Apakah 773138999 komposit?
+False
+Apakah 2209206653 prima?
+False
+Apakah 111260585 komposit?
+True
+Apakah 851124307 prima?
+False
+Apakah 405686557 prima?
+False
+Apakah 210432367 bilangan komposit?
+False
+Apakah 833761597 bilangan komposit?
+False
+Apakah 1871411186 bilangan komposit?
+True
+Apakah 140221951 prima?
+True
+Apakah 1195587539 bilangan komposit?
+False
+Apakah 308946361 bilangan komposit?
+True
+Apakah 1118960291 komposit?
+False
+Apakah 142188559 bilangan prima?
+False
+Apakah 491236229 bilangan prima?
+False
+Apakah 112243693 komposit?
+True
+Apakah 1124372651 bilangan komposit?
+False
+Apakah 5109829337 bilangan prima?
+True
+Apakah 1693674719 bilangan prima?
+False
+Apakah 1185273695 prima?
+False
+Apakah 2878765117 bilangan prima?
+True
+Apakah 1408988627 komposit?
+True
+Apakah 1834471 bilangan prima?
+False
+Apakah 699377273 prima?
+False
+Apakah 666659989 prima?
+False
+Apakah 2611694803 komposit?
+False
+Apakah 416663417 komposit?
+True
+Apakah 760418695 komposit?
+True
+Apakah 270753409 prima?
+True
+Apakah 886258427 bilangan prima?
+False
+Apakah 510143831 komposit?
+False
+Apakah 1102292498 bilangan komposit?
+True
+Apakah 53430877 bilangan komposit?
+True
+Apakah 938480363 prima?
+False
+Apakah 128398279 bilangan prima?
+True
+Apakah 497212097 komposit?
+False
+Apakah 155396474 prima?
+False
+Apakah 1858435979 prima?
+False
+Apakah 1131581 komposit?
+True
+Apakah 1913676389 prima?
+False
+Apakah 876837869 bilangan komposit?
+False
+Apakah 1189598593 bilangan prima?
+True
+Apakah 2767517859 bilangan prima?
+False
+Apakah 689490049 prima?
+True
+Apakah 1514384957 komposit?
+True
+Apakah 726123751 prima?
+False
+Apakah 1493028539 komposit?
+False
+Apakah 25808267 komposit?
+True
+Apakah 393675263 bilangan komposit?
+False
+Apakah 689167241 bilangan komposit?
+True
+Apakah 172359569 komposit?
+False
+Apakah 630359683 prima?
+False
+Apakah 73579453 komposit?
+False
+Apakah 270880639 prima?
+True
+Apakah 536842001 komposit?
+False
+Apakah 211289635 prima?
+False
+Apakah 1767313879 bilangan komposit?
+False
+Apakah 824350453 komposit?
+False
+Apakah 206883065 bilangan prima?
+False
+Apakah 837945071 bilangan komposit?
+False
+Apakah 2155847 bilangan prima?
+False
+Apakah 19740353 bilangan komposit?
+False
+Apakah 560255627 prima?
+False
+Apakah 1139328997 komposit?
+True
+Apakah 37255999 prima?
+False
+Apakah 1471969903 bilangan komposit?
+False
+Apakah 511064929 bilangan komposit?
+True
+Apakah 1590613019 komposit?
+False
+Apakah 261547331 bilangan komposit?
+True
+Apakah 94871641 komposit?
+True
+Apakah 4504912039 bilangan komposit?
+False
+Apakah 9311893 bilangan prima?
+True
+Apakah 175914139 komposit?
+False
+Apakah 10220239 bilangan komposit?
+False
+Apakah 1211852683 komposit?
+True
+Apakah 953187857 bilangan prima?
+False
+Apakah 246676795 prima?
+False
+Apakah 268354147 bilangan prima?
+True
+Apakah 126759533 bilangan komposit?
+False
+Apakah 663481589 bilangan komposit?
+True
+Apakah 786804299 komposit?
+True
+Apakah 105873367 bilangan komposit?
+True
+Apakah 346269893 komposit?
+True
+Apakah 715304099 komposit?
+False
+Apakah 136182457 prima?
+True
+Apakah 113273047 prima?
+True
+Apakah 53398817 prima?
+True
+Apakah 1672643227 bilangan prima?
+False
+Apakah 32214019 prima?
+False
+Apakah 163173623 komposit?
+False
+Apakah 424614497 bilangan komposit?
+True
+Apakah 1062242161 komposit?
+True
+Apakah 482110493 komposit?
+True
+Apakah 3984249559 prima?
+True
+Apakah 66073199 komposit?
+True
+Apakah 1515733507 prima?
+True
+Apakah 461432498 bilangan komposit?
+True
+Apakah 1475496831 bilangan komposit?
+True
+Apakah 1063921447 bilangan prima?
+False
+Apakah 149570249 komposit?
+False
+Apakah 294184987 komposit?
+False
+Apakah 1632994999 bilangan komposit?
+True
+Apakah 6856230665 komposit?
+True
+Apakah 16609801 komposit?
+True
+Apakah 617251021 prima?
+False
+Apakah 413704871 komposit?
+False
+Apakah 215354671 bilangan prima?
+False
+Apakah 2709613831 prima?
+False
+Apakah 1145389823 prima?
+True
+Apakah 1133251609 bilangan prima?
+False
+Apakah 602253913 bilangan komposit?
+True
+Apakah 56734877 bilangan prima?
+False
+Apakah 320632913 prima?
+False
+Apakah 307523213 prima?
+False
+Apakah 43458007 komposit?
+False
+Apakah 5216551 bilangan prima?
+False
+Apakah 634760765 prima?
+False
+Apakah 542960111 bilangan prima?
+True
+Apakah 1310371619 komposit?
+False
+Apakah 68878573 bilangan prima?
+True
+Apakah 222156699 komposit?
+True
+Apakah 542085931 komposit?
+False
+Apakah 1028402983 prima?
+False
+Apakah 760373477 komposit?
+True
+Apakah 801716011 bilangan prima?
+False
+Apakah 12255319 prima?
+True
+Apakah 427412149 prima?
+True
+Apakah 345578927 bilangan prima?
+False
+Apakah 676118831 prima?
+True
+Apakah 1958277197 bilangan prima?
+True
+Apakah 72573881 bilangan prima?
+True
+Apakah 86355229 bilangan prima?
+False
+Apakah 2189338423 prima?
+False
+Apakah 710411057 komposit?
+True
+Apakah 1403315149 prima?
+False
+Apakah 4624944647 komposit?
+False
+Apakah 182518321 komposit?
+False
+Apakah 28218833 bilangan komposit?
+False
+Apakah 165774727 bilangan komposit?
+True
+Apakah 763307117 bilangan prima?
+False
+Apakah 1274360447 bilangan prima?
+True
+Apakah 2236148897 bilangan komposit?
+True
+Apakah 1022242607 bilangan prima?
+True
+Apakah 764435359 komposit?
+False
+Apakah 372740909 bilangan komposit?
+False
+Apakah 1617132131 komposit?
+True
+Apakah 428809181 bilangan prima?
+False
+Apakah 10316323 prima?
+True
+Apakah 1542084242 komposit?
+True
+Apakah 275743003 prima?
+True
+Apakah 146077313 komposit?
+True
+Apakah 56098579 prima?
+False
+Apakah 336460783 bilangan komposit?
+False
+Apakah 435888611 komposit?
+True
+Apakah 241906409 prima?
+False
+Apakah 1942922297 komposit?
+False
+Apakah 4761827947 bilangan komposit?
+False
+Apakah 1302102449 prima?
+True
+Apakah 1614628571 bilangan prima?
+False
+Apakah 3577345301 bilangan komposit?
+False
+Apakah 495548819 komposit?
+True
+Apakah 317535059 komposit?
+False
+Apakah 205316827 bilangan prima?
+True
+Apakah 1119754859 bilangan komposit?
+False
+Apakah 662880279 prima?
+False
+Apakah 13802711209 bilangan prima?
+False
+Apakah 2890381709 komposit?
+False
+Apakah 278849819 prima?
+False
+Apakah 563776777 bilangan komposit?
+False
+Apakah 503852665 prima?
+False
+Apakah 357939173 bilangan prima?
+True
+Apakah 581373379 komposit?
+True
+Apakah 16782391 komposit?
+False
+Apakah 1776137771 prima?
+True
+Apakah 33023017 prima?
+True
+Apakah 5705164427 bilangan prima?
+True
+Apakah 399993319 bilangan prima?
+False
+Apakah 105153553 bilangan komposit?
+False
+Apakah 82601009 bilangan prima?
+True
+Apakah 647890039 bilangan komposit?
+False
+Apakah 390978431 komposit?
+False
+Apakah 407407093 bilangan prima?
+True
+Apakah 1435182533 bilangan prima?
+False
+Apakah 1183709999 prima?
+True
+Apakah 697037851 bilangan prima?
+True
+Apakah 6608902427 bilangan komposit?
+False
+Apakah 75308873 komposit?
+False
+Apakah 657900167 bilangan komposit?
+True
+Apakah 668163434 komposit?
+True
+Apakah 612666953 komposit?
+True
+Apakah 873749249 bilangan komposit?
+False
+Apakah 312121135 bilangan komposit?
+True
+Apakah 105961711 prima?
+False
+Apakah 932291443 komposit?
+False
+Apakah 3368634799 prima?
+True
+Apakah 317606167 bilangan komposit?
+False
+Apakah 1319365457 komposit?
+True
+Apakah 2005151569 bilangan prima?
+False
+Apakah 86059541 bilangan prima?
+False
+Apakah 1563894538 prima?
+False
+Apakah 417079307 bilangan prima?
+False
+Apakah 191375347 bilangan komposit?
+True
+Apakah 552840707 bilangan prima?
+True
+Apakah 14101319 bilangan komposit?
+False
+Apakah 577575021 prima?
+False
+Apakah 924792229 bilangan prima?
+True
+Apakah 440502971 bilangan prima?
+True
+Apakah 414593089 bilangan prima?
+True
+Apakah 217721486 bilangan prima?
+False
+Apakah 6264367 komposit?
+False
+Apakah 6984869 komposit?
+True
+Apakah 4153746163 komposit?
+True
+Apakah 2687986153 prima?
+False
+Apakah 798544601 prima?
+True
+Apakah 2056090261 prima?
+False
+Apakah 609738539 komposit?
+False
+Apakah 634909913 prima?
+False
+Apakah 2989816663 bilangan komposit?
+False
+Apakah 2925438391 prima?
+True
+Apakah 115997827 bilangan prima?
+False
+Apakah 203950115 komposit?
+True
+Apakah 39055873 bilangan komposit?
+True
+Apakah 1530428089 bilangan prima?
+True
+Apakah 4187464213 komposit?
+False
+Apakah 528587849 komposit?
+False
+Apakah 180078407 prima?
+True
+Apakah 2629610429 bilangan komposit?
+True
+Apakah 245801441 prima?
+True
+Apakah 137186139 prima?
+False
+Apakah 695436419 prima?
+True
+Apakah 74187319 prima?
+True
+Apakah 2289764891 bilangan prima?
+True
+Apakah 333503033 komposit?
+False
+Apakah 36615958 komposit?
+True
+Apakah 1643446909 bilangan prima?
+False
+Apakah 226880285 komposit?
+True
+Apakah 1814990423 prima?
+False
+Apakah 1178172839 bilangan prima?
+True
+Apakah 2584815151 bilangan prima?
+True
+Apakah 3259710901 prima?
+True
+Apakah 3778573387 bilangan komposit?
+False
+Apakah 1360494739 bilangan komposit?
+True
+Apakah 864292207 bilangan komposit?
+True
+Apakah 45396083 komposit?
+False
+Apakah 580417037 bilangan prima?
+False
+Apakah 1887613661 komposit?
+False
+Apakah 2179648607 prima?
+False
+Apakah 187613917 komposit?
+False
+Apakah 11761823 komposit?
+False
+Apakah 157368707 bilangan komposit?
+False
+Apakah 1301827643 bilangan prima?
+False
+Apakah 754520279 bilangan komposit?
+False
+Apakah 278422099 prima?
+False
+Apakah 2787042241 komposit?
+True
+Apakah 1298579039 bilangan prima?
+True
+Apakah 929989707 bilangan komposit?
+True
+Apakah 340663769 prima?
+True
+Apakah 589434739 bilangan komposit?
+True
+Apakah 1450239439 bilangan komposit?
+True
+Apakah 1197100609 bilangan komposit?
+False
+Apakah 461818831 bilangan komposit?
+False
+Apakah 168920747 bilangan komposit?
+True
+Apakah 307914757 komposit?
+False
+Apakah 895001122 komposit?
+True
+Apakah 1311045553 bilangan prima?
+False
+Apakah 280680599 komposit?
+False
+Apakah 869272367 komposit?
+False
+Apakah 39290957 bilangan komposit?
+False
+Apakah 1095386321 bilangan komposit?
+True
+Apakah 256159999 komposit?
+False
+Apakah 462393103 bilangan prima?
+False
+Apakah 1831914437 bilangan prima?
+False
+Apakah 1555045903 komposit?
+False
+Apakah 273848401 bilangan prima?
+False
+Apakah 2137291411 bilangan prima?
+True
+Apakah 255642403 komposit?
+False
+Apakah 162427427 komposit?
+False
+Apakah 109120411 bilangan prima?
+True
+Apakah 838217563 prima?
+False
+Apakah 30171863 bilangan prima?
+True
+Apakah 99042494 bilangan komposit?
+True
+Apakah 543404713 bilangan komposit?
+False
+Apakah 276194609 bilangan prima?
+True
+Apakah 71922811 bilangan komposit?
+False
+Apakah 99530419 bilangan prima?
+False
+Apakah 373104349 komposit?
+True
+Apakah 1876625881 prima?
+False
+Apakah 333987097 bilangan prima?
+True
+Apakah 254024373 komposit?
+True
+Apakah 510625333 bilangan prima?
+False
+Apakah 640962341 komposit?
+False
+Apakah 1366550279 bilangan komposit?
+True
+Apakah 169554703 prima?
+True
+Apakah 1618612901 komposit?
+False
+Apakah 596316173 prima?
+False
+Apakah 2005449911 komposit?
+False
+Apakah 44577991 bilangan prima?
+True
+Apakah 1759171529 komposit?
+True
+Apakah 307061515 komposit?
+True
+Apakah 229259581 komposit?
+False
+Apakah 241032601 bilangan komposit?
+True
+Apakah 1932797767 komposit?
+False
+Apakah 367116709 bilangan prima?
+True
+Apakah 377748313 bilangan prima?
+False
+Apakah 525024399 prima?
+False
+Apakah 7737765531 bilangan prima?
+False
+Apakah 1125265061 komposit?
+False
+Apakah 19007659 komposit?
+True
+Apakah 119537623 bilangan prima?
+False
+Apakah 875688379 bilangan komposit?
+True
+Apakah 706506967 bilangan komposit?
+False
+Apakah 151680911 bilangan prima?
+True
+Apakah 479020601 bilangan komposit?
+False
+Apakah 1154037077 bilangan komposit?
+True
+Apakah 4879236485 bilangan prima?
+False
+Apakah 14754169 prima?
+False
+Apakah 3709327601 prima?
+False
+Apakah 300430763 bilangan komposit?
+False
+Apakah 5032912835 komposit?
+True
+Apakah 5825706283 bilangan komposit?
+False
+Apakah 1437156323 komposit?
+False
+Apakah 30561787 prima?
+True
+Apakah 775037143 prima?
+False
+Apakah 2172915467 bilangan komposit?
+False
+Apakah 1287959051 bilangan prima?
+True
+Apakah 826539599 komposit?
+False
+Apakah 148218313 komposit?
+False
+Apakah 2645315021 bilangan komposit?
+False
+Apakah 536338031 komposit?
+True
+Apakah 1406968463 komposit?
+False
+Apakah 1527853097 prima?
+True
+Apakah 260438861 komposit?
+True
+Apakah 1462565399 bilangan komposit?
+True
+Apakah 88155161 prima?
+True
+Apakah 388903561 bilangan prima?
+False
+Apakah 858848197 komposit?
+True
+Apakah 491408611 prima?
+False
+Apakah 417256979 bilangan komposit?
+True
+Apakah 783461587 komposit?
+False
+Apakah 18729731 bilangan prima?
+True
+Apakah 1197108943 bilangan prima?
+True
+Apakah 21613129 bilangan prima?
+True
+Apakah 1668956171 bilangan prima?
+True
+Apakah 1953726227 bilangan komposit?
+True
+Apakah 398056109 bilangan prima?
+False
+Apakah 283879439 bilangan komposit?
+True
+Apakah 6812066 komposit?
+True
+Apakah 129226067 bilangan komposit?
+True
+Apakah 1507153673 bilangan komposit?
+False
+Apakah 218142187 prima?
+True
+Apakah 441867787 bilangan komposit?
+False
+Apakah 1209797573 bilangan komposit?
+True
+Apakah 51668711 bilangan komposit?
+True
+Apakah 1822640557 bilangan prima?
+False
+Apakah 1789963013 prima?
+True
+Apakah 983632487 komposit?
+False
+Apakah 452406022 bilangan komposit?
+True
+Apakah 1309330387 prima?
+False
+Apakah 274950883 komposit?
+False
+Apakah 51670603 bilangan prima?
+True
+Apakah 2279285447 prima?
+False
+Apakah 1741280689 prima?
+False
+Apakah 108370247 bilangan komposit?
+True
+Apakah 108883829 bilangan komposit?
+False
+Apakah 48189689 bilangan prima?
+True
+Apakah 1907349877 bilangan prima?
+False
+Apakah 626989403 prima?
+False
+Apakah 2649075901 prima?
+True
+Apakah 177252505 bilangan prima?
+False
+Apakah 77390605 prima?
+False
+Apakah 1653201097 bilangan prima?
+True
+Apakah 135719615 bilangan komposit?
+True
+Apakah 145570895 bilangan komposit?
+True
+Apakah 569772237 bilangan komposit?
+True
+Apakah 135636091 bilangan prima?
+False
+Apakah 805160329 komposit?
+True
+Apakah 72659563 prima?
+False
+Apakah 399541331 bilangan prima?
+False
+Apakah 757343507 bilangan komposit?
+True
+Apakah 583697341 komposit?
+True
+Apakah 404879367 prima?
+False
+Apakah 38750317 bilangan komposit?
+False
+Apakah 878088347 komposit?
+False
+Apakah 127408121 komposit?
+True
+Apakah 3502915069 bilangan komposit?
+True
+Apakah 1946936333 prima?
+True
+Apakah 775502213 bilangan komposit?
+False
+Apakah 1440563263 komposit?
+False
+Apakah 909584629 bilangan prima?
+True
+Apakah 1293754223 bilangan komposit?
+False
+Apakah 7362262733 komposit?
+True
+Apakah 1075651727 bilangan komposit?
+True
+Apakah 1238790601 bilangan komposit?
+False
+Apakah 977908813 prima?
+False
+Apakah 180673979 prima?
+False
+Apakah 605154439 bilangan komposit?
+False
+Apakah 172562749 komposit?
+False
+Apakah 398511541 bilangan komposit?
+True
+Apakah 521394893 prima?
+True
+Apakah 872017219 prima?
+False
+Apakah 2089046237 bilangan prima?
+True
+Apakah 766609523 komposit?
+True
+Apakah 826258021 bilangan prima?
+False
+Apakah 348931991 bilangan prima?
+True
+Apakah 6611239615 bilangan komposit?
+True
+Apakah 1041115385 komposit?
+True
+Apakah 28303945 bilangan komposit?
+True
+Apakah 315958609 komposit?
+False
+Apakah 906275971 bilangan prima?
+False
+Apakah 163922027 bilangan prima?
+True
+Apakah 985029667 prima?
+True
+Apakah 356179787 bilangan prima?
+False
+Apakah 283704607 prima?
+True
+Apakah 940332205 prima?
+False
+Apakah 1827902555 prima?
+False
+Apakah 214045409 bilangan prima?
+True
+Apakah 1395436261 bilangan prima?
+True
+Apakah 74372119 prima?
+True
+Apakah 2718630077 bilangan prima?
+True
+Apakah 411057287 komposit?
+True
+Apakah 984156634 bilangan komposit?
+True
+Apakah 2416594133 prima?
+True
+Apakah 2646516271 komposit?
+True
+Apakah 851129417 komposit?
+False
+Apakah 561941279 komposit?
+False
+Apakah 225454667 prima?
+True
+Apakah 946574231 prima?
+True
+Apakah 65336507 prima?
+False
+Apakah 99524951 bilangan prima?
+True
+Apakah 3130470071 prima?
+True
+Apakah 1626277427 komposit?
+True
+Apakah 601974661 komposit?
+False
+Apakah 1286442919 bilangan komposit?
+True
+Apakah 2185142537 komposit?
+True
+Apakah 1101827693 bilangan prima?
+True
+Apakah 4424977 komposit?
+False
+Apakah 1801359379 prima?
+False
+Apakah 100343333 bilangan prima?
+False
+Apakah 31090463 bilangan prima?
+False
+Apakah 390720593 prima?
+True
+Apakah 1095367973 komposit?
+True
+Apakah 406402751 prima?
+True
+Apakah 985888147 prima?
+False
+Apakah 2260007305 bilangan komposit?
+True
+Apakah 792926261 prima?
+False
+Apakah 2963479843 bilangan komposit?
+True
+Apakah 1501336267 prima?
+True
+Apakah 780021181 bilangan komposit?
+True
+Apakah 1718007371 bilangan prima?
+False
+Apakah 337363987 prima?
+True
+Apakah 887833511 bilangan komposit?
+True
+Apakah 7031529667 prima?
+True
+Apakah 170828045 bilangan komposit?
+True
+Apakah 2693483771 bilangan prima?
+False
+Apakah 3920429659 prima?
+False
+Apakah 4051477069 bilangan prima?
+False
+Apakah 2318077799 komposit?
+False
+Apakah 2841928646 bilangan komposit?
+True
+Apakah 6676709057 prima?
+True
+Apakah 106128611 bilangan prima?
+True
+Apakah 419645953 prima?
+False
+Apakah 629182943 komposit?
+False
+Apakah 2940059879 prima?
+False
+Apakah 53142721 prima?
+False
+Apakah 303106847 bilangan prima?
+False
+Apakah 298254947 bilangan prima?
+True
+Apakah 826376921 bilangan komposit?
+False
+Apakah 728760761 bilangan komposit?
+False
+Apakah 6873443 bilangan prima?
+False
+Apakah 195899593 prima?
+True
+Apakah 203612999 bilangan komposit?
+False
+Apakah 699064033 prima?
+False
+Apakah 136725317 prima?
+False
+Apakah 495966509 bilangan prima?
+True
+Apakah 491324311 prima?
+True
+Apakah 2371405529 komposit?
+False
+Apakah 2155975169 bilangan prima?
+True
+Apakah 1861584577 bilangan prima?
+True
+Apakah 1297139449 prima?
+True
+Apakah 305268079 prima?
+False
+Apakah 62122919 bilangan komposit?
+False
+Apakah 82795681 prima?
+True
+Apakah 1367303647 komposit?
+False
+Apakah 217467701 komposit?
+True

@@ -1,0 +1,666 @@
+Selesaikan -1307*w = -12955 - 7957 untuk w.
+16
+Selesaikan -71*n + 9898 = -677*n + 33532 untuk n.
+39
+Selesaikan 29*h + 21*h + 433 - 2333 = 0 untuk h.
+38
+Selesaikan -10672 = 2062*o - 3396*o untuk o.
+8
+Selesaikan 0 = -2940*g - 2238 + 49278 untuk g.
+16
+Selesaikan 14957*u - 15353*u = -29700 untuk u.
+75
+Selesaikan 36029 = 1906*y - 114545 untuk y.
+79
+Selesaikan 81*l + 114*l = -158*l - 9531 untuk l.
+-27
+Selesaikan 106 - 615 + 90 - 829 = 96*u untuk u.
+-13
+Selesaikan -1217*s - 4951*s + 62288 = -590737 - 222831 untuk s.
+142
+Selesaikan -1212*y - 885*y + 16080 = -32151 untuk y.
+23
+Selesaikan 627*m + 590*m + 54*m - 192*m = 25896 untuk m.
+24
+Selesaikan -35 + 495 + 118 = -17*p untuk p.
+-34
+Selesaikan 687*w = 1135*w - 33600 untuk w.
+75
+Selesaikan -98*w + 586*w - 129*w = 16*w - 14749 untuk w.
+-43
+Selesaikan -38 = 29*v + 124 + 157 untuk v.
+-11
+Selesaikan 947*f - 2316 + 14627 = 0 untuk f.
+-13
+Selesaikan -142*y + 1728 + 763 = -240*y + 145*y untuk y.
+53
+Selesaikan -575*d = -284*d - 6249 - 6846 untuk d.
+45
+Selesaikan 140014 = -781*p - 913*p + 28210 untuk p.
+-66
+Selesaikan 5077*p - 77598 = 2054*p - 2431*p + 118746 untuk p.
+36
+Selesaikan 908*s = 1270*s + 1278*s + 50840 untuk s.
+-31
+Selesaikan -38598*n - 6390 = -38456*n untuk n.
+-45
+Selesaikan 693*w + 21 = 744*w + 21 untuk w.
+0
+Selesaikan 0 = -940*m + 25708 - 23651 + 40544 + 36359 untuk m.
+84
+Selesaikan -2733*k + 172150 = 57364 untuk k.
+42
+Selesaikan -146*m + 53*m - 71 = 301 untuk m.
+-4
+Selesaikan 13045*v - 35769 - 11359 = 18097 untuk v.
+5
+Selesaikan 0 = 957*x - 16970 - 4084 untuk x.
+22
+Selesaikan 23293*y + 486947 + 1437450 = -682150 + 556763 untuk y.
+-88
+Selesaikan 651*z = -92315 + 122261 untuk z.
+46
+Selesaikan 798*r - 570*r - 515*r - 12939 = 550 untuk r.
+-47
+Selesaikan -55*v + 3639 - 919 = -27*v - 62*v untuk v.
+-80
+Selesaikan 169*d - 18656 = -216*d - 1716 untuk d.
+44
+Selesaikan 2936*b + 4094 + 4714 = 0 untuk b.
+-3
+Selesaikan 20601*o = 22072*o + 22065 untuk o.
+-15
+Selesaikan -865*s - 362*s - 67114 = 42089 untuk s.
+-89
+Selesaikan -95*j - 765 + 186 = 1344 + 642 untuk j.
+-27
+Selesaikan -62*h - 23973 = -24779 untuk h.
+13
+Selesaikan -1359*q + 816 + 20134 = 1089*q - 3530 untuk q.
+10
+Selesaikan 10726*i = -4646*i + 1276052 - 384476 untuk i.
+58
+Selesaikan 622*f = 17121 + 8381 untuk f.
+41
+Selesaikan 14122 + 32248 = 889*k - 23861 untuk k.
+79
+Selesaikan -1475*k - 206*k - 26896 = 0 untuk k.
+-16
+Selesaikan -2079*w - 2422*w = 492*w + 1344*w + 430916 untuk w.
+-68
+Selesaikan 12201*w + 19313*w - 1838708 + 3561893 = -2153037 untuk w.
+-123
+Selesaikan 457*b = 6276*b + 2200*b - 392931 untuk b.
+49
+Selesaikan 2259*k - 954*k - 18100 = 1124*k untuk k.
+100
+Selesaikan -237*y = 1224 + 3753 untuk y.
+-21
+Selesaikan -457*j = 1157*j + 53046 + 59934 untuk j.
+-70
+Selesaikan -118*g + 233*g + 147*g = -7336 untuk g.
+-28
+Selesaikan -492*w - 87394 = 1870*w untuk w.
+-37
+Selesaikan 228*q - 1491 = 15*q untuk q.
+7
+Selesaikan 2569*o - 5030*o + 6976 = -2570*o untuk o.
+-64
+Selesaikan -936295 = 31*c - 934063 untuk c.
+-72
+Selesaikan -35877 = 2925*z - 4264*z + 80616 untuk z.
+87
+Selesaikan 89240 = 2533*b + 28448 untuk b.
+24
+Selesaikan -3011 - 11727 = -2611*r + 3539 untuk r.
+7
+Selesaikan -1740*k = -156226 + 23986 untuk k.
+76
+Selesaikan -83*o - 4505 + 10979 = 0 untuk o.
+78
+Selesaikan 175122*c + 52 = 175120*c untuk c.
+-26
+Selesaikan -721*s + 550 + 4312 = 1698 - 3325 untuk s.
+9
+Selesaikan -7901 - 1954 = -166*j + 1823 - 2050 untuk j.
+58
+Selesaikan -5368*h = -674*h + 313758 - 97834 untuk h.
+-46
+Selesaikan -27148 = -636*f + 3874*f + 160656 untuk f.
+-58
+Selesaikan 598098*z + 330 = 598108*z untuk z.
+33
+Selesaikan 0 = 34097*u - 68081*u + 34102*u - 5900 untuk u.
+50
+Selesaikan 0 = -46946*r + 46901*r + 1935 untuk r.
+43
+Selesaikan 3324 = 206*h - 921*h + 1857 - 4253 untuk h.
+-8
+Selesaikan 10178 - 12179 - 17691 = 547*w untuk w.
+-36
+Selesaikan -2364994*u + 3476 = -2365073*u untuk u.
+-44
+Selesaikan -356*j - 1217*j = -143143 untuk j.
+91
+Selesaikan -1599 = 145763*a - 145640*a untuk a.
+-13
+Selesaikan 48*q + 22437 - 22869 = 0 untuk q.
+9
+Selesaikan 1955 = 1700*l - 4924*l + 1624*l + 1685*l untuk l.
+23
+Selesaikan -14157*b + 992*b - 776735 = 0 untuk b.
+-59
+Selesaikan 45219*m = 45745*m - 16306 untuk m.
+31
+Selesaikan -224*z + 130*z + 41124 = 800*z untuk z.
+46
+Selesaikan 101*u + 252*u + 32325 = -78*u untuk u.
+-75
+Selesaikan 2846 + 799 = -51*f - 38*f - 716 untuk f.
+-49
+Selesaikan -666*l + 319 + 347 = 0 untuk l.
+1
+Selesaikan -366 = -10*o - 326 untuk o.
+4
+Selesaikan 108*d + 4377 = 859 - 2098 untuk d.
+-52
+Selesaikan -186*i + 14518 = 365*i + 52*i - 12014 untuk i.
+44
+Selesaikan -26*t + 1455 = 25*t + 113*t - 5105 untuk t.
+40
+Selesaikan -230*f - 181*f + 319*f + 6068 = -18*f untuk f.
+82
+Selesaikan -249*v - 706*v - 19102 = 389*v - 84958 untuk v.
+49
+Selesaikan -391*i - 13308 = -1040*i + 19791 untuk i.
+51
+Selesaikan 348*q - 30*q + 97889 = 73085 untuk q.
+-78
+Selesaikan -138*u = -3319 - 1097 untuk u.
+32
+Selesaikan -356*y + 4525 = 8085 untuk y.
+-10
+Selesaikan -59*t - 756*t - 109496 - 32803 = 652*t untuk t.
+-97
+Selesaikan -36*n + 195456 = 44*n + 204816 untuk n.
+-117
+Selesaikan -61007*a = -60077*a - 49290 untuk a.
+53
+Selesaikan 0 = 1131*b - 3682 + 95293 untuk b.
+-81
+Selesaikan 0 = 508*c + 1953 + 6175 untuk c.
+-16
+Selesaikan 77603*q = 77566*q + 74 untuk q.
+2
+Selesaikan 1063*x - 23111 - 22493 + 5026 = -4436 untuk x.
+34
+Selesaikan -43*c - 5319 = -3680 + 2747 untuk c.
+-102
+Selesaikan -73730 = -5249*a + 1449*a + 127670 untuk a.
+53
+Selesaikan -1588*f - 847*f = -1726*f - 7799 untuk f.
+11
+Selesaikan 0 = 695*k + 10131 - 23336 untuk k.
+19
+Selesaikan -5251*o + 10275*o = 5249*o - 3375 untuk o.
+15
+Selesaikan 3658*y - 256308 = -2920*y + 2444*y untuk y.
+62
+Selesaikan -363*p + 3225*p = 1684*p - 137826 untuk p.
+-117
+Selesaikan 408*a = -44294 + 3494 untuk a.
+-100
+Selesaikan 5175*d - 2513*d - 23460 = 3002*d untuk d.
+-69
+Selesaikan 0 = -63*b - 107 + 1678 + 823 untuk b.
+38
+Selesaikan -1605*w - 25198 = -1019*w untuk w.
+-43
+Selesaikan -551510 = 6418*h - 25234 untuk h.
+-82
+Selesaikan 745*y + 511 = -1550*y + 30346 untuk y.
+13
+Selesaikan -246*w + 3362 - 1849 = 4120 + 4527 untuk w.
+-29
+Selesaikan -419*x - 1499*x = 30688 untuk x.
+-16
+Selesaikan -241*j = 80*j - 657331 + 642565 untuk j.
+46
+Selesaikan -159*i - 21*i - 646 + 1212 = -1054 untuk i.
+9
+Selesaikan -410*v - 34*v = 18204 untuk v.
+-41
+Selesaikan -2558*s - 143842 = 8960 + 41606 untuk s.
+-76
+Selesaikan 2599 = 7*o + 2767 untuk o.
+-24
+Selesaikan 6627 = -2644*v + 19847 untuk v.
+5
+Selesaikan -1043*h = 3408*h untuk h.
+0
+Selesaikan -91*p + 4471 = 8111 untuk p.
+-40
+Selesaikan -3177507*n + 3177565*n = -638 untuk n.
+-11
+Selesaikan 31331 = -1678*f - 165*f untuk f.
+-17
+Selesaikan 585575*r + 16826 = 585217*r untuk r.
+-47
+Selesaikan 0 = 143*o - 2219 + 4650 untuk o.
+-17
+Selesaikan -859*w + 47*w = -59276 untuk w.
+73
+Selesaikan 23066*s - 11693*s - 11583*s - 6510 = 0 untuk s.
+-31
+Selesaikan 78*w - 20*w + 2992 = 95*w + 99*w untuk w.
+22
+Selesaikan -12379*l + 12261*l = -11210 untuk l.
+95
+Selesaikan 542*g + 165*g + 305*g + 140561 = 54541 untuk g.
+-85
+Selesaikan 3942*c - 1378*c - 515780 = 1203*c - 4707*c untuk c.
+85
+Selesaikan -151616 - 3488 = -1971*a - 1366 untuk a.
+78
+Selesaikan -65*g - 4340708 + 4339278 = 0 untuk g.
+-22
+Selesaikan -7029 + 3716 + 4132 = 9*a untuk a.
+91
+Selesaikan -797*f + 500326 = 956*f + 290*f + 3115*f untuk f.
+97
+Selesaikan 1907*b + 7378*b = 1240*b untuk b.
+0
+Selesaikan -290704 + 672916 = -15425*w - 604988 untuk w.
+-64
+Selesaikan -6736*s = -6809*s + 1168 untuk s.
+16
+Selesaikan -235*n = 8559 - 15047 - 17717 untuk n.
+103
+Selesaikan -20217 + 118308 = 1557*n untuk n.
+63
+Selesaikan 163*k + 2336 = -237*k + 108*k untuk k.
+-8
+Selesaikan 146662*r - 1330 = 146627*r untuk r.
+38
+Selesaikan 689*f = 430*f + 13559 - 3199 untuk f.
+40
+Selesaikan -1323 = 9*x + 11*x + 47*x - 130*x untuk x.
+21
+Selesaikan 1111*h + 80056 - 21656 = -28*h - 29*h untuk h.
+-50
+Selesaikan 1723*v - 4602 - 29636 = 46743 untuk v.
+47
+Selesaikan 1539*i + 46685 = 10203 - 37685 + 1834 untuk i.
+-47
+Selesaikan -174*v - 91*v + 4826 = 891*v - 4422 untuk v.
+8
+Selesaikan -897*q - 1483*q = 3735*q + 48674 + 24706 untuk q.
+-12
+Selesaikan 6738*w + 290953 + 304406 = -435*w untuk w.
+-83
+Selesaikan 0 = 565*k - 16810 + 23590 untuk k.
+-12
+Selesaikan 1351*n - 761*n + 1660 = -2004*n - 3528 untuk n.
+-2
+Selesaikan 6909 + 1836 = -220*s + 351 - 1506 untuk s.
+-45
+Selesaikan 4337 + 2337 - 983 = 148*n + 215 untuk n.
+37
+Selesaikan 6334 = 422*x + 848 untuk x.
+13
+Selesaikan 274*g - 44*g + 13910 + 17120 = -305*g untuk g.
+-58
+Selesaikan -6979 = -888*o + 157 + 39040 untuk o.
+52
+Selesaikan 10061*u - 3655*u + 521304 = -6006*u untuk u.
+-42
+Selesaikan -62*g - 29242 = -30172 untuk g.
+15
+Selesaikan 0 = 99*x + 1171 + 2736 + 350 untuk x.
+-43
+Selesaikan -8376*i = -3105*i + 9433*i - 102928 untuk i.
+7
+Selesaikan 157*h + 143*h + 5*h + 9760 = 0 untuk h.
+-32
+Selesaikan -245*w - 17515 = 1433 + 336 + 4236 untuk w.
+-96
+Selesaikan -1782087 = -865*j - 1731917 untuk j.
+58
+Selesaikan -5913 = -919*p - 45430 untuk p.
+-43
+Selesaikan -178*t + 93 - 1095 + 480 = 1970 untuk t.
+-14
+Selesaikan -94400 = 3705*q + 71*q untuk q.
+-25
+Selesaikan 117 = -48*l - 84*l - 204 + 57 untuk l.
+-2
+Selesaikan -621087 + 620991 = 32*r untuk r.
+-3
+Selesaikan -2061 - 1654 = 49*f + 28*f + 2291 untuk f.
+-78
+Selesaikan -20194 = 229*d - 28438 untuk d.
+36
+Selesaikan -547137 + 125901 - 34912 = -10367*n untuk n.
+44
+Selesaikan -20263 + 65196 = -1939*o - 82580 - 14034 untuk o.
+-73
+Selesaikan -2866*i - 16434 = -1040*i untuk i.
+-9
+Selesaikan 280*g = 8446 - 2846 untuk g.
+20
+Selesaikan 5425*o = 1077*o - 301591 + 49407 untuk o.
+-58
+Selesaikan -18*s - 2468 - 2444 = -3454 untuk s.
+-81
+Selesaikan 0 = 2145*j - 1895 - 1 - 249 untuk j.
+1
+Selesaikan -58*k + 206465 = 204261 untuk k.
+38
+Selesaikan -140*c - 3*c + 286 = 0 untuk c.
+2
+Selesaikan 682*u = -723*u + 1465*u - 4200 untuk u.
+70
+Selesaikan -154*q - 3*q = -426 - 5460 - 865 untuk q.
+43
+Selesaikan 7139 = 800*m + 6514 - 5929 - 5446 untuk m.
+15
+Selesaikan -373*b - 1235*b - 3132 = -42*b untuk b.
+-2
+Selesaikan -557*q - 68*q = 38125 untuk q.
+-61
+Selesaikan 403*g + 58744 - 263 = -539*g - 81877 untuk g.
+-149
+Selesaikan -804*a = 1056*a + 209*a + 64139 untuk a.
+-31
+Selesaikan -1122*u + 20033 = -251*u untuk u.
+23
+Selesaikan -n - 2737 = 40*n - 80*n - 122*n untuk n.
+17
+Selesaikan -3304*p - 40260 = -1877*p - 1793*p untuk p.
+110
+Selesaikan 171*k - 515*k - 135 = -174*k - 167*k untuk k.
+-45
+Selesaikan 3240*k + 4511*k - 982166 + 18029 = -3082*k untuk k.
+89
+Selesaikan 12*f + 161*f - 2307 = -2580 - 8204 untuk f.
+-49
+Selesaikan -160*s - 27183 = -1278*s + 70083 untuk s.
+87
+Selesaikan 15*a - 12640 = -156*a - 14*a - 210*a untuk a.
+32
+Selesaikan 220*h = -136*h + 25*h + 12247 untuk h.
+37
+Selesaikan -53*t - 241 = 96*t - 3966 untuk t.
+25
+Selesaikan 784*v + 15542 = -138 untuk v.
+-20
+Selesaikan -1280 = -5*w - 1225 untuk w.
+11
+Selesaikan 0 = -2795*o + 768*o - 158106 untuk o.
+-78
+Selesaikan -5136*v = -5121*v + 495 untuk v.
+-33
+Selesaikan 0 = -647*r + 128*r - 241*r - 9120 untuk r.
+-12
+Selesaikan 0 = 112*v + 458398 - 462206 untuk v.
+34
+Selesaikan -570163 = 6525*d + 36662 untuk d.
+-93
+Selesaikan 0 = 14*p - 54*p + 14*p + 16*p untuk p.
+0
+Selesaikan -69*v - 76405 + 36488 = -35294 untuk v.
+-67
+Selesaikan 1300*d + 1243*d + 67210 = 79842 + 96717 untuk d.
+43
+Selesaikan -730*l + 241*l + 241*l - 182 = -234*l untuk l.
+-13
+Selesaikan 318*f + 120 = 198*f + 115*f untuk f.
+-24
+Selesaikan -851 - 2358 = -140*c + 1691 untuk c.
+35
+Selesaikan 13671 + 61005 = -2667*f untuk f.
+-28
+Selesaikan -13516 = -184*b - 252*b untuk b.
+31
+Selesaikan -9169 = -172*b - b untuk b.
+53
+Selesaikan 0 = 2404*h - 23607 + 6779 untuk h.
+7
+Selesaikan -92689 + 14414 = -3131*o untuk o.
+25
+Selesaikan -1068*q - 9981 = -29264 - 7417 untuk q.
+25
+Selesaikan -163 = 18*b + 23*b - 1649 - 1056 untuk b.
+62
+Selesaikan g - 11*g = 29*g + 1678 + 1052 untuk g.
+-70
+Selesaikan 10416 + 11710 = -2488*m + 60805 + 105625 untuk m.
+58
+Selesaikan -671*o + 571*o - 2496 = 4 untuk o.
+-25
+Selesaikan 16732 = -283*t - 8829 - 492 + 3979 untuk t.
+-78
+Selesaikan -225*m - 624*m + 36882 - 10755 = -3588 untuk m.
+35
+Selesaikan -54295 = 3463*n - 466392 untuk n.
+119
+Selesaikan 79*h + 25840 - 24813 = 0 untuk h.
+-13
+Selesaikan 0 = 7*u + 7083 - 7139 untuk u.
+8
+Selesaikan 1319*n - 54088 - 10790 - 16900 = 0 untuk n.
+62
+Selesaikan 277223 = -1892*c + 279115 untuk c.
+1
+Selesaikan 57*z - 38*z = -40 + 287 untuk z.
+13
+Selesaikan 3874*n - 3506*n = 34592 untuk n.
+94
+Selesaikan -1652 = -90601*s + 90542*s untuk s.
+28
+Selesaikan -8*g + 58454 = 58918 untuk g.
+-58
+Selesaikan 9450 = 243*x - 4644 untuk x.
+58
+Selesaikan -2*w + 34*w - 561 = 15 untuk w.
+18
+Selesaikan 10497*b + 4203 = 10741*b - 4581 untuk b.
+36
+Selesaikan -229*m + 402*m + 69*m = -423*m - 29260 untuk m.
+-44
+Selesaikan -369460 = 39277*p - 36092*p untuk p.
+-116
+Selesaikan -52157958 + 52153653 = 41*o untuk o.
+-105
+Selesaikan 0 = -294*w - 1080 - 12738 untuk w.
+-47
+Selesaikan -2*d + 135 + 24 = 22 - 21 untuk d.
+79
+Selesaikan -3404488 = 142*n - 3392844 untuk n.
+-82
+Selesaikan -556*j + 4513 + 77135 = -2068*j untuk j.
+-54
+Selesaikan 422 + 219 = -48*r - 79 untuk r.
+-15
+Selesaikan 121*f + 169*f = 29*f - 61*f + 17388 untuk f.
+54
+Selesaikan -681*l + 732*l = 3621 untuk l.
+71
+Selesaikan -6626*y + 118238 = -1343*y - 140629 untuk y.
+49
+Selesaikan 187*f + 15171 = -151*f - 51*f untuk f.
+-39
+Selesaikan -430 - 10171 = 3673401*q - 3673283*q + 5447 untuk q.
+-136
+Selesaikan -5*z - 900*z - 2805 = -548*z + 4335 untuk z.
+-20
+Selesaikan -125148800 + 125149610 = -9*x untuk x.
+-90
+Selesaikan 17421 + 6966 = -9263*k + 8524*k untuk k.
+-33
+Selesaikan -23286*f + 22854*f = 12528 untuk f.
+-29
+Selesaikan -1352*g - 18884 = 37900 untuk g.
+-42
+Selesaikan -344 + 67 + 4 = 91*j untuk j.
+-3
+Selesaikan -23906 - 30661 = -1569*l - 21618 untuk l.
+21
+Selesaikan 31665*y + 1149533 + 1967192 = 678520 untuk y.
+-77
+Selesaikan 0 = 4590*w + 1511*w - 603999 untuk w.
+99
+Selesaikan 46*v - 380524 = -382226 untuk v.
+-37
+Selesaikan 81*v - 3353 = -50*v - 590 + 1429 untuk v.
+32
+Selesaikan 192*b = -1572*b + 84672 untuk b.
+48
+Selesaikan -6616 - 2498 = -272*l - 2858 untuk l.
+23
+Selesaikan -120481*c - 286 = -120455*c untuk c.
+-11
+Selesaikan 690659*h = 690816*h + 9891 untuk h.
+-63
+Selesaikan -19899 + 44 = -361*y untuk y.
+55
+Selesaikan 165*c = 35*c + 9750 untuk c.
+75
+Selesaikan -145*q + 4353 + 1632 = 159*q - 199*q untuk q.
+57
+Selesaikan 39366*r - 39347*r - 648 = -97 untuk r.
+29
+Selesaikan 35*s - 294583 + 292518 = 0 untuk s.
+59
+Selesaikan -304*w + 488*w - 75342 = -682*w untuk w.
+87
+Selesaikan -23*b - 179*b - 164*b - 6222 = 0 untuk b.
+-17
+Selesaikan 409*z + 125*z - 4983 + 3799 = 46876 untuk z.
+90
+Selesaikan 0 = -2452*g - 10648*g + 104800 untuk g.
+8
+Selesaikan -53*f - 1558 = 44*f + 1158 untuk f.
+-28
+Selesaikan -683*w + 1056*w = -373 untuk w.
+-1
+Selesaikan 24580 = 1509*u - 14654 untuk u.
+26
+Selesaikan -375690*b + 375873*b + 2745 = 0 untuk b.
+-15
+Selesaikan 0 = 5665*g + 5591*g - 11381*g - 4250 untuk g.
+-34
+Selesaikan -3254 - 12362 = 767*k + 35173 + 3668 untuk k.
+-71
+Selesaikan -46*x + 403 + 343 = 56 untuk x.
+15
+Selesaikan 56*g - 50*g + 99*g = 4515 untuk g.
+43
+Selesaikan -52088 = -973*h - 210*h + 2330 untuk h.
+46
+Selesaikan 4*h - 726 + 786 = -h untuk h.
+-12
+Selesaikan -293*g + 123*g + 246 + 154 = -130*g untuk g.
+10
+Selesaikan -851 + 2901 = -190*u - 1608 - 2612 untuk u.
+-33
+Selesaikan 220*i + 164887 = 170607 untuk i.
+26
+Selesaikan 169112 - 169118 = -6*k untuk k.
+1
+Selesaikan 1977*m + 1496 = 1933*m untuk m.
+-34
+Selesaikan 9893 = 160*v - 987 untuk v.
+68
+Selesaikan -16428*r + 16733*r - 24095 = 0 untuk r.
+79
+Selesaikan 876 = 3524*a - 3476*a + 60 untuk a.
+17
+Selesaikan 7030 - 4309 = -3646*b + 10818 + 10133 untuk b.
+5
+Selesaikan -1279*f - 2031 + 16239 + 12663 = 788*f untuk f.
+13
+Selesaikan -220 = 48*k + 616 + 66 + 10 untuk k.
+-19
+Selesaikan 56*r = -19*r + 216*r - 14*r + 5461 untuk r.
+-43
+Selesaikan 66*d + 34372 = -2578*d untuk d.
+-13
+Selesaikan -477*o - 431*o - 32808 - 60192 = 332*o untuk o.
+-75
+Selesaikan 1480*p - 2340446 = 17420*p - 236366 untuk p.
+-132
+Selesaikan -72516*s - 1764 = -72579*s untuk s.
+28
+Selesaikan -90*m = -202*m + 1792 untuk m.
+16
+Selesaikan -1092 = 733221*b - 733242*b untuk b.
+52
+Selesaikan -405*f = -754 - 8156 untuk f.
+22
+Selesaikan 0 = 302399*a - 302548*a + 4023 untuk a.
+27
+Selesaikan 33*h = -503*h - 28408 untuk h.
+-53
+Selesaikan -833 + 2569 + 559 = 51*n untuk n.
+45
+Selesaikan -580*i + 5*i = 53*i + 27004 untuk i.
+-43
+Selesaikan 9838*j = 4947*j + 4730*j - 13524 untuk j.
+-84
+Selesaikan 2613*j - 2627*j = 812 untuk j.
+-58
+Selesaikan 1385*y - 25389 = 176*y untuk y.
+21
+Selesaikan 1758*c - 10695 - 27337 = 4356 + 6836 untuk c.
+28
+Selesaikan 589820 = 61*a + 5301*a untuk a.
+110
+Selesaikan 0 = 2611*h - 3147*h + 9112 untuk h.
+17
+Selesaikan 1192*s - 1101*s = -1911 untuk s.
+-21
+Selesaikan 96*o + 992 + 966 = 1935 + 8279 untuk o.
+86
+Selesaikan 18580878*o - 11610 = 18580749*o untuk o.
+90
+Selesaikan 12 + 537 = 29*w - 1082 - 631 untuk w.
+78
+Selesaikan -564*q + 7549 + 7679 = 0 untuk q.
+27
+Selesaikan 4150 + 1091 = 84*k + 1377 untuk k.
+46
+Selesaikan 0 = -964*u - 1391*u - 115395 untuk u.
+-49
+Selesaikan 715 + 626 = -15*u - 24 untuk u.
+-91
+Selesaikan -1447 - 1255 - 798 = 50*m untuk m.
+-70
+Selesaikan 18826*u - 18779*u + 5452 = 0 untuk u.
+-116
+Selesaikan 53*d = 545*d + 1348*d + 49680 untuk d.
+-27
+Selesaikan 2679*r + 4421*r + 390500 = 0 untuk r.
+-55
+Selesaikan 14*w + 9328 = -162*w untuk w.
+-53
+Selesaikan 0 = -33*t + 310*t + 48408 - 24032 untuk t.
+-88
+Selesaikan 0 = -126*v + 1230*v + 2761 + 80039 untuk v.
+-75
+Selesaikan 44*g - 27*g + 302 = -1324 - 57 untuk g.
+-99
+Selesaikan -163981*b + 10586 = -164139*b untuk b.
+-67
+Selesaikan -3642 - 1584 = -31*v + 98*v untuk v.
+-78
+Selesaikan 18466 = 727*h - 6122 + 5686 untuk h.
+26
+Selesaikan -1552*c + 34914 + 22295 = -30389 + 28622 untuk c.
+38
+Selesaikan -11480*x = -10824*x - 35424 untuk x.
+54
+Selesaikan -109*r - 41*r - 8759 = 131*r - 24214 untuk r.
+55
+Selesaikan -366*x - 400531 + 376009 = 0 untuk x.
+-67

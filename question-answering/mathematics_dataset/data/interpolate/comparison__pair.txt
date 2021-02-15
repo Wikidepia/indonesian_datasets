@@ -1,0 +1,2000 @@
+Mana yang lebih kecil: 28 atau 11935/437?
+11935/437
+Mana yang lebih kecil: 96 atau -6281?
+-6281
+Apakah 10050 tidak sama dengan 10217?
+True
+Apakah 1 dan -11/1003295 sama?
+False
+Mana yang lebih besar: 946340 atau 946328?
+946340
+Mana yang lebih kecil: 1786 atau -3206?
+-3206
+Mana yang lebih besar: 0 atau -28/135761?
+0
+Apakah 4920670 kurang dari atau sama dengan 34444700/7?
+True
+Apakah -7122106 sama dengan -7122106?
+True
+Apakah -1 lebih banyak -1/22859270?
+True
+Mana yang lebih kecil: 3674/7 atau 2/1945?
+2/1945
+Apakah -276 dan -24046 sama?
+False
+Apakah -0.1 dan -405148/19 sama?
+False
+Mana yang lebih kecil: 4280/18519 atau 0?
+0
+Apakah 2/89056809 sama dengan -1?
+False
+Apakah -2243867 dan -2243870 sama?
+False
+Mana yang lebih besar: -1049072 atau -4?
+-4
+Apakah 13178943 lebih dari atau sama dengan 13178943?
+True
+Apakah -1697/7919 paling tidak sama dengan -1?
+False
+Apakah -3034/8363 lebih besar dari -0.1?
+False
+Apakah -11 = -1872056?
+False
+Apakah -1357 <= -14/409?
+True
+Apakah -43477 kurang dari -18/23?
+True
+Mana yang lebih kecil: 0 atau -73/56636?
+-73/56636
+Apakah -2/34811 lebih dari 75?
+False
+Mana yang lebih besar: -904342 atau 11/3?
+11/3
+Mana yang lebih besar: -1209 atau -207?
+-207
+Mana yang lebih besar: -4175603 atau -4175606?
+-4175603
+Apakah 566661 > 566661?
+False
+Mana yang lebih besar: 76786/11 atau 6980?
+76786/11
+Apakah -0.3 = 332417?
+False
+Apakah 2604/28453 <= 0?
+False
+Mana yang lebih kecil: 1 atau 313/30133?
+313/30133
+Mana yang lebih kecil: 0 atau 697/16836?
+0
+Mana yang lebih besar: 260802/31 atau 8414?
+8414
+Apakah 1 dan -3/13923736 memiliki nilai yang berbeda?
+True
+Mana yang lebih kecil: -9362/5535 atau -1?
+-9362/5535
+Apakah 2057.3 < 145?
+False
+Apakah -0.08 dan -130.536 berbeda?
+True
+Apakah 1891116/47 tidak sama dengan 40238?
+True
+Apakah -1 setidaknya sama besar dengan -241820?
+True
+Apakah -2411906 kurang dari atau sama dengan -2411905?
+True
+Apakah -2334646 kurang dari atau sama dengan -2334646?
+True
+Apakah 85 > 93450/1117?
+True
+Apakah 996069/7 setidaknya sama besar dengan 142297?
+False
+Apakah 0 sama dengan 12/100871?
+False
+Apakah 3.0804 lebih banyak -114?
+False
+Mana yang lebih besar: -3461109/10 atau -346110?
+-346110
+Apakah 1/24 tidak sama dengan -142019?
+True
+Apakah -8 != 1516.902?
+True
+Mana yang lebih besar: 449385 atau 449383?
+449385
+Apakah -1 dan 126/129349 memiliki nilai yang berbeda?
+True
+Apakah -2458402 > -2458397?
+False
+Mana yang lebih besar: 15871301 atau 15871302?
+15871302
+Apakah -0.3 lebih dari atau sama dengan 0.2026363?
+False
+Apakah -2/8925 dan 388 tidak sama?
+True
+Apakah -14929736 setidaknya sama besar dengan -14929738?
+True
+Mana yang lebih kecil: 6275120 atau 6275119?
+6275119
+Mana yang lebih kecil: 5 atau -496980?
+-496980
+Mana yang lebih besar: -1 atau -2/75883965?
+-2/75883965
+Apakah 571902 kurang dari 571891?
+False
+Mana yang lebih besar: 329622 atau 329598?
+329622
+Mana yang lebih besar: 396/196697 atau 0?
+396/196697
+Apakah -7143051 = -7143051?
+True
+Mana yang lebih besar: 1370 atau 843?
+1370
+Mana yang lebih kecil: 215513 atau 215508?
+215508
+Apakah 21 lebih besar dari -89828?
+True
+Apakah -3838/35 < 4.6?
+True
+Mana yang lebih besar: -909/18619 atau 0?
+0
+Apakah 3272848 >= 3272848?
+True
+Mana yang lebih besar: -1 atau 223/84376?
+223/84376
+Mana yang lebih besar: -185/8291 atau -1?
+-185/8291
+Apakah -140675 dan -1828792/13 memiliki nilai yang berbeda?
+True
+Mana yang lebih kecil: -31876 atau -2/77?
+-31876
+Mana yang lebih kecil: -85518 atau -26?
+-85518
+Apakah -13848 kurang dari atau sama dengan 1315?
+True
+Mana yang lebih besar: -1796/7 atau -18/23?
+-18/23
+Apakah -8020 tidak sama dengan -6036?
+True
+Mana yang lebih kecil: -11852/61 atau -193?
+-11852/61
+Apakah 45814 != 45817?
+True
+Mana yang lebih besar: 55317 atau 55313?
+55317
+Mana yang lebih besar: 10665/2143 atau 4?
+10665/2143
+Mana yang lebih besar: -3 atau 743174?
+743174
+Apakah -35 lebih dari -4869?
+True
+Mana yang lebih besar: 2505 atau 4353?
+4353
+Apakah -1 = -12/11423?
+False
+Apakah 1 != 1065/20368?
+True
+Mana yang lebih kecil: -10585 atau -10623?
+-10623
+Apakah 0 lebih besar dari 75/21616?
+False
+Apakah 6607.8 lebih besar dari 23?
+True
+Mana yang lebih besar: 2060949/2 atau 1030473?
+2060949/2
+Mana yang lebih kecil: 3527709 atau 3527708?
+3527708
+Apakah -3523972 sama dengan -3523972?
+True
+Apakah 0.11 dan 140000 sama?
+False
+Apakah -5047971 setidaknya sama besar dengan -5047966?
+False
+Apakah 13939 lebih dari atau sama dengan 24.7?
+True
+Apakah 21/309539 dan -1 tidak sama?
+True
+Apakah -2850520 <= -2850518?
+True
+Apakah 6440889/10 dan 644089 memiliki nilai yang sama?
+False
+Apakah -1 > -3385/5774?
+False
+Apakah -1753 sama dengan 1638?
+False
+Apakah 1073 setidaknya sama besar dengan 508?
+True
+Mana yang lebih kecil: -721445 atau -721458?
+-721458
+Mana yang lebih kecil: 2.2 atau 173968?
+2.2
+Apakah -87 dan -36137/413 sama?
+False
+Mana yang lebih besar: -635 atau -3/1750?
+-3/1750
+Apakah 1 dan 189/209 berbeda?
+True
+Mana yang lebih besar: -189572 atau -189548?
+-189548
+Apakah 47112 lebih dari 47121?
+False
+Mana yang lebih besar: 11543855 atau 11543854?
+11543855
+Mana yang lebih kecil: 9/167 atau -19/2?
+-19/2
+Apakah 24032/227 dan 106 tidak sama?
+True
+Apakah 202 dan 8373 tidak sama?
+True
+Apakah 559511 kurang dari 0.07?
+False
+Mana yang lebih kecil: -800082 atau -4800499/6?
+-4800499/6
+Apakah -8 < 79543?
+True
+Mana yang lebih besar: 1 atau 21/2026547?
+1
+Mana yang lebih kecil: 13575 atau 13278?
+13278
+Apakah 53029 < 53304?
+True
+Mana yang lebih besar: -1 atau 93/129071?
+93/129071
+Apakah -303.8 dan 761 berbeda?
+True
+Mana yang lebih kecil: 8216 atau 6703?
+6703
+Mana yang lebih besar: -0.1 atau 924024?
+924024
+Mana yang lebih besar: -1016292/29 atau -35045?
+-1016292/29
+Apakah -1823504 dan -1823505 berbeda?
+True
+Apakah -20 dan -1/54548 memiliki nilai yang sama?
+False
+Mana yang lebih besar: -1494 atau -1283?
+-1283
+Mana yang lebih besar: -2378209 atau -11891039/5?
+-11891039/5
+Apakah -17256259/3 tidak sama dengan -0.1?
+True
+Apakah -418/11393 tidak sama dengan 0?
+True
+Mana yang lebih kecil: -2724301/7 atau -389185?
+-2724301/7
+Apakah -150 kurang dari atau sama dengan 104987?
+True
+Mana yang lebih besar: -499 atau -1476?
+-499
+Mana yang lebih kecil: 3378434/19 atau 177812?
+177812
+Apakah -4166 dan -6971 tidak sama?
+True
+Mana yang lebih kecil: 159/87710 atau -1?
+-1
+Apakah 2/5 setidaknya sama besar dengan -376887?
+True
+Mana yang lebih kecil: 2 atau -8153533?
+-8153533
+Mana yang lebih kecil: -38737 atau 21?
+-38737
+Apakah 97018/45 = -2?
+False
+Mana yang lebih besar: -8645795 atau -8645797?
+-8645795
+Mana yang lebih besar: -24880/643 atau -40?
+-24880/643
+Apakah -731146 dan -731142 tidak sama?
+True
+Apakah -6218734 > -31093666/5?
+False
+Mana yang lebih kecil: -6651 atau -874?
+-6651
+Mana yang lebih kecil: -12/627151 atau 0?
+-12/627151
+Mana yang lebih kecil: 4029163/5 atau 805834?
+4029163/5
+Apakah -754218 kurang dari -754226?
+False
+Apakah -16215409 lebih kecil dari -16215409?
+False
+Mana yang lebih kecil: 1/3 atau 3225919/7?
+1/3
+Apakah 1179 lebih dari atau sama dengan 4135?
+False
+Mana yang lebih kecil: 7398050 atau 7398047?
+7398047
+Apakah -1 sama dengan -275/29396?
+False
+Apakah -2238748/33 < -67841?
+False
+Mana yang lebih besar: 10205 atau 11805?
+11805
+Apakah -1841535 > -1841535?
+False
+Mana yang lebih kecil: 1 atau -91/235479?
+-91/235479
+Apakah 1068016/3 lebih banyak 356005?
+False
+Apakah 53/465494 setidaknya sama besar dengan 1?
+False
+Apakah -40/122587 lebih banyak -5?
+False
+Mana yang lebih kecil: -7090 atau 969?
+-7090
+Mana yang lebih besar: -666272/15 atau 0?
+0
+Apakah -8 kurang dari -10351/1443?
+True
+Apakah -2/29 < 652/423?
+True
+Mana yang lebih besar: -434631 atau -434646?
+-434631
+Mana yang lebih besar: 4115 atau 6098?
+6098
+Mana yang lebih besar: 723550 atau -14?
+723550
+Apakah 1 dan 5839995/4 sama?
+False
+Mana yang lebih besar: -15645437/3 atau -5215146?
+-15645437/3
+Mana yang lebih kecil: 3.282 atau 65?
+3.282
+Apakah 0 kurang dari 15/718237?
+True
+Mana yang lebih besar: -296/25187 atau 0?
+0
+Apakah 1 tidak sama dengan -108/591863?
+True
+Mana yang lebih besar: -2 atau 1984087?
+1984087
+Mana yang lebih besar: 557 atau -1.7026?
+557
+Mana yang lebih besar: -133247 atau -3864150/29?
+-3864150/29
+Mana yang lebih besar: -5047 atau -65628/13?
+-5047
+Apakah 6495 lebih banyak 5694?
+False
+Apakah 27138 paling tidak sama dengan 26930?
+False
+Mana yang lebih besar: 1 atau 4/9724499?
+1
+Apakah 207209.19 paling tidak sama dengan 1/2?
+False
+Mana yang lebih besar: 2206 atau 1600?
+2206
+Mana yang lebih besar: -187 atau 47999?
+47999
+Apakah -284779 dan -284788 tidak sama?
+True
+Mana yang lebih kecil: 366/6235 atau 6?
+366/6235
+Mana yang lebih kecil: 0 atau -1787/5529?
+-1787/5529
+Apakah 253744 lebih banyak 0.089?
+False
+Apakah -62/2009 setidaknya sama besar dengan 2/101?
+False
+Apakah -11462/329 lebih kecil dari -34?
+True
+Mana yang lebih besar: 746826/73 atau 10229?
+746826/73
+Apakah -27829/22 > 1?
+False
+Mana yang lebih kecil: 59879 atau 59935?
+59879
+Apakah 1 lebih banyak -261/144113?
+False
+Mana yang lebih besar: -1 atau 1/1454448?
+1/1454448
+Apakah 536305/64 <= 8379?
+False
+Mana yang lebih besar: 628983 atau 9/2?
+628983
+Mana yang lebih besar: -0.7 atau 2983064?
+2983064
+Mana yang lebih kecil: 159107 atau 159213?
+159107
+Apakah 314619 setidaknya sama besar dengan -4.9?
+True
+Apakah 20660887 sama dengan 20660888?
+False
+Apakah -2495828.5 dan 0 sama?
+False
+Mana yang lebih kecil: 1/869580 atau 0?
+0
+Apakah 4592056 != 4592056?
+False
+Apakah 10682188 <= 0.1?
+False
+Apakah -25962/29 setidaknya -894?
+False
+Apakah 298240 lebih besar dari 16?
+True
+Apakah -10988340 dan -10988339 berbeda?
+True
+Apakah 0.7441 dan 1721 berbeda?
+True
+Mana yang lebih kecil: -42/155653 atau -1?
+-1
+Mana yang lebih besar: 9/1608061 atau 0?
+9/1608061
+Apakah -1 lebih banyak 2717079?
+True
+Mana yang lebih besar: 2048017 atau 2/33?
+2048017
+Mana yang lebih besar: -0.4487 atau -12?
+-0.4487
+Apakah -3/25159289 lebih besar dari 1?
+False
+Mana yang lebih kecil: -7347 atau -7281?
+-7347
+Mana yang lebih besar: 23572243 atau 2/5?
+23572243
+Apakah 8/8901437 <= 1?
+True
+Mana yang lebih besar: -5868596 atau -5868594?
+-5868594
+Mana yang lebih besar: 872779 atau 872767?
+872779
+Apakah 10001694 <= 10001696?
+True
+Apakah 317995 lebih dari atau sama dengan -2/185?
+True
+Mana yang lebih besar: -487/1478 atau -1?
+-487/1478
+Apakah 1 > -1/42588533?
+True
+Mana yang lebih kecil: 1227/26443 atau 0?
+0
+Mana yang lebih kecil: -49 atau -6/36263?
+-49
+Apakah -10871032 < 0.2?
+True
+Apakah -64 lebih dari atau sama dengan -33800/527?
+True
+Mana yang lebih besar: 0.069 atau 5/332?
+0.069
+Mana yang lebih kecil: -9930422/13 atau -763879?
+-763879
+Apakah 4/2494147 lebih kecil dari -1?
+False
+Apakah -3870819 > -3870818?
+False
+Apakah 5129738 setidaknya 0?
+True
+Apakah 2248000 setidaknya sama besar dengan 2248004?
+False
+Apakah -3.549 < 1681?
+True
+Apakah -6044654 kurang dari -6044653?
+True
+Apakah 118/495209 dan 1 sama?
+False
+Apakah 32 dan -12/10073 memiliki nilai yang berbeda?
+True
+Mana yang lebih besar: -1 atau 64/313481?
+64/313481
+Apakah -13095319 setidaknya -13095319?
+True
+Mana yang lebih kecil: 9448 atau 2343?
+2343
+Mana yang lebih besar: -17317 atau -18080?
+-17317
+Mana yang lebih kecil: -1 atau -4/18737025?
+-1
+Mana yang lebih besar: 82433 atau 82419?
+82433
+Mana yang lebih besar: 1 atau 2/7918227?
+1
+Mana yang lebih kecil: -39420 atau -39200?
+-39420
+Mana yang lebih besar: 16812069 atau -2?
+16812069
+Apakah -1326/20513 lebih dari 0?
+False
+Apakah 75 = -3/13858?
+False
+Mana yang lebih besar: -94374 atau -94187?
+-94187
+Apakah -4704783 <= -4704782?
+True
+Apakah 1 < -106/578825?
+False
+Apakah -11776725 setidaknya sama besar dengan -11776726?
+True
+Apakah -411 < -2045?
+False
+Apakah 45 lebih dari atau sama dengan -133759?
+True
+Mana yang lebih kecil: 1574 atau 192163/122?
+1574
+Apakah 1855/23208 > 1?
+False
+Apakah 7.4 > 2/90955?
+True
+Apakah 984 != 913?
+True
+Apakah 17 setidaknya 2/364551?
+True
+Mana yang lebih kecil: 0.01 atau -243.25?
+-243.25
+Mana yang lebih besar: -2720/7161 atau 0?
+0
+Mana yang lebih kecil: -87672 atau 53?
+-87672
+Apakah -146 lebih dari 1079?
+False
+Apakah 2/2607 setidaknya sama besar dengan -24/1877?
+True
+Apakah 3/10 dan -8.94575 sama?
+False
+Apakah 15716/19 < 23?
+False
+Apakah 1460 lebih dari atau sama dengan 1113/23?
+True
+Apakah -1646628 <= -1646629?
+False
+Apakah -1/4 != -9642/1363?
+True
+Apakah 1601 <= 121?
+False
+Mana yang lebih kecil: 714807 atau -3?
+-3
+Mana yang lebih kecil: -1/16269402 atau 1?
+-1/16269402
+Apakah 0 dan 3/7696408 tidak sama?
+True
+Mana yang lebih besar: -5 atau -799649/4?
+-5
+Mana yang lebih besar: -2346325 atau -2346321?
+-2346321
+Mana yang lebih kecil: 594134 atau -20?
+-20
+Apakah 18908/3635 >= 5?
+True
+Apakah 9993673 <= 9993673?
+True
+Mana yang lebih kecil: -419 atau 4905?
+-419
+Apakah -123/4786 setidaknya sama besar dengan 17?
+False
+Apakah 65411 <= 65199?
+False
+Mana yang lebih besar: 23/1279788 atau -1?
+23/1279788
+Mana yang lebih besar: 147305 atau 147316?
+147316
+Mana yang lebih besar: -211554 atau -211548?
+-211548
+Apakah -4 lebih besar dari 247824?
+False
+Apakah 1 lebih kecil dari 3256/6511?
+False
+Apakah 23947 kurang dari atau sama dengan 167639/7?
+True
+Mana yang lebih kecil: -8255985 atau -8255986?
+-8255986
+Apakah 5665306 lebih besar dari 5665304?
+True
+Mana yang lebih kecil: -0.002 atau -0.5138?
+-0.5138
+Mana yang lebih kecil: -418082 atau -10?
+-418082
+Mana yang lebih kecil: 394 atau -16241?
+-16241
+Mana yang lebih besar: -50/210809 atau 2?
+2
+Mana yang lebih kecil: 3467 atau -2.98?
+-2.98
+Mana yang lebih kecil: -181941 atau 0.063?
+-181941
+Apakah -2854533 > -2/3?
+False
+Apakah -261 setidaknya -363?
+True
+Mana yang lebih kecil: 1/5 atau -2/3132459?
+-2/3132459
+Apakah 1577 kurang dari atau sama dengan -517?
+False
+Mana yang lebih besar: -2/11749499 atau -1?
+-2/11749499
+Apakah -208 dan -33246 memiliki nilai yang sama?
+False
+Apakah -1 dan 3.4686 sama?
+False
+Apakah -36/1231505 = -1?
+False
+Mana yang lebih besar: 115799 atau 115809?
+115809
+Mana yang lebih besar: 7717870/11 atau 701626?
+701626
+Apakah 2 tidak sama dengan -606508?
+True
+Mana yang lebih kecil: 2.1 atau -7610/97?
+-7610/97
+Mana yang lebih kecil: -3 atau 1421393?
+-3
+Mana yang lebih besar: -378 atau 40/111?
+40/111
+Mana yang lebih besar: 0 atau 869/10542?
+869/10542
+Apakah 1/65778 < 78?
+True
+Apakah -0.5 kurang dari atau sama dengan 0.0495291?
+True
+Apakah -7860936 <= -7860936?
+True
+Mana yang lebih kecil: 241360 atau 241386?
+241360
+Apakah -10726042 lebih kecil dari -10726044?
+False
+Apakah 0.25 <= 27.5261?
+True
+Mana yang lebih besar: -89723 atau -0.24?
+-0.24
+Mana yang lebih kecil: -4810052 atau 1/3?
+-4810052
+Mana yang lebih besar: -1575406 atau -1575408?
+-1575406
+Apakah 36393980 sama dengan 36393980?
+True
+Mana yang lebih besar: 131 atau 18710/143?
+131
+Mana yang lebih besar: -3328/1121 atau -2?
+-2
+Mana yang lebih besar: -0.0257148 atau 0.2?
+0.2
+Apakah 9278 kurang dari atau sama dengan 10840?
+True
+Mana yang lebih kecil: -12522 atau -12452?
+-12522
+Mana yang lebih kecil: -112454 atau -224909/2?
+-224909/2
+Apakah 1 setidaknya sama besar dengan 91/262162?
+True
+Apakah 24447 tidak sama dengan 84.8?
+True
+Mana yang lebih besar: 5/2 atau 2/766375?
+5/2
+Mana yang lebih kecil: -59753 atau 3.2?
+-59753
+Mana yang lebih besar: -1 atau -27/280067?
+-27/280067
+Mana yang lebih besar: -934/44759 atau 1?
+1
+Mana yang lebih besar: -79400 atau -79498?
+-79400
+Mana yang lebih besar: -8344 atau -141859/17?
+-8344
+Mana yang lebih besar: -27133/40 atau -677?
+-677
+Apakah 415/3596 tidak sama dengan 0?
+True
+Apakah -15007227 dan -15007226 tidak sama?
+True
+Apakah -1 lebih besar dari -1/10492281?
+False
+Mana yang lebih besar: 0 atau 1294/8339?
+1294/8339
+Apakah -1 dan -1532/31783 sama?
+False
+Mana yang lebih kecil: 1573709 atau 1573705?
+1573705
+Mana yang lebih kecil: 198280 atau 198283?
+198280
+Mana yang lebih kecil: -47/751214 atau 1?
+-47/751214
+Mana yang lebih besar: 1983310/19 atau 104385?
+104385
+Apakah 671354 lebih dari atau sama dengan 671356?
+False
+Apakah 25/28179 kurang dari -1?
+False
+Apakah 914855 lebih dari atau sama dengan -3/4?
+True
+Apakah -78822 setidaknya -18?
+False
+Mana yang lebih kecil: 6/809585 atau 7/4?
+6/809585
+Apakah 211418 lebih kecil dari 211421?
+True
+Apakah -79/63878 lebih kecil dari 0?
+True
+Apakah -1 sama dengan 2019/4171?
+False
+Apakah -5/530333 dan 0 memiliki nilai yang berbeda?
+True
+Apakah -144638 setidaknya -144628?
+False
+Apakah 1.926 lebih dari 90.4?
+False
+Apakah 1 lebih dari atau sama dengan -2/8919647?
+True
+Mana yang lebih besar: 0 atau -533/3168?
+0
+Mana yang lebih kecil: 32982483 atau 32982482?
+32982482
+Mana yang lebih kecil: 1 atau 3/1730695?
+3/1730695
+Mana yang lebih besar: -294/11791 atau 2?
+2
+Mana yang lebih besar: -38630 atau -38562?
+-38562
+Mana yang lebih kecil: 68257 atau 77?
+77
+Mana yang lebih kecil: -3879 atau 118?
+-3879
+Mana yang lebih besar: 1.684 atau 600?
+600
+Mana yang lebih besar: 0 atau -3/15196304?
+0
+Mana yang lebih kecil: -8034556 atau -8034553?
+-8034556
+Apakah -1 != -1848176.3?
+True
+Mana yang lebih besar: -1 atau -1/17618867?
+-1/17618867
+Apakah 266374 lebih dari 266380?
+False
+Mana yang lebih besar: 168356 atau 168330?
+168356
+Mana yang lebih kecil: 8 atau 0.048243?
+0.048243
+Apakah -6903.5 lebih kecil dari 95?
+True
+Mana yang lebih besar: 0 atau 2082/2899?
+2082/2899
+Mana yang lebih besar: -1 atau 2/22645881?
+2/22645881
+Apakah 14987669 >= 14987670?
+False
+Apakah -17513 dan -2.88 sama?
+False
+Mana yang lebih besar: 0 atau 75313?
+75313
+Apakah 2487740 >= 2487747?
+False
+Mana yang lebih kecil: -2/5 atau 450757?
+-2/5
+Apakah 7.118 lebih dari -51?
+True
+Apakah 1/1275 sama dengan 6/253?
+False
+Mana yang lebih besar: 53453 atau 53265?
+53453
+Apakah 33489057 lebih dari atau sama dengan 33489057?
+True
+Apakah -112313 kurang dari -3?
+True
+Apakah -16047509 sama dengan -16047509?
+True
+Mana yang lebih besar: 38/63 atau 640/7?
+640/7
+Apakah -23693 dan 2.5 berbeda?
+True
+Apakah -1634057 lebih besar dari -1634057?
+False
+Apakah -1803792 < -1803787?
+True
+Mana yang lebih besar: -34512480 atau 0?
+0
+Mana yang lebih kecil: -8/6100063 atau 1?
+-8/6100063
+Apakah -374968 > -26?
+False
+Apakah 1/15 dan 186/487 memiliki nilai yang berbeda?
+True
+Apakah -53295 sama dengan -53341?
+False
+Mana yang lebih kecil: 41689/792 atau 52?
+52
+Mana yang lebih kecil: -3391/6 atau -1/6?
+-3391/6
+Mana yang lebih kecil: -419478.17 atau 0?
+-419478.17
+Apakah 1 setidaknya sama besar dengan -144/119467?
+True
+Mana yang lebih kecil: 15/1977322 atau 0?
+0
+Apakah 262 lebih dari 227?
+True
+Apakah -219 sama dengan -32647?
+False
+Mana yang lebih kecil: 0 atau -2/34039145?
+-2/34039145
+Apakah 7476670 lebih kecil dari 7476669?
+False
+Mana yang lebih besar: -64395 atau -64313?
+-64313
+Mana yang lebih kecil: 720814 atau -3?
+-3
+Mana yang lebih kecil: -616/156425 atau 0?
+-616/156425
+Apakah 0.28 dan 5.187 berbeda?
+True
+Mana yang lebih kecil: 859700 atau 7?
+7
+Mana yang lebih kecil: 23237226 atau 23237227?
+23237226
+Apakah -4315129 tidak sama dengan -4315130?
+True
+Apakah -14358649 dan -14358651 sama?
+False
+Mana yang lebih kecil: 12901 atau 613?
+613
+Mana yang lebih besar: 5 atau -668/3523?
+5
+Apakah 14362651 < 14362651?
+False
+Mana yang lebih kecil: -5640917 atau -5640919?
+-5640919
+Apakah 4 tidak sama dengan -1/4517020?
+True
+Mana yang lebih besar: 20011671 atau 20011670?
+20011671
+Mana yang lebih besar: -3971112 atau -3971116?
+-3971112
+Apakah 24514562 lebih besar dari 24514561?
+True
+Apakah -3 setidaknya -8.428337?
+True
+Apakah -5255824 setidaknya -5255823?
+False
+Apakah -4/4667 dan 35.7 memiliki nilai yang sama?
+False
+Mana yang lebih kecil: 91 atau 1848/37?
+1848/37
+Mana yang lebih besar: -9522001 atau 1?
+1
+Apakah -1082371/20 kurang dari -54118?
+True
+Mana yang lebih besar: 0 atau 4393611?
+4393611
+Apakah -1863635 <= -1863631?
+True
+Apakah 4886476 != 0.2?
+True
+Mana yang lebih besar: -544260 atau -1088521/2?
+-544260
+Apakah -25558770 dan -25558770 memiliki nilai yang sama?
+True
+Apakah 1 lebih besar dari -13/1593077?
+True
+Mana yang lebih besar: 0 atau -17738352?
+0
+Mana yang lebih kecil: -957 atau 1983?
+-957
+Apakah 1629513/5 >= 325903?
+False
+Mana yang lebih kecil: -1159 atau 1319?
+-1159
+Mana yang lebih besar: 0 atau -6592835?
+0
+Apakah 10 dan 10139/970 tidak sama?
+True
+Mana yang lebih kecil: -127.2 atau 0.1345?
+-127.2
+Apakah -979 tidak sama dengan -1305?
+True
+Mana yang lebih kecil: -0.1 atau 10445.878?
+-0.1
+Mana yang lebih kecil: 13743 atau 12847?
+12847
+Apakah 20.5746 lebih dari atau sama dengan -51?
+True
+Apakah 25712894/5 sama dengan 5142580?
+False
+Mana yang lebih kecil: -2/55068419 atau 0?
+-2/55068419
+Apakah -1617637 dan -1617635 memiliki nilai yang sama?
+False
+Mana yang lebih kecil: -44773 atau 0.366?
+-44773
+Apakah 25123 setidaknya sama besar dengan 0.0121?
+True
+Apakah 18039364/5 >= 3607873?
+False
+Mana yang lebih kecil: 3180663 atau 3180659?
+3180659
+Apakah 860989 lebih besar dari 0?
+True
+Apakah -822030 dan -822037 sama?
+False
+Mana yang lebih besar: -1654203 atau -1/2?
+-1/2
+Apakah 1 setidaknya -3/4109665?
+True
+Mana yang lebih kecil: 2072 atau 3209?
+2072
+Mana yang lebih kecil: -23765616 atau -23765617?
+-23765617
+Apakah 1860 lebih kecil dari 80008/43?
+True
+Apakah -10451613 = -10451610?
+False
+Mana yang lebih besar: 0.2631068 atau 1?
+1
+Apakah 935998 <= 935994?
+False
+Apakah 26765/251 kurang dari 107?
+True
+Mana yang lebih kecil: 77872 atau 934457/12?
+934457/12
+Mana yang lebih besar: 31514 atau -0.456?
+31514
+Mana yang lebih besar: -2/3 atau -65362?
+-2/3
+Apakah -8/2937035 lebih kecil dari -1?
+False
+Apakah -130532 = -130545?
+False
+Mana yang lebih besar: 3.432 atau 1547?
+1547
+Apakah 7247 = 110?
+False
+Mana yang lebih besar: -115853/78 atau -1486?
+-115853/78
+Mana yang lebih besar: 7281971 atau 7281970?
+7281971
+Mana yang lebih besar: 1156484 atau -10?
+1156484
+Mana yang lebih besar: -1970949 atau -1970951?
+-1970949
+Apakah -8496073 dan -8496073 sama?
+True
+Apakah 2/141356257 kurang dari atau sama dengan 0?
+False
+Apakah -1 > 48/2899625?
+False
+Apakah 1 kurang dari 2/2679533?
+False
+Apakah 1 dan -16/381221 sama?
+False
+Mana yang lebih kecil: -1202/51501 atau 1?
+-1202/51501
+Apakah -444469 dan 23 memiliki nilai yang sama?
+False
+Mana yang lebih besar: -0.5905 atau -1229?
+-0.5905
+Mana yang lebih kecil: -36.088 atau -23/5?
+-36.088
+Mana yang lebih kecil: 302823 atau 302841?
+302823
+Apakah 1 lebih besar dari 6808/5689?
+False
+Apakah 253 < -22/487?
+False
+Mana yang lebih kecil: -83 atau -62.54?
+-83
+Mana yang lebih besar: -118390 atau -118378?
+-118378
+Mana yang lebih kecil: -1 atau 2/25988265?
+-1
+Apakah -93096 dan -6 memiliki nilai yang sama?
+False
+Apakah 420271 setidaknya 420274?
+False
+Apakah 19631/750 dan 25 tidak sama?
+True
+Apakah -0.34 paling tidak sama dengan -158808?
+False
+Apakah 605169 kurang dari atau sama dengan 605158?
+False
+Apakah -6982076 < -6982077?
+False
+Mana yang lebih besar: -40/131 atau -8/225?
+-8/225
+Apakah -3252006 > -3252006?
+False
+Mana yang lebih kecil: -5/2 atau 29175?
+-5/2
+Apakah 26780 paling tidak sama dengan 26677?
+False
+Mana yang lebih besar: -6798/1867 atau -4?
+-6798/1867
+Apakah 2124/7441 >= -1?
+True
+Apakah 2/92449439 paling tidak sama dengan 0?
+False
+Apakah 4/107 setidaknya -9838?
+True
+Mana yang lebih besar: -7524/17125 atau 1?
+1
+Apakah -9586958 lebih kecil dari -9586958?
+False
+Mana yang lebih kecil: -23/1193561 atau 0?
+-23/1193561
+Apakah -341/1462 lebih dari -0.04?
+False
+Mana yang lebih kecil: 3/2410993 atau 1?
+3/2410993
+Apakah -6 dan -9629/1413 memiliki nilai yang sama?
+False
+Apakah 2724467 <= 2724475?
+True
+Mana yang lebih kecil: 0.024 atau 46.744?
+0.024
+Mana yang lebih besar: 1844/25 atau 138?
+138
+Mana yang lebih besar: -27 atau 439.286?
+439.286
+Apakah 0 dan 1823817 sama?
+False
+Apakah -237684 kurang dari atau sama dengan -1/8?
+True
+Apakah -588672 setidaknya -588683?
+True
+Apakah 13/6 tidak sama dengan -27035?
+True
+Apakah 1 paling tidak sama dengan 2219/20905?
+False
+Mana yang lebih besar: -0.2 atau -313194?
+-0.2
+Apakah -1403030 lebih kecil dari -1403029?
+True
+Apakah 11 != -1944977?
+True
+Mana yang lebih kecil: 1970296 atau -0.1?
+-0.1
+Mana yang lebih kecil: 102 atau 17307/169?
+102
+Apakah 0 < -1321/3699?
+False
+Apakah -1 dan 1293/37756 sama?
+False
+Apakah -34474 != -34346?
+True
+Apakah 0.0459 setidaknya sama besar dengan 7749?
+False
+Apakah 8 >= 10762/1595?
+True
+Apakah -1682 >= 265?
+False
+Mana yang lebih besar: -1021197 atau -10?
+-10
+Apakah -5 dan -966 memiliki nilai yang sama?
+False
+Mana yang lebih kecil: -25392 atau -25505?
+-25505
+Mana yang lebih kecil: 1 atau 2570/6201?
+2570/6201
+Mana yang lebih kecil: -37538 atau 0.106?
+-37538
+Mana yang lebih kecil: -393998/49 atau -8040?
+-393998/49
+Mana yang lebih besar: 5420089 atau 5420087?
+5420089
+Mana yang lebih kecil: 1 atau 678916?
+1
+Apakah -20383404 lebih kecil dari -20383404?
+False
+Mana yang lebih besar: 1 atau -1366/51581?
+1
+Mana yang lebih besar: -307 atau -108900/353?
+-307
+Mana yang lebih besar: -8.55 atau 351/61?
+351/61
+Mana yang lebih kecil: 17239607 atau 17239606?
+17239606
+Mana yang lebih kecil: -1976146 atau -1976143?
+-1976146
+Mana yang lebih kecil: -15283509 atau -15283510?
+-15283510
+Mana yang lebih kecil: 0 atau 229/30370?
+0
+Apakah 43 < 27939/640?
+True
+Apakah -11246490/13 <= -865115?
+False
+Apakah 0 setidaknya 1085/13173?
+False
+Apakah 1/5096850 dan 1 tidak sama?
+True
+Apakah 37039813 setidaknya 37039813?
+True
+Mana yang lebih kecil: 0 atau -14/1284543?
+-14/1284543
+Apakah 18841369 setidaknya sama besar dengan 18841368?
+True
+Mana yang lebih kecil: 293944 atau -26?
+-26
+Mana yang lebih kecil: 152259/223 atau 684?
+152259/223
+Mana yang lebih besar: 40685 atau 40661?
+40685
+Mana yang lebih besar: -23561 atau -23718?
+-23561
+Apakah 779192 setidaknya 779204?
+False
+Mana yang lebih besar: -0.3 atau -2747449?
+-0.3
+Mana yang lebih kecil: -1 atau 20/93649?
+-1
+Apakah -18217/14 tidak sama dengan 0.2?
+True
+Mana yang lebih kecil: -0.158 atau -4547.5?
+-4547.5
+Apakah -18 kurang dari atau sama dengan -939576?
+False
+Mana yang lebih besar: 1 atau -3443/11567?
+1
+Apakah -5944/3939 >= -1?
+False
+Apakah -46699 = -46662?
+False
+Apakah 12.58 lebih kecil dari 38.43?
+True
+Mana yang lebih kecil: 2988 atau 1480?
+1480
+Apakah 1429820/57 lebih banyak 25085?
+True
+Apakah -65034/1049 < -61?
+True
+Apakah -16530/1499 setidaknya sama besar dengan -11?
+False
+Mana yang lebih kecil: 53575 atau 0.17?
+0.17
+Mana yang lebih kecil: -256/135 atau -3?
+-3
+Apakah 251007 lebih dari 3263090/13?
+True
+Mana yang lebih kecil: 36454 atau -80?
+-80
+Mana yang lebih besar: -2443 atau -265?
+-265
+Mana yang lebih besar: -10675692 atau -10675693?
+-10675692
+Mana yang lebih besar: -646271/39 atau -16572?
+-646271/39
+Mana yang lebih besar: -52431 atau -52366?
+-52366
+Mana yang lebih kecil: 0 atau -5675973?
+-5675973
+Mana yang lebih kecil: 7529 atau -210?
+-210
+Apakah 74/73 < -68?
+False
+Apakah 1/2 < 1584382/3?
+True
+Apakah 11752197 lebih besar dari 11752197?
+False
+Mana yang lebih besar: -1.943818 atau 1?
+1
+Mana yang lebih kecil: 1 atau 515/938?
+515/938
+Apakah -11557/1542 tidak sama dengan -7?
+True
+Apakah 8533/510 dan 1/2 memiliki nilai yang sama?
+False
+Apakah 36 lebih kecil dari -619008?
+False
+Apakah 2/57089677 lebih besar dari 0?
+True
+Apakah -997 dan 18461 sama?
+False
+Mana yang lebih kecil: -590178 atau -590149?
+-590178
+Apakah -59.60822 > -2/9?
+False
+Apakah -1 > 12/1053137?
+False
+Apakah -12256507 lebih kecil dari -12256507?
+False
+Apakah 3430758 setidaknya sama besar dengan 17153794/5?
+False
+Mana yang lebih besar: 172062 atau 172064?
+172064
+Mana yang lebih kecil: 23530 atau -253?
+-253
+Mana yang lebih kecil: -4352 atau 0.0922?
+-4352
+Apakah 14715 >= -0.0364?
+True
+Apakah 0 setidaknya -36/518989?
+True
+Mana yang lebih kecil: 93381 atau 466911/5?
+93381
+Apakah -1171766 dan -1171770 memiliki nilai yang berbeda?
+True
+Mana yang lebih besar: -67696 atau 4?
+4
+Mana yang lebih besar: -5 atau -1866/331?
+-5
+Apakah 1193423/6 setidaknya 198905?
+False
+Mana yang lebih besar: -209487 atau -209458?
+-209458
+Mana yang lebih kecil: 39 atau 473668?
+39
+Mana yang lebih kecil: -2239097/5 atau -447818?
+-2239097/5
+Mana yang lebih besar: 248500/151 atau 0.1?
+248500/151
+Mana yang lebih besar: -550764 atau -550761?
+-550761
+Mana yang lebih besar: 92 atau 24025/259?
+24025/259
+Apakah 32928269 lebih banyak 32928269?
+True
+Mana yang lebih besar: 227384 atau 227387?
+227387
+Apakah 24119101 lebih besar dari -1/4?
+True
+Mana yang lebih besar: 45212 atau -57?
+45212
+Mana yang lebih besar: 12/739 atau 17.74?
+17.74
+Apakah 630/22013 setidaknya sama besar dengan 0?
+True
+Mana yang lebih kecil: -167636/57 atau -2940?
+-167636/57
+Mana yang lebih kecil: 33/228731 atau -1?
+-1
+Mana yang lebih besar: -6323492 atau 0?
+0
+Apakah -1 > -0.0663216?
+False
+Mana yang lebih besar: 457258/81 atau 5646?
+5646
+Apakah -33767 <= -40?
+True
+Apakah 1.0437 < 5/277?
+False
+Apakah 18.8915 lebih banyak 33?
+True
+Apakah 0 lebih banyak -540/2021?
+False
+Apakah -5194608 >= -5194603?
+False
+Apakah -1 setidaknya sama besar dengan -1/65850434?
+False
+Mana yang lebih kecil: -2 atau -8538/4649?
+-2
+Apakah 1816619 setidaknya sama besar dengan 7266481/4?
+False
+Mana yang lebih kecil: -3041613/17 atau -178918?
+-3041613/17
+Mana yang lebih besar: 17/55392 atau 0?
+17/55392
+Apakah 3090679 setidaknya 3090682?
+False
+Mana yang lebih besar: -408327 atau -408303?
+-408303
+Mana yang lebih kecil: -23381440 atau -23381441?
+-23381441
+Apakah -1556595/11 lebih dari atau sama dengan -141509?
+True
+Apakah -5154/2537 != -2?
+True
+Mana yang lebih besar: 3443769/22 atau 156536?
+156536
+Apakah 41441 <= -4/9?
+False
+Mana yang lebih kecil: -508228 atau -508198?
+-508228
+Apakah -528663 lebih banyak -3700645/7?
+False
+Apakah 1947/2540 >= 1?
+False
+Mana yang lebih kecil: 1094 atau 5/413?
+5/413
+Apakah 1 lebih dari atau sama dengan -11/322?
+True
+Apakah -2692 tidak sama dengan -1263?
+True
+Mana yang lebih besar: -288.4 atau -3434?
+-288.4
+Apakah -480/104377 <= -1?
+False
+Apakah 1161523 lebih banyak 1161527?
+True
+Mana yang lebih kecil: -0.0464608 atau -21?
+-21
+Apakah 935/67379 kurang dari 1?
+True
+Mana yang lebih besar: -1563064 atau -1563062?
+-1563062
+Mana yang lebih besar: -9555986/3 atau -3185328?
+-3185328
+Apakah -6965 setidaknya -341267/49?
+False
+Mana yang lebih besar: 0 atau 3/38264771?
+3/38264771
+Apakah 8270 lebih dari -85.7?
+True
+Mana yang lebih besar: -451231/8 atau -56405?
+-451231/8
+Apakah -4/5 setidaknya -2557507?
+True
+Apakah 37/473488 dan 0 sama?
+False
+Apakah 3444/35045 lebih dari atau sama dengan 1?
+False
+Apakah 4203 >= 2310?
+True
+Mana yang lebih kecil: -1867/390 atau -6?
+-6
+Apakah 77181 < 77185?
+True
+Apakah -2/267 <= 14125?
+True
+Apakah 1 lebih dari -13/1167732?
+True
+Apakah -4373854 < 3?
+True
+Apakah -19.4056 tidak sama dengan 11?
+True
+Mana yang lebih besar: -10796 atau 287/3?
+287/3
+Mana yang lebih kecil: -160694 atau -160677?
+-160694
+Mana yang lebih besar: 0.0278618 atau -3/2?
+0.0278618
+Apakah -325409 dan -325409 berbeda?
+False
+Mana yang lebih kecil: -149718/607 atau -247?
+-247
+Mana yang lebih besar: 30355178 atau 30355179?
+30355179
+Apakah 18 sama dengan 849/433?
+False
+Apakah 3/27614473 dan 0 memiliki nilai yang sama?
+False
+Mana yang lebih besar: 19 atau -2/55823?
+19
+Mana yang lebih besar: 0 atau 3577/14137?
+3577/14137
+Apakah 19 < 0.0215186?
+False
+Mana yang lebih kecil: 15674790 atau 15674791?
+15674790
+Apakah 0 lebih besar dari 1476/2365?
+False
+Mana yang lebih besar: -59084 atau -58999?
+-58999
+Mana yang lebih kecil: 4003475 atau 4003479?
+4003475
+Apakah -88068 > -0.8?
+False
+Mana yang lebih kecil: 5637 atau 264990/47?
+5637
+Mana yang lebih kecil: 95717 atau 95719?
+95717
+Mana yang lebih kecil: 10/141 atau -0.0856?
+-0.0856
+Apakah 7068447 lebih besar dari 7068444?
+True
+Mana yang lebih kecil: -39268 atau -1138794/29?
+-1138794/29
+Mana yang lebih kecil: -453 atau -2789?
+-2789
+Apakah 2520467 = 2520468?
+False
+Mana yang lebih besar: -3 atau -1177/115?
+-3
+Apakah -65/175878 sama dengan -1?
+False
+Apakah -61952.62 = 1/2?
+False
+Mana yang lebih besar: 1 atau 4/2877397?
+1
+Mana yang lebih besar: -10840 atau -9121?
+-9121
+Apakah 209 = 29.047?
+False
+Mana yang lebih kecil: -6036/595 atau -11?
+-11
+Mana yang lebih kecil: -2682 atau -107333/40?
+-107333/40
+Apakah -1.1492 paling tidak sama dengan -6.13?
+False
+Mana yang lebih besar: -2/27013 atau 3.99?
+3.99
+Apakah 0 paling tidak sama dengan -16/1468217?
+False
+Apakah 7844635 dan 7844636 tidak sama?
+True
+Mana yang lebih besar: 0.015679 atau -89/5?
+0.015679
+Apakah 291366 < 0.38?
+False
+Mana yang lebih besar: 1 atau 5821/4036?
+5821/4036
+Apakah 17356 lebih banyak 17111?
+False
+Apakah 0 sama dengan -140/157009?
+False
+Apakah -94496 dan 4/11 sama?
+False
+Apakah -258/7339 lebih besar dari -1?
+True
+Apakah -6728 > -7155?
+True
+Apakah 50772 setidaknya sama besar dengan 50912?
+False
+Apakah 1/10 dan 51.8691 sama?
+False
+Mana yang lebih besar: -2/5 atau 1.468643?
+1.468643
+Apakah 0.0075 kurang dari 215/23?
+True
+Apakah 3375 lebih besar dari 104667/31?
+False
+Apakah -176876/9 lebih kecil dari -19652?
+True
+Apakah -84798 lebih dari atau sama dengan 133?
+False
+Apakah 18846779 dan -1 memiliki nilai yang berbeda?
+True
+Mana yang lebih besar: 943 atau 40605/43?
+40605/43
+Mana yang lebih besar: 98856 atau 1285145/13?
+1285145/13
+Apakah 3397627 lebih besar dari -3?
+True
+Apakah 125.19069 lebih kecil dari -2/7?
+False
+Apakah 130 kurang dari atau sama dengan -26524?
+False
+Apakah -365/25399 > 0?
+False
+Mana yang lebih kecil: 0.848 atau 9406?
+0.848
+Apakah 14172622/5 >= 2834525?
+False
+Apakah 449176 lebih banyak -17?
+False
+Apakah -47641 = -47646?
+False
+Apakah -15 lebih dari 130003?
+False
+Apakah -23665.7 > 4.2?
+False
+Apakah -166/208663 kurang dari -1?
+False
+Apakah 24078200 dan -1/3 memiliki nilai yang sama?
+False
+Apakah 1/3 setidaknya -40386/137?
+True
+Apakah -2596231 setidaknya sama besar dengan -2596233?
+True
+Mana yang lebih kecil: -5/17 atau -7279?
+-7279
+Apakah -508 >= -142822/281?
+True
+Apakah -537312/185 paling tidak sama dengan -2904?
+True
+Apakah 64 sama dengan 119461?
+False
+Mana yang lebih kecil: 8346744 atau 8346745?
+8346744
+Apakah -664438 = -664434?
+False
+Mana yang lebih besar: -496/32301 atau 0?
+0
+Apakah -68642/583 dan -119 sama?
+False
+Mana yang lebih besar: -0.08 atau 953871?
+953871
+Mana yang lebih besar: 2.9 atau 16/1307?
+2.9
+Apakah 0 lebih kecil dari -9/35693?
+False
+Mana yang lebih besar: 10177/1092 atau 8?
+10177/1092
+Apakah -1 <= 1/1502871?
+True
+Mana yang lebih besar: -10937344 atau -10937343?
+-10937343
+Mana yang lebih kecil: 10106574 atau 10106575?
+10106574
+Mana yang lebih kecil: 1 atau -1/10157540?
+-1/10157540
+Mana yang lebih kecil: -4 atau -2966/609?
+-2966/609
+Apakah -1078 > -7145?
+True
+Apakah -2292/23909 lebih banyak -1?
+False
+Mana yang lebih besar: 104656/323 atau 325?
+325
+Apakah -10/11896411 paling tidak sama dengan 0?
+True
+Apakah -0.1044 lebih kecil dari -0.1499?
+False
+Mana yang lebih besar: -938/105179 atau 1?
+1
+Mana yang lebih kecil: -0.08239 atau 28/17?
+-0.08239
+Mana yang lebih kecil: 0 atau -2060850?
+-2060850
+Mana yang lebih kecil: -1/606 atau 28489?
+-1/606
+Mana yang lebih besar: -5879 atau -134?
+-134
+Apakah 42472/63 <= 673?
+False
+Apakah -19441795 dan -19441795 berbeda?
+False
+Mana yang lebih besar: -40020/37 atau -1083?
+-40020/37
+Mana yang lebih besar: -1215603 atau 2?
+2
+Mana yang lebih kecil: -13/474751 atau 1?
+-13/474751
+Apakah 0 != -3/5353298?
+True
+Mana yang lebih besar: -19512/601 atau -31?
+-31
+Apakah -139 dan 6793 berbeda?
+True
+Mana yang lebih besar: 15982821 atau 15982820?
+15982821
+Apakah -37000/161 dan -231 sama?
+False
+Apakah -421/73222 dan 0 tidak sama?
+True
+Apakah -0.18 lebih kecil dari 704925?
+True
+Apakah 1252349/24 lebih kecil dari 52182?
+True
+Apakah 440 dan 1823 memiliki nilai yang sama?
+False
+Apakah -1713 tidak sama dengan -51/4?
+True
+Mana yang lebih kecil: -70 atau -22461.5?
+-22461.5
+Mana yang lebih besar: 166141 atau 1162997/7?
+1162997/7
+Apakah 6206 > 5802?
+True
+Mana yang lebih besar: 16015971 atau 16015972?
+16015972
+Apakah 2321394 < 2321400?
+True
+Apakah 0 dan 2/81366411 berbeda?
+True
+Mana yang lebih kecil: -143112/253 atau -566?
+-566
+Mana yang lebih besar: -1414333/13 atau -108796?
+-1414333/13
+Apakah 278 != 57081?
+True
+Mana yang lebih kecil: 238970 atau 238986?
+238970
+Apakah -3/65 <= 20/53?
+True
+Mana yang lebih kecil: -2/13767469 atau -1?
+-1
+Apakah 0 = 88/42989?
+False
+Mana yang lebih kecil: 5253753/11 atau 477615?
+5253753/11
+Mana yang lebih besar: 2/369 atau 0.001458?
+2/369
+Apakah 842447 lebih dari 842426?
+True
+Mana yang lebih besar: 2/12456589 atau 0?
+2/12456589
+Mana yang lebih besar: -529 atau 2358/43?
+2358/43
+Mana yang lebih besar: 3225515 atau 6451029/2?
+3225515
+Mana yang lebih kecil: -289536 atau -50?
+-289536
+Mana yang lebih besar: -1 atau 1/55091535?
+1/55091535
+Mana yang lebih besar: -46939 atau -7/12?
+-7/12
+Apakah -70111 lebih besar dari -70103?
+False
+Apakah -104626 != -104621?
+True
+Mana yang lebih besar: 1/4 atau -7551803?
+1/4
+Mana yang lebih besar: -20472 atau -0.0707?
+-0.0707
+Apakah -4113 kurang dari atau sama dengan -168599/41?
+True
+Apakah -1181374 lebih dari atau sama dengan -1181386?
+True
+Apakah 6932 = 4826?
+False
+Apakah -2647091 paling tidak sama dengan -2647091?
+True
+Apakah -11095/37 dan -9 memiliki nilai yang sama?
+False
+Apakah -19/39898 dan -1 tidak sama?
+True
+Apakah 935768 setidaknya 4678834/5?
+True
+Apakah 193/71722 < 1?
+True
+Apakah 104811 sama dengan -1/5?
+False
+Mana yang lebih kecil: 190325/44 atau -1?
+-1
+Mana yang lebih kecil: -3284796 atau -3284798?
+-3284798
+Mana yang lebih kecil: -4/67 atau -17370?
+-17370
+Mana yang lebih kecil: 15655.3 atau -11?
+-11
+Apakah -6531 dan -930 memiliki nilai yang sama?
+False
+Apakah -4560043 dan -4560039 tidak sama?
+True
+Apakah -796856 sama dengan -796851?
+False
+Apakah -1/783 dan 145.07 sama?
+False
+Apakah 0 lebih dari 651/80743?
+False
+Apakah -7227/26 lebih dari atau sama dengan -0.19?
+False
+Apakah -6694 >= -408244/61?
+False
+Apakah 2/7 tidak sama dengan -25848746?
+True
+Mana yang lebih besar: -1 atau -3985/12596?
+-3985/12596
+Apakah 2964/2779 dan 1 memiliki nilai yang sama?
+False
+Mana yang lebih besar: 157 atau -25153?
+157
+Mana yang lebih besar: 0 atau 2/4298541?
+2/4298541
+Apakah -166388 dan -0.3 memiliki nilai yang berbeda?
+True
+Apakah 1578 setidaknya 115237/73?
+False
+Mana yang lebih kecil: 37 atau -108.6?
+-108.6
+Mana yang lebih kecil: 9045778 atau 36183107/4?
+36183107/4
+Apakah -1531851 lebih banyak -1531851?
+True
+Mana yang lebih besar: 1 atau 37/300548?
+1
+Apakah -865273 != -865281?
+True
+Mana yang lebih besar: 2 atau -11530335?
+2
+Apakah 1791 != 37/217?
+True
+Apakah -14/2358077 sama dengan 0?
+False
+Mana yang lebih besar: -7799243 atau 0?
+0
+Mana yang lebih besar: -4850 atau -1726?
+-1726
+Mana yang lebih besar: 7569/499 atau 16?
+16
+Mana yang lebih besar: 3014456 atau 3014460?
+3014460
+Apakah 48/48005 lebih dari -1?
+True
+Apakah 5461170 lebih kecil dari 5461171?
+True
+Mana yang lebih kecil: -0.4 atau -562381?
+-562381
+Apakah 25682 != 25676?
+True
+Mana yang lebih kecil: -1823 atau -7005?
+-7005
+Apakah -1754/1303 sama dengan -1?
+False
+Mana yang lebih besar: -29 atau 4776?
+4776
+Mana yang lebih besar: -254441/12 atau -21204?
+-254441/12
+Mana yang lebih besar: -6278360 atau -18835082/3?
+-6278360
+Mana yang lebih besar: 21162939/2 atau 10581471?
+10581471
+Apakah 3061361/5 kurang dari 612272?
+False
+Mana yang lebih kecil: -6/13698023 atau 0?
+-6/13698023
+Mana yang lebih kecil: -84 atau -59304/695?
+-59304/695
+Apakah 0 != 751/52081?
+True
+Apakah -9/2596 lebih dari atau sama dengan -440?
+True
+Mana yang lebih kecil: -1061192 atau -0.16?
+-1061192
+Apakah -48 dan -32978 memiliki nilai yang sama?
+False
+Mana yang lebih kecil: -259407/52 atau -4988?
+-259407/52
+Mana yang lebih besar: 7 atau 9/70877?
+7
+Apakah -16907 setidaknya sama besar dengan -16836?
+False
+Apakah -7343943 kurang dari atau sama dengan -1?
+True
+Mana yang lebih besar: 25733825 atau 25733826?
+25733826
+Mana yang lebih besar: 22523 atau 22081?
+22523
+Mana yang lebih besar: -4524/17 atau -95/9?
+-95/9
+Mana yang lebih besar: 19/510914 atau -1?
+19/510914
+Mana yang lebih kecil: 1 atau 2.3940419?
+1
+Apakah 13628 < -498?
+False
+Apakah 4127104 dan 4127100 memiliki nilai yang berbeda?
+True
+Apakah 21668 lebih banyak 21980?
+True
+Mana yang lebih kecil: -36 atau -299728?
+-299728
+Apakah 492354 kurang dari 492343?
+False
+Apakah -487356 tidak sama dengan -487351?
+True
+Apakah -1 lebih dari atau sama dengan -20/4398687?
+False
+Mana yang lebih besar: 105937 atau 105933?
+105937
+Apakah -11 = -20536/2047?
+False
+Apakah -62/606111 lebih kecil dari 0?
+True
+Apakah 9910168 dan 9910167 sama?
+False
+Mana yang lebih kecil: -29039 atau -2/41?
+-29039
+Mana yang lebih kecil: 521 atau -1619?
+-1619
+Apakah 1/3 dan -16829361 berbeda?
+True
+Mana yang lebih besar: -63332 atau -63222?
+-63222
+Mana yang lebih besar: -221629/49 atau -4523?
+-4523
+Mana yang lebih besar: 1554147 atau 1554163?
+1554163
+Apakah 253 paling tidak sama dengan 281?
+True
+Apakah -223 lebih dari 26011?
+False
+Mana yang lebih kecil: -161210 atau -161217?
+-161217
+Apakah 0.012 dan 1670 berbeda?
+True
+Mana yang lebih besar: -4/1264959 atau 0?
+0
+Apakah 3629 lebih dari 365?
+True
+Apakah -1663820/17 < -97871?
+True
+Mana yang lebih kecil: 4/11061551 atau 0?
+0
+Mana yang lebih besar: -1 atau 29/594091?
+29/594091
+Apakah 278319 kurang dari -24?
+False
+Mana yang lebih kecil: 6/1339 atau -2/45?
+-2/45
+Apakah 1 >= -57/659564?
+True
+Apakah 0 lebih besar dari 3/5031766?
+False
+Mana yang lebih kecil: 1/34058471 atau -1?
+-1
+Apakah -1032 kurang dari -302598/293?
+False
+Mana yang lebih besar: 1 atau 1514/7283?
+1
+Apakah -3845 > -252.7?
+False
+Mana yang lebih kecil: -18877 atau 70?
+-18877
+Mana yang lebih kecil: 703.92 atau 0.1?
+0.1
+Apakah 372/17 > -103/11?
+True
+Mana yang lebih kecil: -4.5 atau 390/163?
+-4.5
+Apakah -824491 >= -5771427/7?
+False
+Mana yang lebih besar: 1896885 atau 1896883?
+1896885
+Mana yang lebih besar: 17773 atau 17775?
+17775
+Mana yang lebih besar: -3503570 atau -3503566?
+-3503566
+Apakah -1 < -457/6780?
+True
+Mana yang lebih besar: -2279346/7 atau -325622?
+-2279346/7
+Apakah 0 lebih banyak -14/5736655?
+False
+Apakah 120000/173 > 693?
+True
+Apakah -2726406 lebih besar dari -2726402?
+False
+Mana yang lebih besar: 38118904 atau 38118905?
+38118905
+Apakah 20449224 <= 20449225?
+True
+Apakah -1/3 dan 1307/785 memiliki nilai yang berbeda?
+True
+Mana yang lebih kecil: -6183 atau -426538/69?
+-6183
+Mana yang lebih besar: 3628/7309 atau 1?
+1
+Apakah 464 > 97084/209?
+False
+Apakah 1753 paling tidak sama dengan 454140/259?
+True
+Mana yang lebih besar: -0.282362 atau -39?
+-0.282362
+Apakah -1266041 <= 5?
+True
+Apakah 1/31218981 kurang dari -1?
+False
+Apakah 12032.4 dan 2/235 memiliki nilai yang berbeda?
+True
+Apakah 0.993 kurang dari -4122?
+False
+Mana yang lebih besar: -703083 atau -703088?
+-703083
+Apakah 30 > 815.45?
+False
+Mana yang lebih besar: 0.33 atau 648057?
+648057
+Mana yang lebih besar: 2/3 atau 676197?
+676197
+Apakah -11003782 <= -11003780?
+True
+Apakah -1337829 dan -1337818 sama?
+False
+Apakah -324 lebih kecil dari -122301/376?
+False
+Mana yang lebih kecil: -10212 atau -10471?
+-10471
+Apakah -1198 kurang dari atau sama dengan -109076/91?
+False
+Mana yang lebih besar: 29 atau -158346?
+29
+Apakah -2887622 lebih kecil dari -2887621?
+True
+Apakah 79872 setidaknya 79797?
+True
+Apakah 1301694 lebih besar dari 1301699?
+False
+Mana yang lebih kecil: 3543598 atau 3543597?
+3543597
+Apakah 103 lebih banyak -36740?
+False
+Apakah -2960529 lebih besar dari -2960530?
+True
+Apakah 2258095 tidak sama dengan 2258097?
+True
+Mana yang lebih besar: -227112 atau -227113?
+-227112
+Mana yang lebih besar: 121 atau -3595?
+121
+Mana yang lebih besar: 43245 atau 36/11?
+43245
+Apakah -16003 lebih banyak -15941?
+True
+Apakah 2/5 > 5.282532?
+False
+Apakah -2867247/16 setidaknya sama besar dengan -179203?
+True
+Apakah 12440.47 dan -2/37 memiliki nilai yang berbeda?
+True
+Apakah 23891695/2 paling tidak sama dengan 11945848?
+True
+Apakah 9850 lebih kecil dari -843?
+False
+Apakah 93986/153 != 615?
+True
+Mana yang lebih kecil: 19877114 atau 19877115?
+19877114
+Mana yang lebih kecil: -1271 atau -14814?
+-14814
+Apakah -2 > 19197575?
+False
+Mana yang lebih besar: -144174 atau -4/5?
+-4/5
+Mana yang lebih besar: 0.4 atau -6152033?
+0.4
+Mana yang lebih kecil: -13241 atau -13342?
+-13342
+Apakah 29685/19 <= 1561?
+False
+Mana yang lebih besar: -551 atau -138393/251?
+-551
+Mana yang lebih kecil: 4723482/5 atau 944696?
+944696
+Apakah -2425611/10 lebih besar dari -242560?
+False
+Mana yang lebih besar: 625908 atau 625904?
+625908
+Mana yang lebih kecil: 1 atau 5058/4255?
+1
+Mana yang lebih kecil: 14092/279 atau 52?
+14092/279
+Mana yang lebih besar: 1 atau -3/15060517?
+1
+Apakah 514772 < 514769?
+False
+Mana yang lebih kecil: 0.4132518 atau -2/11?
+-2/11
+Apakah 451923 < 451919?
+False
+Mana yang lebih kecil: 0 atau -2/15273189?
+-2/15273189
+Apakah -4522614 lebih dari atau sama dengan -4522615?
+True
+Mana yang lebih besar: -1136213 atau -9089709/8?
+-1136213
+Mana yang lebih besar: 94317 atau 31?
+94317
+Mana yang lebih besar: 25748128 atau 25748129?
+25748129
+Apakah -11309080 lebih banyak -0.1?
+True
+Apakah 569227 lebih besar dari 569203?
+True
+Apakah -408 kurang dari -1159/15?
+True
+Apakah -3328952 lebih dari atau sama dengan -3328952?
+True
+Apakah -47653 lebih dari atau sama dengan -3.12?
+False
+Mana yang lebih kecil: 48381 atau 0.118?
+0.118
+Apakah -1039 lebih dari atau sama dengan -670?
+False
+Mana yang lebih besar: 363.39 atau 0.0094?
+363.39
+Apakah 1 kurang dari atau sama dengan -2/9628905?
+False
+Apakah 31850 != 541448/17?
+True
+Mana yang lebih kecil: -3409970 atau -3409969?
+-3409970
+Mana yang lebih besar: -30013/719 atau -42?
+-30013/719
+Apakah 0 <= -38/153733?
+False
+Apakah 1681698 tidak sama dengan 1681699?
+True
+Apakah -8605011 sama dengan -8605012?
+False
+Apakah -271191 <= -271200?
+False
+Apakah -1 lebih besar dari 23/142174?
+False
+Mana yang lebih besar: 6818132/17 atau 401067?
+401067
+Apakah -1 = -3/202010?
+False
+Apakah -0.9 dan 2/264767 memiliki nilai yang sama?
+False
+Mana yang lebih kecil: 76692 atau 76665?
+76665
+Mana yang lebih besar: 57882 atau 57892?
+57892
+Apakah 16808799 != 1?
+True
+Apakah 2.88378 sama dengan -47/3?
+False
+Apakah -2261960 = -2261953?
+False
+Apakah 37180 setidaknya sama besar dengan 37670?
+False
+Apakah 9040 lebih kecil dari 9159?
+True
+Apakah 3/4406756 >= -1?
+True
+Mana yang lebih kecil: -1/541265 atau -1?
+-1

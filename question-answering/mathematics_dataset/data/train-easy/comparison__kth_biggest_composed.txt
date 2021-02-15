@@ -1,0 +1,666 @@
+Misalkan t = 0.07 + -0.27. Misalkan x be ((-9)/(-6))/(3/4). Misalkan -x*d - 8 - 4 = 2*b, -4*d - 14 = -b. Berapa nilai kedua terbesar dalam t, b, -1/2?
+-1/2
+Misalkan i = 0.03 + 0.47. Berapa nilai ketiga terkecil dalam -4/9, 0, 3, i?
+i
+Misalkan q = -0.99 - -0.49. Manakah nilai kedua terkecil?  (a) q  (b) -2/5  (c) 0.01
+b
+Misalkan r = 0.1 - 0.05. Misalkan q = r + 0.25. Manakah nilai terbesar?  (a) q  (b) -1/2  (c) 1
+c
+Misalkan n = 0.9 - 2.9. Misalkan p = 4.87 - -0.13. Misalkan o = p + n. Berapa nilai kedua terbesar dalam o, 5, -0.1?
+o
+Misalkan r = -132.1 - -138. Misalkan n = 73.1 + -74. Misalkan a = r + n. Berapa nilai terbesar dalam -4, 0, a?
+a
+Misalkan q = 1.2 + -0.2. Misalkan f = -0.013 - -5.013. Berapa nilai ketiga terkecil dalam -0.2, q, f?
+f
+Misalkan j = 0.018 - -6.982. Berapa nilai kedua terbesar dalam 1, -2, j?
+1
+Misalkan p = 35 + -23. Misalkan v = 11 - p. Misalkan i = -3.92 + -0.08. Berapa nilai kedua terkecil dalam i, v, -3?
+-3
+Misalkan x(p) = p**2 - p - 1. Misalkan 0 = 2*y - 3*w - 11, -5*w - 25 = 4*y + 8. Misalkan s be x(y). Berapa nilai terbesar dalam s, 2/7, -0.5?
+s
+Misalkan w - 3 = q, -5 = -2*w + 5*q + 4. Misalkan i = 0.04 - 4.04. Berapa nilai kedua terkecil dalam i, -2, w?
+-2
+Misalkan t = -80 + 84. Berapa nilai kedua terkecil dalam -0.4, t, 1?
+1
+Misalkan p = -486/7 - -69. Misalkan d = 0.12 - -0.28. Manakah nilai ketiga terkecil?  (a) 1/6  (b) p  (c) d
+c
+Misalkan -5*g - 88 + 18 = 0. Misalkan i be 7/9*(-4)/g. Manakah nilai terkecil?  (a) -0.1  (b) 0.1  (c) i
+a
+Misalkan n(h) = 2*h**3 + 6*h**2 + 3*h + 2. Misalkan u be n(-4). Misalkan v be 1/(-3) + u/(-18). Manakah nilai kedua terkecil?  (a) 5  (b) v  (c) -1
+b
+Misalkan -9 = -4*g + 5*v, 4*v + 51 = -5*g + 11. Berapa nilai terkecil dalam 1, g, -2?
+g
+Misalkan i = 2.2 - 2. Misalkan x = i - 0.4. Misalkan o be 96/60*5/2. Berapa nilai terkecil dalam -5, x, o?
+-5
+Misalkan q = 0.5 - 3. Misalkan r = -0.5 + q. Berapa nilai terkecil dalam -5, 3, r?
+-5
+Misalkan k = -1.5 - -1.4. Misalkan d be 7/17 + (-2)/6. Misalkan x = 24/17 - d. Manakah nilai ketiga terbesar?  (a) x  (b) -2  (c) k
+b
+Misalkan m = 0.044 - 0.444. Berapa nilai terbesar dalam 5, m, 3, 2?
+5
+Misalkan r be 68/(-85) - 4/(-5). Manakah nilai keempat terkecil?  (a) 0.1  (b) 0.4  (c) r  (d) -6
+b
+Misalkan p = 0.15 + -0.85. Misalkan x = -0.2 + 1.2. Misalkan i = p + x. Manakah nilai ketiga terbesar?  (a) i  (b) -2  (c) 5
+b
+Misalkan u(f) = f**3 + 2*f**2 - 2*f. Misalkan m be u(-2). Misalkan -x - 15 = m*x. Misalkan c = 0.42 + -0.02. Berapa nilai ketiga terkecil dalam x, 0.3, c?
+c
+Misalkan x = 0 + 2. Misalkan m = x - 2.3. Misalkan l = 4 - 3.6. Berapa nilai terbesar dalam m, l, -0.4?
+l
+Misalkan n = -8 + 3. Misalkan u = 2.069 - -0.031. Misalkan y = u + -2. Berapa nilai terbesar dalam n, -0.1, y?
+y
+Misalkan a(o) = -o**3 - 6*o**2 + o + 2. Misalkan b be a(-6). Misalkan i = -1/20 - -7/40. Berapa nilai ketiga terkecil dalam i, b, 1?
+1
+Misalkan r = -1010/7 - -144. Misalkan q = 14 - 9. Misalkan x = -4.6 + q. Manakah nilai kedua terkecil?  (a) x  (b) r  (c) -0.3
+b
+Misalkan y = 0.15 - 0.15. Berapa nilai kedua terkecil dalam y, -0.4, 1/5, 1?
+y
+Misalkan b = -6 - -18. Misalkan a = b - 14. Berapa nilai ketiga terkecil dalam -0.3, a, 5?
+5
+Misalkan f = -4 + 3. Misalkan g be f/(2/4*-11). Misalkan n = 0.3 + 0.2. Berapa nilai kedua terbesar dalam -2/15, g, n?
+g
+Misalkan x = -22 - -15. Misalkan p be (x + 1)*2/(-6). Misalkan v = p + -4. Berapa nilai kedua terbesar dalam v, 0.1, -5?
+v
+Misalkan j = -2525 + 244923/97. Misalkan y = -7656551/2425 - -78918/25. Misalkan l = j - y. Manakah nilai ketiga terbesar?  (a) -2  (b) l  (c) 0.2
+a
+Misalkan r = -0.1 - 0.1. Misalkan f = 17 + -15. Misalkan u be ((4 + 0)/(-1))/f. Manakah nilai terbesar?  (a) u  (b) r  (c) -0.5
+b
+Misalkan w = -2.089 - -0.089. Misalkan -5*a + 8 = -7. Berapa nilai ketiga terbesar dalam 0.4, w, a?
+w
+Misalkan q = -0.008 + 11.008. Berapa nilai kedua terkecil dalam q, 0, -3?
+0
+Misalkan w(p) = 4*p - 8. Misalkan q be w(5). Misalkan q = -b - 3*b. Berapa nilai ketiga terbesar dalam -2/7, 0.5, b?
+b
+Misalkan s(n) = n**2 - 15*n + 3. Misalkan d be s(15). Berapa nilai terkecil dalam d, 5, -0.4?
+-0.4
+Misalkan m = 19.6 - 21. Manakah nilai kedua terbesar?  (a) m  (b) 1/2  (c) -2
+a
+Misalkan x = -468 - 111. Misalkan n = x - -14477/25. Misalkan o = 2 + -4/3. Berapa nilai terbesar dalam n, o, -1?
+o
+Misalkan v = -3.02 + 0.02. Misalkan l = 667/5 - 133. Manakah nilai terkecil?  (a) 0.2  (b) v  (c) l
+b
+Misalkan y = -1.9 + -0.1. Misalkan r = 37.3 - 39. Misalkan g = y - r. Manakah nilai terkecil?  (a) -4  (b) g  (c) -2/7
+a
+Misalkan p = 5.31 + 0.19. Misalkan y = 0.5 - p. Manakah nilai terbesar?  (a) y  (b) 1/7  (c) -0.2
+b
+Misalkan r = 1.8 + -1.8. Manakah nilai kedua terbesar?  (a) 1  (b) r  (c) -4
+b
+Misalkan p = 56 - 49. Berapa nilai keempat terkecil dalam p, -0.5, 2/11, 1/8?
+p
+Misalkan p be -2 + 2 + -2 + 16. Misalkan a = p + -8. Misalkan 2*z + 20 = a*z. Berapa nilai kedua terkecil dalam z, -3/5, -0.2?
+-0.2
+Misalkan t = -129/77 - -9/11. Misalkan f = -9 - -6. Misalkan v = -2.9 - f. Berapa nilai kedua terbesar dalam t, -2/7, v?
+-2/7
+Misalkan q = -0.3 - -0.1. Misalkan t = 0.3 - -0.7. Berapa nilai terkecil dalam -0.3, t, q?
+-0.3
+Misalkan g = -1/6 - -5/12. Manakah nilai terbesar?  (a) 0.2  (b) g  (c) -3
+b
+Misalkan v = 14 + -13.5. Misalkan t = -3/248 - -1013/1736. Manakah nilai kedua terbesar?  (a) t  (b) v  (c) -5
+b
+Misalkan x = -118 + 473/4. Misalkan -5*g - j - 20 = 0, j + 25 = -2*g + 4*j. Manakah nilai kedua terbesar?  (a) g  (b) 4  (c) x
+c
+Misalkan x = 71 - 71.18. Manakah nilai terkecil?  (a) -2/3  (b) 4  (c) x  (d) -4/7
+a
+Misalkan p = 0.114 - 0.014. Manakah nilai ketiga terbesar?  (a) p  (b) 2/19  (c) -3
+c
+Misalkan h = -2*l - 0 + 3, -2 = -3*l - 4*h. Berapa nilai ketiga terbesar dalam 0.1, l, 0.2?
+0.1
+Misalkan v = 44 + -73. Berapa nilai ketiga terbesar dalam v, 0.3, 0?
+v
+Misalkan l = 0.079 + 0.121. Misalkan s be (16/10)/(6/15). Manakah nilai ketiga terkecil?  (a) 15  (b) l  (c) s
+a
+Misalkan l be (-3 + (-8)/(-4))*0. Manakah nilai terkecil?  (a) l  (b) -8  (c) -1/4
+b
+Misalkan z(p) = -p**2 - 14*p + 13. Misalkan l be z(-15). Manakah nilai keempat terbesar?  (a) -3/5  (b) l  (c) -5/2  (d) 2/13
+c
+Misalkan x = -0.125 + -34.875. Berapa nilai ketiga terkecil dalam x, 1/6, -1, 2/7?
+1/6
+Misalkan l = -2 + 0. Misalkan v = 4.05 - -0.95. Misalkan h = -6 + 1. Manakah nilai ketiga terbesar?  (a) h  (b) v  (c) l
+a
+Misalkan f = -0.09 + 5.09. Misalkan k = 24 + -24.5. Manakah nilai kedua terbesar?  (a) 0.5  (b) k  (c) f
+a
+Misalkan o(t) = -t - 3. Misalkan x be o(-4). Misalkan a be -2*x - 3/3. Berapa nilai ketiga terbesar dalam 0, a, -4?
+-4
+Misalkan f = -0.1 - 0.9. Misalkan s = -1 - 4. Misalkan z = -8 - -6. Berapa nilai kedua terbesar dalam s, f, z?
+z
+Misalkan a = -11274647/763 + 14777. Misalkan r = a - -2/109. Berapa nilai terbesar dalam r, -0.1, -0.4?
+r
+Misalkan q = -71/44 + 15/11. Misalkan g be -1 + 4 - (-1 + 3). Misalkan o be (1/g)/(8/(-8)). Berapa nilai terbesar dalam 4/5, q, o?
+4/5
+Misalkan x be (2 - -1 - 7)/(-1*2). Misalkan q be (1/2)/((-10)/4). Manakah nilai ketiga terkecil?  (a) q  (b) 0.3  (c) x
+c
+Misalkan l = 0.228 + -5.228. Misalkan c be (-4)/(-14) + 8/(-28). Berapa nilai ketiga terkecil dalam -3/2, l, c?
+c
+Misalkan 0*w + 12 = 4*w. Misalkan -2 = 3*i + 4, d + i + 3 = 0. Manakah nilai terbesar?  (a) -2/3  (b) d  (c) w
+c
+Misalkan d be -1*(-1 + 1 - -16). Misalkan t be (-2)/(0 + -3 - d). Manakah nilai kedua terbesar?  (a) t  (b) -5  (c) 0
+a
+Misalkan y be 2/(-11) + (-64)/(-110). Misalkan d = 5 - 8. Berapa nilai ketiga terkecil dalam 4, d, y?
+4
+Misalkan s = 0.3 + 3.7. Misalkan r = s + -8. Misalkan q = -30 + 29.5. Manakah nilai terkecil?  (a) r  (b) 4  (c) q
+a
+Misalkan z be 3 + (84/(-22) - -1). Berapa nilai terkecil dalam z, -1/4, -0.3?
+-0.3
+Misalkan -2*c - 5*t - 268 = -5*c, -5*t = -2*c + 187. Misalkan l be (-3)/(c/(-6)) + 0. Berapa nilai ketiga terkecil dalam 3, -1/5, l?
+3
+Misalkan d be (16 - 8) + (-190)/25. Misalkan g = -1627/7 - -233. Berapa nilai terbesar dalam -4, d, g?
+g
+Misalkan z = -62.5 + 63. Misalkan 5 = 5*t - 0*t. Manakah nilai terbesar?  (a) z  (b) t  (c) 0.1
+b
+Misalkan x = 21 + -26. Misalkan q = -4/3 + 19/12. Manakah nilai terbesar?  (a) q  (b) -0.5  (c) x
+a
+Misalkan w = 4.3 + -4. Misalkan -5*z + 3*d = -0*z - 7, -2*z = -5*d - 18. Manakah nilai ketiga terbesar?  (a) w  (b) -1/5  (c) z
+c
+Misalkan o = -2.2 - -7.2. Manakah nilai kedua terkecil?  (a) o  (b) 4  (c) -3/8
+b
+Misalkan p = -0.57 - -0.6. Misalkan i = 1.97 + p. Misalkan g = 1.9 - i. Berapa nilai terbesar dalam g, -5, -0.3?
+g
+Misalkan 0 - 2 = n. Misalkan a = 2 - 5. Misalkan p = 2/95 + 184/285. Berapa nilai ketiga terbesar dalam a, p, n?
+a
+Misalkan w = -0.04 - 0.26. Misalkan i = -11 - -21/2. Manakah nilai ketiga terkecil?  (a) w  (b) i  (c) 0.4
+c
+Misalkan h = 647 - 644. Misalkan y = -5/4 + 3/4. Berapa nilai ketiga terbesar dalam y, h, 2?
+y
+Misalkan l = 17 + -14. Misalkan t = 4 + 1. Berapa nilai kedua terkecil dalam l, 1, t?
+l
+Misalkan z(y) = 2*y. Misalkan i be z(5). Misalkan u = -5 + i. Berapa nilai terkecil dalam 1, -0.02, u?
+-0.02
+Misalkan h = 78 - 82. Berapa nilai terbesar dalam h, -3, -0.1, 0.2?
+0.2
+Misalkan r = -0.15 + 9.15. Misalkan x = -11 - -16. Misalkan u = x - r. Manakah nilai terbesar?  (a) -2/9  (b) u  (c) 0.2
+c
+Misalkan l = 19 - 29. Misalkan p = 13 + l. Berapa nilai ketiga terbesar dalam -4, -3, p?
+-4
+Misalkan u = -8.2 + 10.2. Misalkan o be (-2)/11 - 6/(-33). Berapa nilai terbesar dalam o, 3, u?
+3
+Misalkan f(d) = 2*d + 6. Misalkan x be f(-6). Misalkan i be (1/(-3))/((-2)/x). Manakah nilai terbesar?  (a) -4  (b) 5  (c) i
+b
+Misalkan f = -4 - -1. Misalkan g = 10 + -12. Misalkan m = 3 + g. Manakah nilai ketiga terkecil?  (a) f  (b) m  (c) -0.5
+b
+Misalkan u = 2 + -2.5. Manakah nilai terbesar?  (a) 0  (b) -1/7  (c) u
+a
+Misalkan g = 319/1476 + 1/164. Misalkan f = -283/1375 - -3/125. Manakah nilai terkecil?  (a) f  (b) -2/3  (c) g
+b
+Misalkan n = -6 - -8. Misalkan z = 20.46 + 0.54. Misalkan k = -21 + z. Berapa nilai kedua terbesar dalam n, k, -5?
+k
+Misalkan l = 33.1 - 33. Berapa nilai keempat terbesar dalam -1/5, 2/11, l, -2/9?
+-2/9
+Misalkan m = 3.1 - 0.1. Manakah nilai kedua terkecil?  (a) m  (b) 0.2  (c) -2/3
+b
+Misalkan m = 0 - 2. Misalkan v = 0.3 + 1.7. Misalkan u = v + 0. Manakah nilai kedua terbesar?  (a) 0.5  (b) m  (c) u
+a
+Misalkan r = 0.02 - -0.38. Misalkan k = -0.7 - -0.7. Misalkan l = k - r. Manakah nilai ketiga terkecil?  (a) 5  (b) -0.3  (c) l
+a
+Misalkan u be (-1)/(-4*4/(-96)). Misalkan m = u + 8. Manakah nilai kedua terbesar?  (a) -0.2  (b) -4/7  (c) m
+a
+Misalkan i = 20 - 19.5. Misalkan b = 145/204 - -2/51. Berapa nilai ketiga terbesar dalam i, 4, b?
+i
+Misalkan q = -130.404 - -135. Misalkan j = 0.004 + q. Misalkan a = 0.6 - j. Berapa nilai terbesar dalam 1, -2, a?
+1
+Misalkan o = -1348/4669 - -2/667. Misalkan g = -4.7 - -0.7. Misalkan t = g - -2. Berapa nilai terkecil dalam o, 0.5, t?
+t
+Misalkan f = 101 - 911/9. Berapa nilai ketiga terbesar dalam f, 0, 2, 5?
+0
+Misalkan s = -2.5 - -2.1. Berapa nilai kedua terkecil dalam s, -3, -9?
+-3
+Misalkan t = 0.4 + -0.2. Misalkan s = 181 + -186. Manakah nilai kedua terbesar?  (a) t  (b) s  (c) -1/7
+c
+Misalkan l = -3 + 3.05. Misalkan y = -2.95 - l. Misalkan t = 1 - 2. Berapa nilai terkecil dalam t, 0.2, y?
+y
+Misalkan p = -5 + 10. Berapa nilai terkecil dalam p, -1, 10?
+-1
+Misalkan l = -3/25 - 17/25. Berapa nilai ketiga terkecil dalam 2/11, 0.9, l, 3/7?
+3/7
+Misalkan m = 1 + 4. Misalkan p be (-4)/8*4/(-15). Misalkan x be 3/(1*1/(-1)). Manakah nilai ketiga terbesar?  (a) m  (b) x  (c) p
+b
+Misalkan -2 = 2*f - 4*n - 0, n = f + 2. Manakah nilai kedua terbesar?  (a) f  (b) -2/5  (c) -0.2
+b
+Misalkan m = -0.31 + 1.31. Berapa nilai terbesar dalam -5, -0.5, m?
+m
+Misalkan h = -97 + 1841/19. Misalkan l = -49 - -95/2. Manakah nilai ketiga terbesar?  (a) 0.3  (b) l  (c) h
+b
+Misalkan q be (-1 - 33/(-39)) + (-84)/(-39). Berapa nilai ketiga terkecil dalam q, -0.03, 0.5?
+q
+Misalkan j = -3.14 - -0.14. Berapa nilai terbesar dalam -2/31, j, -0.3?
+-2/31
+Misalkan t be 1 + (-59)/19 + 2. Misalkan u = -3.5 + 8.5. Misalkan k = 0.5 - 1. Manakah nilai ketiga terkecil?  (a) k  (b) u  (c) t
+b
+Misalkan u = 1.4 + -1.1. Misalkan n = -0.16 + 0.26. Berapa nilai ketiga terbesar dalam u, n, -4/5?
+-4/5
+Misalkan j = 2.9 + -3.9. Manakah nilai terbesar?  (a) 3  (b) j  (c) 2/17
+a
+Misalkan f = -1.3 - -0.3. Misalkan k = 0 - f. Misalkan i = -3 + k. Manakah nilai terkecil?  (a) i  (b) -1/9  (c) 1/5
+a
+Misalkan y = -29 + 32. Berapa nilai ketiga terbesar dalam -0.2, -3, y?
+-3
+Misalkan r be 2/(-6)*(-4)/(-6). Misalkan h = -172 - -173. Manakah nilai kedua terkecil?  (a) r  (b) h  (c) -0.5
+a
+Misalkan z = 6181/201 - 28/67. Misalkan a = -30 + z. Misalkan k = -0.9 + 1.2. Berapa nilai terkecil dalam k, a, -0.3?
+-0.3
+Misalkan u(y) = -y**3 - y + 2. Misalkan s be u(0). Misalkan n be s/4*(-2)/3. Manakah nilai ketiga terbesar?  (a) n  (b) -0.8  (c) 0.4
+b
+Misalkan d = 249/1534 - 1/118. Misalkan q = 0.04 - 0.14. Berapa nilai terkecil dalam d, -2, q?
+-2
+Misalkan c = -1.01 + 1.41. Berapa nilai ketiga terbesar dalam c, -0.5, 1?
+-0.5
+Misalkan l = -31 + 52. Misalkan t = l + -167/8. Berapa nilai terkecil dalam -2, t, 0.1?
+-2
+Misalkan o = -2 + 2. Misalkan v = 20 - 29. Misalkan z = v + 14. Berapa nilai terbesar dalam z, 1/5, o?
+z
+Misalkan s = -18 + 24. Manakah nilai kedua terbesar?  (a) s  (b) -0.3  (c) 3
+c
+Misalkan y = 4 - 4.1. Misalkan r = -0.89 - 3.11. Berapa nilai kedua terbesar dalam r, -1/3, y?
+-1/3
+Misalkan b = 322/237 + -2/79. Misalkan d = -6 - -8. Misalkan -d*j + 5 - 1 = 0. Berapa nilai kedua terkecil dalam b, -4, j?
+b
+Misalkan v = 0 + 0. Misalkan t = 1.8 - 3.6. Misalkan z = -2 - t. Berapa nilai ketiga terkecil dalam -2/13, z, v?
+v
+Misalkan q = 43 - 43.5. Manakah nilai terkecil?  (a) -0.1  (b) q  (c) 0.1
+b
+Misalkan d = 37.5 + -37. Berapa nilai kedua terkecil dalam 1/3, d, -5?
+1/3
+Misalkan l = -0.4 + 0.3. Misalkan q = -190 + 1332/7. Misalkan u = -6/13 - 27/26. Berapa nilai ketiga terkecil dalam l, q, u?
+q
+Misalkan u = 11.335 - -0.065. Misalkan d = u + -12. Berapa nilai terbesar dalam -0.5, d, 0.3?
+0.3
+Misalkan -x = 3*x - 20. Misalkan -x*c = 4*q - 21, 0 = 2*c + 2*q + 5 - 13. Misalkan w = -14/3 - -25/6. Berapa nilai kedua terbesar dalam w, c, -0.2?
+-0.2
+Misalkan -4*u + 0*p + 5*p - 4 = 0, 2*u - 4*p = -8. Manakah nilai terbesar?  (a) -4  (b) 0.07  (c) u
+c
+Misalkan l be 4/(-7) - (-5)/70. Berapa nilai kedua terkecil dalam 3/2, l, 3?
+3/2
+Misalkan q(p) = -p**3 + 4*p**2 - 3*p. Misalkan l be q(3). Misalkan -15 = -5*r - l. Misalkan s = 0.08 + 0.02. Berapa nilai ketiga terkecil dalam 5, s, r?
+5
+Misalkan f(h) = -2*h**2 + 2*h - 1. Misalkan a be f(2). Misalkan 0 = -r - 4 + 2. Misalkan g be (-6)/r + 26/(-10). Berapa nilai ketiga terbesar dalam 2, a, g?
+a
+Misalkan n = 10 + -6. Misalkan 4*z + 16 = 0, 8*j + 3*z = n*j + 20. Misalkan b + 4*a = 2*a - 13, j = -2*a. Berapa nilai terbesar dalam 0.1, 4/3, b?
+4/3
+Misalkan x = 39/4 + -10. Manakah nilai kedua terbesar?  (a) x  (b) 3  (c) -5
+a
+Misalkan b be (-3 - -1)*10/45. Misalkan j = -14 + 13.9. Berapa nilai kedua terbesar dalam b, 0.4, j?
+j
+Misalkan o = 337/1577 - 9/83. Berapa nilai kedua terkecil dalam o, 4, 2/3?
+2/3
+Misalkan j = 5 + -16. Misalkan t = j + 13. Misalkan g = -1 + 7/6. Manakah nilai ketiga terkecil?  (a) g  (b) -4  (c) t
+c
+Misalkan y = -23/78 + -1/26. Misalkan o be (-1275)/70 - (-4)/(-14). Misalkan p = -20 - o. Berapa nilai terkecil dalam y, p, -1?
+p
+Misalkan i = -169/172 - -10/43. Misalkan 18 = 3*o - w, -4*o + 3*w - 7 = -26. Misalkan y be 1 - (11/o - 1). Manakah nilai ketiga terkecil?  (a) 3/8  (b) i  (c) y
+c
+Misalkan o = -2 - 3. Misalkan v = 3 - 6. Berapa nilai kedua terkecil dalam v, o, -1/3?
+v
+Misalkan d = 1.1 - 0.7. Manakah nilai kedua terkecil?  (a) 1/8  (b) 3  (c) d
+c
+Misalkan 0*q - 15 = 3*q. Berapa nilai kedua terbesar dalam q, -4/7, -1?
+-1
+Misalkan v = 0.3 - -0.7. Misalkan n = 0.2 + -0.3. Manakah nilai kedua terbesar?  (a) v  (b) n  (c) 5
+a
+Misalkan p = -1.47 - -1.42. Manakah nilai terbesar?  (a) 0.5  (b) p  (c) 3  (d) -2
+c
+Misalkan l = -0.14 + 0.27. Misalkan j = l + -0.53. Berapa nilai kedua terbesar dalam -4/7, j, -5?
+-4/7
+Misalkan f = -24 + 24. Berapa nilai kedua terkecil dalam -0.4, 3/8, f?
+f
+Misalkan y = -1 + 0.6. Misalkan z = 0.12 - 1.12. Manakah nilai kedua terbesar?  (a) 0.5  (b) y  (c) z
+b
+Misalkan g be 2 + -2 + 24/(-116). Misalkan q = 11/87 - g. Manakah nilai ketiga terkecil?  (a) -0.4  (b) -2  (c) q
+c
+Misalkan r = -0.9 + -0.1. Misalkan u = 3.5 - -0.5. Berapa nilai ketiga terbesar dalam u, r, -2/3?
+r
+Misalkan k = -40 + 36. Misalkan q = -0.2 - -0.7. Manakah nilai terkecil?  (a) -0.2  (b) q  (c) k
+c
+Misalkan b = 0.04 - 1.04. Misalkan f = -6.5 + 5. Misalkan t = -2 - f. Berapa nilai kedua terkecil dalam b, -3, t?
+b
+Misalkan p = 131 + -134. Berapa nilai ketiga terkecil dalam -2, p, -9?
+-2
+Misalkan q(k) = -2*k**3 + k + 1. Misalkan -3*y + u - 2 = y, 3*u + 7 = -y. Misalkan i be q(y). Berapa nilai terkecil dalam -5, i, 0.4?
+-5
+Misalkan q = -0.448 + 0.148. Misalkan y = 0.3 + 0.2. Manakah nilai kedua terkecil?  (a) -4  (b) y  (c) q
+c
+Misalkan a be (-39)/154 + (-2)/(-11). Misalkan k = 1 - 1. Berapa nilai ketiga terkecil dalam k, a, -5?
+k
+Misalkan v + 5*g + 12 = 0, 3*g + g + 16 = -4*v. Misalkan i = v + 5. Berapa nilai kedua terbesar dalam i, -3/8, -3?
+-3/8
+Misalkan -5*l - 2*j + 4 = -l, 4*j = 16. Misalkan o = -1 - l. Misalkan w be 28/(-70) + 34/10. Manakah nilai kedua terkecil?  (a) w  (b) 2  (c) o
+b
+Misalkan m = 0.5 - 0.9. Berapa nilai ketiga terkecil dalam 0.3, m, 0.5?
+0.5
+Misalkan u = 46.4 + -46. Berapa nilai keempat terkecil dalam -2/11, u, 0.2, -2?
+u
+Misalkan t be (-1)/12 + 0/(-2). Misalkan z = t + -2/3. Misalkan -2*x = 2*x - 12. Manakah nilai terkecil?  (a) x  (b) z  (c) 0
+b
+Misalkan l = 26 - 25.5. Manakah nilai ketiga terkecil?  (a) -4/7  (b) 8  (c) 1/5  (d) l
+d
+Misalkan j = 849/7 - 121. Misalkan z = -8 - -2. Misalkan i be ((-1)/(-14))/(1/z). Manakah nilai kedua terkecil?  (a) i  (b) -2  (c) j
+a
+Misalkan o = -1.2 - -6.2. Misalkan 0 = 5*z + 18 + 2. Misalkan t be z/5*15/6. Berapa nilai ketiga terkecil dalam o, t, -0.4?
+o
+Misalkan f = 5 + -8. Misalkan m = -0.57 + -3.33. Misalkan q = 4 + m. Berapa nilai kedua terbesar dalam -5, f, q?
+f
+Misalkan r = -4 + 6. Misalkan o = 5 - r. Misalkan -2*n = -1 + o. Manakah nilai kedua terbesar?  (a) 2  (b) n  (c) 0.3
+c
+Misalkan s = -0.01 - 0.06. Misalkan y = s - 0.23. Berapa nilai ketiga terbesar dalam -2, y, 0.2?
+-2
+Misalkan p = 0.02 - 2.02. Misalkan r = -2 + 6. Misalkan q = -79 + 79.1. Manakah nilai terbesar?  (a) p  (b) r  (c) q
+b
+Misalkan v = -1 - -1.1. Misalkan -5*c = 2*x + 2, -3*c - 6*x - 5 = -x. Berapa nilai kedua terkecil dalam c, 5, v?
+v
+Misalkan i = -2.68 + -0.32. Misalkan 3*u = -2*f + 3*f - 3, 0 = 2*f - 6. Misalkan l = 8 + -4. Manakah nilai kedua terkecil?  (a) i  (b) u  (c) l
+b
+Misalkan n = 0.7 - 0.2. Misalkan d be -6*(0 - 3)/81. Misalkan b = -0.6 - 4.4. Berapa nilai kedua terbesar dalam n, d, b?
+d
+Misalkan l = 2.4 + -5.7. Misalkan m = l - -3. Berapa nilai terbesar dalam -4, -2, m?
+m
+Misalkan d = -63.7 + 69. Misalkan b = 1.7 + d. Berapa nilai terbesar dalam b, 0.4, -3?
+b
+Misalkan j = -58172/1550913 - 1/11661. Misalkan b = 2/19 - j. Berapa nilai kedua terkecil dalam b, -4, -3?
+-3
+Misalkan u (i) menjadi turunan ke-pertama dari i**2/2 + 2*i - 3. Misalkan b be u(-4). Berapa nilai kedua terbesar dalam -3/4, b, 4?
+-3/4
+Misalkan y = 1/82 + -43/164. Misalkan m = -2.095 - -0.095. Manakah nilai terkecil?  (a) -0.3  (b) m  (c) y
+b
+Misalkan m = 361/11 - 33. Misalkan w be (0/(-1) - 1)/(-1). Misalkan b be (-2)/(-4)*(9 - w). Berapa nilai terkecil dalam -0.4, m, b?
+-0.4
+Misalkan w = 0 - -5. Misalkan x = 93.7 + -90. Misalkan g = -1.3 - x. Berapa nilai terkecil dalam -1/6, g, w?
+g
+Misalkan -4*g - 2 + 14 = 0. Manakah nilai ketiga terbesar?  (a) g  (b) -1/6  (c) -4
+c
+Misalkan g = 11 + -11.1. Misalkan l = -6.6 + 6. Misalkan z = l - -0.9. Berapa nilai kedua terkecil dalam 2, z, g?
+z
+Misalkan -g = -2*m - 8, 7*m - 3*m = -4*g + 8. Berapa nilai ketiga terkecil dalam -2/13, -2/5, 3/2, g?
+3/2
+Misalkan v be 2/(-6) - (-96)/(-9). Misalkan m = -7 - v. Manakah nilai kedua terbesar?  (a) m  (b) 5  (c) 2
+a
+Misalkan f = -2.8 + 3. Misalkan d = 0.3 - f. Misalkan q = 8 + -10. Manakah nilai kedua terbesar?  (a) q  (b) -5  (c) d
+a
+Misalkan f = -4.8 - -5. Manakah nilai kedua terkecil?  (a) 2/15  (b) 3  (c) f
+c
+Misalkan r = 290 - 286.03. Misalkan j = 0.03 + r. Misalkan y(p) = p - 2. Misalkan x be y(3). Manakah nilai ketiga terbesar?  (a) j  (b) -0.5  (c) x
+b
+Misalkan z = -0.03 + -3.97. Misalkan -2*t - 5 = 3. Misalkan s = -1 - t. Berapa nilai ketiga terkecil dalam z, 0.4, s?
+s
+Misalkan h = -56 - -52.15. Misalkan v = h + -1.25. Misalkan m = v - -5. Manakah nilai terkecil?  (a) 2  (b) -2  (c) m
+b
+Misalkan z = -2.3 + 2.6. Misalkan s = -2 + 1.8. Manakah nilai kedua terbesar?  (a) -0.1  (b) z  (c) s
+a
+Misalkan u be (2/44)/(2/(-8)). Misalkan 14 - 34 = -5*o - 5*t, -2*t - 2 = 0. Manakah nilai terkecil?  (a) o  (b) 0.1  (c) u
+c
+Misalkan 3*v + 60 = 5*o - 27, 2*v - 5*o = -63. Berapa nilai kedua terkecil dalam 0, 2/9, v?
+0
+Misalkan a = -3 + 6. Misalkan j(k) = k**2 + 3*k + 2. Misalkan w be j(-4). Misalkan t be (3/w)/((-9)/(-6)). Berapa nilai terbesar dalam t, a, 2/3?
+a
+Misalkan p = 113/4 + -28. Berapa nilai kedua terbesar dalam p, 5, -3, 4?
+4
+Misalkan i(g) = g - 13. Misalkan y be i(9). Misalkan m be (-2)/(-5)*(-2)/(-4). Manakah nilai kedua terkecil?  (a) 0.1  (b) m  (c) y
+a
+Misalkan l = 6 - 0. Misalkan a be (20/18)/(4/l). Berapa nilai terbesar dalam -2/25, -1/2, a?
+a
+Misalkan l be (8 + 1)/(-3)*1. Misalkan q be (l/10)/((-54)/30). Berapa nilai terkecil dalam 0, 3/5, q?
+0
+Misalkan 5*m = -2*m + 147. Berapa nilai kedua terkecil dalam 5, m, 4/5?
+5
+Misalkan o = 4.4 - 7. Misalkan u = 3.1 + o. Berapa nilai terkecil dalam 2/7, -0.1, u?
+-0.1
+Misalkan -12 = -2*j + 5*j. Misalkan r = 1/12 + -19/84. Berapa nilai ketiga terbesar dalam j, 9, r?
+j
+Misalkan j = 0.6 + -3.6. Berapa nilai ketiga terkecil dalam 3, j, 1?
+3
+Misalkan -12 + 8 = -2*f. Misalkan -r - b + f*b - 3 = 0, 14 = -2*r + 4*b. Berapa nilai ketiga terbesar dalam -4, 0.2, r?
+-4
+Misalkan y = 0.4 - 5.4. Misalkan d = 4.8 + y. Misalkan n = 12 + -11.9. Manakah nilai ketiga terkecil?  (a) d  (b) n  (c) -0.5
+b
+Misalkan s be (-1 + 7)*1/2. Misalkan d be s/(1/((-4)/30)). Manakah nilai terbesar?  (a) -4  (b) d  (c) 5
+c
+Misalkan z = -0.06 - -8.06. Misalkan u = 10 - z. Berapa nilai terkecil dalam -0.5, -5, u?
+-5
+Misalkan n = 41.2 - 41. Manakah nilai terbesar?  (a) 1  (b) n  (c) -4
+a
+Misalkan -7*b = -2*b + 15, 0 = -4*i - 4*b - 32. Berapa nilai kedua terkecil dalam i, -6, -3?
+i
+Misalkan w be (4 - 2 - 3) + -1. Misalkan i = -0.02 + 6.02. Berapa nilai ketiga terbesar dalam 2/17, w, i?
+w
+Misalkan k = -24 + 28. Misalkan c(q) = -q**2 + 2*q + 4. Misalkan f be c(k). Berapa nilai terkecil dalam -1, 0.3, f?
+f
+Misalkan f = 319106/2709 + -1058/9. Misalkan b = f - -2/43. Berapa nilai kedua terbesar dalam 0.3, -0.3, b?
+b
+Misalkan n = -104.5 + 111.47. Misalkan i = -7 + n. Manakah nilai ketiga terkecil?  (a) 1  (b) i  (c) 1/2
+a
+Misalkan d be (-55)/75 + (-4)/(-10). Misalkan z = -2.08 + 0.08. Manakah nilai ketiga terkecil?  (a) z  (b) d  (c) -0.4
+b
+Misalkan j = -21 + 14. Manakah nilai kedua terbesar?  (a) 4  (b) -2/7  (c) j
+b
+Misalkan t = -199/7 - -28. Misalkan h = -5/7 - t. Misalkan p be (-5)/(8/(-2) - -5). Manakah nilai ketiga terkecil?  (a) h  (b) -2/13  (c) p
+b
+Misalkan v be (-10)/(-1)*(-26)/(-455). Misalkan l be 3910/(-24) + (-3)/9. Misalkan r = l - -164. Manakah nilai ketiga terkecil?  (a) v  (b) -4  (c) r
+c
+Misalkan t be (-2)/(12/(-10)) + 20/(-60). Manakah nilai terbesar?  (a) t  (b) 1/3  (c) -3/8  (d) 2/9
+a
+Misalkan x = -0.59 + -0.41. Berapa nilai terkecil dalam 3, -3, x?
+-3
+Misalkan q = -25.74 - -26. Misalkan l = q + 0.04. Misalkan p be (-3)/(-15) - (-21)/(-5). Manakah nilai terkecil?  (a) 3  (b) l  (c) p
+c
+Misalkan p = -7 + 4. Misalkan g = 0.2 + -0.1. Berapa nilai kedua terbesar dalam g, p, 2?
+g
+Misalkan p = 14 + -11. Manakah nilai kedua terkecil?  (a) p  (b) -2  (c) 1
+c
+Misalkan p = 12 - 10. Misalkan 0 = -3*k - p*k - 20. Manakah nilai terbesar?  (a) -0.5  (b) k  (c) 5
+c
+Misalkan k(b) = 4 - b. Misalkan h be k(6). Misalkan t = -19 + 22. Berapa nilai terkecil dalam h, -3, t?
+-3
+Misalkan f = 0.8 + 3.2. Misalkan o = 13 + -9. Misalkan u = o - f. Manakah nilai terkecil?  (a) 1/4  (b) 2/9  (c) u
+c
+Misalkan v - 1 = 3*a - 5, v = -5*a - 20. Misalkan l be ((-4)/20)/((-8)/v). Berapa nilai ketiga terbesar dalam -3, 5, l?
+-3
+Misalkan u = 0 - -0.1. Misalkan t = 25691739/245 - 104864. Misalkan p = t + -2/49. Berapa nilai kedua terbesar dalam -2/7, u, p?
+u
+Misalkan l = 5 + -6. Manakah nilai kedua terbesar?  (a) 0.4  (b) l  (c) -2/3
+c
+Misalkan p = 51 - 46. Berapa nilai ketiga terkecil dalam -1, 1/5, p?
+p
+Misalkan h = -2 - -1.5. Misalkan u = 14 + -14. Berapa nilai kedua terkecil dalam -0.4, h, u?
+-0.4
+Misalkan -j = f - 275, -f - 542 = -2*j + f. Misalkan r be 2/(-13) + 224/j. Manakah nilai kedua terbesar?  (a) r  (b) 1  (c) 0.1
+a
+Misalkan m = 3.8 + 0.2. Misalkan q = 0.3 + 6.4. Misalkan p = q + -7. Manakah nilai terkecil?  (a) m  (b) 5  (c) p
+c
+Misalkan u = -18.7 + 16. Misalkan b = 3 + u. Misalkan j = 16 + -15. Berapa nilai kedua terkecil dalam -4/7, j, b?
+b
+Misalkan q = -0.099 - -16.499. Misalkan g = -16 + q. Misalkan i = -50 + 251/5. Berapa nilai ketiga terbesar dalam i, 4, g?
+i
+Misalkan h be (-16)/20*(-50)/180. Manakah nilai ketiga terbesar?  (a) h  (b) 3  (c) -5
+c
+Misalkan s = -0.24 + 0.74. Manakah nilai kedua terkecil?  (a) s  (b) -1/3  (c) 0.1
+c
+Misalkan 3*g + 4*x - 19 = 0, -4*g = 3*x - 12 - 11. Misalkan g*t - 2 + 12 = 0. Manakah nilai ketiga terkecil?  (a) 2/19  (b) t  (c) -4
+a
+Misalkan f be -2 - (-8)/(-10)*240/(-88). Manakah nilai ketiga terkecil?  (a) 3  (b) f  (c) -1/2
+a
+Misalkan l be 1/10*6*15. Misalkan -5*s = 4*d + 21, -3*d - 3*s = 9 + l. Misalkan g be 18/4*(-6)/d. Manakah nilai ketiga terbesar?  (a) 2/3  (b) -2  (c) g
+b
+Misalkan r = 7.15 - -0.15. Misalkan z = -1 - -8. Misalkan d = r - z. Manakah nilai ketiga terbesar?  (a) 2/3  (b) d  (c) 5
+b
+Misalkan a = 155 + -179.6. Misalkan o = 25 + a. Berapa nilai kedua terbesar dalam 2, o, 1?
+1
+Misalkan h = -161/65 + 12/5. Manakah nilai kedua terkecil?  (a) -0.5  (b) 2  (c) h
+c
+Misalkan d = 45/4 - 233/20. Manakah nilai kedua terkecil?  (a) 3  (b) -8  (c) d
+c
+Misalkan 6*a + 3 = 3*a. Misalkan v be (-10)/3 + 2/6. Berapa nilai ketiga terkecil dalam a, v, 0.2?
+0.2
+Misalkan x = -0.227 - 0.073. Berapa nilai ketiga terkecil dalam -40, x, -0.1?
+-0.1
+Misalkan q = -5 + 1. Misalkan d be 1*(-3)/(6/(-8)). Misalkan z = q + d. Berapa nilai kedua terbesar dalam z, -4, -0.2?
+-0.2
+Misalkan s = 57.2 - 57. Manakah nilai ketiga terkecil?  (a) s  (b) 5  (c) -2/3  (d) 0
+a
+Misalkan p = -2.72 - -2.5. Misalkan i = p - 0.14. Misalkan f = i + -0.04. Berapa nilai kedua terkecil dalam 5, f, 4?
+4
+Misalkan h = 10 - 11. Berapa nilai ketiga terbesar dalam -0.2, h, 3?
+h
+Misalkan s = -1.2 + 1. Misalkan p = 73.2 - 74. Manakah nilai kedua terkecil?  (a) s  (b) -2  (c) p
+c
+Misalkan g = 108 - 107.7. Berapa nilai kedua terbesar dalam -2/3, g, -2/31?
+-2/31
+Misalkan b = 29 - 29. Berapa nilai kedua terbesar dalam b, 8, 0.2, 5?
+5
+Misalkan d = 3.2 + -6.2. Misalkan i = -1 + 0.6. Manakah nilai ketiga terbesar?  (a) d  (b) -4  (c) i
+b
+Misalkan s = -5.042 + 0.042. Berapa nilai kedua terbesar dalam -0.4, s, 2?
+-0.4
+Misalkan 5*h - 6*h - 2 = 0. Berapa nilai kedua terkecil dalam -0.4, h, 4?
+-0.4
+Misalkan -3*v = -0 + 9. Misalkan m = 0 - -4. Manakah nilai kedua terkecil?  (a) -0.4  (b) m  (c) v
+a
+Misalkan 0 = -5*g + 2*u + 90, -3*g + 55 = -2*u + u. Misalkan -g = -a + 3*a. Misalkan q = -6 - a. Berapa nilai ketiga terkecil dalam -3, 0.4, q?
+q
+Misalkan h = -12 + 17. Manakah nilai ketiga terkecil?  (a) 0.2  (b) h  (c) -4/3
+b
+Misalkan j be (-15)/(-50)*(-10)/(-12). Misalkan p = 5.8 - 3.2. Misalkan i = p - 0.6. Manakah nilai kedua terbesar?  (a) -1  (b) j  (c) i
+b
+Misalkan y be 1*6*(-335)/(-402). Misalkan g(z) = z**2 - z + 4. Misalkan r be g(0). Misalkan n be (6/r)/(1 + -3). Manakah nilai terkecil?  (a) 0.3  (b) n  (c) y
+b
+Misalkan i be 3/(-2)*(-2)/3. Berapa nilai ketiga terkecil dalam 0.5, -5, i?
+i
+Misalkan g = -0.3 - -0.08. Misalkan v = g - -0.02. Misalkan x be (-6)/5*(-2)/6. Berapa nilai kedua terbesar dalam v, x, 2/9?
+2/9
+Misalkan x = -165.5 + 166. Misalkan t = 0 + 1. Berapa nilai kedua terbesar dalam t, x, -0.4?
+x
+Misalkan s = -59 + 59.2. Berapa nilai keempat terkecil dalam -0.4, -1/7, 2, s?
+2
+Misalkan o be (-35)/98 - (10/4)/(-5). Misalkan y = -5.9 - -6. Berapa nilai terbesar dalam y, o, 2?
+2
+Misalkan g = -22 + 21.5. Berapa nilai ketiga terbesar dalam 0.04, g, -3/5?
+-3/5
+Misalkan f = 42 + -40. Misalkan m = -2.2 + 2. Berapa nilai kedua terkecil dalam -5, f, m?
+m
+Misalkan w = 0 - -3. Berapa nilai kedua terbesar dalam 3/4, 0.04, w?
+3/4
+Misalkan z(o) = 2 - o. Misalkan m be z(-2). Misalkan b = 20 + -20.5. Berapa nilai kedua terbesar dalam m, b, -4?
+b
+Misalkan l = 1 + -0.95. Misalkan n = -0.45 + l. Misalkan k = 12 - 13. Berapa nilai ketiga terbesar dalam n, k, -2?
+-2
+Misalkan h = 0.22 - 0.22. Misalkan g = h + 7. Berapa nilai terkecil dalam g, -5, 4?
+-5
+Misalkan r be (-4 - -3) + 6/8 + 0. Manakah nilai terbesar?  (a) -2/9  (b) -0.05  (c) r  (d) 3
+d
+Misalkan j = -4.07 - -0.07. Misalkan i = -8 + 8.3. Misalkan s = -0.1 - i. Manakah nilai ketiga terbesar?  (a) s  (b) j  (c) -5
+c
+Misalkan -5 = -d - 0. Misalkan f = 0.29 + 0.01. Misalkan j = -82/141 - 4/47. Manakah nilai kedua terbesar?  (a) j  (b) d  (c) f
+c
+Misalkan h = -1.98 + -0.02. Misalkan o = h + 1.8. Misalkan v = -0.9 + -0.1. Berapa nilai terkecil dalam o, v, 2/5?
+v
+Misalkan f = 0.02 + 1.98. Misalkan t = f - 1.5. Manakah nilai kedua terbesar?  (a) 3  (b) t  (c) 2
+c
+Misalkan v = -15.5 - -17. Misalkan h = 1.2 - v. Manakah nilai terkecil?  (a) 3  (b) h  (c) -1
+c
+Misalkan i = 10 - 10.4. Misalkan m be 4/40*(-15)/(-4). Berapa nilai ketiga terkecil dalam i, -1, m?
+m
+Misalkan d = -253313/7 + 36097. Misalkan t = -91 - d. Manakah nilai ketiga terbesar?  (a) -5/4  (b) 0  (c) t
+a
+Misalkan y = -1/78 - 17/26. Misalkan z = -4106/19 - -216. Manakah nilai terbesar?  (a) -1  (b) z  (c) y
+b
+Misalkan g = -3.1 + -0.9. Misalkan u = g - -6. Misalkan j = -173.4 + 173. Berapa nilai terbesar dalam j, u, 1?
+u
+Misalkan i = -2.7 + 3. Misalkan x = -0.2 + i. Misalkan c = 0.8 - -0.2. Berapa nilai terkecil dalam 0.2, c, x?
+x
+Misalkan u = -2 + 4. Misalkan o = 68 + -67. Misalkan w = u - o. Manakah nilai ketiga terkecil?  (a) w  (b) 0.1  (c) 4
+c
+Misalkan b be 15/(-25)*4/(-6). Misalkan v be (-6)/(-33) - (-118)/(-44). Berapa nilai ketiga terkecil dalam v, 0.2, b?
+b
+Misalkan p = 3.93 - -0.07. Misalkan u = 5 - p. Manakah nilai ketiga terbesar?  (a) u  (b) 1/8  (c) -0.5
+c
+Misalkan t = 114 - 199. Misalkan z = 509/6 + t. Misalkan d be (-4)/(-6) + 56/(-66). Manakah nilai ketiga terkecil?  (a) 5  (b) z  (c) d
+a
+Misalkan i = 4 + -2. Misalkan s = 2.2 - i. Manakah nilai kedua terbesar?  (a) -2/7  (b) -1/4  (c) s
+b
+Misalkan q(d) = -d**2 - 4*d. Misalkan z be q(-5). Misalkan f be 1/(-2) - 8226/(-84). Misalkan g = 97 - f. Manakah nilai kedua terkecil?  (a) g  (b) -1  (c) z
+b
+Misalkan 5*g = -0*z - 3*z + 11, 4*g - 12 = -4*z. Misalkan i = -2.5 - -2. Misalkan p = -0.1 - i. Berapa nilai ketiga terbesar dalam z, 0.3, p?
+0.3
+Misalkan r = -7 - -6.5. Manakah nilai ketiga terbesar?  (a) 0.13  (b) -3/8  (c) r
+c
+Misalkan y = 14 - 15. Misalkan i = -1.2 - y. Manakah nilai kedua terbesar?  (a) -2/3  (b) 0.3  (c) i
+c
+Misalkan h = -4.97 - -5. Misalkan b = h + -0.23. Berapa nilai terbesar dalam -2/5, 2/7, b?
+2/7
+Misalkan q = -9.5 - -9.1. Misalkan j be 31/(-15) + (-4)/(-10). Manakah nilai ketiga terbesar?  (a) q  (b) 4/7  (c) j
+c
+Misalkan n = -26.8 - -12.1. Misalkan h = 15 + n. Manakah nilai terbesar?  (a) -0.5  (b) -1  (c) h
+c
+Misalkan 5*l + 4*n + 6 = 4, 0 = 4*l + 2*n + 4. Misalkan u be l/8 - 6/8. Misalkan h = -0.412 - -0.012. Manakah nilai ketiga terbesar?  (a) u  (b) h  (c) 0.3
+a
+Misalkan j = -22 + 17. Berapa nilai kedua terbesar dalam 0, j, -2/7?
+-2/7
+Misalkan -2*w = w. Misalkan z = 2 + w. Misalkan y be (-12)/(-28) - 0/z. Manakah nilai kedua terbesar?  (a) y  (b) 5/4  (c) -2/5
+a
+Misalkan p = -13 + 0. Misalkan q = -13 - p. Manakah nilai terkecil?  (a) q  (b) 2/3  (c) 4
+a
+Misalkan r = 0.09 + 2.01. Misalkan g = r + -0.1. Manakah nilai terbesar?  (a) 0.4  (b) g  (c) -2/7
+b
+Misalkan q = 0.07 + 2.93. Misalkan p(j) = 6*j**2 + j - 2. Misalkan o be p(1). Manakah nilai kedua terkecil?  (a) -0.1  (b) q  (c) o
+b
+Misalkan u = -48.8 - -49. Berapa nilai terbesar dalam u, -2, 15, 0.5?
+15
+Misalkan a = -0.15 - -0.1. Misalkan b = -0.35 + a. Misalkan z = b - -0.5. Berapa nilai terbesar dalam 0.5, 0.4, z?
+0.5
+Misalkan j = -3 + 6. Misalkan i be (-1)/(-3) + (-11)/(-12). Manakah nilai ketiga terkecil?  (a) i  (b) j  (c) -3/4
+b
+Misalkan r = -81 + 409/5. Misalkan c = -863.09 + 859. Misalkan u = c + 0.09. Berapa nilai terkecil dalam r, u, 2?
+u
+Misalkan l be 2*-1 - (2 + -9). Misalkan u be 21 - 3/(l - 2). Misalkan 4*j - 40 = 3*i - 11, -u = -j + 5*i. Manakah nilai kedua terkecil?  (a) 3  (b) 0.3  (c) j
+a
+Misalkan f be (-2)/5*(-10)/14. Misalkan v = -2.3 + -0.7. Berapa nilai kedua terkecil dalam f, v, 4/9?
+f
+Misalkan q = -0.4 + 0.4. Misalkan y = 6.4 - 6. Berapa nilai ketiga terkecil dalam y, 2/3, q?
+2/3
+Misalkan v = 17 + -18. Misalkan i = v - -1.2. Manakah nilai terbesar?  (a) 2/13  (b) 4  (c) i
+b
+Misalkan t = 0.2 + -0.16. Misalkan f = 2 - 2.16. Misalkan n = f - t. Manakah nilai kedua terbesar?  (a) 0.2  (b) -3/4  (c) n
+c
+Misalkan q = 7 - -12. Misalkan r = -19.5 + q. Manakah nilai terkecil?  (a) -0.2  (b) 2/5  (c) r
+c
+Misalkan j = 7.7 - 8. Misalkan s = j - -0.4. Misalkan q(d) = d. Misalkan p be q(1). Berapa nilai kedua terbesar dalam p, s, -0.2?
+s
+Misalkan l = 3 + -2.96. Misalkan o = l + -8.04. Misalkan m = o - -8.3. Manakah nilai ketiga terbesar?  (a) m  (b) -2/11  (c) -1/4
+c
+Misalkan j = -13 - -14. Berapa nilai kedua terbesar dalam -4, -0.5, j?
+-0.5
+Misalkan g = 0.2 - 1.2. Misalkan s = g + 1.5. Misalkan q = -0.9 + 0.6. Manakah nilai ketiga terkecil?  (a) s  (b) q  (c) -4
+a
+Misalkan q = -11 - -13. Manakah nilai kedua terkecil?  (a) -3  (b) q  (c) 3  (d) 2/3
+d
+Misalkan n = -151 + 457/3. Misalkan a be 5 + -4 - (2 - -4). Berapa nilai ketiga terbesar dalam a, 0.4, n?
+a
+Misalkan p be ((-920)/(-12))/((-1)/(-1)). Misalkan g = p + -76. Berapa nilai ketiga terbesar dalam 2/7, g, -3?
+-3
+Misalkan o = 0.16 - -0.04. Berapa nilai terbesar dalam o, -4, -2/7?
+o
+Misalkan o = 92 + -77. Manakah nilai ketiga terkecil?  (a) o  (b) -0.3  (c) 2
+a
+Misalkan z = -0.04 - 2.76. Misalkan r = 3 + z. Misalkan o = 2 + 3. Berapa nilai terkecil dalam o, r, -0.3?
+-0.3
+Misalkan m be 2/(-8) + 34/72. Misalkan z = 6.02 + -6. Misalkan l = z - -0.28. Manakah nilai terkecil?  (a) m  (b) l  (c) -2
+c
+Misalkan k = -61/5 - -12. Misalkan f(o) = -15*o. Misalkan x be f(5). Misalkan i be x/(-10)*4/(-6). Manakah nilai terbesar?  (a) k  (b) 0  (c) i
+b
+Misalkan c = 3.9 + 0.1. Berapa nilai ketiga terbesar dalam 0.2, -2/15, c?
+-2/15
+Misalkan o be (3 - -3) + 26/(-13). Berapa nilai ketiga terkecil dalam 2/19, o, 0.3, 4/5?
+4/5
+Misalkan x = -6 + 20. Misalkan h = -9 + x. Manakah nilai kedua terbesar?  (a) 1  (b) h  (c) 1/2
+a
+Misalkan j = 67.57 + -68. Misalkan q = 0.13 + j. Manakah nilai terkecil?  (a) -1/3  (b) q  (c) -2
+c
+Misalkan p = 1.8 + 0.2. Berapa nilai ketiga terkecil dalam p, -5, -2/5?
+p
+Misalkan i(v) = v**3 - 8*v**2 + v - 6. Misalkan c be i(8). Berapa nilai terbesar dalam 3, c, 0?
+3
+Misalkan g = 1.1 + -1. Misalkan r = g + 0.2. Misalkan a = -0.29 + 0.19. Berapa nilai kedua terbesar dalam -3/7, a, r?
+a
+Misalkan f = -0.08 - -5.08. Misalkan k = -2 + 0. Manakah nilai kedua terkecil?  (a) 2  (b) f  (c) k
+a
+Misalkan x = 12 + 0. Misalkan q = x + -10. Manakah nilai kedua terkecil?  (a) q  (b) 0.4  (c) 0.3
+b
+Misalkan c be ((-4)/21)/((-4)/6). Misalkan -3*m = 2*m. Misalkan 0 = 4*j + 4 - m. Berapa nilai kedua terkecil dalam -3, j, c?
+j
+Misalkan l = -4 + 3.5. Misalkan u = -0.5 - l. Misalkan x = 1.7 - 2. Berapa nilai terkecil dalam x, -2/13, u?
+x

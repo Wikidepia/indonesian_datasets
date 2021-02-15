@@ -1,0 +1,666 @@
+Apakah 2926 adalah kelipatan dari 48?
+False
+Apakah 23 membagi 9465?
+False
+Apakah 1001 adalah kelipatan dari 77?
+True
+Apakah 37 adalah kelipatan dari 4?
+False
+Apakah 20 membagi 11100?
+True
+Apakah 84056 adalah kelipatan dari 18?
+False
+Apakah 76819 adalah kelipatan dari 315?
+False
+Apakah 768 adalah kelipatan dari 8?
+True
+Apakah 8 merupakan faktor dari 40?
+True
+Apakah 946 adalah kelipatan dari 43?
+True
+Apakah 13 membagi 20982?
+True
+Apakah 32 merupakan faktor dari 29824?
+True
+Apakah 47 membagi 10998?
+True
+Apakah 71 merupakan faktor dari 4354?
+False
+Apakah 7 membagi 1585?
+False
+Apakah 40110 adalah kelipatan dari 105?
+True
+Apakah 2 merupakan faktor dari 528?
+True
+Apakah 51 merupakan faktor dari 1326?
+True
+Apakah 660 adalah kelipatan dari 30?
+True
+Apakah 13114 adalah kelipatan dari 2?
+True
+Apakah 1526 adalah kelipatan dari 205?
+False
+Apakah 25 membagi 2725?
+True
+Apakah 304 adalah kelipatan dari 9?
+False
+Apakah 4958 adalah kelipatan dari 59?
+False
+Apakah 4 membagi 34468?
+True
+Apakah 39 merupakan faktor dari 35295?
+True
+Apakah 12 merupakan faktor dari 204?
+True
+Apakah 144 merupakan faktor dari 16559?
+False
+Apakah 1246 adalah kelipatan dari 20?
+False
+Apakah 19787 adalah kelipatan dari 2?
+False
+Apakah 4943 adalah kelipatan dari 113?
+False
+Apakah 17 membagi 2363?
+True
+Apakah 102 membagi 3851?
+False
+Apakah 13 merupakan faktor dari 12153?
+False
+Apakah 302 adalah kelipatan dari 3?
+False
+Apakah 27195 adalah kelipatan dari 28?
+False
+Apakah 19 merupakan faktor dari 15751?
+True
+Apakah 82 membagi 13038?
+True
+Apakah 25 adalah kelipatan dari 3?
+False
+Apakah 2 membagi 315?
+False
+Apakah 18 merupakan faktor dari 11366?
+False
+Apakah 7246 adalah kelipatan dari 15?
+False
+Apakah 21 merupakan faktor dari 107247?
+True
+Apakah 4 merupakan faktor dari 192?
+True
+Apakah 11087 adalah kelipatan dari 3?
+False
+Apakah 18 merupakan faktor dari 6894?
+True
+Apakah 11 membagi 1144?
+True
+Apakah 2502 adalah kelipatan dari 6?
+True
+Apakah 105 membagi 14547?
+False
+Apakah 438 adalah kelipatan dari 6?
+True
+Apakah 5652 adalah kelipatan dari 19?
+False
+Apakah 6443 adalah kelipatan dari 7?
+False
+Apakah 241 adalah kelipatan dari 3?
+False
+Apakah 1975 adalah kelipatan dari 95?
+False
+Apakah 64 membagi 10971?
+False
+Apakah 11 merupakan faktor dari 31746?
+True
+Apakah 18 membagi 36?
+True
+Apakah 14 merupakan faktor dari 322?
+True
+Apakah 159 membagi 28461?
+True
+Apakah 22 merupakan faktor dari 1504?
+False
+Apakah 8 merupakan faktor dari 7900?
+False
+Apakah 8 merupakan faktor dari 4938?
+False
+Apakah 8 membagi 3592?
+True
+Apakah 27 membagi 25178?
+False
+Apakah 6 membagi 4242?
+True
+Apakah 17 merupakan faktor dari 10425?
+False
+Apakah 12 membagi 1355?
+False
+Apakah 48 membagi 32845?
+False
+Apakah 120 merupakan faktor dari 360?
+True
+Apakah 252 merupakan faktor dari 27216?
+True
+Apakah 105387 adalah kelipatan dari 128?
+False
+Apakah 23 membagi 619?
+False
+Apakah 36335 adalah kelipatan dari 65?
+True
+Apakah 18555 adalah kelipatan dari 15?
+True
+Apakah 132 adalah kelipatan dari 6?
+True
+Apakah 4 merupakan faktor dari 32?
+True
+Apakah 35 merupakan faktor dari 1645?
+True
+Apakah 60 merupakan faktor dari 720?
+True
+Apakah 55 membagi 595?
+False
+Apakah 5 merupakan faktor dari 289?
+False
+Apakah 2 membagi 2960?
+True
+Apakah 16 merupakan faktor dari 3852?
+False
+Apakah 4947 adalah kelipatan dari 37?
+False
+Apakah 10 membagi 2150?
+True
+Apakah 38920 adalah kelipatan dari 89?
+False
+Apakah 17 merupakan faktor dari 3825?
+True
+Apakah 103 membagi 3942?
+False
+Apakah 20 merupakan faktor dari 9713?
+False
+Apakah 1188 adalah kelipatan dari 9?
+True
+Apakah 21364 adalah kelipatan dari 12?
+False
+Apakah 3226 adalah kelipatan dari 13?
+False
+Apakah 39 membagi 4995?
+False
+Apakah 111 merupakan faktor dari 19092?
+True
+Apakah 6867 adalah kelipatan dari 32?
+False
+Apakah 22 membagi 1030?
+False
+Apakah 24 membagi 23592?
+True
+Apakah 7 merupakan faktor dari 6379?
+False
+Apakah 28 merupakan faktor dari 348?
+False
+Apakah 161 merupakan faktor dari 2100?
+False
+Apakah 13679 adalah kelipatan dari 55?
+False
+Apakah 3 merupakan faktor dari 1452?
+True
+Apakah 26 membagi 2132?
+True
+Apakah 4388 adalah kelipatan dari 119?
+False
+Apakah 16535 adalah kelipatan dari 23?
+False
+Apakah 23562 adalah kelipatan dari 18?
+True
+Apakah 63 membagi 37044?
+True
+Apakah 86 membagi 39371?
+False
+Apakah 1710 adalah kelipatan dari 15?
+True
+Apakah 292 adalah kelipatan dari 22?
+False
+Apakah 69400 adalah kelipatan dari 200?
+True
+Apakah 44 merupakan faktor dari 198?
+False
+Apakah 8496 adalah kelipatan dari 9?
+True
+Apakah 14 membagi 700?
+True
+Apakah 3811 adalah kelipatan dari 103?
+True
+Apakah 42 merupakan faktor dari 15209?
+False
+Apakah 142 membagi 18176?
+True
+Apakah 53392 adalah kelipatan dari 16?
+True
+Apakah 103 merupakan faktor dari 700?
+False
+Apakah 18 merupakan faktor dari 4298?
+False
+Apakah 86 merupakan faktor dari 203?
+False
+Apakah 4 merupakan faktor dari 26?
+False
+Apakah 17 merupakan faktor dari 1226?
+False
+Apakah 23 merupakan faktor dari 598?
+True
+Apakah 5 merupakan faktor dari 1107?
+False
+Apakah 49135 adalah kelipatan dari 271?
+False
+Apakah 44 merupakan faktor dari 212?
+False
+Apakah 8 membagi 7224?
+True
+Apakah 95 merupakan faktor dari 147177?
+False
+Apakah 49 membagi 882?
+True
+Apakah 165 merupakan faktor dari 14686?
+False
+Apakah 18 merupakan faktor dari 144?
+True
+Apakah 12563 adalah kelipatan dari 17?
+True
+Apakah 14 membagi 308?
+True
+Apakah 34 merupakan faktor dari 1908?
+False
+Apakah 99 merupakan faktor dari 79002?
+True
+Apakah 2796 adalah kelipatan dari 12?
+True
+Apakah 30 membagi 103403?
+False
+Apakah 69 merupakan faktor dari 1516?
+False
+Apakah 9 membagi 13666?
+False
+Apakah 735 adalah kelipatan dari 15?
+True
+Apakah 16 merupakan faktor dari 676?
+False
+Apakah 86 membagi 4558?
+True
+Apakah 148 merupakan faktor dari 85100?
+True
+Apakah 133 membagi 16899?
+False
+Apakah 26 adalah kelipatan dari 2?
+True
+Apakah 87 membagi 540?
+False
+Apakah 7560 adalah kelipatan dari 10?
+True
+Apakah 102 membagi 10914?
+True
+Apakah 19087 adalah kelipatan dari 5?
+False
+Apakah 37 merupakan faktor dari 542?
+False
+Apakah 36 merupakan faktor dari 3996?
+True
+Apakah 12 membagi 23412?
+True
+Apakah 26 merupakan faktor dari 1924?
+True
+Apakah 14 merupakan faktor dari 4956?
+True
+Apakah 24 membagi 18528?
+True
+Apakah 2102 adalah kelipatan dari 9?
+False
+Apakah 42 adalah kelipatan dari 3?
+True
+Apakah 33 membagi 31572?
+False
+Apakah 7813 adalah kelipatan dari 13?
+True
+Apakah 10 membagi 3393?
+False
+Apakah 3993 adalah kelipatan dari 11?
+True
+Apakah 1033 adalah kelipatan dari 12?
+False
+Apakah 205 merupakan faktor dari 17630?
+True
+Apakah 3128 adalah kelipatan dari 84?
+False
+Apakah 25 membagi 46100?
+True
+Apakah 44 merupakan faktor dari 308?
+True
+Apakah 23 merupakan faktor dari 74983?
+False
+Apakah 61 merupakan faktor dari 2319?
+False
+Apakah 35 membagi 6838?
+False
+Apakah 5 membagi 58?
+False
+Apakah 22 membagi 3970?
+False
+Apakah 5 merupakan faktor dari 35920?
+True
+Apakah 17 membagi 94554?
+True
+Apakah 5594 adalah kelipatan dari 75?
+False
+Apakah 4 merupakan faktor dari 6808?
+True
+Apakah 2070 adalah kelipatan dari 46?
+True
+Apakah 81 membagi 8910?
+True
+Apakah 16 membagi 3941?
+False
+Apakah 21 membagi 12957?
+True
+Apakah 27 merupakan faktor dari 4752?
+True
+Apakah 17 merupakan faktor dari 2006?
+True
+Apakah 39785 adalah kelipatan dari 73?
+True
+Apakah 2953 adalah kelipatan dari 12?
+False
+Apakah 60 membagi 1987?
+False
+Apakah 2712 adalah kelipatan dari 11?
+False
+Apakah 12 merupakan faktor dari 2897?
+False
+Apakah 27527 adalah kelipatan dari 9?
+False
+Apakah 752 adalah kelipatan dari 11?
+False
+Apakah 1135 adalah kelipatan dari 8?
+False
+Apakah 23 merupakan faktor dari 1886?
+True
+Apakah 35 membagi 910?
+True
+Apakah 24 membagi 42093?
+False
+Apakah 668 adalah kelipatan dari 10?
+False
+Apakah 4858 adalah kelipatan dari 78?
+False
+Apakah 12842 adalah kelipatan dari 10?
+False
+Apakah 95 membagi 5890?
+True
+Apakah 6107 adalah kelipatan dari 17?
+False
+Apakah 17 merupakan faktor dari 4416?
+False
+Apakah 4116 adalah kelipatan dari 84?
+True
+Apakah 4 membagi 32?
+True
+Apakah 102 membagi 8466?
+True
+Apakah 2 membagi 1035?
+False
+Apakah 5 merupakan faktor dari 2721?
+False
+Apakah 6 membagi 20790?
+True
+Apakah 2842 adalah kelipatan dari 14?
+True
+Apakah 33 membagi 789?
+False
+Apakah 58 adalah kelipatan dari 29?
+True
+Apakah 27 merupakan faktor dari 460?
+False
+Apakah 16 merupakan faktor dari 592?
+True
+Apakah 1392 adalah kelipatan dari 48?
+True
+Apakah 11264 adalah kelipatan dari 162?
+False
+Apakah 15 merupakan faktor dari 158550?
+True
+Apakah 2622 adalah kelipatan dari 19?
+True
+Apakah 119 merupakan faktor dari 833?
+True
+Apakah 53 membagi 2605?
+False
+Apakah 370 adalah kelipatan dari 21?
+False
+Apakah 107 merupakan faktor dari 121766?
+True
+Apakah 23 merupakan faktor dari 69?
+True
+Apakah 37 merupakan faktor dari 494?
+False
+Apakah 71460 adalah kelipatan dari 10?
+True
+Apakah 7 membagi 4641?
+True
+Apakah 809 adalah kelipatan dari 75?
+False
+Apakah 11 membagi 47082?
+False
+Apakah 122 membagi 4514?
+True
+Apakah 1674 adalah kelipatan dari 28?
+False
+Apakah 153 membagi 47277?
+True
+Apakah 125 membagi 43250?
+True
+Apakah 526 adalah kelipatan dari 18?
+False
+Apakah 3 merupakan faktor dari 470?
+False
+Apakah 38 membagi 3154?
+True
+Apakah 12 membagi 21708?
+True
+Apakah 38 membagi 13566?
+True
+Apakah 102 merupakan faktor dari 4552?
+False
+Apakah 4255 adalah kelipatan dari 23?
+True
+Apakah 36 merupakan faktor dari 1504?
+False
+Apakah 4128 adalah kelipatan dari 43?
+True
+Apakah 16 merupakan faktor dari 7536?
+True
+Apakah 138 membagi 2898?
+True
+Apakah 37 membagi 8473?
+True
+Apakah 98 merupakan faktor dari 72503?
+False
+Apakah 209 adalah kelipatan dari 209?
+True
+Apakah 34 merupakan faktor dari 2169?
+False
+Apakah 13 merupakan faktor dari 557?
+False
+Apakah 49098 adalah kelipatan dari 14?
+True
+Apakah 936 adalah kelipatan dari 8?
+True
+Apakah 154 membagi 77568?
+False
+Apakah 19373 genap?
+False
+Apakah 81 merupakan faktor dari 324?
+True
+Apakah 64 merupakan faktor dari 3037?
+False
+Apakah 12 membagi 460?
+False
+Apakah 548 adalah kelipatan dari 2?
+True
+Apakah 54929 adalah kelipatan dari 59?
+True
+Apakah 5474 adalah kelipatan dari 50?
+False
+Apakah 50 membagi 3700?
+True
+Apakah 184 merupakan faktor dari 673?
+False
+Apakah 9 merupakan faktor dari 189?
+True
+Apakah 352 adalah kelipatan dari 11?
+True
+Apakah 165 merupakan faktor dari 4278?
+False
+Apakah 98 merupakan faktor dari 8232?
+True
+Apakah 4716 adalah kelipatan dari 36?
+True
+Apakah 46 membagi 184?
+True
+Apakah 10028 adalah kelipatan dari 10?
+False
+Apakah 20 merupakan faktor dari 1059?
+False
+Apakah 9 membagi 8500?
+False
+Apakah 37815 adalah kelipatan dari 111?
+False
+Apakah 12 merupakan faktor dari 8772?
+True
+Apakah 26 merupakan faktor dari 18905?
+False
+Apakah 1006 adalah kelipatan dari 10?
+False
+Apakah 100 merupakan faktor dari 3700?
+True
+Apakah 9937 adalah kelipatan dari 19?
+True
+Apakah 2668 adalah kelipatan dari 58?
+True
+Apakah 24 membagi 5208?
+True
+Apakah 54343 adalah kelipatan dari 48?
+False
+Apakah 11 merupakan faktor dari 9680?
+True
+Apakah 54902 adalah kelipatan dari 23?
+False
+Apakah 99 merupakan faktor dari 19107?
+True
+Apakah 23 membagi 5681?
+True
+Apakah 53 merupakan faktor dari 450?
+False
+Apakah 285 adalah kelipatan dari 3?
+True
+Apakah 4 merupakan faktor dari 352?
+True
+Apakah 50 membagi 6300?
+True
+Apakah 115 merupakan faktor dari 2312?
+False
+Apakah 18 merupakan faktor dari 233?
+False
+Apakah 27 membagi 2045?
+False
+Apakah 136 adalah kelipatan dari 4?
+True
+Apakah 13 merupakan faktor dari 1209?
+True
+Apakah 91 membagi 5137?
+False
+Apakah 8 merupakan faktor dari 1912?
+True
+Apakah 17544 adalah kelipatan dari 17?
+True
+Apakah 23 merupakan faktor dari 736?
+True
+Apakah 16 merupakan faktor dari 9680?
+True
+Apakah 37 merupakan faktor dari 184?
+False
+Apakah 66555 adalah kelipatan dari 51?
+True
+Apakah 108891 adalah kelipatan dari 327?
+True
+Apakah 14 membagi 121562?
+True
+Apakah 9 merupakan faktor dari 477?
+True
+Apakah 728 adalah kelipatan dari 13?
+True
+Apakah 12 membagi 2994?
+False
+Apakah 9 merupakan faktor dari 237?
+False
+Apakah 14120 adalah kelipatan dari 8?
+True
+Apakah 148993 adalah kelipatan dari 42?
+False
+Apakah 3 merupakan faktor dari 10156?
+False
+Apakah 4207 adalah kelipatan dari 38?
+False
+Apakah 3 merupakan faktor dari 2437?
+False
+Apakah 7086 adalah kelipatan dari 50?
+False
+Apakah 7 membagi 3717?
+True
+Apakah 28 membagi 1176?
+True
+Apakah 12 merupakan faktor dari 2376?
+True
+Apakah 2108 adalah kelipatan dari 13?
+False
+Apakah 25871 adalah kelipatan dari 31?
+False
+Apakah 16421 adalah kelipatan dari 22?
+False
+Apakah 3 membagi 147?
+True
+Apakah 5 membagi 745?
+True
+Apakah 152 merupakan faktor dari 44646?
+False
+Apakah 11 merupakan faktor dari 730?
+False
+Apakah 88 merupakan faktor dari 13116?
+False
+Apakah 22606 adalah kelipatan dari 89?
+True
+Apakah 36461 adalah kelipatan dari 94?
+False
+Apakah 211 adalah kelipatan dari 4?
+False
+Apakah 7 membagi 326?
+False
+Apakah 6 merupakan faktor dari 1980?
+True
+Apakah 16144 adalah kelipatan dari 32?
+False
+Apakah 37 merupakan faktor dari 1073?
+True
+Apakah 42688 adalah kelipatan dari 184?
+True
+Apakah 6 merupakan faktor dari 4092?
+True
+Apakah 300 membagi 19486?
+False
+Apakah 35 membagi 875?
+True
+Apakah 5797 adalah kelipatan dari 11?
+True
+Apakah 10 membagi 42430?
+True
+Apakah 5 merupakan faktor dari 697?
+False
+Apakah 16 membagi 1504?
+True
+Apakah 24618 adalah kelipatan dari 56?
+False
+Apakah 60 adalah kelipatan dari 6?
+True

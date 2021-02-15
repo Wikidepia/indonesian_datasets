@@ -1,0 +1,666 @@
+Manakah yang terdekat dari 1/3 pada 0.05, -0.47287, 4, -5?
+0.05
+Manakah yang terdekat dari 1?  (a) 5  (b) -1137  (c) 0.4  (d) 57
+c
+Manakah yang terdekat dari 4?  (a) 2  (b) 4/27  (c) -0.3  (d) -25/6  (e) 1/3
+a
+Manakah yang terdekat dari 1/4 pada 4/5, 3/4, 193/17, -3/4?
+3/4
+Manakah yang terdekat dari 0.1?  (a) 63/226  (b) -21  (c) -1/3
+a
+Manakah yang terdekat dari -0.5 pada 1, 33, -57?
+1
+Manakah yang terdekat dari 2/67 pada 0, -0.56, -4, -2/11?
+0
+Manakah yang terdekat dari 2/13?  (a) 2  (b) -3  (c) -0.75  (d) -5
+c
+Manakah yang terdekat dari 139 pada -35, 1/5, 2.3?
+2.3
+Manakah yang terdekat dari -1 pada 106, 2/15, -15, -1/9, 0.1?
+-1/9
+Manakah yang terdekat dari -2?  (a) -39  (b) -0.24  (c) -0.1
+b
+Manakah yang terdekat dari 0 pada -0.2, -0.30177, 2/3, -2/7, 0.3?
+-0.2
+Manakah yang terdekat dari 3?  (a) 0  (b) -8  (c) -2/33  (d) -1
+a
+Manakah yang terdekat dari -0.1 pada -54/61, 0.4, -4, 4?
+0.4
+Manakah yang terdekat dari -2/3 pada 15, -115, -0.2, -0.4?
+-0.4
+Manakah yang terdekat dari -1 pada 3/23, 4, 10?
+3/23
+Manakah yang terdekat dari 0.52?  (a) 2/9  (b) 0  (c) -5  (d) -0.1  (e) 1/19
+a
+Manakah yang terdekat dari 0?  (a) 11.6  (b) 0.2  (c) -1/4  (d) 2
+b
+Manakah yang terdekat dari -0.1?  (a) 3  (b) 36  (c) 1/55
+c
+Manakah yang terdekat dari -0.4 pada -5/56, 4, 1/9, 5, -17?
+-5/56
+Manakah yang terdekat dari -0.2?  (a) 1/6  (b) 2471.1  (c) 2/5
+a
+Manakah yang terdekat dari 6/17?  (a) -0.032  (b) 0.1  (c) 0.4  (d) 20  (e) -4
+c
+Manakah yang terdekat dari -1/3?  (a) -0.5  (b) 1003  (c) -0.1  (d) -3/5
+a
+Manakah yang terdekat dari -0.459?  (a) 4  (b) -0.07  (c) -1
+b
+Manakah yang terdekat dari 0.37?  (a) -4  (b) 1  (c) 31  (d) 0  (e) -3
+d
+Manakah yang terdekat dari 0.4 pada 17.1, -0.039, -5?
+-0.039
+Manakah yang terdekat dari 585?  (a) -4  (b) -3/20  (c) -5  (d) 3
+d
+Manakah yang terdekat dari 2 pada -1.2, 2.9, -2?
+2.9
+Manakah yang terdekat dari 414?  (a) 0.4  (b) 2  (c) -2/25
+b
+Manakah yang terdekat dari 1?  (a) 0.4  (b) 1  (c) 66  (d) -0.09
+b
+Manakah yang terdekat dari -0.08?  (a) -591  (b) -2  (c) -1/7
+c
+Manakah yang terdekat dari 1?  (a) -0.2  (b) 2  (c) -6348
+b
+Manakah yang terdekat dari 3/4?  (a) 0.2  (b) -1/2  (c) -3  (d) 16324
+a
+Manakah yang terdekat dari 3/47 pada 4, 68, -0.2, 3, -4?
+-0.2
+Manakah yang terdekat dari -1?  (a) 5  (b) -186  (c) -1
+c
+Manakah yang terdekat dari 0.002 pada -0.5, 1671, 2, -2, -4?
+-0.5
+Manakah yang terdekat dari -4?  (a) -11  (b) 1  (c) 3.2  (d) -26  (e) -5
+e
+Manakah yang terdekat dari -171.85 pada 1, 0.1, 2?
+0.1
+Manakah yang terdekat dari -81 pada 0.1, -5/6, -2/7, 2, -0.5?
+-5/6
+Manakah yang terdekat dari 1/4 pada -744, -19, -0.1, -5?
+-0.1
+Manakah yang terdekat dari 2 pada 2, 3/352, 19?
+2
+Manakah yang terdekat dari 1618 pada -0.2, 5, 0.1?
+5
+Manakah yang terdekat dari -5/7 pada 140, -3/7, -2, 2?
+-3/7
+Manakah yang terdekat dari -71?  (a) -4  (b) 1/5  (c) -58
+c
+Manakah yang terdekat dari -1?  (a) -33  (b) -4  (c) 4029  (d) -1/5
+d
+Manakah yang terdekat dari -2 pada 0.4, 1/9, -1141, 0.2?
+1/9
+Manakah yang terdekat dari 2 pada -129/455, -5, -0.1?
+-0.1
+Manakah yang terdekat dari -2.8 pada 0.098, -5, -3, 0.03?
+-3
+Manakah yang terdekat dari 0.7 pada 3, 0.1, 0, 1/16847, 4/5?
+4/5
+Manakah yang terdekat dari -6?  (a) -0.3  (b) 10  (c) 3  (d) 0.6  (e) -11
+e
+Manakah yang terdekat dari 0.1?  (a) 0.2615  (b) -0.3  (c) 8
+a
+Manakah yang terdekat dari -6?  (a) 3/8  (b) -0.3  (c) -26  (d) -0.1  (e) 4
+b
+Manakah yang terdekat dari 1/4 pada -4/5, 53, -5, -2/9, -258?
+-2/9
+Manakah yang terdekat dari -0.22 pada 2, 0.1, -2/65, -0.4?
+-0.4
+Manakah yang terdekat dari 2/57?  (a) -4  (b) 13  (c) 0.1  (d) 41
+c
+Manakah yang terdekat dari 3?  (a) 0.1  (b) 0.4  (c) -83  (d) 1/2
+d
+Manakah yang terdekat dari 1?  (a) 2  (b) -945  (c) -3
+a
+Manakah yang terdekat dari -0.1?  (a) -1/2371  (b) 0.2  (c) 4/5  (d) -4  (e) -5
+a
+Manakah yang terdekat dari -1/2 pada 4, -0.796, 2, 0.2?
+-0.796
+Manakah yang terdekat dari -2/7?  (a) 6  (b) -11.5  (c) 0.16  (d) 3  (e) 5
+c
+Manakah yang terdekat dari -15 pada -1, 0, -7, -7/3?
+-7
+Manakah yang terdekat dari 1?  (a) -2  (b) -231  (c) 13
+a
+Manakah yang terdekat dari 1/195?  (a) 5  (b) 0.1  (c) 2
+b
+Manakah yang terdekat dari 1/2?  (a) 0.4  (b) 5  (c) -0.5  (d) 0.00717
+a
+Manakah yang terdekat dari 1.2?  (a) -1  (b) -1/5  (c) 0.3  (d) -7
+c
+Manakah yang terdekat dari 4 pada -0.2, 1, -5, 1299?
+1
+Manakah yang terdekat dari -1/3?  (a) 8/1135  (b) 1  (c) -3/4
+a
+Manakah yang terdekat dari 35 pada -0.4, -7, 3, -4?
+3
+Manakah yang terdekat dari 1 pada 2/7, -0.417, -45?
+2/7
+Manakah yang terdekat dari -1/3?  (a) -21  (b) 30  (c) -5  (d) -2/13  (e) -3/2
+d
+Manakah yang terdekat dari -822?  (a) -0.2  (b) 0.1  (c) -13  (d) -3  (e) 3/7
+c
+Manakah yang terdekat dari 15793 pada -0.04, -1/6, -2/7?
+-0.04
+Manakah yang terdekat dari 1/2 pada 2, -1/7, 0.15?
+0.15
+Manakah yang terdekat dari -1/6 pada 3/5, -191, 8/5, 23?
+3/5
+Manakah yang terdekat dari 12 pada 2/9, -2/7, -3/13, 0.4, 2?
+2
+Manakah yang terdekat dari 5643 pada -2, -16, 3, -4?
+3
+Manakah yang terdekat dari -17?  (a) -0.2  (b) 3/4  (c) -1  (d) 0.23
+c
+Manakah yang terdekat dari -6 pada -0.08, -77, 5.4?
+-0.08
+Manakah yang terdekat dari -76 pada 2/5, -0.5, 2, -1?
+-1
+Manakah yang terdekat dari 0 pada -2/79, 286, -0.4?
+-2/79
+Manakah yang terdekat dari -1/3?  (a) -0.756  (b) -4  (c) -4/3
+a
+Manakah yang terdekat dari 3.4?  (a) 44  (b) 1  (c) -4  (d) 4
+d
+Manakah yang terdekat dari 9/5 pada 11, 8/5, -24?
+8/5
+Manakah yang terdekat dari 2/5?  (a) 1/8  (b) -3  (c) 36  (d) 1  (e) -0.22
+a
+Manakah yang terdekat dari 2?  (a) 3/8  (b) -2/5  (c) 1/5  (d) -3/16
+a
+Manakah yang terdekat dari 49?  (a) 2/17  (b) 2/3  (c) 7
+c
+Manakah yang terdekat dari -0.4?  (a) 28.8  (b) 3/26  (c) -0.5
+c
+Manakah yang terdekat dari 1/19?  (a) -2/99  (b) -2  (c) 4/5
+a
+Manakah yang terdekat dari 2/11?  (a) 30/7  (b) -4  (c) -8/7  (d) -3
+c
+Manakah yang terdekat dari -0.096?  (a) -2/3  (b) 5  (c) 2.8  (d) 2/5
+d
+Manakah yang terdekat dari 0.06?  (a) 233  (b) -0.5  (c) 0.2  (d) 6/11
+c
+Manakah yang terdekat dari -2/11 pada -2/11, 1/8, -10, 1?
+-2/11
+Manakah yang terdekat dari 1/3?  (a) 0.7  (b) -0.14677  (c) -0.2
+a
+Manakah yang terdekat dari -2/5?  (a) 0.07  (b) -0.1  (c) -3/1154  (d) -0.4
+d
+Manakah yang terdekat dari -4/5?  (a) 0.3  (b) -1/4  (c) -716/7
+b
+Manakah yang terdekat dari -1?  (a) 39  (b) 3/4  (c) -2  (d) 5  (e) -4.2
+c
+Manakah yang terdekat dari -1/2 pada -2/5, 332, 329?
+-2/5
+Manakah yang terdekat dari -1/2?  (a) 2.2  (b) -0.077  (c) 17  (d) -0.2  (e) -0.1
+d
+Manakah yang terdekat dari 0 pada 6764, 0.1, -3/5?
+0.1
+Manakah yang terdekat dari -2/5 pada 6, -2/7, -110, 0.032, 0?
+-2/7
+Manakah yang terdekat dari -1 pada 9, -5, -3, -2?
+-2
+Manakah yang terdekat dari 0?  (a) 13  (b) -1  (c) 26/71
+c
+Manakah yang terdekat dari -0.5?  (a) 38  (b) -0.12  (c) 5  (d) -0.27
+d
+Manakah yang terdekat dari 23 pada 2/5, -5, -2/7, -3?
+2/5
+Manakah yang terdekat dari 14 pada 0, 5, 32213?
+5
+Manakah yang terdekat dari 1 pada -0.6, -0.1, 0, 2976?
+0
+Manakah yang terdekat dari -0.1?  (a) -5  (b) -1  (c) 1/3  (d) 0.06
+d
+Manakah yang terdekat dari 2/7 pada -1316, -26, 3?
+3
+Manakah yang terdekat dari 2?  (a) -0.6  (b) -1/113  (c) 1  (d) -0.3  (e) -2
+c
+Manakah yang terdekat dari 0.1?  (a) 3  (b) -4  (c) -1392  (d) -5
+a
+Manakah yang terdekat dari 1 pada 0.1, 1, 7.92, -0.1?
+1
+Manakah yang terdekat dari -274/25 pada 3, 1/7, 5?
+1/7
+Manakah yang terdekat dari 25 pada 0.2, -8, -5, 1, 5?
+5
+Manakah yang terdekat dari -4 pada -26, 0, -1/18, -2?
+-2
+Manakah yang terdekat dari 1/4 pada -0.3, -6, 204?
+-0.3
+Manakah yang terdekat dari 2/5 pada -2/7, -86/21, 0.2?
+0.2
+Manakah yang terdekat dari 8 pada -0.3, -2, 869?
+-0.3
+Manakah yang terdekat dari -2 pada -84.2, 4, 15, 5?
+4
+Manakah yang terdekat dari 2/5 pada 4, 4/3, 15685, -3?
+4/3
+Manakah yang terdekat dari -3/8?  (a) 99  (b) 4/5  (c) 0.051  (d) 2  (e) 0.3
+c
+Manakah yang terdekat dari -3/7?  (a) 0  (b) 60  (c) 1/8  (d) 4
+a
+Manakah yang terdekat dari -38?  (a) -86  (b) 0.3  (c) 1/3  (d) -0.4
+d
+Manakah yang terdekat dari -0.2?  (a) 3  (b) 22/173  (c) -34  (d) -5
+b
+Manakah yang terdekat dari 0 pada -136/7, -0.4, -0.1?
+-0.1
+Manakah yang terdekat dari -5.1?  (a) 0.2  (b) 0.03  (c) -2  (d) 2/3
+c
+Manakah yang terdekat dari 2/9?  (a) -209  (b) 0.1  (c) 5  (d) 4
+b
+Manakah yang terdekat dari -0.1 pada 1/2, 0.08, -4/2657?
+-4/2657
+Manakah yang terdekat dari -0.0586?  (a) -1  (b) 1.6  (c) -5
+a
+Manakah yang terdekat dari -2?  (a) 4  (b) -129228  (c) -1/2  (d) 5  (e) 2
+c
+Manakah yang terdekat dari -16?  (a) 1  (b) 1/2  (c) -0.2
+c
+Manakah yang terdekat dari -1048?  (a) 5  (b) 0.1  (c) 2
+b
+Manakah yang terdekat dari -0.06?  (a) 27  (b) 2  (c) -86
+b
+Manakah yang terdekat dari -524/15 pada -1/70, 0.4, -0.2?
+-0.2
+Manakah yang terdekat dari 20 pada -40, 5, 0?
+5
+Manakah yang terdekat dari 159?  (a) 8  (b) 16  (c) -0.3
+b
+Manakah yang terdekat dari 1?  (a) -2/9  (b) -57  (c) 2/5  (d) -1/7
+c
+Manakah yang terdekat dari 0.048 pada 5, -2/13, 1, -5?
+-2/13
+Manakah yang terdekat dari -0.2 pada 163, -55/23, -4?
+-55/23
+Manakah yang terdekat dari -0.02?  (a) 5  (b) -3  (c) -8590  (d) -0.2
+d
+Manakah yang terdekat dari 2?  (a) -0.093  (b) 5  (c) 0.005
+c
+Manakah yang terdekat dari -37.7 pada 0, -19/3, -0.1?
+-19/3
+Manakah yang terdekat dari 6/425?  (a) -2/11  (b) 1/5  (c) 2.5  (d) 4/5
+b
+Manakah yang terdekat dari -8/9?  (a) 3  (b) -214  (c) 5
+a
+Manakah yang terdekat dari 0 pada -0.2, -3/2, -776?
+-0.2
+Manakah yang terdekat dari -32028 pada 2, 2/3, -2, 0.1, -3/7?
+-2
+Manakah yang terdekat dari 411 pada -0.4, -4/7, 0.1, -2/21?
+0.1
+Manakah yang terdekat dari -1/26 pada 8/5, 0.3, -3?
+0.3
+Manakah yang terdekat dari 7 pada -0.4, -380, 2/11, 5, -4?
+5
+Manakah yang terdekat dari 58?  (a) 6/35  (b) -1/4  (c) -11
+a
+Manakah yang terdekat dari -4 pada -4, -1, -11, 1/4?
+-4
+Manakah yang terdekat dari 0.08?  (a) 6  (b) 40  (c) -3/7  (d) -4
+c
+Manakah yang terdekat dari 2 pada -0.6, -1/347, -1, -0.4?
+-1/347
+Manakah yang terdekat dari 9 pada 12, 1/13, 2, -4?
+12
+Manakah yang terdekat dari -15 pada -0.7, -4/7, -0.51?
+-0.7
+Manakah yang terdekat dari 0.2?  (a) -3/2  (b) 3  (c) -1.1  (d) -248
+c
+Manakah yang terdekat dari 3?  (a) 762  (b) -0.1  (c) 4
+c
+Manakah yang terdekat dari -2.1 pada -35, -0.08, 33?
+-0.08
+Manakah yang terdekat dari -0.141 pada -0.5, 2, 11, 0.02, 8?
+0.02
+Manakah yang terdekat dari -2/3 pada 0, 97, 2/5?
+0
+Manakah yang terdekat dari 1 pada 0, -4/91, 3?
+0
+Manakah yang terdekat dari 943?  (a) -1  (b) 0.4  (c) 1/5  (d) -2/7
+b
+Manakah yang terdekat dari 2 pada 4, -1/2, 2, -0.04, -171?
+2
+Manakah yang terdekat dari -0.32?  (a) 1/3  (b) 73  (c) -4  (d) 2
+a
+Manakah yang terdekat dari -2/5 pada 511/3, -1, -0.6?
+-0.6
+Manakah yang terdekat dari -4811 pada 3, -0.03, 0.4?
+-0.03
+Manakah yang terdekat dari -139?  (a) 4  (b) -5  (c) 170
+b
+Manakah yang terdekat dari -2?  (a) 6  (b) 0.62  (c) -3
+c
+Manakah yang terdekat dari 49 pada 3/8, -8/37, 5?
+5
+Manakah yang terdekat dari -2 pada 15, 2/9, -0.3, 142?
+-0.3
+Manakah yang terdekat dari -6/53 pada 0.41, 3, 0.5, -1/5?
+-1/5
+Manakah yang terdekat dari -2/3 pada -2, -60, -0.002, 5?
+-0.002
+Manakah yang terdekat dari -0.136?  (a) -0.3  (b) 1.7  (c) -2/37  (d) 2/5
+c
+Manakah yang terdekat dari 0.2?  (a) 0.9  (b) -2/201  (c) -1  (d) 0.3  (e) -5
+d
+Manakah yang terdekat dari -1/8?  (a) -0.2  (b) -0.3  (c) -6  (d) 6.2
+a
+Manakah yang terdekat dari -0.1?  (a) 0  (b) -1/2907  (c) 5
+b
+Manakah yang terdekat dari -3/175 pada -1/4, 3, -4?
+-1/4
+Manakah yang terdekat dari -2 pada -0.2, 1.13, -0.4, 0, -3?
+-3
+Manakah yang terdekat dari -3/2 pada -1, -1/4, -7, -1/6?
+-1
+Manakah yang terdekat dari 0.1 pada -1/6, -5/4, -0.6, -716, -4?
+-1/6
+Manakah yang terdekat dari 3 pada 3, -2/7, 21, -5, -2?
+3
+Manakah yang terdekat dari -8?  (a) 3.34  (b) 0.3  (c) 5
+b
+Manakah yang terdekat dari -3 pada 7, 0.2, -1, 2/65?
+-1
+Manakah yang terdekat dari -0.048?  (a) -2  (b) -0.4  (c) 0.2  (d) 2/127
+d
+Manakah yang terdekat dari -1/24 pada -5/2, -89, -94?
+-5/2
+Manakah yang terdekat dari 0.251 pada -3, -9, 4?
+-3
+Manakah yang terdekat dari -395?  (a) -6/7  (b) 1/7  (c) -5  (d) 0.4
+c
+Manakah yang terdekat dari -1 pada 2/9, -1/5, -197, -24, -57?
+-1/5
+Manakah yang terdekat dari -1.4?  (a) 28  (b) 1  (c) -3.4
+c
+Manakah yang terdekat dari 0 pada 0.3, 0, 8735?
+0
+Manakah yang terdekat dari -0.06?  (a) -0.0121  (b) 4  (c) -4/5  (d) -1/3  (e) 1/4
+a
+Manakah yang terdekat dari -2?  (a) 1/6  (b) 47738  (c) 3
+a
+Manakah yang terdekat dari 8/13?  (a) 3/2  (b) 0.094  (c) -3  (d) -0.3  (e) -1/7
+b
+Manakah yang terdekat dari -1.8 pada -1, 106, 3/8?
+-1
+Manakah yang terdekat dari -12?  (a) -5  (b) 0.02  (c) 0.4  (d) 2/27
+a
+Manakah yang terdekat dari 0.4?  (a) 2.053  (b) 16  (c) 3
+a
+Manakah yang terdekat dari -1 pada -2, -0.3, 1.8, -7, 1?
+-0.3
+Manakah yang terdekat dari 2/5?  (a) -0.05  (b) -32  (c) -0.01  (d) -0.25
+c
+Manakah yang terdekat dari -0.02?  (a) 1/3  (b) -0.6  (c) -2  (d) 246
+a
+Manakah yang terdekat dari -0.1 pada -1, -6619, -2/15, 0.2, -5?
+-2/15
+Manakah yang terdekat dari -0.1?  (a) 0.3  (b) 0.061  (c) -126  (d) -1/3
+b
+Manakah yang terdekat dari -2 pada -0.4771, -1/3, -2/11, 1/4, -1?
+-1
+Manakah yang terdekat dari 1 pada -7, -15/13, -0.1, -2/3?
+-0.1
+Manakah yang terdekat dari -1/3 pada 3, -0.3, -421, 0.4?
+-0.3
+Manakah yang terdekat dari 6 pada -0.4, -5/13, 1, 0.04?
+1
+Manakah yang terdekat dari 5?  (a) 5  (b) 1/6  (c) -0.5  (d) 133  (e) -33
+a
+Manakah yang terdekat dari 0.1 pada -2/7869, -0.1, -4, -0.6?
+-2/7869
+Manakah yang terdekat dari -2/3 pada 1.1, -4, 6.37, 0, 3?
+0
+Manakah yang terdekat dari 0.3 pada 61, 2, 5?
+2
+Manakah yang terdekat dari -1472?  (a) 0.1  (b) -3  (c) -1/8  (d) 5
+b
+Manakah yang terdekat dari 4/11 pada -1, -19/6, -2, 4, 2?
+-1
+Manakah yang terdekat dari -10 pada 5, 0.4, -3, -42?
+-3
+Manakah yang terdekat dari 1 pada 0.03, -0.5, -3008?
+0.03
+Manakah yang terdekat dari 0.23?  (a) 50  (b) 1/5  (c) -4/5
+b
+Manakah yang terdekat dari -1.5 pada -0.4, -2, 2/15?
+-2
+Manakah yang terdekat dari 1/2?  (a) -48  (b) -19  (c) 1.5  (d) 2/11
+d
+Manakah yang terdekat dari -6?  (a) -4  (b) 83  (c) 0.2
+a
+Manakah yang terdekat dari -0.1?  (a) 367  (b) 3/7  (c) -1  (d) -5  (e) 3/10
+e
+Manakah yang terdekat dari 0.2?  (a) -5/4  (b) -41  (c) -1/5  (d) 5/3  (e) 0.42
+e
+Manakah yang terdekat dari 0.1 pada -0.188, 33, 0.1, 0.4?
+0.1
+Manakah yang terdekat dari -2/7 pada -360/7, -2/11, -0.05, 1/3, 3?
+-2/11
+Manakah yang terdekat dari 1798?  (a) -0.3  (b) 4  (c) -5
+b
+Manakah yang terdekat dari -1?  (a) 16/13  (b) 12  (c) 4/5  (d) 13
+c
+Manakah yang terdekat dari 0?  (a) -0.04  (b) 0.1  (c) -21960
+a
+Manakah yang terdekat dari -3/7?  (a) 9  (b) 1  (c) -7.3  (d) 2
+b
+Manakah yang terdekat dari -8 pada 9, -2/133, -0.4, -1/2?
+-1/2
+Manakah yang terdekat dari 3?  (a) -1857  (b) 0  (c) 0.4  (d) 4
+d
+Manakah yang terdekat dari 4 pada 12, -1/6, 0.2, -228?
+0.2
+Manakah yang terdekat dari -1.5 pada -14, -0.1, 82, 1/6?
+-0.1
+Manakah yang terdekat dari 1/3?  (a) 0  (b) 290  (c) 187
+a
+Manakah yang terdekat dari -9?  (a) -2  (b) 3  (c) 0.09  (d) 1/2  (e) 1
+a
+Manakah yang terdekat dari -0.174?  (a) -5  (b) -28  (c) -2/17
+c
+Manakah yang terdekat dari 0.1?  (a) 3  (b) 34  (c) 503
+a
+Manakah yang terdekat dari -3/7 pada -142, -2, 2/7, -0.3?
+-0.3
+Manakah yang terdekat dari -4?  (a) 0  (b) -5/4  (c) 27.5
+b
+Manakah yang terdekat dari -115?  (a) -3/5  (b) -5  (c) 5/4  (d) -0.4  (e) -1/21
+b
+Manakah yang terdekat dari -2/447?  (a) 2  (b) -2  (c) 3/2
+c
+Manakah yang terdekat dari -0.034 pada 125, -7, 2/3?
+2/3
+Manakah yang terdekat dari 23?  (a) 1  (b) -39  (c) -5  (d) -0.4  (e) -3/4
+a
+Manakah yang terdekat dari -0.03692 pada 2/15, 0.3, 4?
+2/15
+Manakah yang terdekat dari -2/3 pada 0.4, 0.09, -2/11, -3/7, 1/4?
+-3/7
+Manakah yang terdekat dari -0.3?  (a) 2  (b) 4  (c) -0.0361  (d) -0.3
+d
+Manakah yang terdekat dari 8/5?  (a) -2  (b) -1238  (c) -1/4
+c
+Manakah yang terdekat dari 32.8?  (a) 0.4  (b) -32  (c) 5
+c
+Manakah yang terdekat dari -1?  (a) -1.3  (b) 12/5  (c) -28/3
+a
+Manakah yang terdekat dari -15/8 pada -5, -0.2, 0.4, 1/7, -3/145?
+-0.2
+Manakah yang terdekat dari -0.11?  (a) 4  (b) -3/7  (c) 0  (d) 0.5  (e) -334
+c
+Manakah yang terdekat dari -2/9 pada 0.4, -240, -54, 0, -5?
+0
+Manakah yang terdekat dari -0.1?  (a) 0  (b) 0.4  (c) 5  (d) 726
+a
+Manakah yang terdekat dari 1?  (a) -0.16  (b) 9  (c) -4/11  (d) -3
+a
+Manakah yang terdekat dari -3 pada 0.23, 5, 65, 0.4?
+0.23
+Manakah yang terdekat dari 7?  (a) 1  (b) 4/421  (c) 0.05
+a
+Manakah yang terdekat dari 12?  (a) -0.2  (b) 2.6  (c) 7
+c
+Manakah yang terdekat dari -2/5 pada -3, 21938, 3/7?
+3/7
+Manakah yang terdekat dari 133?  (a) -4  (b) 2/3  (c) 12.93  (d) -1/2
+c
+Manakah yang terdekat dari -262 pada -4, 0, 9, 3?
+-4
+Manakah yang terdekat dari -1/2?  (a) -67/4  (b) 0  (c) 3/2  (d) -0.04
+d
+Manakah yang terdekat dari -9 pada 3, 0.01, 2/97, 2/3?
+0.01
+Manakah yang terdekat dari 2/7?  (a) -3  (b) -7/4  (c) -19
+b
+Manakah yang terdekat dari 0.04?  (a) -3  (b) -0.2  (c) -8/7  (d) 2  (e) -5/6
+b
+Manakah yang terdekat dari -1/2 pada 0.2, -1503, -0.81, 0, -5?
+-0.81
+Manakah yang terdekat dari -0.2?  (a) 7  (b) -0.03  (c) 11
+b
+Manakah yang terdekat dari 0?  (a) -1/5  (b) -3/28  (c) -67  (d) 0.4  (e) -43
+b
+Manakah yang terdekat dari 0.12?  (a) 85  (b) 2/13  (c) 12.3
+b
+Manakah yang terdekat dari -1 pada 2/9, -0.21, -1/7?
+-0.21
+Manakah yang terdekat dari -5/8?  (a) -3/7  (b) 5  (c) -0.057  (d) 8
+a
+Manakah yang terdekat dari -2/7?  (a) 2/7  (b) 3125/8  (c) 2
+a
+Manakah yang terdekat dari -0.6 pada 14, -3, 2?
+-3
+Manakah yang terdekat dari 0.3 pada 20, 3/10, 4, -49?
+3/10
+Manakah yang terdekat dari -0.1?  (a) 9.3  (b) -4  (c) 1.4  (d) -2/9  (e) 0.19
+d
+Manakah yang terdekat dari 0.34363 pada 0.4, -0.5, 0.3, 0.1?
+0.3
+Manakah yang terdekat dari -1?  (a) -3.25  (b) -3  (c) -0.2
+c
+Manakah yang terdekat dari -3?  (a) -0.04  (b) -3  (c) 21
+b
+Manakah yang terdekat dari 2/9 pada 255, -5, -4, -0.02?
+-0.02
+Manakah yang terdekat dari 66 pada -1/4, 2, -0.14?
+2
+Manakah yang terdekat dari -3/2 pada -12, 5, -4, -0.1, -16?
+-0.1
+Manakah yang terdekat dari -0.1 pada -96, -0.12, -0.5?
+-0.12
+Manakah yang terdekat dari 2/5 pada 0.2, -1/412, 6, 5?
+0.2
+Manakah yang terdekat dari 1/2?  (a) -694  (b) 0.6  (c) -4  (d) 4
+b
+Manakah yang terdekat dari 3 pada 7348, -4, -3?
+-3
+Manakah yang terdekat dari 0.024 pada 5/3, 0.2, 5, -1?
+0.2
+Manakah yang terdekat dari -20 pada 0.5, -0.32, 4, 0?
+-0.32
+Manakah yang terdekat dari 0 pada -3, -0.061, -12?
+-0.061
+Manakah yang terdekat dari 0.4 pada -0.1, 0.17, -2/193, -2/5, 4?
+0.17
+Manakah yang terdekat dari 2?  (a) -1  (b) -3  (c) 3/25  (d) 43
+c
+Manakah yang terdekat dari 1 pada -565, 0, 6?
+0
+Manakah yang terdekat dari -5?  (a) -96  (b) 5  (c) 0.4  (d) -2/7  (e) -4
+e
+Manakah yang terdekat dari 4.9?  (a) -138  (b) 0  (c) 1/4
+c
+Manakah yang terdekat dari -10?  (a) -1/7  (b) -0.3  (c) 3  (d) 1  (e) -0.28
+b
+Manakah yang terdekat dari -1/4 pada -0.3, 1/4, 4046, 0.1?
+-0.3
+Manakah yang terdekat dari -0.72 pada -16, 4, 14, -2, -1?
+-1
+Manakah yang terdekat dari -37 pada 4, 1, 0.3, 84?
+0.3
+Manakah yang terdekat dari -125 pada -0.1, -73, 0.5, 1?
+-73
+Manakah yang terdekat dari 0.4 pada -1/2, 5, -4/5, -1.46?
+-1/2
+Manakah yang terdekat dari 0.1 pada 49, -4, 4/7, 1/5?
+1/5
+Manakah yang terdekat dari 3?  (a) -3  (b) 238  (c) -1  (d) 0.3  (e) -0.3
+d
+Manakah yang terdekat dari -1/7?  (a) 3/7  (b) 299  (c) 2  (d) -0.1
+d
+Manakah yang terdekat dari 5/3 pada -2/15, -2.73, -2, 2/15, 1/5?
+1/5
+Manakah yang terdekat dari -3 pada 0.2, 5, -935, 2/13?
+2/13
+Manakah yang terdekat dari 2/3 pada -9, -5, -4.8, -2/3, 7?
+-2/3
+Manakah yang terdekat dari -2/9 pada -1278, 2/3, -3, 11?
+2/3
+Manakah yang terdekat dari 2/3?  (a) -41/6  (b) -1  (c) 30
+b
+Manakah yang terdekat dari 73?  (a) -2  (b) 1.8  (c) -2/5  (d) -1
+b
+Manakah yang terdekat dari -102/107 pada 2/25, 2/9, 5?
+2/25
+Manakah yang terdekat dari 0 pada -8, -0.566, -2?
+-0.566
+Manakah yang terdekat dari 4.91?  (a) 170  (b) 5  (c) 0.5  (d) -1
+b
+Manakah yang terdekat dari -1?  (a) 2.86  (b) -0.02  (c) 3/4  (d) 0.1
+b
+Manakah yang terdekat dari 1?  (a) -0.16  (b) 3  (c) 19/4  (d) -5
+a
+Manakah yang terdekat dari 1/2 pada -50, -1/2, -1/4, 1047?
+-1/4
+Manakah yang terdekat dari -0.13 pada -13, -1/21, -1/3?
+-1/21
+Manakah yang terdekat dari -3.9?  (a) 14/9  (b) 5  (c) 2/43  (d) 0.3
+c
+Manakah yang terdekat dari 0 pada 4/3, 0.11, 2/5, 567?
+0.11
+Manakah yang terdekat dari 0.1 pada -2/795, 4, 9.5, 4/3?
+-2/795
+Manakah yang terdekat dari -1?  (a) -0.4  (b) -5  (c) -101215
+a
+Manakah yang terdekat dari 0 pada 0.1106, 4, 3?
+0.1106
+Manakah yang terdekat dari -2/11?  (a) 23  (b) -2/15  (c) 11
+b
+Manakah yang terdekat dari -1/3?  (a) 4.5  (b) 5  (c) 2/5  (d) -480
+c
+Manakah yang terdekat dari 1/4?  (a) 3  (b) 0.5  (c) -0.041  (d) -89  (e) -0.05
+b
+Manakah yang terdekat dari 1 pada 20, -1, 0, -4?
+0
+Manakah yang terdekat dari 169 pada -64, 1, 0.3?
+1
+Manakah yang terdekat dari 2?  (a) -5  (b) -4  (c) 0.0916  (d) -0.3
+c
+Manakah yang terdekat dari -2?  (a) -3/2  (b) 0.4  (c) -89  (d) 1/4
+a
+Manakah yang terdekat dari 0 pada 8/7, -1/5, -4, 1/23, -1/2?
+1/23
+Manakah yang terdekat dari 5881/7 pada 2/5, -1, 5/2?
+5/2
+Manakah yang terdekat dari 518 pada -122, 2, 2/7?
+2
+Manakah yang terdekat dari -566 pada 2, -0.3, 27?
+-0.3
+Manakah yang terdekat dari -38?  (a) 3  (b) 2  (c) -5  (d) -13
+d
+Manakah yang terdekat dari -121 pada -2/3, 1, 5, 0.2, -0.04?
+-2/3
+Manakah yang terdekat dari -9 pada -4, 2/15, -219, -5, 1/3?
+-5
+Manakah yang terdekat dari -3?  (a) -1/4  (b) 50  (c) 1323
+a
+Manakah yang terdekat dari 1340.3 pada -1/6, 0.4, -1?
+0.4
+Manakah yang terdekat dari 2/3 pada -183, 0.93, -4, 5, 1?
+0.93
+Manakah yang terdekat dari -1/1199?  (a) -1  (b) 5  (c) 0.5  (d) -5/4  (e) 3
+c
+Manakah yang terdekat dari -4/7?  (a) 9  (b) 0.4  (c) 1  (d) -15
+b

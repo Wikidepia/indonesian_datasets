@@ -1,0 +1,666 @@
+Sederhanakan (((z**(-10)*z*z**(3/2)/z*z)/((z/z**(-6/5))/((z/(z/z**(7/3)))/z)))**(-4/25))**(-2/183) dengan asumsi z adalah positif.
+z**(-1004/68625)
+Sederhanakan (x**(2/13)*x**9*x**(-3/5)/x*x/x**(-6))/(x/(x/x**(-8))*x/x**(-3/4)*x*x*x/(x*x**(-4)*x)*x*x/(x*x**(6/11))) dengan asumsi x adalah positif.
+x**(43899/2860)
+Sederhanakan ((a**2/(a/(a*a*a**35*a)))**(-14))**(-18) dengan asumsi a adalah positif.
+a**9828
+Sederhanakan (((c**24)**(-1/11))**(3/32))**(-3) dengan asumsi c adalah positif.
+c**(27/44)
+Sederhanakan ((((d/(d*d**(1/18)*d*d)*d)/d)/(d*d**(-1/12)*d*d))/(((d/(d/(d/(d/d**10*d)))*d)/d)/(d/d**5)))**18 dengan asumsi d adalah positif.
+d**(-647/2)
+Sederhanakan (o**0)**(4/11)/(o/o**2*o**(-2))*(o**(2/15)/(o**(1/7)/o))**(-18) dengan asumsi o adalah positif.
+o**(-519/35)
+Sederhanakan (((f**(-14)/f)/f**(-14)*(f/(f**2*f))**(-1/37))**(6/13))**(-13) dengan asumsi f adalah positif.
+f**(210/37)
+Sederhanakan ((c**(-2/5)/c)**(-34)/(((c/(c*c**13))/c)/(c/c**(-8))))**36 dengan asumsi c adalah positif.
+c**(12708/5)
+Sederhanakan ((c*c**9)/(c/c**(-4/7)*c)*(c*c**(-9)/c*c*c*c)/(c**(-1/8)/c))/((c**2)**38/(c*c**(-2/3))**26) dengan asumsi c adalah positif.
+c**(-10883/168)
+Sederhanakan ((g**(2/19))**(-38)*(g**(-2/43)*g*g*g)**(-1/5))**8 dengan asumsi g adalah positif.
+g**(-7896/215)
+Sederhanakan (((y*y**(-1))/(y/y**2)*(y/((y**(1/4)*y*y*y)/y))**(-45))**(-2/7))**(8/5) dengan asumsi y adalah positif.
+y**(-916/35)
+Sederhanakan ((((x**(-3))**(-1/6))**(-9))**(-3/4))**32 dengan asumsi x adalah positif.
+x**108
+Sederhanakan b**(4/5)/b**(-1/8)*(b**(-2/7)*b)/(b*b*b*b**(1/3)*b)*((b/b**(-2/3))**(-4/17))**42 dengan asumsi b adalah positif.
+b**(-273671/14280)
+Sederhanakan ((z/(z**(-16/3)*z*z))/z**16*(z/((z/(((z**(-1/5)*z)/z)/z))/z))**(-12/5))**(-3/14) dengan asumsi z adalah positif.
+z**(839/350)
+Sederhanakan (f**3/((f**6*f)/f)*(f/((f/(f/f**(-2/5)*f*f))/f))**8)/((f**(-1)/(f*f**1))/(f*f*f**(3/5)*f/f**(2/11))) dengan asumsi f adalah positif.
+f**(2124/55)
+Sederhanakan (b**(-4/13)*b/(b/((b*b**(9/7)*b)/b))*(b**(-2/121)*b)/(b*b*b/b**(-1/34)*b))**(3/7) dengan asumsi b adalah positif.
+b**(-1199403/2620618)
+Sederhanakan (o**(-4)/o*o*o/(o/o**(-7)))**(-1/43)*((o/(((o/(o/o**(2/11)*o)*o)/o)/o)*o*o)**(-44))**(3/4) dengan asumsi o adalah positif.
+o**(-6826/43)
+Sederhanakan h**(-1)*h*h**(-5/6)*h*(h**(-2/9))**(10/11)*((((h/(h/h**(1/3)))/h)/h)**36)**8 dengan asumsi h adalah positif.
+h**(-95047/198)
+Sederhanakan (((m**(-1/3))**(-27/4)*m**(4/3)*m**(-1/2))**(2/29))**(1/37) dengan asumsi m adalah positif.
+m**(1/174)
+Sederhanakan ((k**7)**(2/9)*k**(14/5)/(((k**(1/3)*k)/k)/k))**(-44) dengan asumsi k adalah positif.
+k**(-9944/45)
+Sederhanakan (((h/h**(1/3)*h*h)/h)**0)**(-25/3)/((h**(-2/5)/h*((h*h/(h**(2/9)/h*h))/h)/h)/((h**0*h)/h)**(4/9)) dengan asumsi h adalah positif.
+h**(73/45)
+Sederhanakan (z*z**(-5)*z*z**5/z)**(-1)*(z**(1/16)/(z*((z*z*z**(-7))/z)/z))/(z/z**0)**(-15/8) dengan asumsi z adalah positif.
+z**(111/16)
+Sederhanakan (g*((g*g*g**(-4)*g)/g)/g*g/g**(-4/7))**7/(((g/(g**(-4/7)/g)*g)/(g/(g/g**(-3/7))))/((g**3*g)/g*g**(2/19))) dengan asumsi g adalah positif.
+g**(-74/19)
+Sederhanakan ((((i**(1/41))**(-15))**(-2/3))**43)**49 dengan asumsi i adalah positif.
+i**(21070/41)
+Sederhanakan ((l*l/(l/l**(-23)*l)*l*(l/(l*l/(l*l/((l*l**15)/l)*l))*l)/l*l*l)/((l*l**21)/l**(-5)))**(-4/15) dengan asumsi l adalah positif.
+l**16
+Sederhanakan (u*u**(-18)*u**(-1/50)*u)/(u**31)**(19/3) dengan asumsi u adalah positif.
+u**(-31853/150)
+Sederhanakan (((w/(w*w/w**(-2)))/w)/(w**9/w))/(w**(3/7)*w/w**(-43)) dengan asumsi w adalah positif.
+w**(-395/7)
+Sederhanakan ((b**(-2/3))**(13/6)/(b*b**(2/3))**(-32))**(-48) dengan asumsi b adalah positif.
+b**(-7472/3)
+Sederhanakan ((p*p*p*p**(-2/3)*p)/(p**13*p*p))**(22/9)*((p**(-2/3))**(-16/9))**(-13) dengan asumsi p adalah positif.
+p**(-1186/27)
+Sederhanakan ((((t**2/t)/t)**(-2/49)/(((t/t**(-3/8))/t)/(t**(3/5)*t)))**33)**37 dengan asumsi t adalah positif.
+t**(59829/40)
+Sederhanakan ((f*f*f**(-5/2)/f)/(f**36*f))/(f/f**18)**(2/73) dengan asumsi f adalah positif.
+f**(-5553/146)
+Sederhanakan (y**0*y**(-1/2))**(-7)/((y/(y*y**0))**(16/7)*(y/y**(-1/4))**(-40)) dengan asumsi y adalah positif.
+y**(107/2)
+Sederhanakan r**0/r*r**2/r*(r*r**(-3))/r*r/(r/(r*r*r**(-6)))*r**(-1)/(r/(r/(r*r*r/(r/r**(-1/4)))))*(r**0*r)**21 dengan asumsi r adalah positif.
+r**(45/4)
+Sederhanakan v**(-3/8)*v**(-5)*((v**(-2/11)/v*v)/v)/v**(-1/2)*((v*v**(-2/31)/v)/v*v*v*v**(-1/26)*v*v)**21 dengan asumsi v adalah positif.
+v**(1942741/35464)
+Sederhanakan (g**2*g**1/g*g*g**5/(g**4*g))/(g*g**1*g**5*(g**(-1/4)/g)**(2/11)) dengan asumsi g adalah positif.
+g**(-83/22)
+Sederhanakan (t**(-2/5)/(t*t/(t*t**(4/5)))*t**(-9)/(t*t**21))**(6/11) dengan asumsi t adalah positif.
+t**(-948/55)
+Sederhanakan ((p**(-1/6)/p**(2/11))/(p**(-3)*p**1))/(p**(-1)*p**2*(p*p**(2/7))**(-32)) dengan asumsi p adalah positif.
+p**(19309/462)
+Sederhanakan ((((b**(-2)*b)/b)/b)/b**(-2/3)*((b*b**1)/b)**(3/8))/((b*b*b**2*b)**(-3/20))**20 dengan asumsi b adalah positif.
+b**(313/24)
+Sederhanakan (c**(1/13)*c*c/(c*(c*c*c**(-5)/c*c)/c))/((c/(c/(c*c**(-3/8)*c))*c)/c**0)*(c/(c**(1/5)*c))/c**(-1/2)*c**7/c**(-7/5) dengan asumsi c adalah positif.
+c**(5799/520)
+Sederhanakan (((l/l**(-1))/l*l*l)**44*l**(-4)/l**(1/4))/(((l*l**1)/((l**(-1)/l)/l*l))/(l**(-1/8)*l**0)) dengan asumsi l adalah positif.
+l**(989/8)
+Sederhanakan ((z**(2/15)/z)/z**7*((z**0*z*z)/z)**(-23))**(-19) dengan asumsi z adalah positif.
+z**(8797/15)
+Sederhanakan (r/(r/(r**(-22)/r))*r*r**(-31))/(r**(-1/13)/((r*r**(5/3))/r)) dengan asumsi r adalah positif.
+r**(-1999/39)
+Sederhanakan (b*b/(b**(-1/4)/b)*b**4/b*b*b**(-2)/b**(3/8))/(b**(2/23)/(b/b**(-3))*(b/b**0)**6) dengan asumsi b adalah positif.
+b**(513/184)
+Sederhanakan (r**(1/14)/(r/(r*r**6)))**(29/5)*(r*(r**(-4)*r)/r*r**(5/4)/r)/(r**(-4)/r**(1/4)) dengan asumsi r adalah positif.
+r**(257/7)
+Sederhanakan (a*a**6*a/(a/(a**(-13)*a*a))*(a**(-1/11)/a*a)/a*a*a**(1/6))**(1/48) dengan asumsi a adalah positif.
+a**(-259/3168)
+Sederhanakan (m**(-2/7)/m**(-2/21))**(-1/7)/((m*m**1)**(1/12)/(m**(-2)*m*m**3)) dengan asumsi m adalah positif.
+m**(547/294)
+Sederhanakan (j**(6/31)*j*j*j**38*j)/(j**(16/9)/j*j/(j*j**(-27))) dengan asumsi j adalah positif.
+j**(3743/279)
+Sederhanakan (((u**10*u*u/((u**(8/7)*u*u)/u))**(-11))**(2/33))**42 dengan asumsi u adalah positif.
+u**(-276)
+Sederhanakan ((s*(((s*s**(2/7))/s)/s)/s*s*s*s)**(2/7)/(s**(-2/3))**(2/75))**45 dengan asumsi s adalah positif.
+s**(7396/245)
+Sederhanakan (x**(-3)*(x/((x*x*x**(-2/21))/x*x))/x)**(2/13)/((x*x**(2/7)*x)**(4/11)*((x*x/x**(-2/21))/x)/x**5) dengan asumsi x adalah positif.
+x**(6964/3003)
+Sederhanakan (((d*d/d**(8/3))/d**(-20))/(d**(1/5)*d)**(-35))**(-1/32) dengan asumsi d adalah positif.
+d**(-23/12)
+Sederhanakan ((h**(2/11))**(-35))**(-25/6)*(h**(-2))**(-2/59)/(h**(-3)*h**8*h) dengan asumsi h adalah positif.
+h**(40075/1947)
+Sederhanakan ((s**(-3/7)*s)/s**(4/3))/(s**2)**(-1/40)*((s**(-1))**(-2))**(-47) dengan asumsi s adalah positif.
+s**(-39779/420)
+Sederhanakan (q**(-3/5)/q**4*(q**(-1/3)*q)**(-22))/(((q**(-5)*q)/q)/q*q**(-5/6))**(-5/4) dengan asumsi q adalah positif.
+q**(-3337/120)
+Sederhanakan (o**1*o/o**(-2/9)*o)**(-2)/(o*o/(o**(-4)/o)*o/((o/o**3)/o)*(o**(-2/7))**15) dengan asumsi o adalah positif.
+o**(-829/63)
+Sederhanakan (g**(11/6)/(g**31/g*g)*(g/g**(-3/14))**(1/9))**(4/3) dengan asumsi g adalah positif.
+g**(-7316/189)
+Sederhanakan (((r**1*r*r/r**5*r)/(r**(-1/5)*r**(2/29)/r))**19)**(41/3) dengan asumsi r adalah positif.
+r**(14801/435)
+Sederhanakan ((h**(-3))**(-20)*h**3/(h**2/h))**(-45) dengan asumsi h adalah positif.
+h**(-2790)
+Sederhanakan (j/j**31)**9/(j*j*j/(j*j/(j/j**(-32)*j)))**(2/33) dengan asumsi j adalah positif.
+j**(-8980/33)
+Sederhanakan (t*t**(-1/6)*t**(-43))/(t*t/((t*t**(8/3)/t*t)/t*t*t*t)*(t/t**(2/11))/t) dengan asumsi t adalah positif.
+t**(-843/22)
+Sederhanakan (z*z/z**(-2/5)*z**6*z)**(-44)/((z/(((z/(z*z**(1/3)))/z)/z))**(-37))**18 dengan asumsi z adalah positif.
+z**(9032/5)
+Sederhanakan ((r**(18/5)/r**(1/8))/((r/(r/(r*r*r**(-14)/r)))/r*(r*r/(r*r**(2/29))*r)/r))**(-9/10) dengan asumsi r adalah positif.
+r**(-172719/11600)
+Sederhanakan y*(y**(-4)/y*y)/y*y**(2/5)*(y/y**(-1/2))**49*(y**(3/2)/(y*y**(-1)))/(y/(y*y**(2/11))*y/(y/(y/(y**(2/7)/y)*y))*y) dengan asumsi y adalah positif.
+y**(26129/385)
+Sederhanakan (r**(1/4)*r)**(-42)*r/(r**(-6)*r)*r/(r**(-1/4)*r*r)*(r**13*r/(r*r**(1/4)))**(9/5) dengan asumsi r adalah positif.
+r**(-243/10)
+Sederhanakan ((b**(-1/3))**6)**38/((b**(-1/4))**(2/59))**(-1/19) dengan asumsi b adalah positif.
+b**(-170393/2242)
+Sederhanakan ((f**1)**(-9/10))**(-1/32)*(f**(-1))**0*f**(-2/5)*(f**(-4)/f)/f dengan asumsi f adalah positif.
+f**(-2039/320)
+Sederhanakan ((f**(-43))**32*(f/f**20)/f*f/f**(4/9))**(2/11) dengan asumsi f adalah positif.
+f**(-25118/99)
+Sederhanakan ((z**(3/5)*z)**(-13))**12*((z**1)**(-34))**(-23) dengan asumsi z adalah positif.
+z**(2662/5)
+Sederhanakan ((r/(r**8/r))**28/((r**(-1/15)/r)/r*r/((r*r/(r/((r/(r/(r/(r**(-8)*r)))*r*r*r*r)/r*r))*r)/r)))**23 dengan asumsi r adalah positif.
+r**(-53107/15)
+Sederhanakan (x/(x*x**5/x)*x*(x/x**(-4))/x)**(2/33)*x**(-3)*x/(x**(-1/6)*x)*x/(x*(x/(x/(x/x**(1/8))))/x*x*x)*x/(x*x/x**(3/4)) dengan asumsi x adalah positif.
+x**(-431/88)
+Sederhanakan (((m/(m*m/(m*m/m**(-2)*m)))/m**(-5))/(((m*m**6)/m)/(m*m**6*m)))/((m/m**(2/23))/m**0)**(-47) dengan asumsi m adalah positif.
+m**(1240/23)
+Sederhanakan (u**(2/5)*u*(u*u**(3/5)/u)/u*u*(u/(u**(3/2)*u)*u)/((u**5/u)/u))/(u**(3/7)/(u*u**(-2/3)))**(-1/20) dengan asumsi u adalah positif.
+u**(-157/105)
+Sederhanakan ((r**(-2/7)/r)/r)**22*(r*r**(-4/9))/r**1*((r*r/(r/(r/(r**2*r))))/r**(-4/7))**6 dengan asumsi r adalah positif.
+r**(-3358/63)
+Sederhanakan ((a*a/a**(2/7))**(2/57))**14*(((a/(a*a**(2/7)))/a)**(-48))**14 dengan asumsi a adalah positif.
+a**(16432/19)
+Sederhanakan (n**8*n*n/(n**10/n))**(-13)*n*n**(-4/5)/n*n*n**7/n*n*n*n*n**6/n*n**(1/3) dengan asumsi n adalah positif.
+n**(23/15)
+Sederhanakan (((k*k/((((k*k**(2/5))/k)/k)/k)*k)**(-33)*k**(1/2)*k*k**(-6/5)*k*k*k)**(-22))**(1/57) dengan asumsi k adalah positif.
+k**(1089/19)
+Sederhanakan ((y/(y*y**(-5)*y))**(3/5)/(y*y**(2/19)/y)**(-1/13))**(-40) dengan asumsi y adalah positif.
+y**(-23792/247)
+Sederhanakan ((x**(2/23)*x)**20/(x**(-1/8)*x**(-3)))**(15/7) dengan asumsi x adalah positif.
+x**(68625/1288)
+Sederhanakan ((j**(-2/5)/j)/j*j**(3/8)*j)**17/(j*j**(-2/21)*(j/(j*j**(-2/23))*j)/j*j)**(-1/14) dengan asumsi j adalah positif.
+j**(-2337317/135240)
+Sederhanakan ((l**(-1/28)*l*l)/(l/(l/(l**29*l))))/((l/l**(10/11)*l*l)/(l*l*l**14*l)) dengan asumsi l adalah positif.
+l**(-4043/308)
+Sederhanakan ((g*g/(g*g/(g**3*g)*g)*g)/(g/g**(1/2)))**(-1/8)/((g/(g**(-1/4)/g)*g*g)**(1/23)*((g/(g*g/(g/g**(-1)*g)))/g)**(6/17)) dengan asumsi g adalah positif.
+g**(-6101/6256)
+Sederhanakan ((m**1)**38*(m*m*m/(m/(m*m**(-1)*m)*m))**20)/((m/(m*m**5*m))/(m*m**3/m)*(m**6/m)/(m*m**(-6))) dengan asumsi m adalah positif.
+m**77
+Sederhanakan (((c/(c/(c*c/(c/(c/(c/c**(-3/10))))))*(c**(-4)*c)/c)/(c**(-1/5)/c*c/c**(-6)))**(4/3))**(-2/87) dengan asumsi c adalah positif.
+c**(364/1305)
+Sederhanakan (((h**(1/2)*h**9/h)/(h**(-5)/(h/(h/(h**12/h)*h))))**(-6/5))**3 dengan asumsi h adalah positif.
+h**(-423/5)
+Sederhanakan (d*d/(d*d**(2/3)*d))**(-1/85)*d**(1/8)/d**(-2/7)*((d*d**(-2/13)/d*d*d*d)**(-7))**(-8) dengan asumsi d adalah positif.
+d**(29665861/185640)
+Sederhanakan (n**(-8)/n*(n*n**(-9)*n)/n*(n*n**(1/8)/n)/(n*n**(-7)))**(-3/8) dengan asumsi n adalah positif.
+n**(261/64)
+Sederhanakan (((h*h*h/h**5)/(h*h**(3/2)))/(h**(-4)/(h*h*h**(2/5))))/(h**7/(h/h**(-5)*h)*h**(-7)/(h*h/(h*h/h**0*h))) dengan asumsi h adalah positif.
+h**(79/10)
+Sederhanakan (w**(-2/5)*w*w**(-4/5))**19/((w**(-2/5))**(-1/38)/(w**(1/2))**(-1/5)) dengan asumsi w adalah positif.
+w**(-743/190)
+Sederhanakan (j**(-2/41)*(j/(j*j**(-5)*j)*j)/j*(j**(15/2)/j)/(j**(-15)*j))**10 dengan asumsi j adalah positif.
+j**(10025/41)
+Sederhanakan ((((p**(-2))**38)**(-13))**(-2/9))**(1/20) dengan asumsi p adalah positif.
+p**(-494/45)
+Sederhanakan (h**0)**(-1)/(h*(h**(2/7)/h)/h*h**(1/6)/h)*(h**(1/4))**24/(h**(-1/4)/h)**(1/5) dengan asumsi h adalah positif.
+h**(655/84)
+Sederhanakan ((h**2*h)**15)**(-39)*h*h/h**(2/7)*h/(h*h**(3/7))*(h/(h*h**2))/(h/h**1*h*h) dengan asumsi h adalah positif.
+h**(-12304/7)
+Sederhanakan (n*n/n**4*n**(1/6))**(-4/7)*n/n**(-5)*(n*n**(-7))/n*n**0*n*n**(1/2) dengan asumsi n adalah positif.
+n**(65/42)
+Sederhanakan (c**(-3)*c**3*c*c**(-1/7)*c**(-4))/((c*c/(c*c*c/c**1))**(-2/15)*c**(-2)*c*c**0) dengan asumsi c adalah positif.
+c**(-15/7)
+Sederhanakan ((((y**(-3/10)/y)/y)/(y/y**(-2/27)))**(20/7))**(-9/4) dengan asumsi y adalah positif.
+y**(911/42)
+Sederhanakan (y**0)**(-2/51)*(y**(-5)/y*y)/(y**(-1)/y)*(y**4/y)/y**0*(y/(y**3*y))/y**(-3/8) dengan asumsi y adalah positif.
+y**(-21/8)
+Sederhanakan (k**(-1/8)/(k*k**(-7/3)/k))**(-39)/(((k/(((((k/(k**(-1/2)*k)*k)/k)/k)/k)/k))/(k/(k**(-6)*k)))/(k**(5/6)*k*k**7/k)) dengan asumsi k adalah positif.
+k**(-1819/24)
+Sederhanakan ((c**7)**(-44)*((c/c**(-6/5))/c*c)/(c*c**(-1/8)))**41 dengan asumsi c adalah positif.
+c**(-502947/40)
+Sederhanakan (u**2*u/(u*u**(-2/17)/u))**(1/9)*((u*u*u/u**(-7)*u)/u**1)**49 dengan asumsi u adalah positif.
+u**(75023/153)
+Sederhanakan ((p*p**(-2/3)*p)**(2/35))**(-3/31)*((p**(-2/5)*p)/p)**18/(p**(-2/5))**(-13/3) dengan asumsi p adalah positif.
+p**(-29102/3255)
+Sederhanakan (l**4/(l**(-2/19)/l))**(-2/9)*(((l**(-1/3)/l)/l)/l*l**(3/8))/((l**(-2/5)*l)/l)**(-25/3) dengan asumsi l adalah positif.
+l**(-10159/1368)
+Sederhanakan ((x*x**(-2/109)*x*x**(-7)*x)/(x*x/(x/((x**(-1/23)/x)/x)*x)*x/(x**(-1/6)/x)))**(-4/7) dengan asumsi x adalah positif.
+x**(124594/52647)
+Sederhanakan ((j**(1/2)/j)**(1/17)*j**(3/4)*j*j*j**(1/6))/((j**1)**44*((j/(j**(-3)/j)*j)/j*j)/(j**4/j)) dengan asumsi j adalah positif.
+j**(-8999/204)
+Sederhanakan ((((r**(5/3))**3)**(-26))**(-32))**(-2/17) dengan asumsi r adalah positif.
+r**(-8320/17)
+Sederhanakan ((m/m**(-4)*m)**2/(m**(-10)/m**13))**(20/9) dengan asumsi m adalah positif.
+m**(700/9)
+Sederhanakan (n**1*n*n/((n**(4/3)/n)/n))/(n*n**(-2/9)*n/(n/n**(1/10)))*(n/n**1)/((n**6/n)/n)*n**7/(n*n*n**7*n) dengan asumsi n adalah positif.
+n**(-379/90)
+Sederhanakan (j*j*j/(j*j*j**(2/3))*j**(4/15))**(2/3)/((j*j/((j**4*j)/j))/(j*j**(-7)))**(6/13) dengan asumsi j adalah positif.
+j**(-94/65)
+Sederhanakan j**(5/2)/(j/(j*j/((j/(j/j**(-1/47)))/j)*j*j))*j/j**28*j**1 dengan asumsi j adalah positif.
+j**(-1831/94)
+Sederhanakan ((o*o*o*o*o**(-1/3)*o*o)/o**8*(o**1)**46)/(o**3/o**(3/7))**9 dengan asumsi o adalah positif.
+o**(431/21)
+Sederhanakan ((k**(-8)*k/k**(-5/2))/(k**(2/3)/k)**12)**28 dengan asumsi k adalah positif.
+k**(-14)
+Sederhanakan (g**2)**(14/5)*(g/(g*g/(g*(g/g**0)/g)))**45*(g*g**7)/(g/(g/(g/g**2*g)))*(g**1)**(-15) dengan asumsi g adalah positif.
+g**(-7/5)
+Sederhanakan ((b*b/b**(-8))**4*b**(-39)*b/b**(9/10)*b)**(-48) dengan asumsi b adalah positif.
+b**(-504/5)
+Sederhanakan (b**(-23)*b**3/b*(b**(-2/15))**39)**(-2/53) dengan asumsi b adalah positif.
+b**(262/265)
+Sederhanakan ((((v**1)**11)**(-3/40))**(14/9))**(-5) dengan asumsi v adalah positif.
+v**(77/12)
+Sederhanakan ((x**(-2)/x)**(3/16))**35/(((x/x**(2/3))/(x*x**7))/(x**1)**(-47)) dengan asumsi x adalah positif.
+x**(-2833/48)
+Sederhanakan (a*a**(2/9)*a)**(-2/3)*a**(4/3)*a**(2/3)*((a/a**(-2/11))**(-3/19))**(-28/3) dengan asumsi a adalah positif.
+a**(12754/5643)
+Sederhanakan (m**(-9)/(m/(m*m**(1/4)))*m**11*m*m*m**(2/9)/m*m)**(-46) dengan asumsi m adalah positif.
+m**(-3703/18)
+Sederhanakan (((t/t**(1/5))/t*t*t**(1/7))/((t/(t*(t*(t**1*t)/t)/t))/t)**(1/12))/((t*t*t*t*((t*(t**4*t)/t)/t)/t*t)**39)**(-5/6) dengan asumsi t adalah positif.
+t**(54833/210)
+Sederhanakan s**(-2/7)*s**(3/8)*(s**1)**(-4/11)*s**(-2)*s**(-6)*s**(-2)/s*(s*s*(s*s**(1/3))/s*s)/s dengan asumsi s adalah positif.
+s**(-16523/1848)
+Sederhanakan ((g*g**(2/13)*g*g)/g**0)**(-2/105)/(g**1/(g**5*g))**(2/7) dengan asumsi g adalah positif.
+g**(1868/1365)
+Sederhanakan ((l**(2/29))**(-3/10)*l**(-17)/(l*l**(-3/4)))**21 dengan asumsi l adalah positif.
+l**(-210357/580)
+Sederhanakan (s/(s/(s*s**5/s*s)*s*s))/(s*s/(s/(s**(-2/7)/s)))*(s**1)**(9/2)*((s**(-2))**(-2/5))**(6/17) dengan asumsi s adalah positif.
+s**(10791/1190)
+Sederhanakan i**(-5)*i/(i**(-2)*i*i)*(i*i/((i**(3/5)/i)/i*i))/i*i**(-7)*(i**(1/4))**(-11)*(i**6*i)/(i**(2/3)*i*i) dengan asumsi i adalah positif.
+i**(-481/60)
+Sederhanakan ((v**(-3/2)*v**(-2/19)*v/((v*v**(-3/5)*v*v)/v)*v*v/(v*v*v*v**(-3/5)))**(-2/11))**(5/7) dengan asumsi v adalah positif.
+v**(457/1463)
+Sederhanakan (c**(-1)/c**(-1)*c/c**(-1)*c*c*c**(-3/2)*c)/(((((c/(c**(-1)*c))/c)/c)/c)**22*c**(-3/7)/c*c*c*c**(2/13)*c) dengan asumsi c adalah positif.
+c**(8331/182)
+Sederhanakan ((f**(-2/9)*f**(-6/11))/((f*f/f**(5/2)*f)/(f*f**(1/2)/f)))/((f**5)**(-2/17))**(-7/5) dengan asumsi f adalah positif.
+f**(-2678/1683)
+Sederhanakan (m/(m**(-40)/m)*m*m/m**(3/25))/(m*m*m*m**6)**(-6) dengan asumsi m adalah positif.
+m**(2447/25)
+Sederhanakan ((g/(g*g**(-11)/g))/g**7)**35/(g**(-1/9)*g/(g*g*g**(-2/27))*g*(g/((g*g/g**0)/g))**(-5/14)) dengan asumsi g adalah positif.
+g**(4726/27)
+Sederhanakan (c*c**(2/19)*c*(c/c**(1/2))/c)**(-1/34)*(((((c*c**8/c)/c)/c)/c)/c**4)/(c/c**(1/5)*c**5) dengan asumsi c adalah positif.
+c**(-31313/6460)
+Sederhanakan (i*(i*i**(2/7)*i)/i*i)**(10/17)*i**7/((i*i**1)/i*i)*(i/i**(2/3))/i*i/i**6*i*(i/(i/i**(2/5)))/i*((i*i**7)/i)/i dengan asumsi i adalah positif.
+i**(13684/1785)
+Sederhanakan ((q*(q*q/(q*q**(1/11)/q)*q)/q)**40/(q**(-19)*q*q**(-17)*q))**(1/3) dengan asumsi q adalah positif.
+q**(1654/33)
+Sederhanakan (m**(-3/16))**5/((m/(m/(m*m**(23/2))*m))/m*m*m*(m*m**(2/9))/m) dengan asumsi m adalah positif.
+m**(-1967/144)
+Sederhanakan (j*j**(-1/5)/j*j/(j*j**(-4)*j*j))**(-2/83)*((j**(-2)*j)**31)**(-42) dengan asumsi j adalah positif.
+j**(540312/415)
+Sederhanakan (t**32)**33*(t/(t**41*t))**(3/8) dengan asumsi t adalah positif.
+t**(8325/8)
+Sederhanakan (l*(l/(l*l**(1/2)))/l*l/(l*l**4)*(l/l**1)**(-2/19))/(l**(3/4)*l**(-1/9))**(1/45) dengan asumsi l adalah positif.
+l**(-7313/1620)
+Sederhanakan (((m**(3/10)/m)/(m/m**(-3)))/(m**(2/3))**(-2/55))/(((m*m*m*m*m**(-4)*m*m*m*m)/(m/m**5))/(m**(-2)/m*m**0)) dengan asumsi m adalah positif.
+m**(-5173/330)
+Sederhanakan (b**(-1/12)*b/b**13*b*(b/b**(-1/5))/(b*b**(-11)/b))**16 dengan asumsi b adalah positif.
+b**(268/15)
+Sederhanakan ((j**(3/5)*(j/j**0*j)/j)/(j/(j/j**0))**(-2/65))/((j/(j*j/(j/(j**(-2)/j))))**(-2/5))**(-12) dengan asumsi j adalah positif.
+j**(-64/5)
+Sederhanakan (p*p**(-26)*p)**(-12/5)*(p/(p**(3/10)/p))**13 dengan asumsi p adalah positif.
+p**(797/10)
+Sederhanakan (s/s**5*s**(1/4)/s*s/(s*s**2)*s*((s/s**(-2/9))/s)/s*s)/((s**(2/3))**(-16)/(s*s**(-2/7)*s*s/(s**5*s)*s)) dengan asumsi s adalah positif.
+s**(719/252)
+Sederhanakan (d*d**(3/8)*d/d**(-1))**(-3/19)/((d**(-1/4))**(-1/11)*(d*d*d/(d**(2/5)*d)*d)/(d/d**(-3/5))) dengan asumsi d adalah positif.
+d**(-2601/1672)
+Sederhanakan (((h/h**(1/4))/h)**(-44))**(-24)/((h/(h*h/(h/h**(-2/9))*h*h*h)*h**4)/(h/h**(1/4)*h)**17) dengan asumsi h adalah positif.
+h**(-8477/36)
+Sederhanakan d**0/(d/((((d/(d**(2/11)*d))/d)/d)/d))*(d**(-1))**(-3/2)*((d**(-1/5))**(-7))**24 dengan asumsi d adalah positif.
+d**(3401/110)
+Sederhanakan (u/u**7*u*u**(-2/9))**14*((u/u**1)/u*u**5)/(u**(4/3)*u/u**3*u) dengan asumsi u adalah positif.
+u**(-625/9)
+Sederhanakan (((w*w*w**(-1/5)*w)**(3/31))**5)**(13/3) dengan asumsi w adalah positif.
+w**(182/31)
+Sederhanakan ((w**(-4)*w/(w*w/((w/w**(-4/7))/w)*w))/(w*w**4*w)**(-2/23))**(-15/7) dengan asumsi w adalah positif.
+w**(11850/1127)
+Sederhanakan (q**(1/38)/q**(-3)*((q/q**(3/14))/q)/q**(11/2))**(-47) dengan asumsi q adalah positif.
+q**(33605/266)
+Sederhanakan (z**(-7)/(z**(-5)/z))/(z/z**(2/23)*(((z*z**(-1/2)/z)/z)/z*z)/z)*((z*z/z**6)/z**(-1))/(z**(-2/7))**(-1/8) dengan asumsi z adalah positif.
+z**(-1577/644)
+Sederhanakan ((s**(-2/19)/s)**(-1/34)/(s**(-4/7)*s)**(-12))**34 dengan asumsi s adalah positif.
+s**(23403/133)
+Sederhanakan (((m**(-7/10))**6)**(-12))**5 dengan asumsi m adalah positif.
+m**252
+Sederhanakan n/(n/(n/(n*n/n**(-2/9)*n)))*n**(-5)*(n*n*n*n/n**1*n*n)/n*n**(-5)*((n/n**(-2/7))/n)/n**(2/23)*n**0/(n*n*n**(-2/3)) dengan asumsi n adalah positif.
+n**(-13558/1449)
+Sederhanakan (b/(b*b/(b/(b/(b*b**(-30)*b)*b))))/b*b*b**(-39)*b**9/b*b**(-3)*b dengan asumsi b adalah positif.
+b**(-63)
+Sederhanakan (i/i**(2/25)*i/i**(2/13))**(4/5)*(i/(i*(i/((i/(i*i/i**(-3/5))*i)/i*i))/i))/i*(i/(i**(1/2)/i))/i*i**(-5)*i**1*i*i dengan asumsi i adalah positif.
+i**(-5483/3250)
+Sederhanakan (((d*d*d/(d*d*d**(-1/4)))**(2/127)*(d/(d**(-1/3)/d))**(1/40))**(-10/11))**(-24) dengan asumsi d adalah positif.
+d**(2378/1397)
+Sederhanakan ((((l/(l/(l*l**(-5)*l)))/(l*l*l**(-6)/l))/(l/l**(2/7))**(1/55))**33)**(1/56) dengan asumsi l adalah positif.
+l**(459/392)
+Sederhanakan (((u/u**(-6))/u)/u*u**(4/3)*(u*u**(-1/3)*u)**(32/7))/(u/(u*u**(-5/2))*u/u**(1/5)*u*u*(u*u/((u*u**2*u)/u))**0) dengan asumsi u adalah positif.
+u**(1817/210)
+Sederhanakan (q**(-3/10)*q)**13*q/(q/(q*q*q**(-1/70)))*q**(1/51) dengan asumsi q adalah positif.
+q**(19823/1785)
+Sederhanakan (((w*w**(2/15)*w)/w)/((w**(-1/6)*w)/w))**(-7)/((w*w**(-1)/w)**(2/45)/(((w**(-2/11)*w)/w)/((w/(w**(-2/9)/w*w))/w))) dengan asumsi w adalah positif.
+w**(-1873/198)
+Sederhanakan ((i*i**(-1/2)*i*i)**(-20/3)/(i**1*i*i**(-2/5)*i))/(((i**6*i)/i**(-2/7))/((i*i**(-3/5))/(i*i**(2/13)*i))) dengan asumsi i adalah positif.
+i**(-38638/1365)
+Sederhanakan ((l*l/l**(-2/31)*l**(2/13)*(l**(2/11))**(18/7))**(-18))**(11/5) dengan asumsi l adalah positif.
+l**(-1500228/14105)
+Sederhanakan (((c**(-2/11))**(-21/5)*c**(11/5)/c**11)**(-2/35))**(-3/17) dengan asumsi c adalah positif.
+c**(-156/1925)
+Sederhanakan ((l*l*l**(-1/6))/l*(l**3/l)/l)**49/((l*l**(-2/19))/(l/l**(2/3))*(l*l**(-1)*l)**(-5)) dengan asumsi l adalah positif.
+l**(10747/114)
+Sederhanakan (w**(2/5))**31*((w/(w*w**1))/w)**(-37)*((w*w**(-11)*w)/((w/(w**(1/7)/w))/w*w))**32 dengan asumsi w adalah positif.
+w**(-9136/35)
+Sederhanakan (b**(-7)/(b/b**(5/4))*b**(-2)*b*b/b**(-2/7))/((b/(b**(-1)*b)*b**(-6))/(b**(-5)/((b**(1/8)*b)/b))) dengan asumsi b adalah positif.
+b**(-369/56)
+Sederhanakan ((x**(1/3))**(-19))**27/(x**(4/11)/x**(4/9))**16 dengan asumsi x adalah positif.
+x**(-16801/99)
+Sederhanakan y**6*y**2*y*(y/y**0)**(-2/7)*((y*y*y**(-1/4))/(y**(1/5)*y))/(y**(-1/2)*y**(-3)) dengan asumsi y adalah positif.
+y**(1787/140)
+Sederhanakan ((k**(-2/7)*k)**(-27))**(-4/3)*((((k*k**(3/2)/k)/k)/k)/((k/k**(-1/3))/k))/(k**(2/5))**8 dengan asumsi k adalah positif.
+k**(4553/210)
+Sederhanakan (v*v**(1/5)*v/(v/v**(2/23)))**1*(v/(v**(-1)/v))**(-1/11)/(v/((v*v/v**(-2/15))/v)*v/v**(1/6)*v) dengan asumsi v adalah positif.
+v**(-347/506)
+Sederhanakan n**9*n**5*(n*n*(n/(n/(n/(n*n**(-13))*n)))/n)/n**(6/5) dengan asumsi n adalah positif.
+n**(139/5)
+Sederhanakan (((b/b**(29/2))/(b*b*b**(-6)))/(((b*b**(6/5)/b)/b)/b**(-2/27)))**(-31/3) dengan asumsi b adalah positif.
+b**(81809/810)
+Sederhanakan (((a*a/a**(-2))/a*a)**7/((a/(a/((a*a/(a/(a*a**(-8/3)*a)*a*a)*a)/a)))/((a/a**13)/a)))**(-3/11) dengan asumsi a adalah positif.
+a**(-50/11)
+Sederhanakan (r**(-4/5)*r**4*r*(r/(r*r/r**0))**(-6))/((r/r**1)**(-1/3))**(6/5) dengan asumsi r adalah positif.
+r**(51/5)
+Sederhanakan ((q**(9/8)/q**5)/(q**8)**(-45))**(2/27) dengan asumsi q adalah positif.
+q**(2849/108)
+Sederhanakan ((l/l**(1/8))/(l*l**3))**(-41)/((l**(-1/2)/l)**33/(l/(l*(l*(l/l**(2/5))/l)/l))**(-30)) dengan asumsi l adalah positif.
+l**(1325/8)
+Sederhanakan ((n*n**(1/2))/(n*n**1))/(n/(n**0/n*n))**20*n**(-6/11)*n**(-1/4)*n**(-6)*n*n**(-3/4) dengan asumsi n adalah positif.
+n**(-595/22)
+Sederhanakan ((z**(2/5)/z)/z**(-13))**(-4/5)/((z/((z*z/(z/(z*z*z**(-2/9)/z*z)))/z*z)*z)**(-11)*(z**0)**20) dengan asumsi z adalah positif.
+z**(-4157/225)
+Sederhanakan ((l/(l*l**(1/3)))**(1/2)/(l**1*l)**41)/((l**(-1/2)*l)**(-42)/(l*l**(-7)*l**(-5))) dengan asumsi l adalah positif.
+l**(-433/6)
+Sederhanakan (p**(-11)*p**(5/7))**(-34)*(p*p**(2/9)*p*p)**(3/14)*(p/(p/(p**1/p*p)))**(14/5) dengan asumsi p adalah positif.
+p**(74173/210)
+Sederhanakan (k**(-1))**(-20)/(k/(k*k/((k**(-2/11)/k)/k))*k**(-1/9))*(((k*k*k*k**15)/k)/k**5)**(-44) dengan asumsi k adalah positif.
+k**(-49966/99)
+Sederhanakan ((v*v*v/(v/v**(-1)))**(-2/5))**49*(v**3/(v**7*v))**(2/31) dengan asumsi v adalah positif.
+v**(-3088/155)
+Sederhanakan (m**5/m)/m**(-2/17)*m**37*m**(5/4) dengan asumsi m adalah positif.
+m**(2881/68)
+Sederhanakan (s*(s/s**(-3/2))/s*s)/(s*s**(-1/4)/s)*(s**0*s)**(1/22)*(s**5/(s*s/s**(-1/12)*s))**(-2/71) dengan asumsi s adalah positif.
+s**(35065/9372)
+Sederhanakan ((((v**(2/13))**(-34))**(-6/7))**(-2/3))**(11/6) dengan asumsi v adalah positif.
+v**(-1496/273)
+Sederhanakan (k*k**(1/5)*(k/(k*k**(1/7)))/k)**1/(((k*k**2)/k)/(k*k*(k/(k/((k/k**3)/k)*k))/k))**(-18) dengan asumsi k adalah positif.
+k**(3152/35)
+Sederhanakan ((q*((q/(q/q**(-1/4))*q)/q)/q)/q*q/q**7*q)/(q*q/((q/(q*q/q**(2/9)))/q)*q**2)*(q**(4/5)/q*q*q/q**(4/5))**(-9) dengan asumsi q adalah positif.
+q**(-757/36)
+Sederhanakan (l**(-1/6)/l**3)**(-46)/(l**(-2/15)/l*l**(-1/7)*l/l**(1/5)*l**(-5/4)/l) dengan asumsi l adalah positif.
+l**(4155/28)
+Sederhanakan (((h**(-14)*h*h*h/(h/(h*h**(-2/5)*h*h)))**(11/3))**(5/4))**(-7/9) dengan asumsi h adalah positif.
+h**(3619/108)
+Sederhanakan (z**15/(z*(z**(-1/15)/z)/z))/(z/z**(17/2)*z*z*z**(4/15)*z*z*z) dengan asumsi z adalah positif.
+z**(183/10)
+Sederhanakan (p**(-4/3)*p/p**(-5)*(p**(-20/11)/p*p)/(p/(p**8*p)))**(2/3) dengan asumsi p adalah positif.
+p**(716/99)
+Sederhanakan ((((i/(i*i**(-1/2)))/i)/(i**2*i))/(i/(i/i**8)*i/(i*i/((i**8*i*i)/i)*i*i)))/((i/i**(3/2))**(-6/29))**(-2/73) dengan asumsi i adalah positif.
+i**(-74083/4234)
+Sederhanakan (i**1*i/(i*i/(i/(i/(i/(i*i**3)*i*i))))*i**(-3)/i**(-5))/(((i**(1/9)/i)/(i**(-3/7)*i))/(i**(-1))**(-13/2)) dengan asumsi i adalah positif.
+i**(1129/126)
+Sederhanakan ((j**4*j**(1/3))/((j/(j/((j**(-2/5)*j)/j)*j))/j)**45)/(j**(-2)/(j**(-3)*j))**(4/17) dengan asumsi j adalah positif.
+j**(337/3)
+Sederhanakan (c**(-2/9))**(-21)*c/c**(3/8)*c/(c**3*c)*(c/(c/(c/c**(-2/5)))*c**(-6)/c)/(c/c**(-2/9))**(-2/3) dengan asumsi c adalah positif.
+c**(-2693/1080)
+Sederhanakan ((d**11/(d/d**16*d))/((d/(d/d**(-19))*d*d)/(d/(d/(d*((d/(d*d**(-7/3)))/d)/d)))))**(-14) dengan asumsi d adalah positif.
+d**(-1820/3)
+Sederhanakan (g**(-9)/g**2)/(g/(g*g*g*g*g**(-1/4)*g))**(2/73)*((g*(((g*g/g**(-10)*g)/g)/g*g)/g)/(g*g**(2/41)*g))**(-19) dengan asumsi g adalah positif.
+g**(-1197023/5986)
+Sederhanakan ((b**(-2/7))**(-3/2)/(b*b**(-1/6)*b**(-3/4)/b))/(b**6*b/(b**3/b))**(-9/5) dengan asumsi b adalah positif.
+b**(869/84)
+Sederhanakan (((f/f**(-12)*f**(-2/9)*f)/(f**(-2))**(1/14))**(2/19))**(-1) dengan asumsi f adalah positif.
+f**(-1754/1197)
+Sederhanakan ((b**(-2/3)/(b*b**(-4)*b))/((b*b*b**1*b*b)/b)**(14/3))**16 dengan asumsi b adalah positif.
+b**(-832/3)
+Sederhanakan (q**(2/3))**(-11/6)/(q**1/(q*q**(-1/5)))*((q**(-6)/q*q)/q)/(q*q/q**(-8))*(q/((q*q**(-1/2))/q))/q**(5/3) dengan asumsi q adalah positif.
+q**(-1673/90)
+Sederhanakan (((p*(p/(p**1*p))/p*p*p)/p)**(-5/7)*(((p*p**(2/3))/p)/p)**47)/((p**1)**(-25/4)*((((p*p**(-1/3)*p)/p)/p)/p)**(3/2)) dengan asumsi p adalah positif.
+p**(-89/12)
+Sederhanakan ((t**(-7)*t**(-2/11)*t)/(t/(t/(t**(-3)*t)))**(-2/49))**(-42) dengan asumsi t adalah positif.
+t**(20256/77)
+Sederhanakan (m/(m/(m**(-2)*m)*m))**(-1/52)/(m**1*m**(-1/8)*m)*((m**(-2/9)*m)**(-16))**(-15) dengan asumsi m adalah positif.
+m**(57667/312)
+Sederhanakan ((t/(t/t**(-3)))**(5/11)/(t**7/(t/(t/(t/t**(-10/7))))))**(-24) dengan asumsi t adalah positif.
+t**(10968/77)
+Sederhanakan ((q*((q*q**(-2/7))/q)/q*q**(-5)*(q*(q/(q*q**2*q))/q)/(q*q/(q/(q*q*q/(((q*q/(q**4/q)*q)/q)/q)))*q))**(2/25))**48 dengan asumsi q adalah positif.
+q**(-10272/175)
+Sederhanakan (m**(-2/17)*m**(1/15))**(-16)*m*m*(m/(m**(-2/7)*m))/m*m*m**(-1)*m*m**0/((m*m*((m**(1/4)*m*m)/m*m)/m)/m) dengan asumsi m adalah positif.
+m**(6079/7140)
+Sederhanakan ((p**(2/3))**(-2/139))**44*(p**4*p)/(p/p**0)*p**4*p*p**(-2/5)*p*p dengan asumsi p adalah positif.
+p**(21221/2085)
+Sederhanakan (p**4*p*p*p/(p*p*p**(2/5)))**(21/8)/(((((p/(((p/(p**(1/2)/p))/p)/p))/p)/p)/p**5)/(p/p**2*p**3)) dengan asumsi p adalah positif.
+p**(783/40)
+Sederhanakan (y*y*(y*y**(-2/13))/y*y*y*y/y**(2/9))**(-4/5)/((y**(2/7)/y**1)/(y**(-2/3))**(5/3)) dengan asumsi y adalah positif.
+y**(-5591/1365)
+Sederhanakan ((i/(i**(-2/3)/i))**(5/18)*(i**(-13/2)*i)**48)**(-36) dengan asumsi i adalah positif.
+i**(28432/3)
+Sederhanakan (y/(y**0*y))**(-11)/(((y*y/y**(3/4))/y)/(((y*y**(2/19))/y*y)/y))*((((y/y**(-2))/y)/y)**10)**0 dengan asumsi y adalah positif.
+y**(-11/76)
+Sederhanakan ((w*w*w**16/w*w*w**(-17))/((w/(w/w**(-2)*w)*w*w*w)/w)**(4/11))**(-1/27) dengan asumsi w adalah positif.
+w**(-5/99)
+Sederhanakan (m/m**(-1)*m)**(6/25)*(m*m**1*m)**(-40)*((m*((m/((m*m**6)/m*m))/m)/m)/m**6)/(m/(m*(m*m/(m**(-2/7)/m)*m)/m))**38 dengan asumsi m adalah positif.
+m**(-1299/175)
+Sederhanakan ((u*u**(6/5)/u)**(-4/23)*(u*u**(-5))/(u**20/u))**1 dengan asumsi u adalah positif.
+u**(-2669/115)
+Sederhanakan ((z/(z*z*(z/(z/(z/(z*z**(5/4)))))/z*z))/(z/(z/z**(-8))))**(2/19)/(z**(-7)/(((z*z**3)/z)/z))**10 dengan asumsi z adalah positif.
+z**(3453/38)
+Sederhanakan ((f**(-1/2)*f**4)/(f**7*f*f**6*f))/((f**1)**(1/18))**49 dengan asumsi f adalah positif.
+f**(-128/9)
+Sederhanakan (((l**(-2/3)/l**(-1/4))**(5/2))**(-10))**(-1/3) dengan asumsi l adalah positif.
+l**(-125/36)
+Sederhanakan (((i/i**1)/i)/i*i**5/i)/(i**3/i**(-7))*(i/(i**(2/9)/i))**(-4/3)/(i**7*(i*(i/i**2)/i)/i*i*i) dengan asumsi i adalah positif.
+i**(-469/27)
+Sederhanakan ((l**(-2))**(-13))**(-1/2)/(l/(l/l**(-1/4))*l*(l/l**(5/6))/l*l*l/l**(4/3)*l*(l**(-8)/l)/l*l*l) dengan asumsi l adalah positif.
+l**(-79/12)
+Sederhanakan ((f/f**(3/7))/f**(-15)*f*f/(f*f**(-2)*f)*f*f*f**(-22))**(-6/19) dengan asumsi f adalah positif.
+f**(102/133)
+Sederhanakan ((c*c*c**(2/3))**(-20)/((c/((c*c**(1/5)*c)/c))/(c*c**(-2)*c*c*c)))/((c**(1/3))**(3/23)*c*c*c**(-6/11)*(c**7*c)/c) dengan asumsi c adalah positif.
+c**(-226301/3795)
+Sederhanakan ((i**0)**(2/53))**(1/58)*(i/((i*i/((i*i*i/i**2)/i)*i)/i)*i*i**(-2))**(-11) dengan asumsi i adalah positif.
+i**22
+Sederhanakan (r**(-1)*r)**(1/4)*(r*r*r*(r/r**(-1/3))/r*r)**(-8)*(r*r/(r*r**(-2/3)))**(-12/5)/(r**(1/3)*r**4) dengan asumsi r adalah positif.
+r**(-43)
+Sederhanakan ((p*p**19*p/p**(6/13)*p)/(p/(p*p**16/p))**(-21))**35 dengan asumsi p adalah positif.
+p**(-133525/13)
+Sederhanakan ((o**1*o)**(2/31))**38/((o*o**(-1/3))**(-1/2))**(-1/11) dengan asumsi o adalah positif.
+o**(4985/1023)
+Sederhanakan ((z/(z**(1/9)/z)*z/z**10)/((z/(z/(z*z/(z/z**(3/4)))))/z*z**(-10)))**48 dengan asumsi z adalah positif.
+z**(308/3)
+Sederhanakan (w**1/w*w*w**(3/7))**(7/5)*((w/(w*w/(w**(-1/2)/w*w)))**(-22))**(-8/5) dengan asumsi w adalah positif.
+w**(-254/5)
+Sederhanakan (h**(-5/6)*h*h**7*(h**(-2/7)/h)**(2/31))/((h/h**(-2/7))**4/(h/((h*h*h/(h/h**(1/4)*h))/h))**(-3/8)) dengan asumsi h adalah positif.
+h**(4939/2976)
+Sederhanakan ((i*(i/(i*i/(i**5/i)))/i*i)/i**(-1/2))**(-2/63)/((i*i/i**0)**(1/94))**(-17) dengan asumsi i adalah positif.
+i**(72/329)
+Sederhanakan (((k**12*k*k)/k*(k/(k*k/k**(-17/5))*k)/k)/((k/k**(-8))/k*k**(2/173)))**(-25/3) dengan asumsi k adalah positif.
+k**(-2545/519)
+Sederhanakan (((u*u**(-1/11))/u)**4/(u**(-5)/((u/(u**(-1/23)*u))/u)))**(-19) dengan asumsi u adalah positif.
+u**(-17689/253)
+Sederhanakan (i**(5/2)/i*i/i**(-3/4))**21/((i/(i**2*i*i))**(-2/93)*((i*(i*i**6)/i)/i)/i**7) dengan asumsi i adalah positif.
+i**(8579/124)
+Sederhanakan (m**4*m**(1/4))**6/(m*m**(-7)*m*(m*m**(-2/5)*m)/m*m)**(2/7) dengan asumsi m adalah positif.
+m**(1853/70)
+Sederhanakan (c**39*c*c**(-4/17)*(c**(-1/30)/c)**(-49))**(2/41) dengan asumsi c adalah positif.
+c**(46103/10455)
+Sederhanakan (((l*l**1)/l)/(l**1/l))**(-48)*(l/(l*l/l**(2/3)*l))**(2/59)*(l/l**(-2/11))/(l**1/l) dengan asumsi l adalah positif.
+l**(-91243/1947)
+Sederhanakan ((t**26*(t/(t/(t*t**(2/27))))/t)/(t**(-6/13)/t**(-30)))**(1/2) dengan asumsi t adalah positif.
+t**(-608/351)
+Sederhanakan ((d**(-2/19)*d**31)/((d/(d/(d**(-14)/d)*d))/(d/d**(-9/8))))**48 dengan asumsi d adalah positif.
+d**(44706/19)
+Sederhanakan (((x/x**(-1/4)*x**2/x)**(-8/15))**(-35))**28 dengan asumsi x adalah positif.
+x**1176
+Sederhanakan (((k**(3/7)/k**6)/(k/k**2)**(-20))**(-39))**29 dengan asumsi k adalah positif.
+k**(202449/7)
+Sederhanakan (w/(w*w/w**29))**40*w*w**(-3)/w*w*w**41 dengan asumsi w adalah positif.
+w**1159
+Sederhanakan ((((v/(v*(v*v**(-2/21)*v)/v))/v)/(v/v**9))/(v**(-6/5)*v**(1/9)))**(-4/23) dengan asumsi v adalah positif.
+v**(-9052/7245)
+Sederhanakan ((d**(-43)/d*d*d*d*d**(8/17)/d)**(-41))**(3/5) dengan asumsi d adalah positif.
+d**(86838/85)
+Sederhanakan (((i**(2/9))**47/(i**(-2/5)/i**6))**(-4/35))**(-41) dengan asumsi i adalah positif.
+i**(124312/1575)
+Sederhanakan (i**(1/9)/i*i**0)/(i/i**6*i**2)*(i*i**(-2/23)*i*i*i**6*i)/(i**(-1/7)*i**(-2/11)) dengan asumsi i adalah positif.
+i**(196828/15939)
+Sederhanakan (((u**(-19)/u)/u)/(u/(u*u/(u/(u*u**(-35)))*u*u)))/(u**(-2/63)*u*u**(-21)) dengan asumsi u adalah positif.
+u**(-2077/63)
+Sederhanakan (((d*d/d**(-15/7))/d*d)/d**24*(((d/d**(1/25))/d)/d*d*d)/(d/d**(-4/19)))**(14/13) dengan asumsi d adalah positif.
+d**(-133716/6175)
+Sederhanakan ((r/(r*r**(-6/7)*r)*r**(-30))/(r**2*r*(r*r*r**(4/13))/r*r))**(13/4) dengan asumsi r adalah positif.
+r**(-1613/14)
+Sederhanakan (x**1)**32/(x/(x**(-2/3)*x))**5*(x/x**(-4/5)*x)/x**2*x**(-2/9)/x**(-8) dengan asumsi x adalah positif.
+x**(1676/45)
+Sederhanakan ((o/o**(-5/9))/(o/o**(-1/6)))/(o*o/(o*o**(18/5))*o*o**(1/47)) dengan asumsi o adalah positif.
+o**(8323/4230)
+Sederhanakan (h/(h**(-3)/h)*h/h**(3/7))/((h/h**(-1/5))/(h**(-1/11)/h))*(h**(1/2)/((h*h**(1/3)/h)/h*h*h))**(13/2) dengan asumsi h adalah positif.
+h**(-9869/4620)
+Sederhanakan (n**(-7)/(n*n*n**(2/5)/n*n*n))**41*(n**(-2)/n**1)**(-18/11) dengan asumsi n adalah positif.
+n**(-23182/55)
+Sederhanakan (x**(-3/16)/(x/x**(1/17)))/(x**(-1/33))**(2/91) dengan asumsi x adalah positif.
+x**(-921377/816816)
+Sederhanakan (k**7*k*k*k**5*((k**(-1)/k*k)/k*k)**(-34))/((k**(3/7)/k)**(-26))**(-33) dengan asumsi k adalah positif.
+k**(3768/7)
+Sederhanakan ((q**(-2))**(1/9)*q**(2/21)/(q**4*q))/((((q*q/q**(-2/11))/q)/q)/(q**(-1/12)/q)*(q**(-2/7))**(1/52)) dengan asumsi q adalah positif.
+q**(-230149/36036)
+Sederhanakan (p/(p/(p**2*p)*p))/p**2*p**(-3/17)/p*p**(-2/65)*p dengan asumsi p adalah positif.
+p**(-229/1105)
+Sederhanakan (t**(-1)/(t**1/t))/(t*t/(t*t**(-3)*t)*t**(2/13))*(((t*t/(t*t**0/t)*t)/t)**(-8/15))**(-1/11) dengan asumsi t adalah positif.
+t**(-8702/2145)
+Sederhanakan (t*t*t**(-21)*t)**40*(t/(t/(t/((((t*t**34)/t*t)/t)/t))))**(-15) dengan asumsi t adalah positif.
+t**(-240)
+Sederhanakan (u/(u**(1/13)/u)*u*u*u**(-3))**2/(((u*u**(3/8))/u*u*u*u*u)/(u/(u/(u/(u**(3/2)*u)))))**(18/7) dengan asumsi u adalah positif.
+u**(-4827/364)
+Sederhanakan (g**(-14)*g*g**(-6/5)*g*(((g/(g/g**35*g)*g)/g)/g)**(-36))**(10/7) dengan asumsi g adalah positif.
+g**(-1716)
+Sederhanakan ((q/(q*q/q**(-8)))/q**(-22)*q/(q*q**(-20)*q)*q*q**8*q)**8 dengan asumsi q adalah positif.
+q**336
+Sederhanakan ((r*(r/(((r/r**4)/r)/r))/r*r)/((r/(r/(r**(-2/9)/r)))/r)*(r/r**3)/(r**(-3/10)*r*r))**(-22/7) dengan asumsi r adalah positif.
+r**(-781/45)
+Sederhanakan (((a/a**1)/(a/(a/a**(-4))))/(a*(a/(a/(a*a**(-3)*a)))/a*a*a/(a**(3/7)*a)))/((a**1)**17*a**(-2/7)*a**(-2)) dengan asumsi a adalah positif.
+a**(-72/7)
+Sederhanakan ((f*f/(f**(13/4)*f*f))**34/(f**(4/21)/(f**(-20)/f)))**(2/13) dengan asumsi f adalah positif.
+f**(-5531/273)
+Sederhanakan ((n**2*n)/(n**1/n))/(((n/n**(-2/13))/n)/(n**(4/3)*n*n))*((n**0*n)/n)**(2/5)/(n/n**(-2/5)*n*n**5) dengan asumsi n adalah positif.
+n**(-238/195)
+Sederhanakan (n*n/(n*(n/(n/(n/n**(-7/3))))/n)*n**(-18)*n**(-7)/(n/(n*n*n*n**(-1/7))*n))**(-31) dengan asumsi n adalah positif.
+n**(16585/21)
+Sederhanakan (a**(2/7)/(a/a**(-3/4)))**(1/15)*((a/(a/(a**(1/2)/a)))/a)**(11/3)/(a**(1/4))**(-1/24) dengan asumsi a adalah positif.
+a**(-18773/3360)
+Sederhanakan ((x*x/x**(-1)*x)**(-9))**1/(((x/((x**(4/7)*x)/x))/x)/((x/((x*(x**(-6)/x)/x)/x)*x)/x))**(2/39) dengan asumsi x adalah positif.
+x**(-9694/273)
+Sederhanakan ((h/(h/h**(-4/21))*h/(h/h**26))/(h**(-22)/(h*h*h**(-2/9))))**(-41) dengan asumsi h adalah positif.
+h**(-128084/63)
+Sederhanakan (b**(-4)/b*b/((b/b**(5/3))/b))**(1/15)*b**6/(b/((b**(3/8)/b)/b))*b**(-2/11)*b**(3/8) dengan asumsi b adalah positif.
+b**(6757/1980)
+Sederhanakan (s**(-2/3)*s*s*s)/(s/(s*s**(1/7)/s*s*s*s)*s)*(s**(-2)*s)**(14/5)*((s**(1/3))**(-30))**(12/5) dengan asumsi s adalah positif.
+s**(-2449/105)
+Sederhanakan (c/((c/(c**7/c))/c)*c*c*c/(((c/(c/(c/((c**(-9)/c)/c))))/c)/c))**35/(c**(-5/3)*c/c**(2/3)*c)**(-26) dengan asumsi c adalah positif.
+c**(-26/3)
+Sederhanakan (s/(s/s**(1/4)))**(-3/8)*s**1/s**4*s**(-7)/(s/s**(-7))*((s*s/s**(-6)*s)/s*s*s)/s*s*s*(s**5/s*s)/s dengan asumsi s adalah positif.
+s**(-99/32)
+Sederhanakan (q**(2/19)/q**(-2))**(2/3)*(q**(-7)/q**10)**(-3/20) dengan asumsi q adalah positif.
+q**(4507/1140)
+Sederhanakan ((v*v*v*v**(4/7)*v*v)/v*v**(-7))**(5/6)/((v**(1/2))**(-4)/(v/v**(3/2)*v**7*v)) dengan asumsi v adalah positif.
+v**(157/21)
+Sederhanakan ((h/(h*h**16))/h)/h**(-14)*(h**(3/5))**(1/4) dengan asumsi h adalah positif.
+h**(-57/20)
+Sederhanakan (u**(-1/3))**(-2/17)*u**(-1)/(u*u/(u*u**5))*(u**(2/11)*u**(2/7))/(u/(u/(u/u**1)))**(1/63) dengan asumsi u adalah positif.
+u**(13771/3927)
+Sederhanakan ((z*(z*(z**0/z)/z)/z*z*z**3)/((z/z**(-4/3))/(z**(2/3)*z)))/((z**6*z)/z**(-7)*(z**(2/3)*z)/z**(-2/9)) dengan asumsi z adalah positif.
+z**(-122/9)
+Sederhanakan (w**(-4/19))**(14/3)*((w*w/(w*w/(w*w*w/((w/w**(-34))/w)*w*w*w)*w)*w)/w)**(-6/23) dengan asumsi w adalah positif.
+w**(8630/1311)
+Sederhanakan ((i**(1/2))**(-6))**10*((i**4*i)/i*i*i/i**(-1/2))**12 dengan asumsi i adalah positif.
+i**48
+Sederhanakan (((t*t*t/t**(2/15)*t/(t*t*t/t**6))/(t**1*(t*(t*t*t/(t/((t*t*t*(t/(t/t**0)*t)/t)/t)*t))/t)/t*t))**(3/25))**(-30) dengan asumsi t adalah positif.
+t**(-258/25)
+Sederhanakan ((((g*g**(-28/3)*g)/(g**32*g))**(10/19))**18)**15 dengan asumsi g adalah positif.
+g**(-108900/19)
+Sederhanakan ((l*l**(-1/6))/l*(l/l**(3/7))/l*(l**(-1/6)/l*l)**(-2/107))**(2/71) dengan asumsi l adalah positif.
+l**(-887/53179)
+Sederhanakan i**1/i**6*(i/(i/(i/(i**1/i))*i*i))/i**(-1/5)*i**(-3/2)/(i*i*i**(2/3))*(i**1*i)**(-20) dengan asumsi i adalah positif.
+i**(-1499/30)
+Sederhanakan (a**(-28)*a)/a**(2/23)*a**11*a*a/a**(-19/4) dengan asumsi a adalah positif.
+a**(-859/92)
+Sederhanakan ((b/((((b*b*b**(3/17))/b)/b)/b*b))/((b*b**(7/10))/b))/(b**(-26))**48 dengan asumsi b adalah positif.
+b**(212181/170)
+Sederhanakan ((h**(-2/3))**3*h**(8/7)/h*h**(-1/5)/h)/(h**(-11)*h**(6/7))**45 dengan asumsi h adalah positif.
+h**(15868/35)
+Sederhanakan ((w/(w/w**(-1/5))*w*w)**9)**(-11/7)/(w*w**(-3)*w/(w/(w**(-2/7)*w)))**(-41/5) dengan asumsi w adalah positif.
+w**(-36)
+Sederhanakan (i/(i*((i/i**(-2/7))/i)/i))**32*(i**(3/4)/i)/i*i**2*i*(i**(-7)*i/(i/(i**4/i))*i)/((i*i**0)/i**(-1/2)) dengan asumsi i adalah positif.
+i**(563/28)
+Sederhanakan ((a/a**0)**(7/4))**(-1/27)*a**(2/9)/a*a**4*a*(a*a*a**(-2/11)*a)/a**(-2/9) dengan asumsi a adalah positif.
+a**(8551/1188)
+Sederhanakan (w**(-6/19)*w*w/w**(-2/9)*(w**(-48)/w*w*w)/(w/(w/w**(-43/4))))**41 dengan asumsi w adalah positif.
+w**(-963131/684)
+Sederhanakan (n**(8/9)/((n/n**(-23))/n)*(n*n*(n/(n**18*n))/n*n)/n*n**21)**(-1/10) dengan asumsi n adalah positif.
+n**(163/90)
+Sederhanakan ((b**14*b/(b/(b**(-8/5)/b))*b*b**(2/11)/b*b*b/(b**3*b))**6)**(-11) dengan asumsi b adalah positif.
+b**(-3162/5)
+Sederhanakan (((f*f**5)/f*f)**(-6/5)/(f**(2/9)*f**(5/4)))**(1/13) dengan asumsi f adalah positif.
+f**(-1561/2340)
+Sederhanakan (u**9*(((u/(u*u**(-4/7)/u*u))/u)/u)/u)/(u/u**(3/11)*u*u**(-2/9))*((u/u**(-1/20))/(u/u**(-5/7)))**(-14) dengan asumsi u adalah positif.
+u**(99559/6930)
+Sederhanakan ((g/g**(2/7))**(5/11))**(-7/2)*g**1*g*g*g/(g*g**(-2)/g)*(g/(g**(-1)*g))/g**(1/3) dengan asumsi g adalah positif.
+g**(365/66)
+Sederhanakan (((g*g**(-4/13)*g)/(g/((g**(-12)*g)/g)))/((g**6*g)/(g**(-2/39)/g)))**(-5/3) dengan asumsi g adalah positif.
+g**(3775/117)
+Sederhanakan (m**2/((m*m**(1/8))/m))**(-36)/((m**(2/7))**(-26))**5 dengan asumsi m adalah positif.
+m**(-425/14)
+Sederhanakan (p*p**1)/(p**39/p)*((p*p**(-1/13))/p)**(-2/17) dengan asumsi p adalah positif.
+p**(-7954/221)
+Sederhanakan ((b/((b**0/b)/b))/b)**(-44)*(b*b*b**0)**(-2/9)*(b**(3/5)/((b*b**(-2/7))/b))**(-8/7) dengan asumsi b adalah positif.
+b**(-197252/2205)
+Sederhanakan c**1/c**(-3/4)*((c/c**(1/4))/c)**(5/4)*(c/(c*c**(-4/9)))/(c**(-1/3)*c)*c*c*c**(1/3)*c*c/(c*c/(c*c*c**1*c))*c dengan asumsi c adalah positif.
+c**(1231/144)
+Sederhanakan (((z/(z**0/z*z))/z)**(-21)/(z**(-2/17)/z*z**(-2/3)))**(20/3) dengan asumsi z adalah positif.
+z**(1820/153)
+Sederhanakan ((h*h**5)**(-23)/(h**(-3/4))**17)**20 dengan asumsi h adalah positif.
+h**(-2505)
+Sederhanakan ((m**(2/15))**(3/26)/(m**(-2/19)/m**(-17)))**(-27) dengan asumsi m adalah positif.
+m**(562842/1235)
+Sederhanakan (b**(6/11)/(b**(-3/4)*b))**30/((b/(b*b/b**(4/5)*b))/b**(-3))**(-10/7) dengan asumsi b adalah positif.
+b**(1761/154)
+Sederhanakan (c**(-1/10)/c**(-2/11)*(c*(c*c/(c/c**(1/30)))/c)/c**(3/10))**(16/7) dengan asumsi c adalah positif.
+c**(2152/1155)
+Sederhanakan ((k**(-1/5))**43)**(1/27)*k/((k**(-8)/k)/k)*(k*k**(-2/11)*k*k)/k*(k/(k*k/k**(7/2)*k)*k*k*k)/k**(-6) dengan asumsi k adalah positif.
+k**(68309/2970)
+Sederhanakan (y**36*y**(2/5))/(y**(-1/60)*y*((y/(y*(y/(y/(y/y**(-2/31))))/y))/y)/y) dengan asumsi y adalah positif.
+y**(13943/372)
+Sederhanakan ((((r*r**(-5))/(r*r/r**4))/((r*r**5)/r*r*r/(r/(r*r**0))))**(4/33))**(6/7) dengan asumsi r adalah positif.
+r**(-72/77)
+Sederhanakan ((j/(j*j*j**3*j)*j)/(j*j/(j*j**(1/11))*j))**(-3/4)/((j**(-1/3))**(5/3))**(-39) dengan asumsi j adalah positif.
+j**(-2275/132)
+Sederhanakan ((((r**5)**49)**(28/9))**(-42))**4 dengan asumsi r adalah positif.
+r**(-384160/3)
+Sederhanakan (c**(-2)*c**(-1))/(c/(c**(-1/4)/c))**45*((c**(-6)/c)/(c/(c/(c**(-4)/c)*c)*c))/(c**3/c*c**0) dengan asumsi c adalah positif.
+c**(-433/4)
+Sederhanakan (r**1)**12/(r*r/(r**(-4)*r)*r**7*r)*(r**(2/7)/r)**(-44)/(r*r*r**(-4)/r*r*r*r*r*r**(-1)) dengan asumsi r adalah positif.
+r**(213/7)
+Sederhanakan (v*v**(-22)*v*v)**(-1/58)/((v**(2/51)*v)/v**(-9)) dengan asumsi v adalah positif.
+v**(-28727/2958)
+Sederhanakan (m**5*m*m*m**5*m**1*((m**(-5)/m)/m)/m)/((m**1)**(16/9))**(-23/6) dengan asumsi m adalah positif.
+m**(319/27)
+Sederhanakan ((u/(u/(u/((((u**(-1)*u*u)/u)/u)/u)))*u**(-1)/u)/(u**(-2/21)*u/((u/u**(-17))/u)))**(-5/9) dengan asumsi u adalah positif.
+u**(-1795/189)
+Sederhanakan ((h**(3/31)*h*h)/h*h/(h**36*h*h))/(h**7)**29 dengan asumsi h adalah positif.
+h**(-7406/31)
+Sederhanakan (k**(-5)/(k*k**(1/9)*k))**(11/7)/(k**0*k/(k*(k**(-6/7)/k)/k)*k*(k/(k*k/(k/(k*k/k**(-2))))*k)**44) dengan asumsi k adalah positif.
+k**(7369/63)
+Sederhanakan (q**(-2/9)/(q/q**(-11)))/(q**(-26)/(q/q**6)) dengan asumsi q adalah positif.
+q**(79/9)
+Sederhanakan w**5/w**3*w**(-18)/((w**26*w)/w*w) dengan asumsi w adalah positif.
+w**(-43)
+Sederhanakan (g**(-2)*g)**(8/5)/(g/(g**(-2)/g))**(8/5)*(g**(2/3)*g**(-1/4))**(-1/5) dengan asumsi g adalah positif.
+g**(-97/12)
+Sederhanakan ((z/z**2*z**(-1/2))/(z**1*z)**(-7))/((z**0*z*z*z*z*z*z**(-5)*z*z*z*z*z)/(z**(-4)/(z**(-1/2)*z))) dengan asumsi z adalah positif.
+z**3
+Sederhanakan (w/(w**1/w)*w/(w/w**(-6/13))*w)**(-3/41)*(w**2)**18/(w**(1/2))**(-13) dengan asumsi w adalah positif.
+w**(45185/1066)
+Sederhanakan ((((d**(-1/4)*d)**26)**38)**(7/5))**30 dengan asumsi d adalah positif.
+d**31122
+Sederhanakan ((a*a*a*a**(1/4)*a*a)**31/(a/a**(-1/5)*a**(-3/5)))/(a**9/(a**(1/3)/a*a))**(-41) dengan asumsi a adalah positif.
+a**(31049/60)
+Sederhanakan ((s/(s*s**(-3/2)*s*s))/(((s**1*s*s)/s*s)/s))**14/(((s/((s**(-4)/s)/s))/(s*s**8))/(s**(-1/2))**47) dengan asumsi s adalah positif.
+s**(-113/2)
+Sederhanakan ((c*c/c**0)**(-1/10)*c**0*c**(-4/5))/((c**0)**(-2/13))**(-20) dengan asumsi c adalah positif.
+1/c
+Sederhanakan ((s**(-9/4)*s**(-29)*s)**(-2/49))**(-4/5) dengan asumsi s adalah positif.
+s**(-242/245)
+Sederhanakan o**1/o**(-7/5)*o**(-1)*o*o*o/o**(-2/5)*(o**7*o/(o/o**5))/(o/(o*o**1/o)*o/o**2) dengan asumsi o adalah positif.
+o**(89/5)
+Sederhanakan m*m*m**(-2)*m/(m*m**(-1/10))*(m*m/m**5*m)/(((m*m**(3/4)*m)/m*m)/m)*((m**(1/2)/m)/((m/m**(-1/4))/m))**(-1/34) dengan asumsi m adalah positif.
+m**(-2467/680)
+Sederhanakan (c**(1/7)/(c/(c/c**0))*c**(-3/7)/(c/(c**7/c*c)))/((c**(2/19)*c**(-2/3)*c)/(c**(-1)/c**(-6))) dengan asumsi c adalah positif.
+c**(4100/399)
+Sederhanakan ((a*a**(-1)*a*a*a)**(-19))**(-6/29)/(a/(a*a/(a*a**(-1/11)/a))*a**7)**(-35) dengan asumsi a adalah positif.
+a**(69737/319)
+Sederhanakan (((c/c**(-1/25))/c**(-5))/(c/(c**(-2/7)/c))**(-12))**(2/19) dengan asumsi c adalah positif.
+c**(11714/3325)
+Sederhanakan m**(3/23)/(m/(m*m*m**(-33)))*(m**(-34)/m)/(m/(m/((((m*m**26*m)/m)/m)/m))) dengan asumsi m adalah positif.
+m**(-2113/23)
+Sederhanakan (i*i**1)**(-1/5)*(i/(i**(-1)/i)*i)/(i**(-1/7)/i)*(((i/((i*i**(2/3))/i*i*i))/i)**14)**43 dengan asumsi i adalah positif.
+i**(-168062/105)

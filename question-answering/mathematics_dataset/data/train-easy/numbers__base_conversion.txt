@@ -1,0 +1,666 @@
+-231 (basis 4) ke basis 6
+-113
+b0 (basis 16) ke basis 15
+bb
+Ubah -4 (basis 16) menjadi basis 3.
+-11
+6 (basis 8) ke basis 15
+6
+Ubah -21 (basis 5) menjadi basis 9.
+-12
+Apa 0 (basis 10) di basis 14?
+0
+-3 (basis 6) ke basis 4
+-3
+-120 (basis 3) ke basis 7
+-21
+10 (basis 7) ke basis 15
+7
+Ubah 142 (basis 8) menjadi basis 2.
+1100010
+-10111 (basis 2) ke basis 16
+-17
+Apa -2020 (basis 3) di basis 15?
+-40
+Apa -16 (basis 14) di basis 16?
+-14
+Ubah -11 (basis 5) menjadi basis 15.
+-6
+Apa a (basis 16) di basis 6?
+14
+Apa -3d (basis 15) di basis 2?
+-111010
+Apa 21 (basis 4) di basis 15?
+9
+Ubah 2212 (basis 3) menjadi basis 8.
+115
+Ubah -8b (basis 14) menjadi basis 5.
+-443
+Ubah -2 (basis 13) menjadi basis 9.
+-2
+Apa 9 (basis 16) di basis 3?
+100
+Ubah -10 (basis 15) menjadi basis 11.
+-14
+Apa -1110011 (basis 2) di basis 11?
+-a5
+-100 (basis 2) ke basis 11
+-4
+Apa -100000110 (basis 2) di basis 16?
+-106
+Ubah -1 (basis 7) menjadi basis 5.
+-1
+Apa 1 (basis 7) di basis 13?
+1
+Ubah -15a (basis 11) menjadi basis 5.
+-1221
+Ubah -250 (basis 6) menjadi basis 16.
+-66
+b (basis 16) ke basis 8
+13
+Ubah 0 (basis 8) menjadi basis 5.
+0
+-124 (basis 5) ke basis 4
+-213
+-4 (basis 12) ke basis 10
+-4
+Ubah -120 (basis 4) menjadi basis 7.
+-33
+12 (basis 6) ke basis 4
+20
+10001 (basis 3) ke basis 4
+1102
+-4 (basis 14) ke basis 5
+-4
+Ubah -212 (basis 10) menjadi basis 2.
+-11010100
+Ubah -22 (basis 8) menjadi basis 11.
+-17
+Apa -405 (basis 6) di basis 10?
+-149
+0 (basis 12) ke basis 9
+0
+-1 (basis 3) ke basis 8
+-1
+15 (basis 6) ke basis 2
+1011
+-102 (basis 7) ke basis 14
+-39
+-37 (basis 14) ke basis 5
+-144
+-108 (basis 10) ke basis 15
+-73
+-3 (basis 6) ke basis 8
+-3
+Apa -132 (basis 4) di basis 13?
+-24
+Apa 1 (basis 7) di basis 16?
+1
+1321 (basis 6) ke basis 2
+101010001
+Apa -97 (basis 12) di basis 8?
+-163
+Apa 441 (basis 6) di basis 2?
+10101001
+Apa -11 (basis 16) di basis 9?
+-18
+Ubah -10 (basis 2) menjadi basis 15.
+-2
+Ubah -a (basis 12) menjadi basis 7.
+-13
+51 (basis 6) ke basis 3
+1011
+-192 (basis 12) ke basis 16
+-fe
+0 (basis 14) ke basis 6
+0
+Apa -7 (basis 9) di basis 16?
+-7
+Apa -36 (basis 9) di basis 16?
+-21
+Ubah -65 (basis 11) menjadi basis 8.
+-107
+-3 (basis 8) ke basis 15
+-3
+Ubah -e8 (basis 16) menjadi basis 14.
+-128
+Ubah 141 (basis 12) menjadi basis 8.
+301
+Ubah 6 (basis 15) menjadi basis 10.
+6
+Apa 7 (basis 8) di basis 16?
+7
+Apa -11 (basis 3) di basis 7?
+-4
+Apa -10 (basis 5) di basis 13?
+-5
+1 (basis 8) ke basis 13
+1
+Apa 2002 (basis 3) di basis 5?
+211
+-40 (basis 10) ke basis 12
+-34
+Apa -5 (basis 13) di basis 7?
+-5
+Apa -5 (basis 14) di basis 15?
+-5
+Apa 221 (basis 3) di basis 16?
+19
+Apa -4e (basis 15) di basis 14?
+-54
+Ubah -181 (basis 9) menjadi basis 4.
+-2122
+Ubah -3 (basis 12) menjadi basis 9.
+-3
+Ubah -15 (basis 9) menjadi basis 5.
+-24
+Ubah 22 (basis 12) menjadi basis 4.
+122
+Apa -66 (basis 9) di basis 10?
+-60
+Ubah 9 (basis 15) menjadi basis 8.
+11
+Apa -100 (basis 3) di basis 2?
+-1001
+Apa 13 (basis 9) di basis 14?
+c
+54 (basis 8) ke basis 2
+101100
+b (basis 14) ke basis 5
+21
+Ubah -1 (basis 12) menjadi basis 10.
+-1
+Ubah -90 (basis 10) menjadi basis 12.
+-76
+Apa 32 (basis 16) di basis 11?
+46
+Apa -313 (basis 7) di basis 14?
+-b3
+Apa 28 (basis 16) di basis 2?
+101000
+-6 (basis 16) ke basis 11
+-6
+-1 (basis 11) ke basis 15
+-1
+14 (basis 13) ke basis 11
+16
+Ubah 1 (basis 9) menjadi basis 13.
+1
+b (basis 16) ke basis 12
+b
+Apa -8 (basis 16) di basis 3?
+-22
+-93 (basis 13) ke basis 15
+-80
+Apa -271 (basis 9) di basis 11?
+-196
+Apa -3 (basis 6) di basis 8?
+-3
+ca (basis 13) ke basis 15
+b1
+Ubah 30 (basis 9) menjadi basis 6.
+43
+Apa -13 (basis 6) di basis 15?
+-9
+Ubah 5 (basis 16) menjadi basis 3.
+12
+Apa 111022 (basis 3) di basis 13?
+218
+1 (basis 15) ke basis 3
+1
+-207 (basis 10) ke basis 7
+-414
+Ubah -2 (basis 4) menjadi basis 7.
+-2
+Apa 23 (basis 4) di basis 9?
+12
+Apa 11 (basis 5) di basis 11?
+6
+Apa 123 (basis 10) di basis 8?
+173
+Apa -12 (basis 5) di basis 8?
+-7
+Ubah 10 (basis 8) menjadi basis 15.
+8
+Apa 3 (basis 14) di basis 15?
+3
+Apa -22 (basis 6) di basis 11?
+-13
+Apa 113 (basis 10) di basis 3?
+11012
+Apa 25 (basis 6) di basis 11?
+16
+1 (basis 7) ke basis 6
+1
+Apa -323 (basis 6) di basis 14?
+-8b
+Ubah -1 (basis 3) menjadi basis 8.
+-1
+Apa -8 (basis 15) di basis 10?
+-8
+Apa -103 (basis 5) di basis 8?
+-34
+1030 (basis 6) ke basis 7
+453
+Ubah -310 (basis 7) menjadi basis 5.
+-1104
+2 (basis 16) ke basis 15
+2
+Ubah 0 (basis 4) menjadi basis 11.
+0
+-13 (basis 6) ke basis 9
+-10
+Apa 10 (basis 3) di basis 13?
+3
+1 (basis 5) ke basis 14
+1
+-3 (basis 14) ke basis 2
+-11
+433 (basis 5) ke basis 9
+141
+Ubah -5 (basis 11) menjadi basis 4.
+-11
+d (basis 14) ke basis 12
+11
+Apa 138 (basis 9) di basis 7?
+224
+Apa -6 (basis 16) di basis 7?
+-6
+Apa -6 (basis 12) di basis 5?
+-11
+7 (basis 14) ke basis 13
+7
+2 (basis 10) ke basis 16
+2
+12 (basis 3) ke basis 4
+11
+Apa -3 (basis 5) di basis 2?
+-11
+b (basis 15) ke basis 10
+11
+Ubah 20 (basis 14) menjadi basis 12.
+24
+-41 (basis 6) ke basis 8
+-31
+Ubah -7 (basis 11) menjadi basis 10.
+-7
+Ubah 6 (basis 16) menjadi basis 2.
+110
+Apa 5 (basis 12) di basis 3?
+12
+Ubah -65 (basis 13) menjadi basis 11.
+-76
+Apa 2 (basis 3) di basis 7?
+2
+Apa 1 (basis 2) di basis 10?
+1
+24 (basis 5) ke basis 3
+112
+Apa -22 (basis 5) di basis 15?
+-c
+Apa 32 (basis 11) di basis 3?
+1022
+10 (basis 3) ke basis 2
+11
+4 (basis 15) ke basis 5
+4
+0 (basis 10) ke basis 8
+0
+Ubah -1a (basis 12) menjadi basis 2.
+-10110
+Ubah 111010 (basis 2) menjadi basis 16.
+3a
+Ubah 1 (basis 6) menjadi basis 14.
+1
+Ubah 12 (basis 10) menjadi basis 15.
+c
+Ubah -a3 (basis 11) menjadi basis 15.
+-78
+Apa -35 (basis 13) di basis 11?
+-40
+Ubah -2 (basis 7) menjadi basis 14.
+-2
+Ubah 1 (basis 4) menjadi basis 7.
+1
+Ubah -3 (basis 8) menjadi basis 13.
+-3
+Apa 2020 (basis 3) di basis 12?
+50
+Ubah 24 (basis 14) menjadi basis 10.
+32
+Ubah 0 (basis 7) menjadi basis 9.
+0
+2 (basis 13) ke basis 2
+10
+Ubah 1 (basis 5) menjadi basis 4.
+1
+18 (basis 13) ke basis 11
+1a
+2 (basis 16) ke basis 3
+2
+455 (basis 7) ke basis 16
+ec
+ae (basis 15) ke basis 6
+432
+-79 (basis 11) ke basis 16
+-56
+Apa 1a (basis 15) di basis 13?
+1c
+375 (basis 8) ke basis 7
+511
+-9 (basis 10) ke basis 11
+-9
+Apa -43 (basis 5) di basis 15?
+-18
+Ubah 23 (basis 6) menjadi basis 9.
+16
+Apa -25 (basis 6) di basis 8?
+-21
+Ubah 12012 (basis 3) menjadi basis 5.
+1030
+Apa 34 (basis 9) di basis 12?
+27
+Ubah -3 (basis 7) menjadi basis 10.
+-3
+-46 (basis 9) ke basis 7
+-60
+Apa -2 (basis 6) di basis 7?
+-2
+23 (basis 8) ke basis 12
+17
+Apa 24 (basis 12) di basis 16?
+1c
+-15 (basis 14) ke basis 16
+-13
+Ubah 3 (basis 12) menjadi basis 15.
+3
+11 (basis 2) ke basis 7
+3
+-3e (basis 16) ke basis 13
+-4a
+Apa -37 (basis 9) di basis 2?
+-100010
+Ubah 252 (basis 9) menjadi basis 7.
+416
+Apa 2 (basis 4) di basis 15?
+2
+Apa 4 (basis 14) di basis 4?
+10
+Apa 6 (basis 16) di basis 7?
+6
+Ubah 10111000 (basis 2) menjadi basis 16.
+b8
+Apa 100 (basis 2) di basis 16?
+4
+Apa -11 (basis 11) di basis 2?
+-1100
+Apa 45 (basis 12) di basis 6?
+125
+1111011 (basis 2) ke basis 15
+83
+Apa -34 (basis 13) di basis 14?
+-31
+17 (basis 10) ke basis 16
+11
+Ubah -56 (basis 12) menjadi basis 3.
+-2110
+Ubah 253 (basis 7) menjadi basis 16.
+88
+Ubah -13 (basis 4) menjadi basis 8.
+-7
+Ubah -3 (basis 4) menjadi basis 15.
+-3
+-50 (basis 8) ke basis 15
+-2a
+1 (basis 8) ke basis 2
+1
+Apa -2 (basis 16) di basis 10?
+-2
+-4 (basis 5) ke basis 11
+-4
+Apa 1011 (basis 2) di basis 13?
+b
+Ubah -1101 (basis 2) menjadi basis 10.
+-13
+Apa 27 (basis 10) di basis 15?
+1c
+Apa -4 (basis 15) di basis 10?
+-4
+Ubah -1 (basis 10) menjadi basis 2.
+-1
+Apa 14 (basis 6) di basis 9?
+11
+Ubah 102 (basis 4) menjadi basis 14.
+14
+Ubah -121 (basis 3) menjadi basis 6.
+-24
+Apa 11 (basis 12) di basis 7?
+16
+Ubah -1 (basis 12) menjadi basis 13.
+-1
+Apa -4 (basis 10) di basis 8?
+-4
+-32 (basis 4) ke basis 5
+-24
+3 (basis 10) ke basis 7
+3
+Apa 10 (basis 8) di basis 6?
+12
+Ubah -10010 (basis 2) menjadi basis 16.
+-12
+-1021 (basis 3) ke basis 2
+-100010
+Ubah 2b (basis 13) menjadi basis 2.
+100101
+Apa 100 (basis 2) di basis 7?
+4
+-1212 (basis 3) ke basis 9
+-55
+-33 (basis 10) ke basis 6
+-53
+4 (basis 6) ke basis 14
+4
+-19 (basis 11) ke basis 2
+-10100
+Apa 3 (basis 4) di basis 9?
+3
+Apa 9 (basis 11) di basis 9?
+10
+Apa 433 (basis 7) di basis 14?
+11a
+Ubah b6 (basis 12) menjadi basis 4.
+2022
+Ubah -2 (basis 9) menjadi basis 5.
+-2
+Ubah -3 (basis 11) menjadi basis 7.
+-3
+Ubah -103 (basis 7) menjadi basis 11.
+-48
+Ubah 3 (basis 11) menjadi basis 7.
+3
+Apa -44 (basis 8) di basis 16?
+-24
+Ubah 105 (basis 7) menjadi basis 16.
+36
+-1022 (basis 7) ke basis 16
+-167
+-1011 (basis 3) ke basis 16
+-1f
+1303 (basis 4) ke basis 3
+11021
+Ubah -221 (basis 4) menjadi basis 9.
+-45
+Ubah 1 (basis 12) menjadi basis 4.
+1
+Ubah 4 (basis 16) menjadi basis 11.
+4
+-63 (basis 11) ke basis 6
+-153
+Ubah -32 (basis 4) menjadi basis 16.
+-e
+-2 (basis 4) ke basis 16
+-2
+34 (basis 5) ke basis 9
+21
+Ubah -100 (basis 2) menjadi basis 4.
+-10
+Ubah -23 (basis 12) menjadi basis 13.
+-21
+-106 (basis 9) ke basis 11
+-7a
+Apa -112 (basis 5) di basis 12?
+-28
+Ubah -a (basis 12) menjadi basis 14.
+-a
+Apa 103 (basis 5) di basis 7?
+40
+-12 (basis 3) ke basis 10
+-5
+-21 (basis 7) ke basis 4
+-33
+228 (basis 10) ke basis 9
+273
+-10 (basis 4) ke basis 10
+-4
+Ubah 3 (basis 5) menjadi basis 13.
+3
+Ubah 0 (basis 5) menjadi basis 9.
+0
+Ubah -1111101 (basis 2) menjadi basis 7.
+-236
+-134 (basis 7) ke basis 3
+-2202
+Apa b6 (basis 13) di basis 8?
+225
+Apa 6 (basis 12) di basis 4?
+12
+Apa -2 (basis 11) di basis 3?
+-2
+Ubah 41 (basis 7) menjadi basis 12.
+25
+Ubah -50 (basis 8) menjadi basis 14.
+-2c
+-1 (basis 5) ke basis 16
+-1
+Apa 11210 (basis 3) di basis 16?
+81
+4 (basis 16) ke basis 10
+4
+Apa -100 (basis 2) di basis 5?
+-4
+10112 (basis 3) ke basis 11
+87
+-6c (basis 14) ke basis 15
+-66
+Ubah 6 (basis 8) menjadi basis 4.
+12
+Ubah 3 (basis 8) menjadi basis 13.
+3
+-20 (basis 5) ke basis 3
+-101
+Ubah 3 (basis 12) menjadi basis 8.
+3
+Ubah 5 (basis 6) menjadi basis 7.
+5
+Apa 3 (basis 13) di basis 14?
+3
+Ubah 2132 (basis 4) menjadi basis 13.
+c2
+-33 (basis 11) ke basis 5
+-121
+Ubah -2c (basis 15) menjadi basis 14.
+-30
+Apa 153 (basis 6) di basis 5?
+234
+-103 (basis 7) ke basis 8
+-64
+Apa -13 (basis 8) di basis 3?
+-102
+Ubah -1411 (basis 6) menjadi basis 7.
+-1033
+Apa -9 (basis 13) di basis 7?
+-12
+Ubah 75 (basis 16) menjadi basis 13.
+90
+Ubah -1 (basis 12) menjadi basis 2.
+-1
+22 (basis 3) ke basis 11
+8
+-461 (basis 8) ke basis 5
+-2210
+-110 (basis 2) ke basis 5
+-11
+Apa -35 (basis 10) di basis 3?
+-1022
+-6 (basis 7) ke basis 15
+-6
+Apa 14 (basis 6) di basis 3?
+101
+62 (basis 15) ke basis 9
+112
+111 (basis 2) ke basis 16
+7
+2 (basis 11) ke basis 2
+10
+Apa -44 (basis 16) di basis 2?
+-1000100
+Apa -25 (basis 11) di basis 3?
+-1000
+Ubah 3 (basis 7) menjadi basis 16.
+3
+Ubah -7 (basis 12) menjadi basis 6.
+-11
+Apa 257 (basis 9) di basis 3?
+21221
+Apa -1 (basis 9) di basis 14?
+-1
+10 (basis 2) ke basis 4
+2
+3b (basis 13) ke basis 12
+42
+Apa -4 (basis 12) di basis 5?
+-4
+Ubah 11 (basis 10) menjadi basis 15.
+b
+Apa 17 (basis 14) di basis 2?
+10101
+Ubah 24 (basis 8) menjadi basis 4.
+110
+-23 (basis 9) ke basis 16
+-15
+67 (basis 8) ke basis 2
+110111
+Apa 1 (basis 13) di basis 8?
+1
+-101 (basis 2) ke basis 7
+-5
+-15 (basis 10) ke basis 13
+-12
+Ubah 4 (basis 5) menjadi basis 3.
+11
+Apa -10 (basis 2) di basis 12?
+-2
+24 (basis 5) ke basis 12
+12
+1c5 (basis 13) ke basis 3
+110020
+Ubah 276 (basis 8) menjadi basis 13.
+118
+83 (basis 14) ke basis 8
+163
+Apa -4 (basis 12) di basis 15?
+-4
+-a4 (basis 12) ke basis 11
+-103
+-545 (basis 7) ke basis 10
+-278
+Apa -5 (basis 6) di basis 10?
+-5
+Apa 10 (basis 2) di basis 7?
+2
+Ubah 8 (basis 9) menjadi basis 14.
+8
+Ubah 47 (basis 9) menjadi basis 11.
+3a
+Ubah 59 (basis 10) menjadi basis 3.
+2012

@@ -1,0 +1,666 @@
+Di basis 9, berapakah -15 - 135274?
+-135300
+Di basis 11, berapakah 0 - 31525?
+-31525
+Di basis 5, berapakah 120 - 313?
+-143
+Di basis 15, berapakah -325 + 486?
+161
+Di basis 16, berapakah -16 + b8?
+a2
+Di basis 6, berapakah 50 + -4010?
+-3520
+Di basis 10, berapakah -5 + 25344?
+25339
+Di basis 9, berapakah -714 - 2206?
+-3021
+Di basis 10, berapakah -5 + 844465?
+844460
+Di basis 7, berapakah 226 + -651?
+-422
+Di basis 5, berapakah 131 + 43012?
+43143
+Di basis 6, berapakah -5 + -1104150?
+-1104155
+Di basis 4, berapakah -1103111310 + -2?
+-1103111312
+Di basis 5, berapakah -32324024 - -10?
+-32324014
+Di basis 3, berapakah 211 - -2212201?
+2220112
+Di basis 5, berapakah -332 + 23310?
+22423
+Di basis 15, berapakah -2156 - 1e?
+-2175
+Di basis 5, berapakah -11112302 - -3?
+-11112244
+Di basis 3, berapakah -2 - -100021020012?
+100021020010
+Di basis 11, berapakah 5a4 + -12?
+592
+Di basis 6, berapakah -2 + 1223001?
+1222555
+Di basis 4, berapakah -1222233301 - -13?
+-1222233222
+Di basis 16, berapakah a3 + e8?
+18b
+Di basis 14, berapakah -1141 - 3?
+-1144
+Di basis 4, berapakah 1131 - 221021?
+-213230
+Di basis 7, berapakah -1101612 - 0?
+-1101612
+Di basis 5, berapakah 3213 - -1421?
+10134
+Di basis 3, berapakah -2211212220 + 112?
+-2211212101
+Di basis 10, berapakah -1280 - -67?
+-1213
+Di basis 6, berapakah -33102 + 4?
+-33054
+Di basis 12, berapakah -289 + a47?
+77a
+Di basis 9, berapakah 0 - -2870?
+2870
+Di basis 14, berapakah 11c8 - a?
+11bc
+Di basis 14, berapakah -53 + -1a0?
+-213
+Di basis 3, berapakah -2020120022122 + -10?
+-2020120022202
+Di basis 12, berapakah -14 - 5a61?
+-5a75
+Di basis 7, berapakah -10153 - 153?
+-10336
+Di basis 12, berapakah 0 - 13a986?
+-13a986
+Di basis 11, berapakah 792a - -209?
+8038
+Di basis 16, berapakah b41 - 1?
+b40
+Di basis 2, berapakah 1 - 11010011001111?
+-11010011001110
+Di basis 10, berapakah 0 - -39595?
+39595
+Di basis 3, berapakah -2200022102 - -11?
+-2200022021
+Di basis 2, berapakah -1011011110 + 1100111?
+-1001110111
+Di basis 13, berapakah -20c + 10?
+-1cc
+Di basis 13, berapakah 61a + a5?
+6c2
+Di basis 9, berapakah -103701 - -4?
+-103686
+Di basis 8, berapakah -224 - 456?
+-702
+Di basis 15, berapakah -6 + -a1c?
+-a23
+Di basis 15, berapakah 300 - dc?
+213
+Di basis 8, berapakah -2614 - -125?
+-2467
+Di basis 8, berapakah -60 + -247?
+-327
+Di basis 16, berapakah -2dec + -57?
+-2e43
+Di basis 12, berapakah -5 + -4983?
+-4988
+Di basis 13, berapakah -5 + -225b5?
+-225ba
+Di basis 12, berapakah -1b24 + 2a?
+-1ab6
+Di basis 14, berapakah -4 + b904?
+b900
+Di basis 10, berapakah -1 - -16924?
+16923
+Di basis 10, berapakah 4 + -22130?
+-22126
+Di basis 11, berapakah -322 + -216?
+-538
+Di basis 15, berapakah 13aca9 - -3?
+13acac
+Di basis 13, berapakah 30 - 164?
+-134
+Di basis 13, berapakah -7604 + -2?
+-7606
+Di basis 10, berapakah -256 - 39?
+-295
+Di basis 7, berapakah 15110 + 54?
+15164
+Di basis 12, berapakah 4 - -3b82?
+3b86
+Di basis 12, berapakah 5 - 4697b?
+-46976
+Di basis 16, berapakah 6368 - 3?
+6365
+Di basis 4, berapakah -303333 + 11?
+-303322
+Di basis 9, berapakah 2 + 37385?
+37387
+Di basis 8, berapakah 2247775 - 4?
+2247771
+Di basis 14, berapakah 146 + -4433?
+-42cb
+Di basis 14, berapakah 551 + -413?
+13c
+Di basis 6, berapakah -252 + 242222?
+241530
+Di basis 10, berapakah 210200 - -5?
+210205
+Di basis 13, berapakah 34935 + 4?
+34939
+Di basis 15, berapakah -19a57 - a?
+-19a62
+Di basis 10, berapakah 1460341 - -5?
+1460346
+Di basis 10, berapakah 5 + 106089?
+106094
+Di basis 16, berapakah -e - 652?
+-660
+Di basis 8, berapakah -4 - -22416?
+22412
+Di basis 7, berapakah 1120 + 1110?
+2230
+Di basis 15, berapakah 31 + 101?
+132
+Di basis 9, berapakah -55 - 371?
+-436
+Di basis 8, berapakah 327547 + 4?
+327553
+Di basis 11, berapakah 0 - -42284?
+42284
+Di basis 6, berapakah -2313133 + 1?
+-2313132
+Di basis 13, berapakah 22 - 4317?
+-42c5
+Di basis 5, berapakah -13 - -3012100?
+3012032
+Di basis 7, berapakah -15 - -1261?
+1243
+Di basis 7, berapakah 522466 - -4?
+522503
+Di basis 3, berapakah -2111200 + 100?
+-2111100
+Di basis 7, berapakah -3 + -35420?
+-35423
+Di basis 2, berapakah -11101010 + 11101101?
+11
+Di basis 8, berapakah -36475 - -26?
+-36447
+Di basis 6, berapakah -11 - 530415?
+-530430
+Di basis 8, berapakah 273052 + -10?
+273042
+Di basis 16, berapakah 98 - 71?
+27
+Di basis 2, berapakah 101011010010011101 + -11?
+101011010010011010
+Di basis 4, berapakah -133002 - -12?
+-132330
+Di basis 7, berapakah -2665 + 34?
+-2631
+Di basis 6, berapakah 34001022 + -4?
+34001014
+Di basis 14, berapakah -4522 + 3?
+-451d
+Di basis 13, berapakah -4 - 1b48?
+-1b4c
+Di basis 7, berapakah 52 + -132?
+-50
+Di basis 8, berapakah -2074203 + 0?
+-2074203
+Di basis 9, berapakah -156724 + -5?
+-156730
+Di basis 11, berapakah -81 - -726?
+655
+Di basis 11, berapakah -149 - -2a044?
+299a6
+Di basis 15, berapakah -7575 + -3?
+-7578
+Di basis 14, berapakah -b52 + -59?
+-bab
+Di basis 9, berapakah 105735 - 1?
+105734
+Di basis 12, berapakah -9ab - -139?
+-872
+Di basis 9, berapakah 380 - 826?
+-436
+Di basis 12, berapakah 10 - -108b5?
+10905
+Di basis 14, berapakah -3c9 - 247?
+-632
+Di basis 8, berapakah -3 + -37171?
+-37174
+Di basis 2, berapakah -100 - 1010010000?
+-1010010100
+Di basis 8, berapakah 374664 - 4?
+374660
+Di basis 2, berapakah 10110000111 + 1101?
+10110010100
+Di basis 6, berapakah -1220 + -2001?
+-3221
+Di basis 10, berapakah -5 - 35651?
+-35656
+Di basis 6, berapakah 45053 + 24?
+45121
+Di basis 13, berapakah 1c81 + -2?
+1c7c
+Di basis 5, berapakah -1232314 - 1302?
+-1234121
+Di basis 15, berapakah b4 - 157?
+-93
+Di basis 10, berapakah -812 + 7?
+-805
+Di basis 13, berapakah 2 + 2ba55?
+2ba57
+Di basis 2, berapakah -110 - -1100011001001?
+1100011000011
+Di basis 5, berapakah 233 - -43440?
+44223
+Di basis 13, berapakah -94a9 - 3?
+-94ac
+Di basis 4, berapakah 20 - 110333011?
+-110332331
+Di basis 13, berapakah 615b - -5?
+6163
+Di basis 12, berapakah 41112 - -6?
+41118
+Di basis 5, berapakah 11023 + 33?
+11111
+Di basis 4, berapakah 23110 - -1132?
+30302
+Di basis 14, berapakah 6 + 20d6d?
+20d75
+Di basis 13, berapakah 881b - 2?
+8819
+Di basis 8, berapakah 161 + 36771?
+37152
+Di basis 11, berapakah -4 - -a8328?
+a8324
+Di basis 2, berapakah -11010101101000010011 + 1?
+-11010101101000010010
+Di basis 5, berapakah -221012220 + 0?
+-221012220
+Di basis 15, berapakah -12 + -154e?
+-1561
+Di basis 10, berapakah -1017 + -159?
+-1176
+Di basis 8, berapakah 104 - 4715?
+-4611
+Di basis 12, berapakah 5515b8 + 1?
+5515b9
+Di basis 5, berapakah -2040020 + -4?
+-2040024
+Di basis 3, berapakah -2000 - 210122?
+-212122
+Di basis 15, berapakah -5 + 711c0?
+711ba
+Di basis 6, berapakah -3414020 - -11?
+-3414005
+Di basis 16, berapakah -3 - -897c6?
+897c3
+Di basis 4, berapakah -232 + -1202?
+-2100
+Di basis 3, berapakah 1102200 + -1112?
+1101011
+Di basis 14, berapakah aa + a8?
+174
+Di basis 2, berapakah -101100011101 + 11000100?
+-101001011001
+Di basis 13, berapakah -1 + -47277?
+-47278
+Di basis 16, berapakah -125 - 1f1f?
+-2044
+Di basis 8, berapakah -3 + 30743?
+30740
+Di basis 13, berapakah 330 - -271?
+5a1
+Di basis 2, berapakah 11 - -1010111010100001100?
+1010111010100001111
+Di basis 2, berapakah 10001010001001 - -10000?
+10001010011001
+Di basis 6, berapakah -1 - -3140134?
+3140133
+Di basis 9, berapakah 5 - 142025?
+-142020
+Di basis 4, berapakah -212 - -3132033?
+3131221
+Di basis 9, berapakah -20732 + -67?
+-20810
+Di basis 10, berapakah -730 - -104?
+-626
+Di basis 15, berapakah 0 - -21ca?
+21ca
+Di basis 12, berapakah 4 - -56675b?
+566763
+Di basis 15, berapakah -5 + 68c4?
+68be
+Di basis 16, berapakah 3 + a7cf8?
+a7cfb
+Di basis 4, berapakah -11 - -31310012?
+31310001
+Di basis 14, berapakah 53 - -197?
+20a
+Di basis 12, berapakah -12357 + 6?
+-12351
+Di basis 8, berapakah -6752 - 2?
+-6754
+Di basis 12, berapakah -a2b20 + -3?
+-a2b23
+Di basis 7, berapakah 106 + -126?
+-20
+Di basis 5, berapakah -121141133 - -4?
+-121141124
+Di basis 16, berapakah 450 - -13c5?
+1815
+Di basis 6, berapakah 12445341 - 0?
+12445341
+Di basis 9, berapakah -6255 + 140?
+-6115
+Di basis 5, berapakah 110031 - 2212?
+102314
+Di basis 8, berapakah -3651415 - 3?
+-3651420
+Di basis 11, berapakah 619 + -31a?
+2aa
+Di basis 9, berapakah 5 - -1460821?
+1460826
+Di basis 5, berapakah -1012041 + 4?
+-1012032
+Di basis 12, berapakah -53a391 - -1?
+-53a390
+Di basis 16, berapakah -c33d6 - 5?
+-c33db
+Di basis 9, berapakah 3 - -403640?
+403643
+Di basis 16, berapakah -4b + -707?
+-752
+Di basis 13, berapakah 151 - -11c?
+270
+Di basis 5, berapakah 1 - 12341210?
+-12341204
+Di basis 16, berapakah 2 + 16e9c?
+16e9e
+Di basis 11, berapakah 95448 - 2?
+95446
+Di basis 13, berapakah -5 + 8b4b?
+8b46
+Di basis 2, berapakah 11000111100100 + 101010?
+11001000001110
+Di basis 16, berapakah -1f3 - -4038?
+3e45
+Di basis 12, berapakah -1170b + 1?
+-1170a
+Di basis 12, berapakah -5 - 14a753?
+-14a758
+Di basis 4, berapakah -3103022 + -10?
+-3103032
+Di basis 13, berapakah -a99b - -8?
+-a993
+Di basis 11, berapakah 0 + -a30a?
+-a30a
+Di basis 11, berapakah -35488 + 16?
+-35472
+Di basis 16, berapakah 3204 - 3d?
+31c7
+Di basis 10, berapakah 12 - -46759?
+46771
+Di basis 9, berapakah 115487 + 3?
+115501
+Di basis 6, berapakah -44 - 2255?
+-2343
+Di basis 11, berapakah -54140 - 3?
+-54143
+Di basis 12, berapakah 4 - -a4a9?
+a4b1
+Di basis 5, berapakah -1104020 + -14?
+-1104034
+Di basis 14, berapakah -1 - -73c?
+73b
+Di basis 10, berapakah -7333 - -146?
+-7187
+Di basis 3, berapakah 2001011 + 20221?
+2022002
+Di basis 3, berapakah -10 - -110100102?
+110100022
+Di basis 9, berapakah 65 - -158?
+234
+Di basis 14, berapakah -12930 - -4?
+-1292a
+Di basis 11, berapakah -149 - -5475?
+5327
+Di basis 3, berapakah -10 + 20222001110?
+20222001100
+Di basis 4, berapakah 1333 - 322032?
+-320033
+Di basis 10, berapakah 234 + 243?
+477
+Di basis 6, berapakah 0 - -1330114?
+1330114
+Di basis 8, berapakah -24252 + -125?
+-24377
+Di basis 16, berapakah 101d1 + 24?
+101f5
+Di basis 7, berapakah 4 - -35466?
+35503
+Di basis 16, berapakah -3 - -f83a?
+f837
+Di basis 4, berapakah 2102 + 10301?
+13003
+Di basis 12, berapakah 10814 + -1?
+10813
+Di basis 6, berapakah 3 + -1351340?
+-1351333
+Di basis 12, berapakah 21 - -8782?
+87a3
+Di basis 13, berapakah 36 + 329?
+362
+Di basis 9, berapakah -4128773 + -1?
+-4128774
+Di basis 9, berapakah 145750 + 15?
+145765
+Di basis 3, berapakah -10 - -200100000122?
+200100000112
+Di basis 6, berapakah -2 + -101443?
+-101445
+Di basis 14, berapakah 1abd - -57?
+1b36
+Di basis 13, berapakah -c0 + 46?
+-77
+Di basis 11, berapakah -858627 - -1?
+-858626
+Di basis 5, berapakah -104121314 + 3?
+-104121311
+Di basis 2, berapakah -100010111111 + 10101?
+-100010101010
+Di basis 7, berapakah -1015 + 6152?
+5134
+Di basis 15, berapakah -3d20 - 4?
+-3d24
+Di basis 9, berapakah -532065 - -6?
+-532058
+Di basis 15, berapakah 20e4b - 0?
+20e4b
+Di basis 12, berapakah 3 + -124b8?
+-124b5
+Di basis 7, berapakah 3 + 164553?
+164556
+Di basis 16, berapakah -9a2 - -38?
+-96a
+Di basis 7, berapakah -231231 - -2?
+-231226
+Di basis 9, berapakah 56468 - -2?
+56471
+Di basis 4, berapakah -12100031 - 11?
+-12100102
+Di basis 9, berapakah 1385 - -13?
+1408
+Di basis 16, berapakah 23 - -3388?
+33ab
+Di basis 9, berapakah -34583 + 4?
+-34578
+Di basis 15, berapakah -45 + -1?
+-46
+Di basis 4, berapakah -10021 - -23203?
+13122
+Di basis 2, berapakah 101110 + -10100111110001010?
+-10100111101011100
+Di basis 4, berapakah 110111120 - 0?
+110111120
+Di basis 5, berapakah 101313 - -13?
+101331
+Di basis 3, berapakah -10 + 222002012210?
+222002012200
+Di basis 12, berapakah -1 + -204b?
+-2050
+Di basis 16, berapakah 1 - -c15?
+c16
+Di basis 14, berapakah c - -68d1c?
+68d2a
+Di basis 5, berapakah 34343 + 10?
+34403
+Di basis 10, berapakah 17 + 5700?
+5717
+Di basis 12, berapakah 2 - -88815?
+88817
+Di basis 16, berapakah b01 - -58?
+b59
+Di basis 15, berapakah e + -35cd?
+-35be
+Di basis 12, berapakah 4 - 282b41?
+-282b39
+Di basis 9, berapakah -2700 + 7?
+-2682
+Di basis 11, berapakah 73 + -247?
+-184
+Di basis 8, berapakah -10 - 16031?
+-16041
+Di basis 5, berapakah -332013 - 4?
+-332022
+Di basis 16, berapakah -e + -17139?
+-17147
+Di basis 3, berapakah 21 - 210202110102?
+-210202110011
+Di basis 15, berapakah -2 - -2262?
+2260
+Di basis 9, berapakah -170 + 264?
+84
+Di basis 15, berapakah -17 - -a82a?
+a813
+Di basis 5, berapakah -3434313 - 11?
+-3434324
+Di basis 8, berapakah -344 - -11057?
+10513
+Di basis 9, berapakah 10205 + -124?
+10071
+Di basis 15, berapakah -43 - 1c?
+-60
+Di basis 9, berapakah -52230 + 2?
+-52227
+Di basis 3, berapakah -1 - -12112200?
+12112122
+Di basis 10, berapakah 692504 + 1?
+692505
+Di basis 4, berapakah 10 - -23331112?
+23331122
+Di basis 6, berapakah 312153 - 1?
+312152
+Di basis 7, berapakah 616035 + 6?
+616044
+Di basis 8, berapakah -7277 + 5?
+-7272
+Di basis 8, berapakah -36325 - -5?
+-36320
+Di basis 11, berapakah 5 - 13362?
+-13358
+Di basis 12, berapakah -9b3412 + 5?
+-9b3409
+Di basis 10, berapakah 17773 + -13?
+17760
+Di basis 13, berapakah 20a0 + 122?
+21c2
+Di basis 13, berapakah -180 - -7a?
+-103
+Di basis 10, berapakah 6665 - -219?
+6884
+Di basis 7, berapakah -6 + -34662?
+-35001
+Di basis 11, berapakah -24 + -2051?
+-2075
+Di basis 9, berapakah -2 - -280363?
+280361
+Di basis 13, berapakah -13492 + -3?
+-13495
+Di basis 10, berapakah -5 + 4937?
+4932
+Di basis 12, berapakah 11 - -5995?
+59a6
+Di basis 16, berapakah -4 + -21c8?
+-21cc
+Di basis 9, berapakah -2 + 83466?
+83464
+Di basis 10, berapakah 341362 - 1?
+341361
+Di basis 2, berapakah -1 - -1110100101011?
+1110100101010
+Di basis 7, berapakah -13562556 + 0?
+-13562556
+Di basis 6, berapakah -23204 - -431?
+-22333
+Di basis 13, berapakah 2 + 1bb49?
+1bb4b
+Di basis 4, berapakah 0 - 1011221?
+-1011221
+Di basis 13, berapakah 2b - -a13?
+a41
+Di basis 8, berapakah 1445 + -3420?
+-1753
+Di basis 7, berapakah 3 + 122616?
+122622
+Di basis 11, berapakah 6958 + -88?
+6880
+Di basis 14, berapakah 7a46a - -7?
+7a473
+Di basis 4, berapakah 3 - 1001113302?
+-1001113233
+Di basis 10, berapakah 5 - -73488?
+73493
+Di basis 10, berapakah -862 - 15?
+-877
+Di basis 8, berapakah -342725 - -1?
+-342724
+Di basis 7, berapakah -5 + 55132?
+55124
+Di basis 11, berapakah -4818 + -78?
+-4895
+Di basis 12, berapakah 56 + 12756?
+127b0
+Di basis 13, berapakah 13161 + 2?
+13163
+Di basis 10, berapakah -1350 + -7?
+-1357
+Di basis 10, berapakah -9599 + -461?
+-10060
+Di basis 13, berapakah 19850 - 3?
+1984a
+Di basis 13, berapakah -6a3 + 244?
+-45c
+Di basis 3, berapakah -12011111 - -11?
+-12011100
+Di basis 5, berapakah -124 + -3314?
+-3443
+Di basis 5, berapakah 141 + -3040?
+-2344
+Di basis 15, berapakah 5edb + 0?
+5edb
+Di basis 3, berapakah -21120202210100 - -12?
+-21120202210011
+Di basis 12, berapakah -215 + -105?
+-31a
+Di basis 5, berapakah 1 + -13310002?
+-13310001
+Di basis 15, berapakah -121 + 8a2?
+781
+Di basis 15, berapakah b5 + -4e?
+66

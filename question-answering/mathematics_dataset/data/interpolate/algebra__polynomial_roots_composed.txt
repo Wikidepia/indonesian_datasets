@@ -1,0 +1,2000 @@
+Misalkan 2*h = 5*v - 10, -12*h = -9*h - 5*v + 10. Tentukan n, mengingat bahwa -1/5*n**3 - 1/5*n**4 + 0*n**2 + 0*n + h = 0.
+-1, 0
+Misalkan c be 4 + (-333704)/(-1300) + 5*18/(-1125). Tentukan x, mengingat bahwa 0 - 2662/13*x - c*x**2 - 2/13*x**5 - 792/13*x**3 - 68/13*x**4 = 0.
+-11, -1, 0
+Misalkan a = 2085/148 - 438/37. Faktor dari 0*q - 1/4*q**2 + a.
+-(q - 3)*(q + 3)/4
+Misalkan -721*c + 716*c = 0. Misalkan w (q) menjadi turunan ke-ketiga dari 0 + 1/18*q**5 + 0*q + 12*q**2 - 1/180*q**6 + c*q**3 - 1/6*q**4. Faktor dari w(g).
+-2*g*(g - 3)*(g - 2)/3
+Faktor dari 12*s**2 - 483 - 47*s**2 + 48*s + 14*s**2 + 24*s**2.
+3*(s - 7)*(s + 23)
+Misalkan j be ((-1560)/420)/((-6)/156). Faktor dari -j*m**2 - 64/7 - 416/7*m.
+-4*(13*m + 4)**2/7
+Misalkan 5*j + 81*j - 344 = -0*j. Misalkan k (y) menjadi turunan ke-pertama dari 5*y**2 - y**5 - 5/2*y**j + 0*y + 5/3*y**3 - 1. Faktor dari k(o).
+-5*o*(o - 1)*(o + 1)*(o + 2)
+Misalkan w (m) menjadi turunan ke-ketiga dari m**7/70 + 11*m**6/10 - 49*m**5/20 - 22*m**4 + 90*m**3 + 27*m**2. Misalkan w(u) = 0. Hitung u.
+-45, -2, 1, 2
+Misalkan -19*t = -119 - 33. Misalkan 0 = 5*k - 2*k - 2*q - t, 0 = k + 2*q + 8. Faktor dari -1/4*l**3 - 1/8*l**4 + 1/4*l + 1/8 + k*l**2.
+-(l - 1)*(l + 1)**3/8
+Faktor dari 1/2*g**3 + 29*g**2 + 57/2*g + 0.
+g*(g + 1)*(g + 57)/2
+Misalkan f be 364/12*19890/2142. Misalkan 20/3 + f*u**2 - 260/3*u = 0. Hitung u.
+2/13
+Misalkan c(l) = l**3 - 1. Misalkan k(j) = -j**4 + 4*j**3 + 27*j**2 + 29*j + 13. Misalkan q(f) = -6*c(f) - 2*k(f). Faktor dari q(t).
+2*(t - 10)*(t + 1)**3
+Misalkan y = -3752 - -3764. Misalkan j (v) menjadi turunan ke-kedua dari 1/48*v**4 + y*v + 0 + 1/8*v**2 - 1/12*v**3. Misalkan j(d) = 0. Berapakah d?
+1
+Misalkan o(g) = -2*g**3 - 18*g**2 + 19*g + 10. Misalkan h be o(-10). Faktor dari -60*j**2 + 37*j + 20 - 14*j**3 - h*j + 37*j.
+-2*(j - 1)*(j + 5)*(7*j + 2)
+Misalkan t (u) menjadi turunan ke-kedua dari u**6/10 + 69*u**5/20 + 59*u**4/2 - 96*u**3 - 432*u**2 + 293*u + 4. Tentukan o sehingga t(o) = 0.
+-12, -1, 2
+Faktor dari -7/2*a**3 - 5 - 29/2*a - 27/2*a**2 + 1/2*a**4.
+(a - 10)*(a + 1)**3/2
+Misalkan 0*r - 4/5*r**5 + 36/5*r**4 + 0 - 96/5*r**3 + 64/5*r**2 = 0. Hitung r.
+0, 1, 4
+Misalkan h (g) menjadi turunan ke-pertama dari -3*g**3/4 - 102*g**2 - 4624*g - 426. Tentukan u, mengingat bahwa h(u) = 0.
+-136/3
+Misalkan o(s) = s**3 - s**2 + 6*s + 75. Misalkan c be o(0). Misalkan -148 + 49 + 4*d**2 + c + 6*d - d**2 = 0. Berapakah d?
+-4, 2
+Misalkan b (j) menjadi turunan ke-ketiga dari 2*j**2 + 1/24*j**4 - 1/120*j**6 + 7*j - 1/3*j**3 + 0 + 1/30*j**5. Temukan f, mengingat b(f) = 0.
+-1, 1, 2
+Misalkan 50*l = 48*l + 3*j - 915, -3*j + 1380 = -3*l. Misalkan f = l - -465. Temukan t, mengingat 50*t - 2/5*t**4 - 30*t**2 + 6*t**3 + f = 0.
+0, 5
+Misalkan a (h) menjadi turunan ke-pertama dari 0*h**2 + 0*h - h**3 + 0*h**4 + 1/8*h**6 + 9/20*h**5 - 30. Faktor dari a(o).
+3*o**2*(o - 1)*(o + 2)**2/4
+Misalkan z(x) = 3*x**3 + 2*x**2 - 5*x - 6. Misalkan o be z(4). Faktor dari 7*m**3 + 2*m**4 - 17*m**3 + 190*m + 16*m**2 - o*m.
+2*m*(m - 2)**2*(m - 1)
+Faktor dari -145 + 110 + 6*a + 15*a**2 + 3*a**3 + 11.
+3*(a - 1)*(a + 2)*(a + 4)
+Misalkan o be (15/(-6) - -6)*42. Faktor dari -3*k**5 + 15*k**4 - 2*k**5 - 127*k**3 + o*k**3.
+-5*k**3*(k - 4)*(k + 1)
+Misalkan 5*q + 2*j = 2, 0*q - j - 12 = -4*q. Misalkan f be 1 + q + 1 + 1. Selesaikan -36 + 27 - 3*x**2 + 10*x - 3*x**3 + f*x = 0.
+-3, 1
+Misalkan t(q) = q**2 - 23*q - 60. Misalkan z(p) = 2*p**2 - 20*p - 60. Misalkan j(s) = -2*t(s) + 3*z(s). Misalkan j(u) = 0. Hitung u.
+-5/2, 6
+Faktor dari 24 + 83*o - 85*o**2 + 23*o**2 - 71*o**2 - 11*o**2 - 68*o**3 + 105*o.
+-4*(o - 1)*(o + 3)*(17*o + 2)
+Misalkan a (r) menjadi turunan ke-ketiga dari r**6/30 - 7*r**5/15 - 73*r**4/6 - 130*r**3/3 - 5*r**2 - 5*r. Misalkan a(s) = 0. Berapakah s?
+-5, -1, 13
+Misalkan k (f) menjadi turunan ke-ketiga dari f**6/30 - 29*f**5/15 - 47*f**4/3 - 128*f**3/3 + 57*f**2 - 2. Faktor dari k(j).
+4*(j - 32)*(j + 1)*(j + 2)
+Misalkan k(q) = -q**2 - 1391*q + 78. Misalkan o(f) = -3*f**2 - 2783*f + 169. Misalkan t(i) = 13*k(i) - 6*o(i). Misalkan t(c) = 0. Hitung c.
+0, 277
+Faktor dari 25*g - 1/2*g**4 + 0*g**3 + 27/2*g**2 + 12.
+-(g - 6)*(g + 1)**2*(g + 4)/2
+Misalkan z (i) menjadi turunan ke-ketiga dari -i**8/1344 - i**7/42 - 77*i**6/480 + 121*i**5/120 - 2*i**2 - 75. Selesaikan z(a) = 0.
+-11, 0, 2
+Misalkan 2*w - 39 + 23 = 0. Faktor dari -7*b**3 - 12*b**4 - w*b**3 - 9*b**3 - 2*b**5 + 8*b**3.
+-2*b**3*(b + 2)*(b + 4)
+Misalkan p (y) menjadi turunan ke-kedua dari 0 - 1/8*y**4 + 0*y**2 - 1/60*y**6 + 3/4*y**3 - 77*y - 1/8*y**5. Selesaikan p(d) = 0 untuk d.
+-3, 0, 1
+Misalkan t (k) menjadi turunan ke-ketiga dari -k**6/200 + 219*k**5/100 - 12099*k**4/40 + 11881*k**3/10 + 43*k**2 + 11*k. Temukan g sehingga t(g) = 0.
+1, 109
+Misalkan c (g) menjadi turunan ke-ketiga dari -14*g**2 - 1/12*g**4 + 0*g**3 + 1/360*g**6 + 0*g + 0 + 1/180*g**5. Faktor dari c(b).
+b*(b - 2)*(b + 3)/3
+Temukan v sehingga -235135*v**2 + 190*v - 2*v**3 + 235320*v**2 - 3*v**3 = 0.
+-1, 0, 38
+Misalkan u = -210/499 - -3177/3992. Temukan z sehingga u - 3/4*z**2 - 17/8*z = 0.
+-3, 1/6
+Misalkan i be 30/(-15)*(-9 + 1). Faktor dari a**2 - 26 - 10*a + 195 - i*a.
+(a - 13)**2
+Misalkan j be 0/((-4)/(3 + -1)). Misalkan -2*k + 2*i + 6 = j, 2*i = k - 2*i - 6. Faktor dari 4*p**k - 4*p**4 + 8*p + p**3 - 6*p**3 - 6*p**3 + 3*p**3.
+-4*p*(p - 1)*(p + 1)*(p + 2)
+Misalkan c (x) menjadi turunan ke-pertama dari 25/2*x**4 + 8*x - 16*x**2 + 10/3*x**3 + 9. Tentukan w sehingga c(w) = 0.
+-1, 2/5
+Misalkan p (s) menjadi turunan ke-kedua dari s**7/42 + 41*s**6/60 + 103*s**5/20 + 353*s**4/24 + 121*s**3/6 + 14*s**2 + 22*s + 5. Misalkan p(i) = 0. Hitung i.
+-14, -4, -1, -1/2
+Misalkan m (b) menjadi turunan ke-kedua dari -26*b + 3/2*b**4 - 1/15*b**6 + 0 + 4*b**2 - 1/6*b**5 + 1/63*b**7 - 32/9*b**3. Selesaikan m(s) = 0.
+-3, 1, 2
+Selesaikan 223147/7*s - 4810*s**2 - 107/7*s**4 - 3658/7*s**3 - 1/7*s**5 + 253265/7 = 0 untuk s.
+-37, -1, 5
+Misalkan d (t) menjadi turunan ke-kedua dari 0 - 1/11*t**2 + 35*t + 18/55*t**5 - 1/3*t**3 - 4/11*t**4. Faktor dari d(u).
+2*(u - 1)*(6*u + 1)**2/11
+Misalkan -6*o**5 + 28*o**4 + 0*o**5 - 884*o**3 + 944*o**3 - 26*o**5 = 0. Hitung o.
+-1, 0, 15/8
+Misalkan g be (-55 - 2)*(-425)/51. Misalkan r = -473 + g. Faktor dari -18 - 6*i**r - 18*i - 2/3*i**3.
+-2*(i + 3)**3/3
+Misalkan 33/8*i**4 - 63/4*i + 0 - 213/8*i**2 - 3/8*i**5 - 51/8*i**3 = 0. Hitung i.
+-1, 0, 6, 7
+Misalkan 5 = 14*s - 51. Misalkan 16*n**4 - 10*n**3 - 11*n**s - 20*n**5 + 25*n**5 = 0. Berapakah n?
+-2, 0, 1
+Misalkan f (p) menjadi turunan ke-kedua dari -804357*p**5/50 - 17298*p**4/5 - 1488*p**3/5 - 64*p**2/5 - 498*p. Faktor dari f(a).
+-2*(93*a + 4)**3/5
+Misalkan a = 32 + -16. Misalkan -255 = 11*l - a*l. Berapakah n dalam -4*n**5 + 10*n**2 - 56*n + l*n - 10*n**4 + 9*n**5 = 0?
+-1, 0, 1
+Misalkan f (s) menjadi turunan ke-kedua dari 0 + 8/57*s**4 - 4/95*s**5 + 0*s**3 - 68*s + 0*s**2 - 1/399*s**7 - 7/285*s**6. Faktor dari f(t).
+-2*t**2*(t - 1)*(t + 4)**2/19
+Faktor dari 452705*m**3 + 21*m**2 - 452708*m**3 + 30*m**2 - 147*m - 9*m**2.
+-3*m*(m - 7)**2
+Misalkan a(s) = 59 - 8*s**2 - 15 - 3*s**2 + 12*s**2. Misalkan x be a(0). Faktor dari 4*p**5 + 10*p**3 - 46*p**3 - 58*p**4 + 62*p**4 - 16*p + x*p**2.
+4*p*(p - 1)**3*(p + 4)
+Temukan c sehingga -29*c**2 + 64*c**4 - 47*c**2 + 22*c + 114*c - 4*c**5 - 132*c**3 + 12*c**4 = 0.
+-1, 0, 1, 2, 17
+Misalkan n(v) = -3*v**3 - 36*v**2 + 49*v - 45. Misalkan i(z) = 4*z**3 + 53*z**2 - 75*z + 67. Misalkan j(t) = 5*i(t) + 7*n(t). Selesaikan j(b) = 0.
+1, 2, 10
+Misalkan z be (-670)/(-67) + 6/(1/(-1)). Misalkan p (l) menjadi turunan ke-pertama dari 1/2*l**z - 8*l - 9 + 8*l**2 - 10/3*l**3. Selesaikan p(s) = 0 untuk s.
+1, 2
+Misalkan i be 14/(-4)*(424/7791)/(6/(-9)). Faktor dari 2/7*a**5 + 4/7*a**2 + 0*a**3 - 4/7*a**4 - i*a + 0.
+2*a*(a - 1)**3*(a + 1)/7
+Misalkan b (x) menjadi turunan ke-pertama dari -x**5/35 - 2*x**4 - 55*x**3/21 - 558. Faktor dari b(s).
+-s**2*(s + 1)*(s + 55)/7
+Misalkan 10/3*i**3 - 2/3*i**4 + 0*i + 0*i**2 + 0 = 0. Hitung i.
+0, 5
+Misalkan c = -4286 + 2380. Misalkan i = 32442/17 + c. Temukan a, mengingat i*a - 8/17 - 42/17*a**2 + 14/17*a**4 - 4/17*a**3 = 0.
+-2, 2/7, 1
+Misalkan u (a) menjadi turunan ke-ketiga dari 4*a**2 - 5/72*a**4 + 1/3*a**3 + 0 + 7*a - 1/90*a**5 + 1/360*a**6. Faktor dari u(k).
+(k - 3)*(k - 1)*(k + 2)/3
+Misalkan y (u) menjadi turunan ke-kedua dari -11*u**4/24 + 10*u**3/3 - 21*u**2/4 + 1100*u. Selesaikan y(z) = 0.
+7/11, 3
+Faktor dari -7/9*r**3 - 1/9*r**5 - 1/3*r**2 + 0 - 5/9*r**4 + 0*r.
+-r**2*(r + 1)**2*(r + 3)/9
+Misalkan p (m) menjadi turunan ke-kedua dari -m**4/36 - 401*m**3/9 - 160801*m**2/6 + 895*m. Temukan i, mengingat p(i) = 0.
+-401
+Misalkan u (f) menjadi turunan ke-ketiga dari -5*f**8/336 - 5*f**7/42 - 5*f**6/12 - 5*f**5/6 - 25*f**4/24 - 5*f**3/6 + 38*f**2. Temukan a sehingga u(a) = 0.
+-1
+Misalkan o be 19/(912/90)*2. Faktor dari 9/2 - 69/4*c + 33/2*c**2 - o*c**3.
+-3*(c - 3)*(c - 1)*(5*c - 2)/4
+Misalkan 1706*p + 635/2*p**3 - 380 - 1407*p**2 + 7/2*p**4 = 0. Berapakah p?
+-95, 2/7, 2
+Misalkan c be ((-14)/35)/((-1055)/(-25)). Misalkan y = c - -221/1055. Faktor dari 2/5 - y*k**2 + 1/5*k.
+-(k - 2)*(k + 1)/5
+Misalkan b(q) = -12*q**2 - 322*q - 126. Misalkan v(s) = 36*s**2 + 965*s + 381. Misalkan p(x) = -19*b(x) - 6*v(x). Misalkan p(f) = 0. Berapakah f?
+-27, -1/3
+Misalkan q = 83596 - 83594. Misalkan -34/5*z + 18/5 + 2/5*z**3 + 14/5*z**q = 0. Berapakah z?
+-9, 1
+Faktor dari 0 + 0*f**4 + 16/11*f**2 - 2/11*f**5 + 6/11*f + 12/11*f**3.
+-2*f*(f - 3)*(f + 1)**3/11
+Misalkan x (s) menjadi turunan ke-kedua dari 4*s + 1/20*s**5 + 1 - 2/3*s**3 - 1/12*s**4 + 2*s**2. Faktor dari x(v).
+(v - 2)*(v - 1)*(v + 2)
+Misalkan c (q) menjadi turunan ke-ketiga dari -q**7/840 - q**6/40 - 13*q**5/60 - q**4 - 8*q**3/3 + 463*q**2. Faktor dari c(y).
+-(y + 2)**2*(y + 4)**2/4
+Misalkan a = -44 + 46. Misalkan q be 21/(-7)*a*(-2)/3. Misalkan -27*d**5 + 5*d**3 - 3*d**4 - q*d**5 + d**5 - 22*d**4 = 0. Berapakah d?
+-1, 0, 1/6
+Misalkan h (s) menjadi turunan ke-ketiga dari 1/560*s**8 - 1/70*s**7 - 7/100*s**5 + 1/20*s**4 + 0*s**3 + 6*s**2 + 0 + 0*s + 9/200*s**6. Faktor dari h(q).
+3*q*(q - 2)*(q - 1)**3/5
+Misalkan i (f) menjadi turunan ke-ketiga dari 35/9*f**3 + 0 + 0*f + 1/36*f**5 - 25/24*f**4 + 22*f**2. Selesaikan i(w) = 0 untuk w.
+1, 14
+Misalkan q be (-20)/2*(-172)/215. Selesaikan 124*k**4 + 16*k**2 - 12 - 253*k**4 - 3*k - q*k**3 + 125*k**4 + 11*k = 0 untuk k.
+-3, -1, 1
+Misalkan j be 6/114 + 4088/3192. Tentukan r, mengingat bahwa -j*r**2 + 1/3*r**4 - 2/3*r + 1 + 2/3*r**3 = 0.
+-3, -1, 1
+Berapakah g dalam -2225*g**3 + 13687*g**3 + 2120*g**4 + 80*g**5 + 111260*g**2 + 6064*g**3 + 218789 + 4439*g**3 + 276080*g + 50331 = 0?
+-29/4, -4
+Misalkan m (o) menjadi turunan ke-pertama dari 3*o**6/2 + 23*o**5/30 - 41*o**4/6 - 59*o**3/6 - 10*o**2/3 + 2*o/3 + 590. Misalkan m(f) = 0. Hitung f.
+-1, -1/2, 2/27, 2
+Misalkan g (n) menjadi turunan ke-pertama dari 25*n**6/6 + 31*n**5 - 209*n**4 + 1088*n**3/3 - 256*n**2 + 80*n + 857. Berapakah h dalam g(h) = 0?
+-10, 2/5, 1, 2
+Misalkan z = -69 - -72. Selesaikan 18*m**z + 30*m - 5*m**4 + 12*m**3 + 10*m**4 + 55*m**2 = 0.
+-3, -2, -1, 0
+Misalkan 2*x + 0*x + 4*x - 14*x + 8*x**4 + 54*x**2 - 40*x**3 - 10*x = 0. Berapakah x?
+0, 1/2, 3/2, 3
+Misalkan q (b) menjadi turunan ke-pertama dari -2*b**3/3 + b**2 + 144*b - 1277. Selesaikan q(a) = 0 untuk a.
+-8, 9
+Misalkan d (y) menjadi turunan ke-ketiga dari y**6/420 + 62*y**5/105 + 35*y**4/12 + 122*y**3/21 + 72*y**2 - 2*y. Berapakah l dalam d(l) = 0?
+-122, -1
+Selesaikan 0*v**4 + 0*v**4 - 78*v**3 + 3*v**4 - 39*v + 18*v**3 - 288 + 9*v + 195*v**2 = 0 untuk v.
+-1, 2, 3, 16
+Misalkan i (z) menjadi turunan ke-pertama dari -12*z + 77 + 3*z**4 - 62/3*z**3 + 41*z**2. Faktor dari i(f).
+2*(f - 3)*(f - 2)*(6*f - 1)
+Misalkan l(d) = 44*d**2 - 7550*d + 114002. Misalkan i(h) = -325*h**2 + 60400*h - 912015. Misalkan t(j) = 3*i(j) + 25*l(j). Misalkan t(a) = 0. Hitung a.
+151/5
+Misalkan q(w) = w**3 - 17*w**2 - 14*w - 60. Misalkan o be q(18). Misalkan r be 20/o*4/20. Tentukan p sehingga r*p**2 - 2/3*p + 1/3 = 0.
+1
+Faktor dari 15 + 5/2*k**3 - 5/2*k - 15*k**2.
+5*(k - 6)*(k - 1)*(k + 1)/2
+Selesaikan -214*g + g**2 - 625 - 164*g + 246 = 0.
+-1, 379
+Misalkan m (y) menjadi turunan ke-pertama dari 2*y**6/15 + 8*y**5/5 - 3*y**4/5 - 128*y**3/15 - 8*y**2 + 1518. Selesaikan m(z) = 0.
+-10, -1, 0, 2
+Misalkan k be 3/((-9)/(-8)) + (-162)/243. Misalkan s be k/4 - 9/27. Faktor dari 0*x + 2/3 - s*x**2.
+-(x - 2)*(x + 2)/6
+Misalkan 0 = 4*r + 5*u + 132, 0 = 3*r - 2*u + 5*u + 96. Misalkan m = 86 + r. Tentukan i sehingga 4*i**2 - m + 4*i**3 + 58 + 0*i**3 = 0.
+-1, 0
+Misalkan a = -144/7 - -5623/273. Misalkan s (m) menjadi turunan ke-kedua dari 1/130*m**5 - 3*m - 1/13*m**3 + 0 + 0*m**2 + a*m**4. Temukan l sehingga s(l) = 0.
+-3, 0, 1
+Misalkan m (x) menjadi turunan ke-pertama dari -x**4/3 + 4*x**3/3 + 20*x**2/3 + 1121. Misalkan m(o) = 0. Berapakah o?
+-2, 0, 5
+Misalkan 0 = p - 5, -2*b - 27 = -4*b - 5*p. Misalkan c be (1 + 0)*-1*(b + -1). Faktor dari -3*x + c*x**2 + 3*x + x**2 - x**4.
+-x**2*(x - 1)*(x + 1)
+Misalkan n (t) menjadi turunan ke-ketiga dari t**7/42 - t**6/8 - 4*t**5/3 - 5*t**4/2 - 26*t**2 - 3. Faktor dari n(c).
+5*c*(c - 6)*(c + 1)*(c + 2)
+Misalkan g(s) = -20*s**3 - 988*s**2 - 2028*s - 1012. Misalkan v(a) = 23*a**3 + 986*a**2 + 2029*a + 1012. Misalkan m(x) = 9*g(x) + 8*v(x). Faktor dari m(k).
+4*(k - 253)*(k + 1)**2
+Misalkan q = 105539 + -738771/7. Faktor dari 0 + 2/7*s**2 + q*s.
+2*s*(s + 1)/7
+Misalkan z be (-3)/(-3)*(-2 + 0) + -6. Misalkan v = 10 + z. Faktor dari 10*b**v + 8*b - 8 - 12*b - 4*b**4 + 4*b**3 + 2*b**2.
+-4*(b - 2)*(b - 1)*(b + 1)**2
+Misalkan o (x) menjadi turunan ke-ketiga dari -x**8/336 + 11*x**7/105 + 2*x**6/5 - 422*x**2. Temukan a, mengingat o(a) = 0.
+-2, 0, 24
+Misalkan x = -243 - -468. Faktor dari 21*r + 35*r - r**2 - 26*r - x.
+-(r - 15)**2
+Misalkan n be 50/(-25)*(-1 + -1). Misalkan -n*b + a = -6, -32*b - 8 = -35*b - a. Temukan r sehingga 5*r - 5/2*r**b + 15/2 = 0.
+-1, 3
+Misalkan 183/5*k**4 - 18/5*k**5 + 15*k + 369/5*k**2 + 99*k**3 + 0 = 0. Hitung k.
+-1, -1/3, 0, 25/2
+Misalkan f (d) menjadi turunan ke-pertama dari 21/10*d**4 - 15*d**2 - 24/5*d**3 + 20 - 36/5*d. Temukan p sehingga f(p) = 0.
+-1, -2/7, 3
+Misalkan b = -453 + 447. Misalkan g be (b/39)/((-3)/6). Faktor dari -2/13*j**5 + 0 - 8/13*j**4 + 0*j - g*j**2 - 10/13*j**3.
+-2*j**2*(j + 1)**2*(j + 2)/13
+Misalkan j (s) menjadi turunan ke-kedua dari -1/10*s**5 + 0 + 13/21*s**4 - 8/7*s**2 - 59*s - 20/21*s**3. Berapakah x dalam j(x) = 0?
+-2/7, 2
+Misalkan z(p) = p + 12. Misalkan r be z(-10). Faktor dari -6*j + j - j**2 + r*j + 0*j**2 + 4.
+-(j - 1)*(j + 4)
+Misalkan b(k) = 23*k**2 - 62*k. Misalkan l(v) = 8*v**2. Misalkan j(d) = b(d) - 3*l(d). Faktor dari j(r).
+-r*(r + 62)
+Misalkan k = 21 + 4. Misalkan s = k + -21. Selesaikan 3*x + 3*x - 11*x + x + 4*x**2 + 4*x**3 - s = 0 untuk x.
+-1, 1
+Misalkan n (a) menjadi turunan ke-kedua dari -a**5/70 - 23*a**4/42 + 7*a**3/3 - 25*a**2/7 - 634*a. Faktor dari n(x).
+-2*(x - 1)**2*(x + 25)/7
+Faktor dari 54*a**2 - 11*a**3 + 35*a**3 - 8*a**4 - 10*a**4 + 3*a + 16*a**4 + 25*a.
+-2*a*(a - 14)*(a + 1)**2
+Faktor dari -1004/13*i - 126002/13 - 2/13*i**2.
+-2*(i + 251)**2/13
+Misalkan -35381*h = -35398*h + 34. Misalkan -338/3*s + 286/3*s**h + 2/3*s**4 + 50/3*s**3 + 0 = 0. Berapakah s?
+-13, 0, 1
+Misalkan c (m) menjadi turunan ke-kedua dari -1/28*m**5 + 1/10*m**6 + 2/21*m**3 + 0*m**2 + 5/147*m**7 + 48*m + 0 - 1/7*m**4. Selesaikan c(k) = 0 untuk k.
+-2, -1, 0, 2/5, 1/2
+Misalkan l = -4119 + 4123. Misalkan r (k) menjadi turunan ke-pertama dari 5/21*k**2 + 1/42*k**l - 8/63*k**3 + 11 - 4/21*k. Misalkan r(z) = 0. Berapakah z?
+1, 2
+Misalkan a = 348 + -193. Berapakah b dalam 128*b**2 - 81 - a*b**2 + 2*b**3 + 81*b + b**3 = 0?
+3
+Misalkan -53/10*k**2 - 43/10*k - 13/10*k**3 - 3/10 = 0. Berapakah k?
+-3, -1, -1/13
+Misalkan a (t) menjadi turunan ke-ketiga dari 1/45*t**5 + 2*t - 2*t**2 + 1/180*t**6 - 1/18*t**3 + 0 - 1/36*t**4 - 1/210*t**7. Tentukan o sehingga a(o) = 0.
+-1, -1/3, 1
+Faktor dari -3/4*n**2 - 879/4 + 441/2*n.
+-3*(n - 293)*(n - 1)/4
+Misalkan p (n) menjadi turunan ke-kedua dari -n**4/36 + n**3/2 + 1408*n. Faktor dari p(o).
+-o*(o - 9)/3
+Misalkan a be 248/(-186) - (-4)/60*26. Temukan l sehingga -2/5*l**2 + 2/5*l**3 + 2/5 - a*l = 0.
+-1, 1
+Misalkan i = 106393 + -106391. Misalkan -36/11 - 50/11*d + 6/11*d**i = 0. Berapakah d?
+-2/3, 9
+Misalkan l = -150 + 152. Misalkan s**5 + 5 + 112*s + 104*s**2 + l + 11*s**4 + 48*s**3 + 41 = 0. Berapakah s?
+-3, -2
+Misalkan s (l) menjadi turunan ke-pertama dari 0*l - 1/20*l**5 - 1/4*l**4 + 1/2*l**2 + 1/12*l**3 + 39. Faktor dari s(j).
+-j*(j - 1)*(j + 1)*(j + 4)/4
+Misalkan q (i) menjadi turunan ke-pertama dari -3*i**4/20 + 66*i**3/5 - 573*i**2/10 + 378*i/5 + 32. Misalkan q(g) = 0. Hitung g.
+1, 2, 63
+Misalkan p be (-6)/(-15) - (2844/(-30))/3. Misalkan 50*n = p*n. Faktor dari -x**2 - 1/4*x**4 + n*x - x**3 + 0.
+-x**2*(x + 2)**2/4
+Misalkan t (k) menjadi turunan ke-pertama dari -5*k**3/3 - 655*k**2/2 + 660*k - 606. Faktor dari t(x).
+-5*(x - 1)*(x + 132)
+Misalkan w = 33477 - 33469. Faktor dari -2/3*h**3 + 14/3*h**2 - 32/3*h + w.
+-2*(h - 3)*(h - 2)**2/3
+Misalkan -7*c**3 + 1/4*c**4 + 13*c**2 + 0*c + 0 = 0. Berapakah c?
+0, 2, 26
+Misalkan i(z) = -3*z**2 + 1359*z - 154563. Misalkan y(k) = 6*k**2 - 2719*k + 309134. Misalkan f(j) = 5*i(j) + 3*y(j). Tentukan b sehingga f(b) = 0.
+227
+Misalkan r be 1764/(-189) - (4 - 24). Misalkan 8*x**2 + 4 - 4/3*x**4 - r*x + 0*x**3 = 0. Hitung x.
+-3, 1
+Misalkan -174/11*r - 2/11*r**2 + 0 = 0. Hitung r.
+-87, 0
+Misalkan -4*r = -88*u + 84*u + 164, u = 3*r + 45. Faktor dari -u*q**3 - 72*q**2 - 3/4*q**5 - 9*q**4 + 0 - 48*q.
+-3*q*(q + 2)**2*(q + 4)**2/4
+Faktor dari -4*n**4 - 29*n**2 - 85*n - 16*n**2 - n**4 + 330*n + 1050*n**3 - 150 - 1095*n**3.
+-5*(n - 1)**2*(n + 5)*(n + 6)
+Misalkan z be ((-1243)/226)/((-55)/15). Misalkan -z*y + 0 + 3/2*y**2 = 0. Berapakah y?
+0, 1
+Misalkan -20*p + 17*p = 3*h - 93, -3*p + 149 = 5*h. Misalkan q be (55/h + -2)/(28/(-98)). Faktor dari -1/8*d**2 + 1/4 + q*d.
+-(d - 2)*(d + 1)/8
+Misalkan f (a) menjadi turunan ke-ketiga dari a**7/210 + 29*a**6/120 + 79*a**5/20 + 391*a**4/24 + 91*a**3/3 - a**2 - 140. Faktor dari f(v).
+(v + 1)**2*(v + 13)*(v + 14)
+Faktor dari -4 + 325*o**2 + 20*o + 3*o**3 + 106*o + 4 - 274*o**2.
+3*o*(o + 3)*(o + 14)
+Misalkan a (h) menjadi turunan ke-pertama dari h**4/6 + 4*h**3/3 + 11*h**2/3 + 4*h - 530. Faktor dari a(f).
+2*(f + 1)*(f + 2)*(f + 3)/3
+Misalkan r (f) menjadi turunan ke-kedua dari -f**4/4 + 20*f**3 - 117*f**2/2 - 607*f. Misalkan r(v) = 0. Berapakah v?
+1, 39
+Misalkan i be 68/402*(-342)/180. Misalkan r = 4/335 - i. Faktor dari r*n**3 + 5*n**2 + 125/3 + 25*n.
+(n + 5)**3/3
+Misalkan r (p) menjadi turunan ke-kedua dari 5*p**6/6 - 18*p**5 - 635*p**4/12 - 15*p**3 + 80*p**2 + 2*p - 172. Temukan a sehingga r(a) = 0.
+-1, 2/5, 16
+Misalkan d (c) menjadi turunan ke-pertama dari 2*c**5/35 - 13*c**4/7 - 1541. Faktor dari d(k).
+2*k**3*(k - 26)/7
+Misalkan s (v) menjadi turunan ke-pertama dari -v**3/5 - 162*v**2 - 43740*v - 1338. Misalkan s(k) = 0. Hitung k.
+-270
+Misalkan j (n) menjadi turunan ke-kedua dari 5*n**4/36 - 25*n**3/18 + 10*n**2/3 + 492*n. Faktor dari j(z).
+5*(z - 4)*(z - 1)/3
+Faktor dari 327*s - 649*s + 326*s - 188*s**2.
+-4*s*(47*s - 1)
+Misalkan k = 228 - 226. Faktor dari -2*v**4 + k*v**2 + 152*v + 6*v**3 - 158*v - 4*v**2 + 4.
+-2*(v - 2)*(v - 1)**2*(v + 1)
+Misalkan -71*k**2 + 7*k**5 - 12*k**3 - 16*k**3 + 31*k**3 - 88*k**4 + 159*k**4 - 10*k = 0. Hitung k.
+-10, -1, -1/7, 0, 1
+Misalkan q(a) = -16*a**3 - 31*a**2 - 28*a + 42. Misalkan j(z) = -6*z**3 - 10*z**2 - 10*z + 14. Misalkan d(n) = -11*j(n) + 4*q(n). Faktor dari d(i).
+2*(i - 7)*(i - 1)*(i + 1)
+Misalkan h (i) menjadi turunan ke-pertama dari i**4/14 + 254*i**3/21 - i**2/7 - 254*i/7 + 103. Tentukan w, mengingat bahwa h(w) = 0.
+-127, -1, 1
+Misalkan y (c) menjadi turunan ke-pertama dari -2*c**4 - 100*c**3/3 + 82*c**2 - 56*c - 416. Faktor dari y(o).
+-4*(o - 1)*(o + 14)*(2*o - 1)
+Misalkan -169 - 3*z**5 - 27*z**3 + 101*z + 85*z - 8*z**4 + 47*z**4 + 97 - 123*z**2 = 0. Berapakah z?
+-2, 1, 12
+Temukan g, mengingat 228/7*g + 0 + 114/7*g**4 - 354/7*g**2 - 6/7*g**5 + 18/7*g**3 = 0.
+-2, 0, 1, 19
+Misalkan -4*f = 3*l - 27, -l + 12*f + 20 = 17*f. Misalkan 6*r**l - 9*r**5 + 16*r**3 + 16*r**4 + 7*r**5 = 0. Berapakah r?
+-2, 0
+Misalkan -2*o + 1 = 3*c, 21*c + 2*o = 25*c + 8. Misalkan g be (-287)/(-42)*c - -7. Tentukan z, mengingat bahwa -1/6*z**4 + 0 - g*z**3 + 1/6*z**2 + 1/6*z = 0.
+-1, 0, 1
+Misalkan x(a) = 12 - 13*a - 7*a**2 + 9*a**2 + 0 - a. Misalkan f(s) = -s**2 + 7*s - 6. Misalkan j(y) = 5*f(y) + 2*x(y). Selesaikan j(h) = 0 untuk h.
+1, 6
+Misalkan z be 10/(110/(-99)) + 11. Misalkan m (c) menjadi turunan ke-kedua dari 0 + 2*c**z + 2*c + 1/12*c**4 + 5/6*c**3. Faktor dari m(w).
+(w + 1)*(w + 4)
+Misalkan -s - 2*s = 0. Misalkan 3*q + 4*b - 40 = 0, 10181*q + b = 10179*q + 15. Misalkan -2/9*n**q + 0*n**2 + 2/9*n**5 + s + 0*n - 4/9*n**3 = 0. Hitung n.
+-1, 0, 2
+Misalkan r (i) menjadi turunan ke-pertama dari 0*i + 35/3*i**3 + 17 + 5/4*i**4 - 20*i**2. Temukan y, mengingat r(y) = 0.
+-8, 0, 1
+Misalkan i = 5 - 19. Misalkan n be 6/(-12) - i/4. Faktor dari 5*d**3 - 3*d**3 - 5*d - n*d**3 - 11*d + 8*d**2.
+-d*(d - 4)**2
+Misalkan b be ((-81)/54)/(6/(-16)). Misalkan 0 = -3*t + c + 8 + 2, -b*c = -5*t + 26. Temukan m sehingga 15 + m**3 + m - 2*m**t - 15 = 0.
+0, 1
+Misalkan z be -3 - (-4)/8*46. Misalkan 0 = -5*p + 30 - z. Faktor dari 13*c**2 - 3*c + 5*c - 15*c**p.
+-2*c*(c - 1)
+Misalkan x(v) = 19*v**2 + 137*v + 212. Misalkan w be x(-5). Misalkan f = 296 + -575/2. Faktor dari 0 + 21/2*s**3 - 11/2*s**w + 5/2*s**5 - f*s**4 + s.
+s*(s - 1)**3*(5*s - 2)/2
+Tentukan o sehingga 86/9*o**2 + 5632/9 - 1216/9*o - 2/9*o**3 = 0.
+11, 16
+Misalkan -81675 - 1/3*q**2 - 330*q = 0. Hitung q.
+-495
+Misalkan g be (-6)/(-85)*(-5)/(-3)*-39. Misalkan u = -356/85 - g. Temukan v sehingga -4/5*v - u*v**2 - 2/5 = 0.
+-1
+Misalkan z be 24/276 + (-424)/(-230). Misalkan a = -3/23 + z. Misalkan 0*w**2 - 3/5*w**4 - a*w**3 + 12/5*w + 0 = 0. Berapakah w?
+-2, 0, 1
+Misalkan p (q) menjadi turunan ke-ketiga dari -59*q**2 + 0*q + 0 - 7/24*q**4 + 7/120*q**5 - 1/240*q**6 + 2/3*q**3. Misalkan p(f) = 0. Berapakah f?
+1, 2, 4
+Misalkan q = -636 - -644. Misalkan n be 1 + -1 + (1 - -3). Faktor dari -70*k**3 - k + 75*k**3 + q*k**n - 5*k**2 - 4*k - 3*k**4.
+5*k*(k - 1)*(k + 1)**2
+Misalkan j = 54279 + -54275. Faktor dari -2/7*i + 0 + 3/7*i**2 + 1/7*i**3 + 1/7*i**5 - 3/7*i**j.
+i*(i - 2)*(i - 1)**2*(i + 1)/7
+Misalkan v = -190 - -218. Faktor dari -58*i - 6*i**2 + v*i + 6*i**4 + 33*i - 3*i**5.
+-3*i*(i - 1)**3*(i + 1)
+Selesaikan 33958656*s - 249696*s**2 + 916*s**3 - 95*s**3 - 1731891456 - 5*s**3 - s**4 = 0 untuk s.
+204
+Faktor dari -105/8 + 3/4*y + 3/8*y**2.
+3*(y - 5)*(y + 7)/8
+Misalkan h (x) menjadi turunan ke-ketiga dari x**8/1344 - 3*x**7/280 - x**6/48 + 43*x**2 - 8*x. Misalkan h(u) = 0. Berapakah u?
+-1, 0, 10
+Misalkan o (z) menjadi turunan ke-ketiga dari -z**8/1008 + z**7/70 - z**6/72 - 29*z**5/180 + 7*z**4/12 - 8*z**3/9 + z**2 + 596. Faktor dari o(g).
+-(g - 8)*(g - 1)**3*(g + 2)/3
+Misalkan x be 16 - 0 - ((-24564)/72)/(-23). Temukan q sehingga -2 + x*q - 1/6*q**2 = 0.
+3, 4
+Misalkan m (a) menjadi turunan ke-kedua dari 15/2*a**3 - 7/4*a**4 - 27/2*a**2 + 3/20*a**5 - 2*a - 12. Tentukan h, mengingat bahwa m(h) = 0.
+1, 3
+Misalkan -3*f + 12 = -3*m, 7*m = 11*m + 16. Misalkan q (d) menjadi turunan ke-pertama dari -2/11*d**3 + f*d + 0*d**2 - 9. Faktor dari q(w).
+-6*w**2/11
+Misalkan y (z) menjadi turunan ke-ketiga dari -z**8/21 - 26*z**7/105 - 2*z**6/5 + 2*z**5/15 + 4*z**4/3 + 2*z**3 - 7*z**2 + 32*z. Faktor dari y(i).
+-4*(i + 1)**4*(4*i - 3)
+Misalkan 100 + 437/3*v**2 + 1/3*v**5 + 19/3*v**4 + 620/3*v + 45*v**3 = 0. Hitung v.
+-6, -5, -2, -1
+Misalkan h (m) menjadi turunan ke-pertama dari 2*m**3/9 - 10*m**2/3 - 26*m - 1534. Temukan o, mengingat h(o) = 0.
+-3, 13
+Misalkan f(k) = k**2 - 16*k + 7. Misalkan h be f(10). Misalkan j = 2 - h. Selesaikan j*a**2 - 45*a**5 + 10*a - 24*a**4 + 4*a**4 + 35*a**3 - 35*a**4 = 0 untuk a.
+-1, -2/9, 0, 1
+Misalkan u (c) menjadi turunan ke-ketiga dari c**6/30 - 19*c**5/15 + 25*c**4/3 - 64*c**3/3 - 13*c**2 + 4. Temukan h sehingga u(h) = 0.
+1, 2, 16
+Misalkan q (z) menjadi turunan ke-kedua dari -3*z**5/20 - 13*z**4/4 + 7*z**3 - z - 274. Temukan o, mengingat q(o) = 0.
+-14, 0, 1
+Misalkan f (r) menjadi turunan ke-pertama dari 4*r - 96*r**3 - 5 + r**2 + 100*r**3 + 21*r**2 - 20*r. Misalkan f(q) = 0. Hitung q.
+-4, 1/3
+Tentukan u sehingga 21/5*u**3 - 81/5*u + 54/5 + 3/5*u**4 + 3/5*u**2 = 0.
+-6, -3, 1
+Misalkan o = -181 + 157. Misalkan u be (-18)/o*10/15. Temukan y, mengingat 0 - 1/2*y**3 + 1/2*y - 1/2*y**4 + u*y**2 = 0.
+-1, 0, 1
+Misalkan w(g) = -121*g - 11729. Misalkan l be w(-97). Tentukan h, mengingat bahwa -32/3*h**2 + 1/3*h**5 + l*h**3 + 16/3*h + 0 - 8/3*h**4 = 0.
+0, 2
+Misalkan a be ((-1440)/60 - -28) + 34/(-10). Faktor dari 3/5*d**2 - 18/5 - a*d.
+3*(d - 3)*(d + 2)/5
+Misalkan -3*f - 3*t = 21, -5*f + 1536 = -3*t + 1483. Tentukan m sehingga 3/4*m**5 + 6 + 3*m**f + 3/4*m**3 - 3*m - 15/2*m**2 = 0.
+-2, 1
+Misalkan x + 18 = 3*g, 10*g - 5*g = 5*x + 40. Temukan o sehingga -2*o**3 + o**g - 37*o**4 - 2*o - o**3 + 38*o**4 - 5*o**2 = 0.
+-1, 0, 2
+Misalkan w (j) menjadi turunan ke-pertama dari j**5/160 - j**3 + 7*j**2/2 - 65. Misalkan r (n) menjadi turunan ke-kedua dari w(n). Faktor dari r(h).
+3*(h - 4)*(h + 4)/8
+Misalkan t (h) menjadi turunan ke-ketiga dari -h**7/315 - 31*h**6/180 + 13*h**5/18 - 11*h**4/12 + 13*h**2 + 52. Faktor dari t(k).
+-2*k*(k - 1)**2*(k + 33)/3
+Misalkan u (f) menjadi turunan ke-kedua dari -1/48*f**4 + 5/6*f**3 + 0 + f - 25/2*f**2. Misalkan u(c) = 0. Berapakah c?
+10
+Misalkan i = -1/15448 + 30903/108136. Tentukan m sehingga 4/7 - 2/7*m + i*m**3 + 2/7*m**4 - 6/7*m**2 = 0.
+-2, -1, 1
+Misalkan r (y) menjadi turunan ke-pertama dari -20 - 2/13*y**2 + 10/39*y**3 + 11/26*y**4 + 0*y + 8/65*y**5. Misalkan r(c) = 0. Berapakah c?
+-2, -1, 0, 1/4
+Misalkan y be (6/6*(634 + 0))/2. Misalkan -156 = -11*z + y. Misalkan z - 44 + 4*n + 3*n**4 + 0*n - 4*n**3 - 2*n**2 = 0. Hitung n.
+-1, 1/3, 1
+Misalkan 1153 - 2*p**3 - 165*p + 18*p**2 + 0*p**3 - 1153 + 5*p**3 = 0. Hitung p.
+-11, 0, 5
+Misalkan m (a) menjadi turunan ke-ketiga dari a**5/45 - 248*a**4/9 + 123008*a**3/9 - 5*a**2 + 97*a. Misalkan m(p) = 0. Berapakah p?
+248
+Misalkan n = 24 + -104/5. Misalkan p be 12180/(-725) + (9 - -8). Selesaikan 8/5*d - p*d**2 - n = 0.
+4
+Misalkan r = -3656 + 109681/30. Misalkan m (q) menjadi turunan ke-ketiga dari 1/12*q**4 + 0*q + 0 - 2/3*q**3 + r*q**5 + 15*q**2. Misalkan m(l) = 0. Hitung l.
+-2, 1
+Faktor dari h**2 - 2990*h - 3045*h - 3054*h + 9034*h - 236.
+(h - 59)*(h + 4)
+Misalkan -5*x = -66 + 46. Selesaikan -2*d**5 + 9*d**4 - 8*d**2 - 12*d**3 - 26*d**x + 9*d**4 + 0*d**5 - 2*d = 0 untuk d.
+-1, 0
+Misalkan l(z) = z**2 - 8*z - 25. Misalkan x be l(-15). Misalkan a = x + -317. Selesaikan -4/3*w**2 - 1/3*w**5 - 5/3*w**4 - 8/3*w**a + 0 + 0*w = 0.
+-2, -1, 0
+Faktor dari -4*w**3 - 16 + 4*w**2 + 0*w**4 + 12*w + 1/4*w**5.
+(w - 2)**3*(w + 2)*(w + 4)/4
+Misalkan -9*t + 28 + 17 = 0. Temukan l sehingga -28*l**t - 6*l**4 - 6*l + 18*l**5 + 4*l**3 + 12*l**5 + 2 + 4*l**2 = 0.
+-1, 1
+Faktor dari 16/9*a - 2/9*a**3 - 10/9*a**2 + 32/3.
+-2*(a - 3)*(a + 4)**2/9
+Misalkan -l**3 + 20*l - 60*l + 11*l - 14*l**2 + 29*l = 0. Berapakah l?
+-14, 0
+Misalkan f be (-126)/(-15)*20/3. Misalkan -u - f = -59. Misalkan -i**2 + u*i**4 + 12*i**3 + i**4 + 12*i**2 + 4*i + i**2 = 0. Berapakah i?
+-1, 0
+Faktor dari 157*i + 36 - 45*i**2 + 40*i**3 + 141*i - 388*i - 34*i**3 + 138*i.
+3*(i - 6)*(i - 2)*(2*i + 1)
+Misalkan y (g) menjadi turunan ke-pertama dari 3*g**6/8 + 15*g**5/4 + 81*g**4/16 - 9*g**3/4 - 21*g**2/4 - 139. Tentukan f sehingga y(f) = 0.
+-7, -1, 0, 2/3
+Misalkan y (w) menjadi turunan ke-ketiga dari -31*w**2 - 1/240*w**5 + 0*w**4 + 0 + 1/6*w**3 + 0*w. Temukan u sehingga y(u) = 0.
+-2, 2
+Faktor dari 3*g**2 + 262*g - 5*g**2 - 381 - 135 - g**2 + g**2.
+-2*(g - 129)*(g - 2)
+Tentukan x sehingga -5*x**2 + 13*x**2 + 27*x + 31*x**2 - 88*x**3 + 3*x**4 + 121*x**3 - 42 - 60*x**3 = 0.
+-1, 1, 2, 7
+Misalkan b = 98935 + -98932. Faktor dari -5/6*p**2 - 1/2*p + 3/2 - 1/6*p**b.
+-(p - 1)*(p + 3)**2/6
+Misalkan 52396146 - 298771*i - 3*i**3 + 5*i**3 - 4*i**3 - 230483*i + 1782*i**2 = 0. Hitung i.
+297
+Misalkan v = 2892608/425385 + 2/85077. Selesaikan -14/5*n**3 - 32/5*n**2 + v*n + 12/5 = 0.
+-3, -2/7, 1
+Misalkan b (o) menjadi turunan ke-kedua dari 13/4*o**2 + 2/5*o**5 + 7/4*o**4 + 0 + 57*o + 10/3*o**3 + 1/60*o**6. Selesaikan b(s) = 0.
+-13, -1
+Faktor dari 732*s + 9*s**2 + 25274 - 39308 - 30618 - 12*s**2.
+-3*(s - 122)**2
+Faktor dari -1/3*q**4 + 25326500/3*q + 740/3*q**3 - 68450*q**2 - 1171350625/3.
+-(q - 185)**4/3
+Misalkan k (t) menjadi turunan ke-pertama dari t**7/210 - t**6/30 + t**5/20 + 15*t**2 - 43. Misalkan c (n) menjadi turunan ke-kedua dari k(n). Faktor dari c(s).
+s**2*(s - 3)*(s - 1)
+Misalkan p (u) menjadi turunan ke-kedua dari 40/3*u**2 + 85/18*u**3 - 68*u + 0 + 5/36*u**4. Faktor dari p(r).
+5*(r + 1)*(r + 16)/3
+Misalkan l = 180971/2 - 90481. Misalkan 3/2*i**2 - l*i**3 + 9/2*i**4 + 0*i + 0 - 3/2*i**5 = 0. Berapakah i?
+0, 1
+Misalkan m(u) = u**2 + 40*u - 84. Misalkan o be m(-42). Misalkan d(i) = -i**2 - 13*i - 11. Misalkan x be d(-12). Selesaikan -1/4*s**2 + x + o*s = 0.
+-2, 2
+Misalkan r (i) menjadi turunan ke-ketiga dari i**6/40 - 11*i**5/10 + 59*i**4/8 - 19*i**3 - 7*i**2 - 6. Faktor dari r(q).
+3*(q - 19)*(q - 2)*(q - 1)
+Misalkan z(p) = p**3 - 46*p**2 + 480*p + 1155. Misalkan b(a) = 6*a**3 - 276*a**2 + 2880*a + 6929. Misalkan i(v) = 6*b(v) - 34*z(v). Faktor dari i(m).
+2*(m - 24)**2*(m + 2)
+Selesaikan 2549*b**2 - 20*b**3 - 782100*b + 143421 - 10464*b**2 - 45894 + 98493 = 0.
+-198, 1/4
+Misalkan i = -7873 + 7873. Faktor dari -8/7 + i*j + 2/7*j**3 + 6/7*j**2.
+2*(j - 1)*(j + 2)**2/7
+Misalkan 24/7 + 99/7*k**3 + 426/7*k + 501/7*k**2 = 0. Hitung k.
+-4, -1, -2/33
+Misalkan 3947 - 907 = 38*q. Misalkan y be (-12)/q*-5*1. Faktor dari 9/4*n**2 + y - 9/4*n - 3/4*n**3.
+-3*(n - 1)**3/4
+Misalkan r(s) = s**3 + 2*s**2 + 7*s - 2. Misalkan v(x) = -2*x**3 - 8*x**2 - 28*x + 8. Misalkan w(g) = 4*r(g) + v(g). Selesaikan w(n) = 0.
+0
+Misalkan w (o) menjadi turunan ke-kedua dari -5*o**7/42 + 7*o**6/3 - 18*o**5 + 200*o**4/3 - 320*o**3/3 - 805*o. Faktor dari w(x).
+-5*x*(x - 4)**3*(x - 2)
+Misalkan q be ((-8)/16)/(3/492). Misalkan c = -80 - q. Faktor dari -4/9*f + 0 - 2/9*f**c.
+-2*f*(f + 2)/9
+Misalkan i(j) = j**3 + 40*j**2 + 175*j. Misalkan k be i(-5). Berapakah s dalam 8/11*s - 2/11*s**2 + k = 0?
+0, 4
+Faktor dari -110*k + 0 - 2/3*k**2.
+-2*k*(k + 165)/3
+Misalkan v = 1335 - 1333. Misalkan j (g) menjadi turunan ke-pertama dari 0*g + 0*g**v + 3/4*g**4 - 11 + g**3. Misalkan j(o) = 0. Hitung o.
+-1, 0
+Misalkan s(v) = v + 1. Misalkan j be s(0). Misalkan 0 = 4*i + j - 9. Faktor dari -2*l**2 + l**2 + 3*l**2 - 3*l**3 - 5*l**i + 6*l.
+-3*l*(l - 1)*(l + 2)
+Misalkan p be ((-18)/171)/((-122)/38 + 3)*0. Berapakah r dalam -6/7*r**4 - 9/7*r**3 + p*r + 0 + 6/7*r**2 = 0?
+-2, 0, 1/2
+Temukan j sehingga 70/9 + 46/9*j - 22/9*j**2 + 2/9*j**3 = 0.
+-1, 5, 7
+Misalkan 24*x**3 + 2/9*x**5 - 32/3 - 44/9*x**4 - 404/9*x**2 + 326/9*x = 0. Berapakah x?
+1, 3, 16
+Misalkan w = 117 - 114. Faktor dari -2*y**4 - 2*y - 8*y**w - 3*y - 3*y - 8*y**2 - 2 - 4*y**2.
+-2*(y + 1)**4
+Misalkan h be ((-4)/(-4))/((-105)/(-25) - 4). Faktor dari 30*n**4 + 32*n**5 - 75*n + 10*n**2 + 20 + 80*n**3 - 37*n**h - 60.
+-5*(n - 8)*(n - 1)*(n + 1)**3
+Misalkan -320*a = -v - 318*a + 2, -v = 2*a - 2. Berapakah m dalam 16/9*m**3 + 0 - 2/9*m**4 - 34/9*m**v + 20/9*m = 0?
+0, 1, 2, 5
+Misalkan w (a) menjadi turunan ke-pertama dari 20*a**3/3 - 164*a**2 + 308*a - 480. Misalkan w(m) = 0. Hitung m.
+1, 77/5
+Misalkan v (k) menjadi turunan ke-pertama dari 72*k + 1 + 174*k**2 - 75/4*k**4 + 130*k**3. Temukan m, mengingat v(m) = 0.
+-2/5, 6
+Misalkan y (z) menjadi turunan ke-pertama dari -4/15*z**5 + 0*z + 45 - 44/9*z**3 + 7/3*z**4 + 10/3*z**2. Misalkan y(x) = 0. Berapakah x?
+0, 1, 5
+Misalkan a(i) = -53*i - 1943. Misalkan q be a(-37). Misalkan s (f) menjadi turunan ke-pertama dari 2/27*f**3 + q + 4/9*f**2 + 8/9*f. Faktor dari s(j).
+2*(j + 2)**2/9
+Misalkan f (b) menjadi turunan ke-ketiga dari -27*b**2 + 0*b + 0*b**3 + 1/5*b**6 - 1/84*b**8 + 1/2*b**4 + 8/15*b**5 + 0*b**7 + 0. Selesaikan f(m) = 0.
+-1, 0, 3
+Misalkan a (c) menjadi turunan ke-kedua dari -5*c**4/12 - 5*c**3/3 + 15*c**2/2 + 778*c + 1. Faktor dari a(f).
+-5*(f - 1)*(f + 3)
+Faktor dari 1/4*n**4 + 1/2*n**3 + 0 + 0*n - 6*n**2.
+n**2*(n - 4)*(n + 6)/4
+Misalkan t (h) menjadi turunan ke-ketiga dari -h**6/40 - 3*h**5/20 + 2*h**4 - 6*h**3 - 737*h**2. Misalkan t(x) = 0. Berapakah x?
+-6, 1, 2
+Misalkan v be 3890/65 - (8/(-52))/1. Misalkan d be 39/65 - (-4)/v*1. Temukan q, mengingat 0*q**2 + d*q - 4/9 - 2/9*q**3 = 0.
+-2, 1
+Misalkan f (a) menjadi turunan ke-ketiga dari a**6/360 + 41*a**5/60 + 399*a**4/8 - 1323*a**3/2 + 3*a**2 - 115*a. Faktor dari f(o).
+(o - 3)*(o + 63)**2/3
+Misalkan p be (-1 - -5)/(144/(-66) - -2). Misalkan s = 24 + p. Faktor dari -s + 39*u**2 - 34*u**2 - 3.
+5*(u - 1)*(u + 1)
+Misalkan -83 = -3*h + 4. Faktor dari 25*r**3 + 40*r**2 - 23*r + 72*r + 5*r**4 - h*r.
+5*r*(r + 1)*(r + 2)**2
+Misalkan w (l) menjadi turunan ke-ketiga dari 209*l**5/90 + l**4/36 + 977*l**2. Faktor dari w(y).
+2*y*(209*y + 1)/3
+Misalkan -23*y = -27*y + 336. Misalkan h be ((-46)/6 - -1)*y/(-112). Misalkan 0 + 0*a + 1/2*a**3 - 1/2*a**h + a**2 - a**4 = 0. Berapakah a?
+-2, -1, 0, 1
+Misalkan c (h) menjadi turunan ke-ketiga dari h**5/120 - 29*h**4/96 + 7*h**3/12 + 3*h**2 - 308. Faktor dari c(x).
+(x - 14)*(2*x - 1)/4
+Misalkan x (a) menjadi turunan ke-ketiga dari -a**6/300 + 62*a**5/25 - 2883*a**4/5 - 751*a**2. Faktor dari x(m).
+-2*m*(m - 186)**2/5
+Misalkan m be (-8)/51*(-774)/(-1032) - (-488)/102. Misalkan 16/3 - 2/3*z**2 - m*z = 0. Berapakah z?
+-8, 1
+Misalkan a(x) = -13*x - 1. Misalkan u be a(-1). Misalkan -6 + u = 2*v. Misalkan 8*k**3 - 19*k**2 + 5*k + v*k**2 + 4*k**4 - 37*k = 0. Berapakah k?
+-2, 0, 2
+Misalkan h(g) = -5*g**2 + 2037*g - 4241. Misalkan v(f) = f**2 - 510*f + 1060. Misalkan z(p) = -4*h(p) - 17*v(p). Misalkan z(i) = 0. Berapakah i?
+-176, 2
+Misalkan x(a) = 11 - 2*a. Misalkan t be x(4). Faktor dari -81*w**5 + 2*w**3 + 78*w**5 - 2*w**t.
+-3*w**5
+Misalkan d be -9 + ((-77)/(-22) - 3)/(-1)*-22. Faktor dari 0 + 0*w + 4/7*w**3 - 2/7*w**4 - 2/7*w**d.
+-2*w**2*(w - 1)**2/7
+Misalkan x (k) menjadi turunan ke-ketiga dari k**6/600 - k**5/75 - k**4/40 + 3*k**3/5 + 2*k**2 - 207*k. Faktor dari x(c).
+(c - 3)**2*(c + 2)/5
+Misalkan c (g) menjadi turunan ke-pertama dari -59 + 0*g - 3/4*g**4 - 39/2*g**2 - 14*g**3. Faktor dari c(r).
+-3*r*(r + 1)*(r + 13)
+Misalkan 19/3*r**3 - 28*r + 32/3*r**2 - 1/3*r**5 - 48 - 2/3*r**4 = 0. Hitung r.
+-4, -2, 3
+Misalkan p(m) = 9 - m. Misalkan y be p(5). Misalkan 16 = y*a - 0*a. Faktor dari 7*l**4 - 11*l**2 - 10*l - 20*l**3 - l**4 + 36*l**2 - l**a.
+5*l*(l - 2)*(l - 1)**2
+Misalkan i = 2442 - 14627/6. Misalkan t (f) menjadi turunan ke-kedua dari 3*f**5 + 5/2*f**3 + 0 - i*f**4 - f**6 + 0*f**2 + 15*f + 5/42*f**7. Faktor dari t(o).
+5*o*(o - 3)*(o - 1)**3
+Misalkan a (k) menjadi turunan ke-pertama dari -2*k**3/9 - 13*k**2/3 + 28*k/3 - 74. Misalkan a(h) = 0. Hitung h.
+-14, 1
+Misalkan a = -1/11526 - -14408/5763. Temukan q sehingga 0*q + 5*q**2 + 0 + a*q**5 + 0*q**4 - 15/2*q**3 = 0.
+-2, 0, 1
+Misalkan b (k) menjadi turunan ke-kedua dari 0*k**2 + 40*k - 2/3*k**3 + 0 + 1/3*k**4. Selesaikan b(s) = 0 untuk s.
+0, 1
+Misalkan 4*u = -2*n - 572, u - 2*u + 886 = -3*n. Misalkan s = n - -296. Faktor dari -5 + 75/4*k + 5*k**s.
+5*(k + 4)*(4*k - 1)/4
+Misalkan d = -3*d + 24. Misalkan x be (6 + -2)/(0 + (-8)/(-12)). Tentukan i sehingga -4 + 5*i - 4*i**2 + d*i - x*i + 3*i**2 = 0.
+1, 4
+Misalkan j (z) menjadi turunan ke-kedua dari -z**6/5 - z**5/2 - z**4/3 + 904*z. Temukan h, mengingat j(h) = 0.
+-1, -2/3, 0
+Misalkan u (n) menjadi turunan ke-pertama dari 2*n**3/33 + 123*n**2/11 + 244*n/11 - 35. Faktor dari u(m).
+2*(m + 1)*(m + 122)/11
+Misalkan i be (-450)/315 + (-8)/14. Misalkan q be (7 - (-7 + 22))/i. Misalkan -3*n**2 - q + 6*n + 1/2*n**3 = 0. Berapakah n?
+2
+Misalkan q (z) menjadi turunan ke-ketiga dari 43*z**5/60 - 11*z**4/3 + 2*z**3/3 + 849*z**2. Faktor dari q(h).
+(h - 2)*(43*h - 2)
+Misalkan q (l) menjadi turunan ke-ketiga dari -l**7/315 - 4*l**6/9 - 26*l**5/15 + 543*l**2. Misalkan q(i) = 0. Hitung i.
+-78, -2, 0
+Misalkan 348 = -y + 350. Misalkan -3*o = -1 + 10, -5*x = -4*o - 22. Selesaikan 9*s**2 + 2*s**x - 9 - 6*s**2 - 2*s**y - 6*s = 0.
+-1, 3
+Misalkan 359*h**3 - 5520*h**2 - 389344000 + 181144*h + 2358056*h - 355*h**3 = 0. Hitung h.
+460
+Misalkan z (n) menjadi turunan ke-kedua dari n**5/220 + 7*n**4/66 + 10*n**3/11 + 36*n**2/11 + 13*n - 4. Misalkan z(x) = 0. Hitung x.
+-6, -2
+Misalkan h be (58/406)/((-12)/(-24)). Faktor dari h*m**3 - 8/7*m - 6/7*m**2 + 0.
+2*m*(m - 4)*(m + 1)/7
+Misalkan p (i) menjadi turunan ke-ketiga dari 0*i**3 + 0*i - 2 + 5*i**2 - 1/480*i**6 + 1/48*i**4 + 1/240*i**5. Selesaikan p(u) = 0.
+-1, 0, 2
+Misalkan v = 137 + -140. Misalkan x be (-11)/((-264)/32)*v/(-6). Tentukan z sehingga 0 - 2/3*z - x*z**2 = 0.
+-1, 0
+Faktor dari 14/11*y**4 + 54/11*y - 36/11*y**2 - 20/11*y**3 + 54/11 - 2/11*y**5.
+-2*(y - 3)**3*(y + 1)**2/11
+Misalkan a(h) = 2*h**2 + 16*h. Misalkan 10*b - 45 = 6*b + v, v = b - 9. Misalkan o(l) = l. Misalkan k(j) = b*o(j) - 2*a(j). Faktor dari k(d).
+-4*d*(d + 5)
+Misalkan j be 0/(-3 + 4 + -4 + 2). Selesaikan -x**2 + j*x**2 + 9*x + 897 - 887 = 0 untuk x.
+-1, 10
+Misalkan n (o) menjadi turunan ke-kedua dari -o**6/40 + o**4/2 - 6*o**2 + 2*o - 31. Misalkan n(u) = 0. Hitung u.
+-2, 2
+Misalkan t be 0 + 1/((-1)/(-4)). Misalkan t*m - 11 = -3. Temukan w sehingga -2 + m*w**2 + 1 - 9 + 8*w = 0.
+-5, 1
+Misalkan u = -15265 + 91595/6. Tentukan y sehingga -5/2*y + 5/2*y**3 + 5/6*y**4 - u*y**2 + 0 = 0.
+-3, -1, 0, 1
+Misalkan n (w) menjadi turunan ke-kedua dari -5*w**7/42 - 17*w**6/6 - 53*w**5/2 - 255*w**4/2 - 675*w**3/2 - 945*w**2/2 + 48*w. Faktor dari n(p).
+-5*(p + 1)*(p + 3)**3*(p + 7)
+Misalkan x (z) menjadi turunan ke-pertama dari 7*z**4/22 - 104*z**3/11 + 191*z**2/11 - 84*z/11 + 490. Misalkan x(t) = 0. Berapakah t?
+2/7, 1, 21
+Tentukan u, mengingat bahwa 78/7*u**3 + 0 - 92/7*u + 326/7*u**4 + 2*u**5 - 326/7*u**2 = 0.
+-23, -1, -2/7, 0, 1
+Faktor dari -51*o**2 - o**5 + 69*o**4 + 55*o + 9*o + 12*o**3 - 29*o**2 - 64*o**4.
+-o*(o - 4)**2*(o - 1)*(o + 4)
+Misalkan k = -84208 - -252628/3. Temukan t, mengingat -10/9*t**3 + 2/9*t**4 + 0 + 0*t + k*t**2 = 0.
+0, 2, 3
+Misalkan l(x) = -2*x**3 - 3*x**2 - 4*x - 1. Misalkan n be l(-1). Faktor dari -14*t - 10*t + 30*t - 2*t**n.
+-2*t*(t - 3)
+Misalkan d(c) = 8 - c. Misalkan r be d(9). Misalkan p be ((8*3)/(-4))/(2*r). Temukan t sehingga 2*t**4 - 10*t**p + t**4 + 7*t**3 = 0.
+0, 1
+Misalkan -32*o**2 - 107/6*o**3 - 3*o**4 + 1 - 97/6*o = 0. Berapakah o?
+-3, -2, -1, 1/18
+Misalkan i (u) menjadi turunan ke-ketiga dari -u**7/1575 - 2*u**6/225 - 2*u**5/75 + 392*u**2. Misalkan i(g) = 0. Berapakah g?
+-6, -2, 0
+Misalkan u be 1/4 - 99/12. Misalkan a be ((-1)/(-6))/((-335)/(-40) + u). Temukan n sehingga -a*n**3 + 0 + 0*n**2 + 0*n = 0.
+0
+Selesaikan 486/7*h + 22/7*h**4 - 108/7 + 558/7*h**2 + 194/7*h**3 = 0.
+-3, 2/11
+Misalkan n (i) menjadi turunan ke-ketiga dari 0*i**3 + 55*i**2 + 0 - 1/2*i**4 + 1/120*i**5 + 0*i. Misalkan n(o) = 0. Hitung o.
+0, 24
+Misalkan p be 4 - (32 - (-1 + 2)). Misalkan y be p/135 + (-16)/(-5). Berapakah c dalam 3*c**2 - 11*c**2 + 201*c**3 - 4*c - 205*c**y = 0?
+-1, 0
+Misalkan p = -141706/3 - -47236. Misalkan -v**3 - v - 8/3*v**2 + p = 0. Hitung v.
+-2, -1, 1/3
+Misalkan k = 23 + -14. Misalkan i be ((-10)/30)/(2/(-18)). Faktor dari -4*g - 15*g**2 - k*g**i - 5*g**4 - g - 6*g**3 + 0*g.
+-5*g*(g + 1)**3
+Misalkan f (i) menjadi turunan ke-ketiga dari i**6/30 + 4*i**5/15 - 5*i**4/2 - 12*i**3 - 209*i**2 + 4*i. Selesaikan f(c) = 0 untuk c.
+-6, -1, 3
+Misalkan l(o) = -9*o**3 + 49*o**2 - 81*o + 36. Misalkan j(w) = w**3 - w**2 + w. Misalkan b = -182 - -181. Misalkan v(q) = b*l(q) - 5*j(q). Faktor dari v(h).
+4*(h - 9)*(h - 1)**2
+Faktor dari 2*a**3 + 2/7*a**4 - 86/7*a - 48/7 - 26/7*a**2.
+2*(a - 3)*(a + 1)**2*(a + 8)/7
+Faktor dari -44*s**2 + 2*s**4 - 144*s + 2224 + 2*s**4 - 24*s**2 - 2304.
+4*(s - 5)*(s + 1)*(s + 2)**2
+Misalkan 0 = 4*o - 7*g + 2*g - 55, -g + 17 = 2*o. Selesaikan 170*m**4 - 168*m**4 + 6*m**2 + 0*m**5 - 2*m**5 + o*m**3 = 0 untuk m.
+-1, 0, 3
+Tentukan n, mengingat bahwa -10/9*n + 4/3 + 2/9*n**3 - 4/9*n**2 = 0.
+-2, 1, 3
+Misalkan z (f) menjadi turunan ke-pertama dari -4*f**3/3 - 46*f**2 + 96*f - 235. Faktor dari z(k).
+-4*(k - 1)*(k + 24)
+Misalkan w(z) = -z**3 - 21*z**2 - 77*z + 197. Misalkan h be w(-15). Temukan c sehingga 2*c - 2/3*c**h - 10/9 - 2/9*c**3 = 0.
+-5, 1
+Misalkan 0*p = -3*p + 6. Misalkan o(q) = 10*q - 5. Misalkan x be o(p). Misalkan 10 + 0 - 3*v**4 + x*v**3 + 0*v**4 + 2 - 24*v - 3*v**5 + 3*v**2 = 0. Berapakah v?
+-2, 1
+Misalkan 21*t**3 + t**5 + 19*t**2 + 17*t**2 + 201*t**4 - 215*t**4 = 0. Hitung t.
+-1, 0, 3, 12
+Misalkan -111*t + 116*t = -4080. Misalkan p be (-1 - 14/4)*136/t. Misalkan 1/4*g**2 + 1/2 + p*g = 0. Berapakah g?
+-2, -1
+Misalkan a = 261 - 276. Misalkan o be 689/273 - 5/a. Temukan d, mengingat 50/7 + 2/7*d**2 - o*d = 0.
+5
+Misalkan b (y) menjadi turunan ke-kedua dari y**3/3 + 8*y**2 + 6*y. Misalkan j be b(-5). Faktor dari -u**3 + j*u**3 - 6*u**4 + u**4.
+-5*u**3*(u - 1)
+Misalkan q be ((-21626)/(-14))/(7 - (7 - -3)). Misalkan s = q - -515. Faktor dari 2/21*p - 2/21*p**2 - 2/21*p**3 + s.
+-2*(p - 1)*(p + 1)**2/21
+Misalkan w = 132 - 128. Faktor dari -7*s + 13*s**3 + 14*s**3 - 5*s - 30*s**2 + 3*s + 12*s**w.
+3*s*(s - 1)*(s + 3)*(4*s + 1)
+Misalkan 0 = -20*k - k - 17*k - 3*k. Selesaikan k + 10/11*l**2 - 2/11*l**3 + 12/11*l = 0 untuk l.
+-1, 0, 6
+Faktor dari -24/7*g + 4/7*g**2 + 0.
+4*g*(g - 6)/7
+Temukan v, mengingat 0 - 3/7*v**2 + 3/7*v**3 - 3/7*v**5 + 3/7*v**4 + 0*v = 0.
+-1, 0, 1
+Misalkan c(y) = -7*y - 2. Misalkan u be c(-1). Misalkan a = -5375 + 10751/2. Selesaikan -a + 2*m**2 + 0*m - 3/2*m**4 - m**u + m**3 = 0.
+-1, 1/2, 1
+Misalkan r (j) menjadi turunan ke-pertama dari j**3 + 153*j**2/2 + 150*j - 1162. Tentukan b sehingga r(b) = 0.
+-50, -1
+Faktor dari 25/3*j + 18 - 1/3*j**2.
+-(j - 27)*(j + 2)/3
+Misalkan j (n) menjadi turunan ke-kedua dari n**4/126 + 2*n**3/3 - 45*n**2/7 - 3*n + 304. Faktor dari j(y).
+2*(y - 3)*(y + 45)/21
+Misalkan h (d) menjadi turunan ke-pertama dari d**4/10 - 194*d**3/15 + 2303*d**2/5 + 4802*d/5 + 1081. Temukan j, mengingat h(j) = 0.
+-1, 49
+Misalkan -81 = -12055*p + 12028*p. Faktor dari -8/3*a - 2/3*a**4 + 10/3*a**p - 4*a**2 + 16/3.
+-2*(a - 2)**3*(a + 1)/3
+Misalkan g(f) = -f**3 - 28*f**2 - 153*f - 124. Misalkan v be g(-21). Faktor dari 12*w**v - 3/2*w**3 - 57/2*w + 18.
+-3*(w - 4)*(w - 3)*(w - 1)/2
+Misalkan -12*h**4 - 90 - 225*h**3 + 7*h**5 + 422*h**2 - 183*h + 368*h**3 - 287*h**3 = 0. Berapakah h?
+-5, -2/7, 1, 3
+Misalkan 200 = -5*j + 5*y, 3 = -2*y + 7. Misalkan u = -34 - j. Faktor dari -4*s**4 + 14*s**u - 7*s**2 + 2*s**2 + 5*s**3.
+5*s**2*(s + 1)*(2*s - 1)
+Misalkan 704 + 78*v**2 - 706*v - 19*v**2 - 25*v**2 - 32*v**2 = 0. Hitung v.
+1, 352
+Misalkan t (d) menjadi turunan ke-kedua dari -44/3*d**3 + d**2 - 78*d + 121*d**4 + 14641/15*d**6 - 2662/5*d**5 + 0. Faktor dari t(o).
+2*(11*o - 1)**4
+Faktor dari 140*x**3 - 48*x**3 + 76*x**2 + 252*x - 46*x**3 - 42*x**3 + 180.
+4*(x + 1)*(x + 3)*(x + 15)
+Misalkan -11 + 151 = 5*q. Selesaikan 52*b + 51*b**3 - 114*b + 58*b - q*b**2 - 19*b**3 = 0 untuk b.
+-1/8, 0, 1
+Misalkan j(p) = 6*p**3 + 13*p**2 + 41*p + 33. Misalkan d(u) = u**3 - u - 3. Misalkan t(z) = 5*d(z) - j(z). Faktor dari t(g).
+-(g + 2)*(g + 3)*(g + 8)
+Misalkan b be 2/7 + (0 - 34065/(-63)). Temukan j sehingga -250*j**5 + 574*j**4 - 120*j - 1490*j**3 + 501*j**4 + 414*j**2 + b*j**2 - 215*j**2 = 0.
+0, 2/5, 3/2, 2
+Misalkan b be 2/(-5) + (-65 - (-13533)/195). Temukan n, mengingat -22/9*n - 34/9*n**3 - 14/3*n**2 - 4/9 - 10/9*n**b = 0.
+-1, -2/5
+Misalkan h be (-52)/56 + (-1740)/(-1218). Misalkan p be (1/3 - 1)*-3. Faktor dari 1/2*j**p + h*j + 0.
+j*(j + 1)/2
+Misalkan b = -13898 + 55595/4. Faktor dari -b - 3/2*s + 3/2*s**3 + 3/4*s**4 + 0*s**2.
+3*(s - 1)*(s + 1)**3/4
+Misalkan k (r) menjadi turunan ke-ketiga dari r**8/504 - r**7/105 + r**6/90 + 1529*r**2. Misalkan k(s) = 0. Hitung s.
+0, 1, 2
+Misalkan h (f) menjadi turunan ke-pertama dari 0*f + 45/2*f**2 + 355/2*f**4 + 140*f**5 + 245/6*f**6 + 42 + 100*f**3. Temukan q, mengingat h(q) = 0.
+-1, -3/7, 0
+Misalkan c (g) menjadi turunan ke-kedua dari -g**6/60 - g**5/10 + 4*g**3/3 + 4*g**2 - 299*g + 2. Temukan d sehingga c(d) = 0.
+-2, 2
+Misalkan 5 = -4*q + 25, -5*r - 3*q = -45. Misalkan m be (-40)/r*2550/(-875). Misalkan -2/7 + 16*c**4 + 15/7*c**2 + m*c**3 - 11/7*c = 0. Hitung c.
+-1, -1/4, 2/7
+Misalkan w (g) menjadi turunan ke-ketiga dari g**5/72 - 55*g**4/72 + 65*g**3/4 + 2*g**2 - 422. Selesaikan w(m) = 0.
+9, 13
+Misalkan -18 = 2*s - 3*b, 110*s - 12 = 107*s - 2*b. Faktor dari 3*n**3 + 3/2*n**4 + s*n**2 - 3*n - 3/2.
+3*(n - 1)*(n + 1)**3/2
+Misalkan j be 4716/(-540) - -12 - 1*2/(-6). Faktor dari 24/5*t**2 - 2*t**3 + 0 + j*t.
+-2*t*(t - 3)*(5*t + 3)/5
+Misalkan s (i) menjadi turunan ke-ketiga dari 0 + 14*i**2 + 243*i**3 + 9/10*i**5 + 0*i + 81/4*i**4 + 1/60*i**6. Faktor dari s(f).
+2*(f + 9)**3
+Misalkan x (y) menjadi turunan ke-pertama dari -32*y**3/21 + 376*y**2/7 - 4418*y/7 - 441. Selesaikan x(w) = 0.
+47/4
+Misalkan u = -3 + 9. Tentukan a sehingga 9*a + u*a + 18*a - 24*a - 60*a**2 + 9*a**5 - 60*a**4 + 118*a**3 = 0.
+0, 1/3, 3
+Misalkan d (t) menjadi turunan ke-ketiga dari -t**5/150 - 37*t**4/10 - 4107*t**3/5 + 48*t**2. Selesaikan d(h) = 0 untuk h.
+-111
+Misalkan x be 2*(-4 + 39198/8388). Misalkan t = -3/233 + x. Misalkan -t*m + 0 - 2/3*m**2 = 0. Berapakah m?
+-2, 0
+Misalkan b(n) = 2*n**4 - n**2. Misalkan t(l) = 16*l**4 - 16*l**3 - 58*l**2 + 160*l + 192. Misalkan v(d) = -6*b(d) + t(d). Faktor dari v(k).
+4*(k - 4)**2*(k + 1)*(k + 3)
+Temukan x sehingga -2/11*x**5 + 16/11*x + 36/11*x**2 + 0*x**4 + 2*x**3 + 0 = 0.
+-2, -1, 0, 4
+Misalkan z (y) menjadi turunan ke-pertama dari -242*y**6/3 - 176*y**5/5 + 194*y**4 + 48*y**3 - 162*y**2 + 453. Temukan p, mengingat z(p) = 0.
+-1, 0, 9/11
+Selesaikan -2677956*q**2 + 2675976*q**2 + 261360*q - 4*q**3 + 9*q**3 - 11499840 = 0 untuk q.
+132
+Misalkan v (l) menjadi turunan ke-pertama dari -21/4*l**2 + 57 - 1/4*l**3 + 0*l. Faktor dari v(y).
+-3*y*(y + 14)/4
+Misalkan b = -47242 + 47247. Faktor dari -3/2*s**4 + 1/8*s**b + 0*s**2 + 9/2*s**3 + 0*s + 0.
+s**3*(s - 6)**2/8
+Misalkan l (c) menjadi turunan ke-kedua dari 861*c**4/8 + 31*c**3 + 3*c**2 - 9*c + 51. Misalkan l(x) = 0. Berapakah x?
+-2/21, -2/41
+Faktor dari -2120*j - 5*j**2 + 0*j**2 - 856*j - 584820 - 444*j.
+-5*(j + 342)**2
+Misalkan b (g) menjadi turunan ke-pertama dari 2/3*g**5 + 1/9*g**6 + 2/3*g**2 + 0*g - 73 + 3/2*g**4 + 14/9*g**3. Faktor dari b(q).
+2*q*(q + 1)**3*(q + 2)/3
+Tentukan g, mengingat bahwa -766140*g + 1695*g**2 + 115431760 - 5/4*g**3 = 0.
+452
+Misalkan -w + 5*w - 28 = 0. Misalkan j be (6/(-7))/(6/(-21)). Faktor dari -j*g**2 + g**4 - g**2 + w*g**2 + 4*g**3.
+g**2*(g + 1)*(g + 3)
+Selesaikan -11/6*o**2 + 68/3*o - 1/6*o**3 - 152/3 = 0.
+-19, 4
+Misalkan z = -416 + 616. Misalkan r be -5 - z/(-16) - 6. Selesaikan 3*i**3 + 0*i**2 - r - 3*i + 3/2*i**4 = 0 untuk i.
+-1, 1
+Misalkan b = -261 - -285. Misalkan a(v) = v**3 - 22*v**2 - 47*v - 20. Misalkan h be a(b). Tentukan n sehingga 56/3*n**3 + 32/3*n + 0 + 80/3*n**2 + 4*n**h = 0.
+-2, -2/3, 0
+Misalkan n(c) = 5*c - 146. Misalkan v be n(28). Misalkan i be (4/v + 8/(-12))/(-2). Tentukan q, mengingat bahwa 0 - 2/3*q + 2/3*q**3 - i*q**4 + 2/3*q**2 = 0.
+-1, 0, 1
+Misalkan x = 142739/4 - 35684. Faktor dari 33/2*q**2 - 123/4*q - x*q**3 + 15.
+-3*(q - 20)*(q - 1)**2/4
+Temukan b sehingga -48/5 - 142/15*b + 2/15*b**3 + 4/15*b**2 = 0.
+-9, -1, 8
+Misalkan w (j) menjadi turunan ke-ketiga dari -j**7/210 - j**6/360 + 7*j**5/90 - 214*j**2. Faktor dari w(f).
+-f**2*(f - 2)*(3*f + 7)/3
+Misalkan p(z) = 240*z + 70 + 10*z**2 - 29*z**2 - 76*z**2. Misalkan h(a) = 8*a**2 - 20*a - 6. Misalkan s(w) = -35*h(w) - 3*p(w). Temukan r sehingga s(r) = 0.
+0, 4
+Misalkan t = -76 - -78. Misalkan -t*p - 21 = 4*q - 45, 3*p = 3*q. Tentukan b sehingga 0 - 2*b**3 - 1/2*b**p - b - 5/2*b**2 = 0.
+-2, -1, 0
+Misalkan n (g) menjadi turunan ke-ketiga dari 26*g + 2/3*g**3 + 0*g**5 + g**2 + 0 + 1/60*g**6 - 1/4*g**4. Faktor dari n(l).
+2*(l - 1)**2*(l + 2)
+Misalkan b (x) menjadi turunan ke-pertama dari 1/12*x**4 - 2/3*x**3 - 2*x + 11/6*x**2 + 31. Selesaikan b(l) = 0 untuk l.
+1, 2, 3
+Misalkan h = -76458 + 76467. Faktor dari h*r - 3/4*r**2 + 0.
+-3*r*(r - 12)/4
+Misalkan k be -1 - ((-6)/(60/(-25)) + (-350)/84). Berapakah m dalam -2/3*m**3 - k*m + 4/3*m**2 + 0 = 0?
+0, 1
+Misalkan h = 12836/96495 + 2/6433. Tentukan b, mengingat bahwa 2/5*b**3 - 4/15*b**4 + 8/15*b + 0 + 16/15*b**2 - h*b**5 = 0.
+-2, -1, 0, 2
+Misalkan k (g) menjadi turunan ke-ketiga dari 2*g**7/735 + 3*g**6/14 + 208*g**5/35 + 128*g**4/3 - 8192*g**3/7 - 17*g**2 - 6. Faktor dari k(d).
+4*(d - 3)*(d + 16)**3/7
+Misalkan 18*t - 19*t + 3 = 0. Faktor dari 0*g - 4 - 6*g**t - 16*g + 0*g**2 + g**2 + 10*g**3.
+(g - 2)*(g + 2)*(4*g + 1)
+Misalkan y be -24 + 6*(-261)/(-58). Selesaikan 9*u - 57/4*u**2 - 3*u**5 + 45/4*u**4 + y - 6*u**3 = 0 untuk u.
+-1, -1/4, 1, 2
+Selesaikan 1/3*l**2 - 8*l - 25/3 = 0.
+-1, 25
+Misalkan p = -24 + 18. Misalkan b be ((-50)/6 - -9)/((-10)/p). Selesaikan 14/5*v + 6/5 + 2*v**2 + b*v**3 = 0.
+-3, -1
+Misalkan x (s) menjadi turunan ke-pertama dari -3*s**4/8 - 11*s**3/2 - 18*s**2 + 54*s + 240. Berapakah o dalam x(o) = 0?
+-6, 1
+Misalkan g be 45/54*-4 + (-14)/(-4). Misalkan z (x) menjadi turunan ke-kedua dari 0 - x - 1/9*x**3 - 1/36*x**4 - g*x**2. Faktor dari z(d).
+-(d + 1)**2/3
+Misalkan -4*w - 4*n + 68 = 0, -5*w - 4*n + 109 = -5*n. Faktor dari w*j**4 - 12*j**5 + 4*j**3 + 22*j**4 - 51*j**4.
+-4*j**3*(j + 1)*(3*j - 1)
+Misalkan a (j) menjadi turunan ke-ketiga dari -j**5/40 - 19*j**4/2 - 75*j**3 - 1448*j**2. Misalkan a(g) = 0. Berapakah g?
+-150, -2
+Misalkan -313 - 101 - 350 + 722*v + 44 - 2*v**2 = 0. Berapakah v?
+1, 360
+Misalkan q be 12 + -5 + (-5)/((-35)/(-21)). Temukan n, mengingat 52/5*n**2 + 27/5*n**5 - 16/5*n - 117/5*n**q + 0 + 24/5*n**3 = 0.
+-2/3, 0, 1/3, 2/3, 4
+Misalkan d = 158 + -65. Faktor dari -19*k**2 + 63*k + d*k + 36 - 15*k**2 + 7*k**2.
+-3*(k - 6)*(9*k + 2)
+Temukan m sehingga 12/19*m**3 + 2/19*m**4 - 180/19*m - 26/19*m**2 - 144/19 = 0.
+-6, -3, -1, 4
+Misalkan r (f) menjadi turunan ke-pertama dari 1/5*f**4 + 0*f**3 + 0*f**2 + 53 + 1/30*f**6 + 0*f - 1/5*f**5. Temukan n, mengingat r(n) = 0.
+0, 1, 4
+Misalkan b(q) = -8*q**3 + 71*q**2 - 50*q - 23. Misalkan j(c) = 10*c**3 - 71*c**2 + 50*c + 26. Misalkan t(h) = 6*b(h) + 4*j(h). Faktor dari t(i).
+-2*(i - 17)*(i - 1)*(4*i + 1)
+Misalkan u = 343/3 - 37727/330. Misalkan r (l) menjadi turunan ke-kedua dari 2/11*l**2 - 3*l - u*l**5 + 1/33*l**3 + 0 - 1/33*l**4. Faktor dari r(s).
+-2*(s - 1)*(s + 1)*(s + 2)/11
+Misalkan 36 = 4*u + 3*d, 4*u + 4*d - 12 = 28. Misalkan -k - u = -10. Tentukan z, mengingat bahwa 24/7*z**k + 8/7*z**3 - 2*z**5 + 0 + 0*z**2 + 0*z = 0.
+-2/7, 0, 2
+Misalkan r(k) = 2*k**3 - 194*k**2 - 812*k + 404. Misalkan f be r(101). Faktor dari 0*j + 0*j**2 + f + 3/4*j**3 - 1/8*j**4.
+-j**3*(j - 6)/8
+Misalkan s(c) = -8*c**3 + 546*c**2 + 18522*c + 17956. Misalkan g(q) = -2*q**3 + q**2 + 5*q. Misalkan u(n) = -6*g(n) + s(n). Faktor dari u(x).
+4*(x + 1)*(x + 67)**2
+Misalkan c(v) = -2*v**5 + v**4 - v**3. Misalkan t(f) = -13*f**5 + 36*f**4 - 139*f**3 + 204*f**2 - 100*f. Misalkan h(w) = 6*c(w) - t(w). Faktor dari h(z).
+z*(z - 25)*(z - 2)**2*(z - 1)
+Misalkan -4*v - 2*x - 6 = 0, -2*v - 2*x - 6 = -4*v. Misalkan v = -41*t + 179 + 26. Berapakah c dalam 2/5*c**3 - c**4 - 1/5 - 3/5*c**t + 6/5*c**2 + 1/5*c = 0?
+-1, 1/3, 1
+Misalkan p (o) menjadi turunan ke-ketiga dari 1/114*o**4 + 0*o**3 - 1/57*o**7 - 17/570*o**5 + 13/380*o**6 + 25*o**2 + 0*o + 11/3192*o**8 + 0. Faktor dari p(u).
+2*u*(u - 1)**3*(11*u - 2)/19
+Misalkan x (b) menjadi turunan ke-kedua dari 5*b**4/12 - 1960*b**3/3 + 384160*b**2 - 499*b. Selesaikan x(z) = 0.
+392
+Misalkan l (q) menjadi turunan ke-kedua dari 3*q**5/20 - 11*q**4/8 - 19*q**3/2 - 12*q**2 + 117*q. Misalkan l(m) = 0. Hitung m.
+-2, -1/2, 8
+Selesaikan -347*a - 13*a**4 + 14*a**4 - 882 + a**5 + 1124*a - 60*a**2 + 5*a**4 - 42*a**3 - 56*a**2 = 0 untuk a.
+-7, 2, 3
+Misalkan f be 2 - 9 - 62/((-1984)/288). Misalkan 12/7 - 10/7*i + 10/7*i**3 + 2/7*i**4 - f*i**2 = 0. Hitung i.
+-6, -1, 1
+Misalkan -5*i + 23 = -c, 0*c = -i - 4*c + 13. Misalkan t be (32/3)/(6/369). Temukan f, mengingat 659*f**i + 3*f**3 + 4*f**4 - 10*f**4 - t*f**5 = 0.
+0, 1
+Misalkan z (i) menjadi turunan ke-kedua dari i**4/96 - 37*i**3/48 - 19*i**2/8 + 2*i - 6. Temukan x sehingga z(x) = 0.
+-1, 38
+Misalkan k (g) menjadi turunan ke-ketiga dari 4*g**7/105 + g**6/10 - g**5/15 - g**4/2 - 2*g**3/3 + 2*g**2 + 240. Faktor dari k(v).
+4*(v - 1)*(v + 1)**2*(2*v + 1)
+Misalkan x(g) = -4*g**3 - 2*g**2 + 32*g + 12. Misalkan z(y) = 21*y**3 + 11*y**2 - 160*y - 66. Misalkan m(s) = -11*x(s) - 2*z(s). Faktor dari m(q).
+2*q*(q - 4)*(q + 4)
+Misalkan 5 = 5*k + 3*p, 0 = k - 254*p + 251*p - 19. Faktor dari 14*t**2 + 9/4*t**4 + 8*t**3 + k + 1/4*t**5 + 12*t.
+(t + 1)*(t + 2)**4/4
+Misalkan o (f) menjadi turunan ke-pertama dari f**6/2 + 9*f**5/5 - 4*f**3 - 404. Faktor dari o(i).
+3*i**2*(i - 1)*(i + 2)**2
+Misalkan -10*z**4 + 7*z**4 + 30900*z + 199*z**3 - 8709*z**2 - 56*z**3 + 169*z**3 - 22500 = 0. Hitung z.
+1, 3, 50
+Misalkan h (d) menjadi turunan ke-ketiga dari d**7/70 - 7*d**6/40 + 7*d**5/20 + 15*d**4/8 + 10*d**2 - 11*d. Faktor dari h(v).
+3*v*(v - 5)*(v - 3)*(v + 1)
+Temukan d, mengingat 182/9*d**3 - 192 + 2/9*d**5 + 268/3*d**2 - 44/9*d**4 - 128*d = 0.
+-3, -1, 2, 12
+Misalkan a (p) menjadi turunan ke-ketiga dari -p**5/180 - 115*p**4/36 - 229*p**3/18 + 3*p**2 + 1. Misalkan a(u) = 0. Hitung u.
+-229, -1
+Misalkan 7*q = -5*l + 3*q - 252, 135 = -3*l + 3*q. Misalkan c be (-3 + (-54)/l)*8/(-6). Faktor dari -5/2*n**2 - c*n + 5/2*n**3 + 5/2.
+5*(n - 1)**2*(n + 1)/2
+Misalkan g (a) menjadi turunan ke-ketiga dari 0 - 5/72*a**4 + 25/36*a**3 + 69*a**2 + 1/360*a**5 + 0*a. Tentukan u sehingga g(u) = 0.
+5
+Misalkan k (o) menjadi turunan ke-pertama dari 3*o**4/10 + 214*o**3/15 - 147*o**2/5 + 74*o/5 + 201. Selesaikan k(x) = 0.
+-37, 1/3, 1
+Misalkan -39 - 9 = -12*z. Misalkan -z*q**2 + 25 + 5*q - 59 + 26 + 7*q = 0. Berapakah q?
+1, 2
+Misalkan o be 7 + 9 + (-8)/(-20)*5. Berapakah q dalam 55*q + 32*q**2 - 52*q**2 + o - 3 = 0?
+-1/4, 3
+Misalkan t (w) menjadi turunan ke-ketiga dari -w**5/30 - 23*w**4/6 + 32*w**3 - 118*w**2. Faktor dari t(o).
+-2*(o - 2)*(o + 48)
+Misalkan c = 1349 - 1344. Misalkan 0 = 4*r + 12, -5*p + r = -3*p - 23. Faktor dari 166 + c*g**3 - p*g + 5*g**2 - 166.
+5*g*(g - 1)*(g + 2)
+Misalkan w (v) menjadi turunan ke-ketiga dari v**5/20 - 3*v**4/8 + v**3 - 121*v**2 - 1. Misalkan w(z) = 0. Berapakah z?
+1, 2
+Misalkan a(v) = v**3 + 12*v**2 + 14*v - 23. Misalkan q be a(-13). Misalkan w = 2621/7 + q. Misalkan 0 + w*g**3 - 3/7*g**4 + 0*g**2 + 0*g = 0. Berapakah g?
+0, 1
+Misalkan y (r) menjadi turunan ke-ketiga dari -r**6/540 - r**5/54 + 7*r**4/54 + 1209*r**2. Temukan u sehingga y(u) = 0.
+-7, 0, 2
+Misalkan d be ((-3)/(-42) - 0)/((-135)/(-10)). Misalkan q = d - -251/189. Temukan w, mengingat -4/3*w**4 + q + 40/9*w + 0*w**2 - 40/9*w**3 = 0.
+-3, -1, -1/3, 1
+Misalkan z (b) menjadi turunan ke-ketiga dari b**5/20 - 55*b**4/4 + 108*b**3 - 1303*b**2. Berapakah v dalam z(v) = 0?
+2, 108
+Misalkan a (b) menjadi turunan ke-kedua dari -2*b - 7/2*b**4 + 3 - 29/3*b**3 - 2/5*b**5 - 6*b**2. Faktor dari a(p).
+-2*(p + 2)*(p + 3)*(4*p + 1)
+Faktor dari 3720*t - 347*t - 5*t**2 - 208299 + 1037*t - 764106.
+-5*(t - 441)**2
+Misalkan 0 = 14*t - 112*t - 62 + 356. Faktor dari 0 + 1/5*h**4 + 1/5*h**5 - 1/5*h**2 + 0*h - 1/5*h**t.
+h**2*(h - 1)*(h + 1)**2/5
+Misalkan r = 457 + -301. Faktor dari b**4 + b**5 - b**3 - r*b - 165*b + 321*b - b**2.
+b**2*(b - 1)*(b + 1)**2
+Misalkan g (r) menjadi turunan ke-kedua dari 2*r**6/15 - r**5 - 58*r**4/3 + 64*r**3/3 + 960*r**2 - 10*r - 59. Faktor dari g(a).
+4*(a - 10)*(a - 3)*(a + 4)**2
+Misalkan u (y) menjadi turunan ke-pertama dari 0*y**4 + 2/35*y**5 + 0*y - 2/7*y**2 - 2/7*y**3 - 1. Faktor dari u(c).
+2*c*(c - 2)*(c + 1)**2/7
+Selesaikan -74/7*f**2 + 38/7*f**3 + 26/7*f**4 + 88/7 - 80/7*f + 2/7*f**5 = 0.
+-11, -2, 1
+Misalkan u (f) menjadi turunan ke-pertama dari 4 + 14/5*f - 6/5*f**2 - 2/15*f**3. Misalkan u(s) = 0. Hitung s.
+-7, 1
+Misalkan b (z) menjadi turunan ke-kedua dari -2*z**6/135 - 289*z**5/90 + 49*z**4/18 + 289*z**3/27 - 145*z**2/9 + 6*z + 63. Selesaikan b(q) = 0.
+-145, -1, 1/2, 1
+Misalkan p (d) menjadi turunan ke-kedua dari -d**5/80 - 257*d**4/48 - 5461*d**3/8 + 16641*d**2/8 + 3*d + 4. Misalkan p(h) = 0. Berapakah h?
+-129, 1
+Misalkan p be -1*((-316)/44 - (-28)/154). Faktor dari -8*r**2 - 1 + 9/2*r - 3*r**4 + 1/2*r**5 + p*r**3.
+(r - 2)*(r - 1)**4/2
+Faktor dari 3*d**2 - 52131 - 92*d - 49*d + 52647.
+3*(d - 43)*(d - 4)
+Misalkan f(n) = -2*n**3 - 217*n + 1 + 427*n - 209*n. Misalkan s be f(-1). Faktor dari 4/3 - 8/9*q**3 + 2/9*q - s*q**2.
+-2*(q + 1)*(q + 2)*(4*q - 3)/9
+Misalkan j be -4 - -5 - (-14 + 1 + 2). Misalkan -50*r**2 + j + 38*r**2 - 4 + 20*r = 0. Berapakah r?
+-1/3, 2
+Misalkan u be 9/(-12)*294*-2. Misalkan b be (-2961)/u - (-7 - 0). Faktor dari -2/7*p + 0*p**2 + 0 + b*p**3.
+2*p*(p - 1)*(p + 1)/7
+Misalkan l (j) menjadi turunan ke-kedua dari -7/4*j**2 - 17/20*j**5 - 1 - 35*j - 23/12*j**4 - 1/84*j**7 - 11/60*j**6 - 29/12*j**3. Faktor dari l(n).
+-(n + 1)**4*(n + 7)/2
+Misalkan w(n) = -9*n**2 - 93*n + 420. Misalkan u(a) = -2*a**2 - 2*a. Misalkan k(b) = 6*u(b) - w(b). Selesaikan k(y) = 0.
+7, 20
+Selesaikan 57*w**3 - 291/5*w**4 + 3/5*w**5 + 291/5*w**2 + 0 - 288/5*w = 0 untuk w.
+-1, 0, 1, 96
+Misalkan s = -315 + 322. Misalkan s*n = n. Faktor dari 0*z + n*z**2 + 0*z**3 - 5/4*z**4 + 5/4*z**5 + 0.
+5*z**4*(z - 1)/4
+Misalkan s = 4057 - 4049. Misalkan i (x) menjadi turunan ke-kedua dari -17*x + 0*x**2 + 0 - s*x**3 - 3/20*x**5 - 2*x**4. Selesaikan i(a) = 0 untuk a.
+-4, 0
+Misalkan l be (2/2 - -1)*(-26)/(-4). Misalkan 2*o = s + l, 0*o + o + s + 1 = 0. Faktor dari -1/6*h**o - 2/3*h**3 + 0 - 1/3*h - 5/6*h**2.
+-h*(h + 1)**2*(h + 2)/6
+Faktor dari 10*n**3 + 0*n**3 - 69*n**4 - 149*n**2 - n**3 - 13*n**2 + 72*n**4.
+3*n**2*(n - 6)*(n + 9)
+Faktor dari -27*g + 468 - 153*g**4 + 0*g - 468 + 152*g**4 + 27*g**3 + g**2.
+-g*(g - 27)*(g - 1)*(g + 1)
+Misalkan t (r) menjadi turunan ke-kedua dari -r**6/30 + 23*r**5/10 - 613*r**4/12 + 322*r**3 - 882*r**2 + 114*r - 2. Faktor dari t(g).
+-(g - 21)**2*(g - 2)**2
+Misalkan p = 662786/13 - 50982. Faktor dari 2/13*j**3 - p*j**2 + 64/13*j - 64/13.
+2*(j - 4)**2*(j - 2)/13
+Misalkan g (k) menjadi turunan ke-pertama dari -171/2*k**2 + 33*k**5 - 121/2*k**6 + 267/2*k**4 - 27*k - 6 - 46*k**3. Selesaikan g(m) = 0 untuk m.
+-1, -3/11, 1
+Misalkan k = -420/17 + 1299/34. Misalkan w (f) menjadi turunan ke-kedua dari -15/2*f**3 - 14*f + 7/4*f**4 - 3/20*f**5 + 0 + k*f**2. Misalkan w(s) = 0. Hitung s.
+1, 3
+Misalkan l = 8409/7 + -1242. Misalkan h = 43 + l. Faktor dari 8/7*j - h + 4/7*j**2 - 2/7*j**3.
+-2*(j - 2)**2*(j + 2)/7
+Misalkan l (a) menjadi turunan ke-pertama dari 8*a + 50/3*a**3 + 16*a**2 + 19/2*a**4 + 14/5*a**5 + 1/3*a**6 + 68. Faktor dari l(u).
+2*(u + 1)**3*(u + 2)**2
+Misalkan c (p) menjadi turunan ke-pertama dari p**6/21 + 6*p**5/5 + 99*p**4/14 - 242*p**3/21 + 930. Faktor dari c(r).
+2*r**2*(r - 1)*(r + 11)**2/7
+Misalkan n (p) menjadi turunan ke-pertama dari -p**6/8 - 18*p**5/5 + 81*p**4/4 - 28*p**3 - 83. Temukan z, mengingat n(z) = 0.
+-28, 0, 2
+Misalkan g (s) menjadi turunan ke-ketiga dari -s**6/270 - 2*s**5/27 + 4*s**4/9 - 332*s**2. Misalkan g(q) = 0. Hitung q.
+-12, 0, 2
+Misalkan r (w) menjadi turunan ke-kedua dari -3/2*w**2 - 7/40*w**5 - 17/12*w**3 - 1/60*w**6 - 17/24*w**4 + 12*w - 2. Faktor dari r(i).
+-(i + 1)**2*(i + 2)*(i + 3)/2
+Misalkan -27 + 78 = 45*m - 84. Misalkan j (h) menjadi turunan ke-kedua dari 0*h**2 + 0 + 5/6*h**m + 5/12*h**4 + 3*h. Temukan f sehingga j(f) = 0.
+-1, 0
+Misalkan z (q) menjadi turunan ke-kedua dari -1/96*q**4 - 1/16*q**2 + 2 - 1/24*q**3 - 6*q. Selesaikan z(d) = 0 untuk d.
+-1
+Misalkan d (a) menjadi turunan ke-kedua dari 2*a**6/15 - 156*a**5/5 + 154*a**4 - 920*a**3/3 + 306*a**2 + 5*a + 131. Misalkan d(w) = 0. Berapakah w?
+1, 153
+Misalkan 4*k**4 - 218/9*k**2 - 6*k + 74/3*k**3 + 14/9 = 0. Berapakah k?
+-7, -1/3, 1/6, 1
+Misalkan w + 5*i - 47 = 0, -3*w + 17 - 47 = -4*i. Faktor dari 12/7*j**w + 2/7*j**3 + 0*j + 0.
+2*j**2*(j + 6)/7
+Selesaikan -3/8*l**2 + 93/8*l + 333/4 = 0.
+-6, 37
+Misalkan p(w) = -w**2 + 10*w + 11. Misalkan 14*o + 10 = -4. Misalkan m be p(o). Faktor dari -4/7*a**2 + 2/7*a**3 + m*a + 0.
+2*a**2*(a - 2)/7
+Misalkan u (q) menjadi turunan ke-kedua dari q**4/6 + 250*q**3/9 + 15625*q**2/9 - 41*q + 3. Faktor dari u(w).
+2*(3*w + 125)**2/9
+Misalkan w(x) = -x**3 - 5*x**2 + 125*x + 217. Misalkan p(g) = 2*g**3 + 5*g**2 - 120*g - 219. Misalkan h(u) = 4*p(u) + 3*w(u). Faktor dari h(s).
+5*(s - 5)*(s + 3)**2
+Misalkan -155/4*r**2 - 5929/4 - 1/4*r**3 - 6083/4*r = 0. Hitung r.
+-77, -1
+Misalkan n (z) menjadi turunan ke-kedua dari 2*z**5/5 - 11*z**4/6 + 10*z**3/3 - 3*z**2 + 1122*z. Temukan y, mengingat n(y) = 0.
+3/4, 1
+Misalkan -15*z + 0 - 5/4*z**3 - 35/4*z**2 = 0. Hitung z.
+-4, -3, 0
+Misalkan -347*x + 940 = 246. Misalkan 68/15*y - 2/15*y**x - 578/15 = 0. Berapakah y?
+17
+Misalkan t(d) = 38*d**3 - 566*d**2 - 8782*d - 31218. Misalkan n(v) = 7*v**3 - 113*v**2 - 1756*v - 6244. Misalkan k(x) = -16*n(x) + 3*t(x). Faktor dari k(m).
+2*(m + 5)*(m + 25)**2
+Misalkan p (k) menjadi turunan ke-pertama dari -70 - 2*k**5 + 3*k + 14*k**2 - 23*k + 9*k**5 + 26*k**2 - 5*k**3 - 20*k**4. Misalkan p(x) = 0. Hitung x.
+-1, 2/7, 1, 2
+Misalkan z (x) menjadi turunan ke-pertama dari x**5/2 - 39*x**4/8 + 103*x**3/6 - 105*x**2/4 + 18*x + 285. Misalkan z(u) = 0. Berapakah u?
+4/5, 1, 3
+Misalkan -4*k - 18 = -2*w, 0 = -4*k - 6*w - 21 + 75. Berapakah n dalam -8/13*n**2 + k - 14/13*n**4 - 18/13*n**5 + 40/13*n**3 + 0*n = 0?
+-2, 0, 2/9, 1
+Faktor dari -368/3*h - 2/3*h**3 - 98/3*h**2 - 120.
+-2*(h + 2)**2*(h + 45)/3
+Faktor dari 65/4*j - 575/2 + 5/4*j**2.
+5*(j - 10)*(j + 23)/4
+Misalkan c = 131 - 111. Misalkan q(z) = 4*z**2 - 79*z - 20. Misalkan h be q(c). Temukan p, mengingat 0 + h*p + 1/2*p**3 + 1/6*p**4 + 1/3*p**2 = 0.
+-2, -1, 0
+Misalkan g (b) menjadi turunan ke-ketiga dari -1/2*b**4 + 6*b**3 + 1/10*b**6 - 7/12*b**5 + 3*b - 1/210*b**7 + 11*b**2 + 0. Faktor dari g(f).
+-(f - 6)**2*(f - 1)*(f + 1)
+Misalkan y(f) = -5*f**3 + 126*f**2 - 75*f + 1252. Misalkan p be y(25). Temukan h sehingga 0 + 0*h - 8/5*h**p + 4/5*h**4 + 4/5*h**3 = 0.
+-2, 0, 1
+Misalkan w = 96211 + -96211. Faktor dari -9*f - 3/2*f**3 + w + 15/2*f**2.
+-3*f*(f - 3)*(f - 2)/2
+Misalkan r (w) menjadi turunan ke-pertama dari -5*w**6/12 + 12*w**5/5 - 5*w**4/2 - 5*w**3 + 25*w**2/4 + 3*w - 1228. Tentukan u, mengingat bahwa r(u) = 0.
+-1, -1/5, 1, 2, 3
+Misalkan z be (-9)/(0 - -3) + 5. Misalkan 172*g - 147*g - 70 + 18*g**2 - 13*g**z = 0. Berapakah g?
+-7, 2
+Misalkan f(x) = -8*x**2 + 1196*x - 4404. Misalkan y(u) = -u**2 + 133*u - 489. Misalkan a(r) = -3*f(r) + 28*y(r). Misalkan a(n) = 0. Berapakah n?
+4, 30
+Misalkan n = 449 + -3131/7. Misalkan f be (-9)/(-7) - (6 + -11 - -5). Misalkan -f + n*w**2 - 3/7*w = 0. Hitung w.
+-3/4, 1
+Misalkan k = -20 - -20. Misalkan m be (-39)/15 - (169 + -172). Faktor dari 1/5*u**4 + k + m*u + 0*u**3 - 3/5*u**2.
+u*(u - 1)**2*(u + 2)/5
+Misalkan b be 145/45 + (-3)/54*4. Faktor dari 8*u**5 - 7*u**2 + 2*u**2 + b*u**5 - 6*u**5 - 5*u**3 + 5*u**4.
+5*u**2*(u - 1)*(u + 1)**2
+Misalkan u be 2/(1 - (-22)/(-20)). Misalkan f be (-2)/u - (-510)/6900. Berapakah d dalam -6/23*d - 2/23*d**2 - f = 0?
+-2, -1
+Misalkan w(y) = y**3 - 103*y**2 + 527*y - 430. Misalkan u(q) = -q**3 + 52*q**2 - 263*q + 214. Misalkan t(b) = 5*u(b) + 2*w(b). Temukan v sehingga t(v) = 0.
+1, 7, 10
+Misalkan u = 41 - 32. Misalkan -5*i + 39 = u. Tentukan r, mengingat bahwa 2*r + r - 1 - 2*r - r**2 + 3*r**3 + i*r**2 = 0.
+-1, 1/3
+Misalkan u(i) = 23328 - 2592*i. Misalkan b be u(9). Temukan t sehingga 4*t**3 + 4/5*t**2 + 8/5*t**4 + b - 8/5*t = 0.
+-2, -1, 0, 1/2
+Misalkan l(p) = 7*p**3 - 53*p**2 - 8*p + 54. Misalkan v(c) = 7*c**3 - 52*c**2 - 9*c + 45. Misalkan d(j) = 5*l(j) - 6*v(j). Faktor dari d(b).
+-b*(b - 7)*(7*b + 2)
+Misalkan t = 6/935 - -4651/3740. Misalkan y (u) menjadi turunan ke-pertama dari -11 - t*u**4 + 5*u**3 - 15/2*u**2 + 5*u. Faktor dari y(j).
+-5*(j - 1)**3
+Misalkan m (l) menjadi turunan ke-pertama dari l**3/12 - 94*l**2 + 35344*l + 59. Temukan y, mengingat m(y) = 0.
+376
+Tentukan z, mengingat bahwa -26/9*z**2 + 2/9*z**4 - 22/9*z + 8/3 + 22/9*z**3 = 0.
+-12, -1, 1
+Misalkan q (d) menjadi turunan ke-pertama dari -d**6/36 + 43*d**5/15 + 29*d**4/8 - 57. Misalkan q(j) = 0. Hitung j.
+-1, 0, 87
+Temukan t, mengingat 0 - 6*t**4 - 2*t**3 - 36/11*t + 138/11*t**2 - 14/11*t**5 = 0.
+-3, 0, 2/7, 1
+Misalkan a = -469 + 4219/9. Misalkan x = a + 41/63. Faktor dari 0 - 3/7*h**3 + x*h**2 + 6/7*h.
+-3*h*(h - 2)*(h + 1)/7
+Faktor dari -314/15 - 2/15*l**2 + 316/15*l.
+-2*(l - 157)*(l - 1)/15
+Misalkan s(z) = -160*z**2 - 624*z - 268. Misalkan l(v) = 2*v**3 - 157*v**2 - 623*v - 267. Misalkan k(n) = 4*l(n) - 5*s(n). Misalkan k(w) = 0. Berapakah w?
+-17, -4, -1/2
+Misalkan 2*l = 145 - 139. Misalkan -5 = -3*t + 10. Temukan c sehingga 5*c**3 - 8*c**l - 3*c**2 + c + t*c**2 + 4*c**3 = 0.
+-1, 0
+Misalkan y (f) menjadi turunan ke-kedua dari -f**7/147 - 31*f**6/105 - 177*f**5/35 - 297*f**4/7 - 1215*f**3/7 - 2187*f**2/7 + 861*f. Berapakah j dalam y(j) = 0?
+-9, -3, -1
+Misalkan l(i) = i**4 + i**3 + i - 1. Misalkan g(y) = 3*y**4 + 27*y**3 - 43*y**2 + 25*y - 4. Misalkan z(m) = -g(m) + 4*l(m). Berapakah c dalam z(c) = 0?
+0, 1, 21
+Faktor dari 56/9*j + 256/9 - 2/9*j**2.
+-2*(j - 32)*(j + 4)/9
+Misalkan s = -603 + 307. Misalkan k = s - -296. Misalkan k*a + 0 + 1/2*a**2 = 0. Hitung a.
+0
+Misalkan j(b) = 5*b**2 + 16*b - 17. Misalkan -7*t - 10 = -17. Misalkan z be j(t). Faktor dari -9/2*i**3 + 3/4*i**z - 9*i + 3 + 39/4*i**2.
+3*(i - 2)**2*(i - 1)**2/4
+Misalkan m(c) = c**3 + 41*c + 64. Misalkan s(j) = -j**3 + j**2 - j + 4. Misalkan v(w) = -m(w) - 2*s(w). Faktor dari v(r).
+(r - 8)*(r + 3)**2
+Misalkan q (v) menjadi turunan ke-kedua dari -3*v**5/20 - 83*v**4/4 - 840*v**3 + 2646*v**2 - v - 64. Faktor dari q(p).
+-3*(p - 1)*(p + 42)**2
+Misalkan y = -321/2 - -494/3. Faktor dari y*g - 5/6*g**2 + 5.
+-5*(g - 6)*(g + 1)/6
+Misalkan 84*z + 32 = 92*z. Misalkan d be (8/12)/(z + -3). Faktor dari 0 + 4/3*c**2 - d*c**3 - 2/3*c.
+-2*c*(c - 1)**2/3
+Misalkan s (r) menjadi turunan ke-ketiga dari r**5/80 - 53*r**4/32 + 51*r**3/4 + 1292*r**2. Selesaikan s(o) = 0 untuk o.
+2, 51
+Misalkan k be (16/36)/((-1168)/(-657)). Faktor dari -2*s - k*s**2 + 9/4.
+-(s - 1)*(s + 9)/4
+Misalkan 2*c + 2 = -2*u + 6*c, -2*c = -6. Faktor dari -2*d**5 + 1767*d**2 - 1777*d**2 + 7*d**u - 15*d**3.
+5*d**2*(d - 2)*(d + 1)**2
+Misalkan 170 = 3*m + 2*w, -20 + 75 = m - w. Faktor dari -34*f - 17*f**2 + 307 + 20*f**2 + m - 32*f.
+3*(f - 11)**2
+Misalkan t(h) = h**2 + h - 1. Misalkan a(n) = 24*n**2 - 28*n - 20. Misalkan v = 200 - 180. Misalkan k(i) = v*t(i) - a(i). Faktor dari k(p).
+-4*p*(p - 12)
+Misalkan m (f) menjadi turunan ke-pertama dari -f**3/9 - 7*f**2/2 - 18*f + 759. Faktor dari m(q).
+-(q + 3)*(q + 18)/3
+Faktor dari 14*z**2 + 144*z - 32*z**2 - 145 + 8*z**2 + 8*z**2 + 3*z**2.
+(z - 1)*(z + 145)
+Misalkan f (j) menjadi turunan ke-ketiga dari -j**7/350 - 73*j**6/200 - 1437*j**5/100 - 763*j**4/8 - 245*j**3 + 1137*j**2. Temukan q sehingga f(q) = 0.
+-35, -2, -1
+Faktor dari -238/3*v + 40 - 4/3*v**2.
+-2*(v + 60)*(2*v - 1)/3
+Misalkan v(f) = -f**2 + 23*f - 38. Misalkan b be v(2). Misalkan -5*y + b*y + 5 = 0. Faktor dari -1/3*o**4 + 0*o - 1/6*o**3 + 0 + 0*o**2 - 1/6*o**y.
+-o**3*(o + 1)**2/6
+Misalkan i be (-24)/(-44) - 2990/(-286). Misalkan g (h) menjadi turunan ke-pertama dari i + 3/4*h**4 + 2*h**3 - 3/2*h**2 - 6*h. Faktor dari g(c).
+3*(c - 1)*(c + 1)*(c + 2)
+Misalkan r(a) = 27*a**3 - a + 2. Misalkan i be r(1). Misalkan n = i + -23. Faktor dari -5*z**3 + 2 + 19*z**2 - 5*z**4 - z**5 + n*z - 17*z**2 + z**3 + z**4.
+-(z - 1)*(z + 1)**3*(z + 2)
+Misalkan l be (-1 + (2 - 3))/(-2). Misalkan u be 143/44 - (-4 + l - -6). Faktor dari 0*a**2 + 0 - u*a**3 + 0*a - 5/4*a**4.
+-a**3*(5*a + 1)/4
+Misalkan t (c) menjadi turunan ke-kedua dari -c**6/150 - 3*c**5/5 - 39*c**4/20 - 29*c**3/15 - 112*c - 1. Faktor dari t(k).
+-k*(k + 1)**2*(k + 58)/5
+Misalkan u(r) = 4*r**2 + 26*r - 8. Misalkan q be u(-7). Temukan f sehingga -f**2 - q*f**2 + 9*f**2 - 36*f + 162 = 0.
+9
+Misalkan h (p) menjadi turunan ke-pertama dari -5*p**4/8 + 85*p**3/6 + 1225*p**2/4 + 3375*p/2 + 1509. Faktor dari h(q).
+-5*(q - 27)*(q + 5)**2/2
+Misalkan l (t) menjadi turunan ke-ketiga dari -t**6/24 - 37*t**5/12 - 2255*t**4/24 - 3025*t**3/2 - 846*t**2. Misalkan l(y) = 0. Berapakah y?
+-15, -11
+Misalkan 9 = 5*a - 3*j, 2*j = -13*a + 10*a + 13. Temukan n sehingga -29*n**3 - 1000*n + 100 + 5*n**4 + 27*n**3 + 450*n**2 + 525 - 78*n**a = 0.
+1, 5
+Misalkan h(a) = 12*a**3 + 2*a**2 - 30*a - 82. Misalkan q be h(-3). Misalkan u = -296 - q. Tentukan c sehingga -3/2 - 1/6*c**u + c = 0.
+3
+Temukan u sehingga 0*u - 849227*u**2 + 849231*u**2 - 64*u + 112 = 0.
+2, 14
+Misalkan d(i) = -2*i**3 + 318*i**2 + 623*i + 14. Misalkan m(g) = g**3 - 319*g**2 - 624*g - 12. Misalkan a(v) = -6*d(v) - 7*m(v). Faktor dari a(y).
+5*y*(y + 2)*(y + 63)
+Misalkan b = -19876 + 19879. Misalkan f be 2*(-10)/(-12) - 1. Temukan w sehingga 1/3*w**5 + 0 - f*w**b + 0*w**2 + 1/3*w**4 + 0*w = 0.
+-2, 0, 1
+Misalkan n be 23/2*(45 - 53). Misalkan a = n - -94. Faktor dari 0 - 8/7*v**3 - 4/7*v + 18/7*v**a.
+-2*v*(v - 2)*(4*v - 1)/7
+Misalkan v (c) menjadi turunan ke-ketiga dari -1/15*c**5 - 1/60*c**6 + 0 + 45*c**2 - 1/12*c**4 + 0*c + 0*c**3. Misalkan v(r) = 0. Berapakah r?
+-1, 0
+Misalkan n (s) menjadi turunan ke-pertama dari -100/3*s**3 + s**4 - 576*s + 336*s**2 + 40. Faktor dari n(t).
+4*(t - 12)**2*(t - 1)
+Tentukan g, mengingat bahwa 12/7*g**3 + 390/7*g**2 + 1125/7 + 1500/7*g - 3/7*g**4 = 0.
+-5, -1, 15
+Misalkan -62/11 - 29/11*g + 1/11*g**2 = 0. Hitung g.
+-2, 31
+Misalkan v(w) = w**3 - 3*w**2 - 154*w + 756. Misalkan m be v(5). Misalkan -1/4*x**2 - 6*x - m = 0. Berapakah x?
+-12
+Misalkan q be ((-48)/(-4) + 9)*(-24)/(-616). Misalkan -4/11*d**4 + 4*d**2 - 31/11*d**3 - q*d + 0 = 0. Berapakah d?
+-9, 0, 1/4, 1
+Misalkan -46 + 1/3*j**2 - 43/3*j = 0. Berapakah j?
+-3, 46
+Faktor dari 5*l**4 + 0 + 0 + 689*l - 669*l - 20*l**3 - 3*l**2 - 2*l**2.
+5*l*(l - 4)*(l - 1)*(l + 1)
+Misalkan v (m) menjadi turunan ke-ketiga dari -m**8/840 + m**7/75 + m**6/30 - 8*m**5/75 - 23*m**2 + 1. Tentukan u sehingga v(u) = 0.
+-2, 0, 1, 8
+Misalkan z (s) menjadi turunan ke-pertama dari -980*s**4 + 8120*s**3/3 - 565*s**2/2 + 10*s - 558. Temukan k sehingga z(k) = 0.
+1/28, 2
+Misalkan b (k) menjadi turunan ke-pertama dari k**3/3 - 321*k**2/2 + 442. Tentukan v sehingga b(v) = 0.
+0, 321
+Misalkan u (w) menjadi turunan ke-kedua dari -w**4/3 + 1168*w**3/3 - 170528*w**2 + 294*w. Temukan n sehingga u(n) = 0.
+292
+Misalkan f (m) menjadi turunan ke-pertama dari -1/4*m**3 - 74 - 3/4*m**2 + 0*m. Misalkan f(p) = 0. Hitung p.
+-2, 0
+Misalkan v = 170 - 82. Misalkan x be 2/(5/(60/v) - 4). Selesaikan 0 - x*h**3 - 3/5*h**4 + 0*h + 0*h**2 = 0.
+-1, 0
+Misalkan d = 10067 + -10067. Faktor dari d - 28/5*x**2 - 8/5*x - 12/5*x**3.
+-4*x*(x + 2)*(3*x + 1)/5
+Misalkan w(k) = 7*k**2 - 20*k + 13. Misalkan 30*g - 19*g = -22. Misalkan o(d) = d**2 - 1. Misalkan n(v) = g*o(v) + w(v). Faktor dari n(q).
+5*(q - 3)*(q - 1)
+Misalkan f (g) menjadi turunan ke-pertama dari g**6/180 + g**5/12 + g**4/3 - 20*g**3 + 6. Misalkan x (y) menjadi turunan ke-ketiga dari f(y). Faktor dari x(j).
+2*(j + 1)*(j + 4)
+Misalkan m be -12*(2/(-4))/(60/40). Misalkan f (v) menjadi turunan ke-ketiga dari 0*v**3 + 0 + 1/6*v**m + 0*v + 5*v**2 - 1/15*v**5. Faktor dari f(d).
+-4*d*(d - 1)
+Misalkan s(w) = -3*w**3 - 15*w**2 + 312*w - 12. Misalkan k(b) = -2*b**3 - 9*b**2 + 187*b - 7. Misalkan h(f) = 12*k(f) - 7*s(f). Temukan z, mengingat h(z) = 0.
+-5, 0, 4
+Misalkan t be ((15/(-6) - -2) + 8)*(-444)/(-1480). Temukan j, mengingat -9/4*j**3 - t*j**4 - 3/4*j**5 + 0 - 3/4*j**2 + 0*j = 0.
+-1, 0
+Misalkan w (i) menjadi turunan ke-ketiga dari -i**7/70 + 13*i**6/40 - 3*i**5 + 14*i**4 - 32*i**3 - 1185*i**2. Misalkan w(z) = 0. Berapakah z?
+1, 4
+Misalkan a (c) menjadi turunan ke-kedua dari -c**4/42 - 290*c**3/21 - 21025*c**2/7 - 139*c - 4. Tentukan b sehingga a(b) = 0.
+-145
+Misalkan a be 8/(15/(-10) - -1). Misalkan i = a - -26. Berapakah m dalam 4*m + 10*m + 4*m**2 - 4 + 40 + i*m = 0?
+-3
+Misalkan v (t) menjadi turunan ke-pertama dari -t**4/6 - 998*t**3/27 - 20833*t**2/9 - 13778*t/9 + 603. Faktor dari v(x).
+-2*(x + 83)**2*(3*x + 1)/9
+Selesaikan 12/5*b**2 - 8/3*b - 8/15*b**3 + 14/15 - 2/15*b**4 = 0 untuk b.
+-7, 1
+Faktor dari -l**4 + 22*l**4 - 81*l**2 - 84 - l**4 + 72*l**3 - 16*l**4 - 159*l**2 + 248*l.
+4*(l - 1)**3*(l + 21)
+Misalkan n (k) menjadi turunan ke-pertama dari -1/30*k**6 + 0*k**2 + 0*k + 0*k**3 - 1/25*k**5 - 56 + 3/10*k**4. Misalkan n(q) = 0. Hitung q.
+-3, 0, 2
+Misalkan s(f) = f**5 - 6*f**4 + 18*f**3 - 14*f**2 + 3*f. Misalkan w(z) = -z**4 - z**2 + z. Misalkan x(o) = s(o) + 2*w(o). Temukan h, mengingat x(h) = 0.
+0, 1, 5
+Faktor dari 40 - 278/7*u - 2/7*u**2.
+-2*(u - 1)*(u + 140)/7
+Misalkan h (u) menjadi turunan ke-kedua dari u**7/168 + u**6/120 - 3*u**5/40 - u**4/12 + u**3/3 + 17*u - 13. Faktor dari h(j).
+j*(j - 2)*(j - 1)*(j + 2)**2/4
+Faktor dari 2686*i - 70731 - 206*i - 891 + 4*i**2 + 456022.
+4*(i + 310)**2
+Misalkan c = -203 + 207. Temukan q, mengingat 222*q - 222*q - 4*q**2 + 2*q**5 - 8*q**c + 10*q**3 + 0*q**5 = 0.
+0, 1, 2
+Misalkan v (u) menjadi turunan ke-pertama dari 39 + 6*u**3 + 0*u + 0*u**2 - 5*u**4 + 2/5*u**5. Selesaikan v(i) = 0.
+0, 1, 9
+Misalkan y (b) menjadi turunan ke-ketiga dari 11*b**8/112 - 39*b**7/70 + 51*b**6/40 - 29*b**5/20 + 3*b**4/4 - 5*b**2 - 117*b. Faktor dari y(x).
+3*x*(x - 1)**3*(11*x - 6)
+Misalkan j(x) = 5*x**3 + x + 1. Misalkan b be j(-2). Misalkan i = b - -44. Tentukan r sehingga 3/5*r**4 + 0 - 6/5*r + 0*r**i - 9/5*r**2 = 0.
+-1, 0, 2
+Misalkan 0*a**3 + 21*a + 17461*a**4 - a + 12*a**3 + 0*a**3 + 36*a**2 - 17465*a**4 = 0. Berapakah a?
+-1, 0, 5
+Faktor dari -1553552*h**2 + 1067589632 + 2*h**4 + 28094464*h + 580*h**3 + 1830800*h**2 + 636*h**3.
+2*(h + 152)**4
+Misalkan x(l) = -13*l**3 + 0*l**2 + l**2 + 2*l**2 + 5 + 14*l**3 + l. Misalkan i be x(-3). Misalkan 14*w**2 + 6*w**3 - 2*w**4 - 7*w**2 - 11*w**i = 0. Hitung w.
+0, 1, 2
+Misalkan 28/15*m**3 + 16/3*m + 224/15 - 2/15*m**4 - 38/5*m**2 = 0. Hitung m.
+-1, 4, 7
+Misalkan q be ((-51)/(-9) - 84/21)/(15/18). Faktor dari -2/5 + l**q + 3/5*l.
+(l + 1)*(5*l - 2)/5
+Misalkan i (z) menjadi turunan ke-ketiga dari -z**5/60 + 149*z**4/24 + 151*z**3/3 + 455*z**2. Berapakah p dalam i(p) = 0?
+-2, 151
+Misalkan t = 48 - 46. Misalkan -j = -t - 0. Temukan f, mengingat -8*f + 4*f**2 + f**j - 15*f**2 - 4 + 6*f**2 = 0.
+-1
+Misalkan -10 = 6*a - z, 30 = 2*a - 189*z + 192*z. Faktor dari -1/2*r**3 + 0 + a*r + 1/4*r**2 - 3/4*r**4.
+-r**2*(r + 1)*(3*r - 1)/4
+Misalkan c = 22 - -76. Misalkan 0 = -7*y - 70 + c. Faktor dari 0*a - 8/9*a**2 + 28/9*a**3 + 16/9*a**y + 0.
+4*a**2*(a + 2)*(4*a - 1)/9
+Misalkan 0*h**2 + 12599 + 3*h**2 - 14219 - 525*h + 2*h**2 = 0. Hitung h.
+-3, 108
+Misalkan j(l) = 2*l**2 - 73*l - 40. Misalkan b be j(34). Misalkan g be (-63)/b*5/3. Faktor dari 9/2 + g*k**2 - 3*k.
+(k - 3)**2/2
+Misalkan v = 2/2643 + 47865/3524. Misalkan p = -49/4 + v. Misalkan 8*s + 12 + p*s**2 = 0. Berapakah s?
+-3
+Misalkan i(l) = -3*l**2 - 170*l - 6893. Misalkan q(m) = -m**2 - 2*m - 2. Misalkan w(p) = i(p) - 2*q(p). Faktor dari w(x).
+-(x + 83)**2
+Misalkan s be 3*(7 - (-106)/(-3)). Misalkan f be 5/s + 3 - 2. Temukan n sehingga 2/17*n**4 + f*n - 8/17 - 6/17*n**2 - 4/17*n**3 = 0.
+-2, 1, 2
+Misalkan 789*w = 603*w. Misalkan i be (-1 - 0) + -1 + 7. Selesaikan 0*q**3 + 3*q**4 - 3/2*q**i + 0*q**2 + w*q + 0 = 0 untuk q.
+0, 2
+Misalkan q (g) menjadi turunan ke-pertama dari -g**4/6 - 2*g**3/3 + 25*g + 23. Misalkan t (b) menjadi turunan ke-pertama dari q(b). Faktor dari t(r).
+-2*r*(r + 2)
+Misalkan l (r) menjadi turunan ke-kedua dari -1/8*r**3 - 1/80*r**5 - 9/8*r**2 + r + 25 + 5/48*r**4. Temukan p sehingga l(p) = 0.
+-1, 3
+Misalkan 5*x + 3211 = -3*c + 3187, 3*c - x = 12. Faktor dari 16/3*g**c - 128/3*g + 1024/9 - 2/9*g**3.
+-2*(g - 8)**3/9
+Misalkan c(w) = -35*w**2 + 180*w + 175. Misalkan v(i) = 5*i**2 - 26*i - 25. Misalkan p = -59 + 39. Misalkan m(o) = p*v(o) - 3*c(o). Misalkan m(z) = 0. Hitung z.
+-1, 5
+Misalkan u = -3117396133/9204140 - -181452/535. Misalkan n = 3/1012 + u. Berapakah h dalam -14/17*h**2 - 4/17*h + 0 + n*h**4 + 10/17*h**3 = 0?
+-2, -1/4, 0, 1
+Selesaikan 0 - 1/3*h**4 + 0*h - 507*h**2 + 26*h**3 = 0 untuk h.
+0, 39
+Misalkan k (s) menjadi turunan ke-kedua dari -3/14*s**4 + 5/7*s**3 + 2 + 1/70*s**5 - s**2 - 23*s. Faktor dari k(d).
+2*(d - 7)*(d - 1)**2/7
+Misalkan n (v) menjadi turunan ke-pertama dari 52 - 5/3*v**3 - 1/2*v**4 + 3*v**2 + 1/5*v**5 + 0*v. Misalkan n(g) = 0. Hitung g.
+-2, 0, 1, 3
+Misalkan c(q) = 11*q + 80. Misalkan -16*v = 6*v + 154. Misalkan h be c(v). Faktor dari 0*d + 0 - 6*d**2 - 2/3*d**4 + 4*d**h.
+-2*d**2*(d - 3)**2/3
+Misalkan n(i) = -i**2 - 13*i - 42. Misalkan d be n(-7). Misalkan v be (d/(-55))/(0 - -5). Berapakah l dalam 3/2*l**3 + 0*l**2 + 0 + 0*l - 3/2*l**5 + v*l**4 = 0?
+-1, 0, 1
+Misalkan d be (-2 - 12) + (-7 - (-1692)/60). Selesaikan -34/5 - 2/5*w**2 - d*w = 0.
+-17, -1
+Misalkan u(g) = 1071*g**2 + 222*g + 12. Misalkan s(k) = 13 + 20 + 221*k + 64*k**2 - 21 + 1005*k**2. Misalkan h(y) = -6*s(y) + 7*u(y). Faktor dari h(o).
+3*(19*o + 2)**2
+Misalkan z(p) = -p**3 - 12*p**2 + 45*p + 2. Misalkan v be z(-15). Faktor dari 12*l + 2*l + 2*l**2 + 7*l + l**v - 24.
+3*(l - 1)*(l + 8)
+Misalkan t(n) = 2*n**3 - n**2 + n - 1. Misalkan p(h) = 67*h**3 - 16*h**2 - 21*h + 2. Misalkan s(v) = 3*p(v) + 12*t(v). Faktor dari s(k).
+3*(3*k - 2)*(5*k + 1)**2
+Misalkan a be (-10)/((-560)/(-14)) - 1/3. Misalkan n = -5/12 - a. Tentukan v sehingga -n*v**4 + 0*v + 0 + 1/2*v**2 - 1/3*v**3 = 0.
+-3, 0, 1
+Misalkan r (t) menjadi turunan ke-kedua dari -4*t**5/5 - 3*t**4 - 4*t**3/3 + 4*t - 47. Berapakah j dalam r(j) = 0?
+-2, -1/4, 0
+Misalkan b = -426 + 947. Faktor dari b*g + 32 + 2*g**2 + 527*g - 1064*g.
+2*(g - 4)**2
+Misalkan q be (-66)/693*35*(8/(-5) - -1). Berapakah m dalam -11/2*m**q - 1/4*m**3 - 41/4*m - 5 = 0?
+-20, -1
+Misalkan -14/3*m + 1/6*m**3 + 0 + 2*m**2 = 0. Berapakah m?
+-14, 0, 2
+Misalkan d (l) menjadi turunan ke-ketiga dari -l**6/240 + 7*l**5/15 - 9*l**4/4 + 107*l**2. Selesaikan d(z) = 0 untuk z.
+0, 2, 54
+Misalkan h (p) menjadi turunan ke-kedua dari -2*p - 13/38*p**4 - 40/57*p**3 - 9/190*p**5 - 6 - 12/19*p**2. Faktor dari h(f).
+-2*(f + 3)*(3*f + 2)**2/19
+Misalkan j be (-48)/(-26) - (-6)/39. Tentukan m, mengingat bahwa 141*m - 40*m**j + 169*m - 250*m + 5*m**3 = 0.
+0, 2, 6
+Misalkan x (d) menjadi turunan ke-kedua dari -d**6/40 + 1079*d**5/80 - 4035*d**4/2 - 1350*d**3 - 5*d + 6. Misalkan x(o) = 0. Hitung o.
+-1/3, 0, 180
+Misalkan z (r) menjadi turunan ke-kedua dari 5*r**7/21 + 23*r**6/15 - 5*r**5/2 - 79*r**4/6 - 16*r**3/3 + 20*r**2 + 1307*r. Berapakah y dalam z(y) = 0?
+-5, -1, 2/5, 2
+Misalkan s(d) = d**4 + d + 1. Misalkan k(p) = p**3 - 3*p - 3. Misalkan o = 222 - 221. Misalkan a(v) = o*k(v) + 3*s(v). Faktor dari a(r).
+r**3*(3*r + 1)
+Misalkan s(y) = -1 + 2036*y**2 - 49 - 2037*y**2 - 15*y. Misalkan z be s(-5). Tentukan k, mengingat bahwa -1/2*k**3 + 0*k**4 + 0*k**2 + 1/4*k**5 + z + 1/4*k = 0.
+-1, 0, 1
+Misalkan h (j) menjadi turunan ke-pertama dari -5*j**3/3 - 625*j**2/2 + 1290. Tentukan p, mengingat bahwa h(p) = 0.
+-125, 0
+Temukan t sehingga 0 - 280*t**2 + 775/4*t**3 + 65*t - 35*t**4 = 0.
+0, 2/7, 2, 13/4
+Misalkan q be -3*(-25)/15 + -2. Temukan n, mengingat 0*n**4 - 15*n**3 - q*n**4 + 46*n**2 - 28*n**2 = 0.
+-6, 0, 1
+Misalkan a(v) = 10 - 2*v. Misalkan -x - k + 0 - 1 = 0, -x - 11 = 3*k. Misalkan h be a(x). Faktor dari l**3 - 2*l**h - 20*l + 10*l + 11*l.
+l*(l - 1)**2
+Misalkan o (z) menjadi turunan ke-ketiga dari z**6/540 + 47*z**5/54 - 238*z**4/27 + 956*z**3/27 - 2*z**2 + 28*z. Temukan x sehingga o(x) = 0.
+-239, 2
+Faktor dari -40 - 89*w**4 - 376*w**3 - 10*w**4 - 69*w**4 - 16*w**4 - 384*w**2 - 196*w - 36*w**5.
+-4*(w + 1)**4*(9*w + 10)
+Misalkan y (m) menjadi turunan ke-pertama dari -2*m**6/15 + 26*m**5/25 + 27*m**4/10 - 44*m**3/15 - 16*m**2/5 - 830. Selesaikan y(k) = 0 untuk k.
+-2, -1/2, 0, 1, 8
+Misalkan 1/6*o**4 + 40/3*o**3 - 40/3*o - 800/3 + 533/2*o**2 = 0. Hitung o.
+-40, -1, 1
+Misalkan -20 = -4*g + 16. Misalkan 0 = -2*n + 5*t - 21, -g = -2*t + 1. Tentukan c, mengingat bahwa -c**3 + 3*c**3 + 2*c + 0*c**3 + 9*c**2 - 13*c**n = 0.
+0, 1
+Misalkan 3*i + 37 = 2*n, 5*i = -28*n + 24*n + 41. Misalkan d be n/(-42) + -2*13/(-42). Selesaikan 2/7*g**2 - 4/7 - d*g = 0 untuk g.
+-1, 2
+Misalkan s (i) menjadi turunan ke-pertama dari -1/2*i**6 + 0*i + 72 - i**3 + 3/4*i**4 + 3/5*i**5 + 0*i**2. Misalkan s(g) = 0. Hitung g.
+-1, 0, 1
+Misalkan x (o) menjadi turunan ke-kedua dari -5*o + 1 + 1/4*o**4 + 1587/2*o**2 - 23*o**3. Selesaikan x(p) = 0.
+23
+Misalkan -17*k = -54 - 14. Misalkan r(i) = i**2 + 12*i - 64. Misalkan p(y) = 65 - 10*y. Misalkan f(x) = k*p(x) + 5*r(x). Faktor dari f(m).
+5*(m - 2)*(m + 6)
+Misalkan d(z) = -9*z**2 + 581*z + 598. Misalkan c(n) = 10*n**2 - 580*n - 600. Misalkan t(o) = -4*c(o) - 5*d(o). Faktor dari t(v).
+5*(v - 118)*(v + 1)
+Misalkan w = -44895 + 44898. Selesaikan 32/3 - 14/3*x**2 + 2/3*x**w + 16/3*x = 0 untuk x.
+-1, 4
+Misalkan t(n) = -385*n**2 + 1170*n - 785. Misalkan l(s) = s**3 + 384*s**2 - 1171*s + 786. Misalkan m(c) = -5*l(c) - 4*t(c). Misalkan m(r) = 0. Hitung r.
+-79, 1, 2
+Faktor dari -243/2*n**2 + 123*n**3 + 0 + 0*n - 3/2*n**4.
+-3*n**2*(n - 81)*(n - 1)/2
+Selesaikan -1/8*l**2 - 121/8 + 61/4*l = 0 untuk l.
+1, 121
+Misalkan u = -28987318 + 117456613557/4052. Misalkan x = u - 2/1013. Misalkan 0 + 3/2*o**2 - 9/4*o - x*o**3 = 0. Berapakah o?
+0, 3
+Misalkan x = 7091/10 - 21173/30. Faktor dari 2*l**3 + 2/3*l - x*l**2 + 2/3.
+2*(l - 1)**2*(3*l + 1)/3
+Misalkan 118*g + 54*g + 143*g - 5*g**3 + 175 + 10*g + 200 - 55*g**2 = 0. Hitung g.
+-15, -1, 5
+Misalkan q (g) menjadi turunan ke-pertama dari -g**3 - 81*g**2/2 - 510*g + 1457. Temukan f sehingga q(f) = 0.
+-17, -10
+Misalkan q (m) menjadi turunan ke-pertama dari 1024*m + 61 + 4/5*m**5 + 128*m**3 + 16*m**4 + 512*m**2. Temukan a sehingga q(a) = 0.
+-4
+Misalkan w (r) menjadi turunan ke-ketiga dari 13*r**6/540 + r**5/45 + 124*r**2 - 3. Tentukan i sehingga w(i) = 0.
+-6/13, 0
+Misalkan n (f) menjadi turunan ke-kedua dari 62*f + 0 + 2/9*f**3 - 1/9*f**4 + 0*f**2. Misalkan n(z) = 0. Hitung z.
+0, 1
+Misalkan d be 10/(-4) - ((-37 - -22) + 12). Misalkan b(v) = v - 3. Misalkan i be b(3). Faktor dari 1/2*t + 0*t**2 + i - d*t**3.
+-t*(t - 1)*(t + 1)/2
+Misalkan u be (-1026)/(-741) + (-16)/143. Selesaikan u + 12/11*w - 2/11*w**2 = 0.
+-1, 7
+Tentukan y sehingga -8*y - 30/11 + 6/11*y**2 = 0.
+-1/3, 15
+Misalkan h (m) menjadi turunan ke-kedua dari 0*m**2 + 33 + 2*m - 2/5*m**4 - 1/150*m**6 + 9/100*m**5 + 8/15*m**3. Faktor dari h(v).
+-v*(v - 4)**2*(v - 1)/5
+Misalkan m = -2363/9 + 26569/99. Selesaikan 64/11 - 4*v**2 - 20/11*v**4 - m*v + 2/11*v**5 + 62/11*v**3 = 0.
+-1, 1, 2, 4
+Misalkan b (u) menjadi turunan ke-kedua dari -21*u + 2 + 0*u**2 + 1/6*u**4 + 4/3*u**3. Faktor dari b(x).
+2*x*(x + 4)
+Misalkan w = -8978 + 27202/3. Misalkan l = w + -1069/12. Faktor dari -l*x**3 + 3/4*x**2 - 3/4 + 1/4*x.
+-(x - 3)*(x - 1)*(x + 1)/4
+Misalkan p = 55793/390453 - 2/55779. Selesaikan 0 - 1/7*b**2 + p*b = 0.
+0, 1
+Misalkan s (g) menjadi turunan ke-pertama dari 2*g**3 - 21/40*g**5 + 11 - 15/32*g**4 + 0*g - 3/4*g**2. Tentukan y sehingga s(y) = 0.
+-2, 0, 2/7, 1
+Misalkan w (f) menjadi turunan ke-pertama dari f**3/24 + 23*f**2/4 - 47*f/2 - 301. Misalkan w(b) = 0. Hitung b.
+-94, 2
+Misalkan o be 24/1*(-3)/(-9)*2. Misalkan p be (-3 + 1)*28/o*-2. Misalkan -4*t**4 + 28*t**3 - 20*t - 6*t - 14*t**5 - p*t - 4 + 8*t**2 + 19*t = 0. Hitung t.
+-1, -2/7, 1
+Misalkan f = 79846 + -79844. Faktor dari -1/2*x**2 + f + 3/2*x.
+-(x - 4)*(x + 1)/2
+Misalkan x = 16 - 5. Misalkan 0 = 7*y - 2*y + p - 55, -y + 2*p = -x. Misalkan 14 + 10*z**2 - 5*z**4 - 3 + 5*z**3 - y = 0. Berapakah z?
+-1, 0, 2
+Misalkan x (y) menjadi turunan ke-pertama dari 5*y**4/8 + 50*y**3/3 + 85*y**2 + 160*y + 168. Faktor dari x(r).
+5*(r + 2)**2*(r + 16)/2
+Faktor dari 106/15 - 2/15*l**3 + 14*l + 34/5*l**2.
+-2*(l - 53)*(l + 1)**2/15
+Misalkan r be -1*(0 - -3) - (-12 + 323/51). Faktor dari 2/3*g**3 + r*g**2 - 8/3 - 2/3*g.
+2*(g - 1)*(g + 1)*(g + 4)/3
+Misalkan a (s) menjadi turunan ke-kedua dari 0*s**3 + 2*s - 3/20*s**5 + 1/14*s**7 + 2 - 1/5*s**6 + 0*s**2 + 1/2*s**4. Faktor dari a(x).
+3*x**2*(x - 2)*(x - 1)*(x + 1)
+Misalkan l be (-24)/56 + 93/21. Misalkan o (v) menjadi turunan ke-pertama dari 4*v - 7/4*v**4 - l*v**2 - 18 - 19/3*v**3. Faktor dari o(g).
+-(g + 1)*(g + 2)*(7*g - 2)
+Faktor dari -450 - 690*n - 529/2*n**2.
+-(23*n + 30)**2/2
+Misalkan 1/2*d**3 + 25/4 - 1/4*d**2 - 25/2*d = 0. Hitung d.
+-5, 1/2, 5
+Misalkan i be (-1734 - -1730)*10/(-8). Misalkan -1/2*t**2 + 0 - 17/6*t**4 + 0*t + 8/3*t**3 + 2/3*t**i = 0. Hitung t.
+0, 1/4, 1, 3
+Misalkan p(b) = 21 - 8*b. Misalkan u be p(6). Misalkan a = u - -55/2. Faktor dari -5/2*c + 1 + 2*c**2 - a*c**3.
+-(c - 2)*(c - 1)**2/2
+Misalkan o (q) menjadi turunan ke-ketiga dari q**5/15 - 32*q**3/3 + 559*q**2. Temukan u sehingga o(u) = 0.
+-4, 4
+Faktor dari -40 - 24*a**4 - 33*a**4 - 50*a + 88*a**4 - 36*a**4 + 15*a**2 + 20*a**3.
+-5*(a - 4)*(a - 2)*(a + 1)**2
+Misalkan l (h) menjadi turunan ke-kedua dari -75686967*h**5/4 - 894645*h**4/2 - 4230*h**3 - 20*h**2 + h + 1226. Selesaikan l(a) = 0.
+-2/423
+Misalkan s (n) menjadi turunan ke-kedua dari n**5/70 + 3*n**4/14 - 52*n**3/21 - 970*n. Faktor dari s(d).
+2*d*(d - 4)*(d + 13)/7
+Misalkan n(g) = g**2 + 1. Misalkan s = -6 - -11. Misalkan b(k) = k**2 + 3 + 6 + 9*k**2 - 4 + 5*k. Misalkan f(j) = s*n(j) - b(j). Faktor dari f(a).
+-5*a*(a + 1)
+Misalkan y be ((-32)/6)/(-4)*(-24)/(-16). Faktor dari 19*i**y + i - 16*i**3 - i**3 - 3*i.
+-i*(i - 1)*(17*i - 2)
+Misalkan b (j) menjadi turunan ke-kedua dari -2*j**7/21 - 11*j**6/10 - 21*j**5/5 - 67*j**4/12 - 2*j**3 - 2*j + 5. Misalkan b(l) = 0. Berapakah l?
+-4, -3, -1, -1/4, 0
+Misalkan d (m) menjadi turunan ke-pertama dari -4*m**5 - 27 + 0*m + 16/3*m**3 + 2/3*m**6 + 6*m**4 - 16*m**2. Faktor dari d(q).
+4*q*(q - 2)**3*(q + 1)
+Misalkan -12 + 9*m**2 - 12/5*m + 3/5*m**4 + 24/5*m**3 = 0. Berapakah m?
+-5, -2, 1
+Selesaikan 8/5*g**2 + 436/5 - 1746/5*g = 0.
+1/4, 218
+Misalkan m (n) menjadi turunan ke-pertama dari 0*n - 1/14*n**4 + 4/7*n**2 - 19 + 4/7*n**3 - 3/35*n**5. Misalkan m(p) = 0. Hitung p.
+-2, -2/3, 0, 2
+Berapakah z dalam 18/5 + 7/5*z**3 + 9*z + 34/5*z**2 = 0?
+-3, -1, -6/7
+Misalkan d (j) menjadi turunan ke-pertama dari 48 + 20/3*j**3 + 0*j**2 + 5/2*j**6 + 0*j + j**5 - 10*j**4. Tentukan k sehingga d(k) = 0.
+-2, 0, 2/3, 1
+Tentukan r, mengingat bahwa -5440*r + 4000*r**2 + 140*r**4 + 2752 + 398*r**5 - 1280*r**3 - 184*r**5 - 210*r**5 = 0.
+-43, 2
+Misalkan h be ((-8)/(-7))/(-22 + 5084/217). Faktor dari h*x**2 - 2/5*x**3 + 0*x + 0.
+-2*x**2*(x - 2)/5
+Misalkan a = 55736/21 - 2654. Misalkan o (g) menjadi turunan ke-pertama dari a*g**3 + 8/7*g - 17 + 5/7*g**2. Faktor dari o(z).
+2*(z + 1)*(z + 4)/7
+Misalkan 6*x + 98 = 55*x. Selesaikan 0 + 1/3*n + 2*n**4 - 2*n**x - 1/3*n**3 = 0.
+-1, 0, 1/6, 1
+Misalkan i be ((-36)/45)/(3/(270/(-4))). Misalkan 0 = 3*l + i - 27. Misalkan -12 - p**l + 2*p**2 + 12 = 0. Hitung p.
+0, 2
+Misalkan t (d) menjadi turunan ke-kedua dari d**5/30 - 13*d**4/18 + 40*d**3/9 - 852*d. Berapakah r dalam t(r) = 0?
+0, 5, 8
+Misalkan k(s) = -10*s**3 - 106*s**2 - 10*s. Misalkan n(a) = 19*a**3 + 197*a**2 + 21*a. Misalkan o(v) = 11*k(v) + 6*n(v). Faktor dari o(q).
+4*q*(q + 2)**2
+Misalkan 2*l = -l + 6. Misalkan -w = 4*d + d - 344, -140 = -l*d + 2*w. Faktor dari -d*z + 158*z**4 - 252*z**2 - 6 - 240*z**3 + 67*z**4 + 0 - 33*z**4.
+3*(z - 2)*(4*z + 1)**3
+Misalkan v(c) = -10*c - 2. Misalkan a be v(-5). Misalkan y = a - 46. Berapakah q dalam -4*q**y - 3*q**2 + 6*q**2 + 3*q = 0?
+0, 3
+Misalkan q(k) = -3*k**3 + 48*k**2 - 640*k + 3070. Misalkan a(r) = r**3 - 2*r**2 + 1. Misalkan n(s) = -6*a(s) - 3*q(s). Faktor dari n(y).
+3*(y - 16)**2*(y - 12)
+Misalkan v (o) menjadi turunan ke-ketiga dari 1/240*o**5 - 1/32*o**4 - 1/6*o**3 + 12 - o**2 + 0*o. Faktor dari v(r).
+(r - 4)*(r + 1)/4
+Misalkan -38/3*f**3 + 50/3*f**2 + 8/3 - 32/3*f + 14/3*f**4 - 2/3*f**5 = 0. Berapakah f?
+1, 2
+Misalkan o = -41746 - -41751. Temukan i sehingga 0*i - 6*i**4 + 0 + 9/4*i**3 + 4*i**o - 1/4*i**2 = 0.
+0, 1/4, 1
+Misalkan x (r) menjadi turunan ke-pertama dari r**6/180 - r**5/90 - 6*r**2 + 3*r - 70. Misalkan q (y) menjadi turunan ke-kedua dari x(y). Selesaikan q(i) = 0.
+0, 1
+Misalkan u be (1 - ((-39)/18 + -2)) + (-15)/6. Misalkan -56/3*h - u - 98/3*h**2 = 0. Berapakah h?
+-2/7
+Misalkan c = 4, 0*y - y + 4*c - 13 = 0. Misalkan p be (2424/136 - (-153)/867)/(21/2). Faktor dari -2/7 - 8/7*u - 2/7*u**4 - 8/7*u**y - p*u**2.
+-2*(u + 1)**4/7
+Misalkan m (z) menjadi turunan ke-kedua dari 44*z + 0 - 1/39*z**3 - 6/13*z**2 + 2/39*z**4 - 1/130*z**5. Misalkan m(o) = 0. Hitung o.
+-1, 2, 3
+Misalkan o be 1515/45 - (-4)/(-6). Misalkan 16*z**2 + 29*z**3 - 15*z**3 - 7*z + 32 - o*z - 16*z**3 = 0. Hitung z.
+2, 4
+Misalkan o(k) = -k**3 - 10*k**2 - 9*k + 13. Misalkan f be o(-9). Misalkan a = 16 - f. Tentukan p, mengingat bahwa 2*p**a - 6*p**3 + p + 3*p = 0.
+-1, 0, 1
+Misalkan z (w) menjadi turunan ke-pertama dari -6*w**6 - 96*w**5/5 + 16*w**4 + 1088*w**3/9 + 160*w**2 + 256*w/3 + 621. Temukan s sehingga z(s) = 0.
+-2, -4/3, -2/3, 2
+Misalkan -4*z + 5*l = -18, -2*z + 3*l - 13 = -3*z. Misalkan 3*h + 4 = 5*g, -z*g = -2*h - 5*g. Faktor dari 0 - h*d - 8/3*d**2.
+-2*d*(4*d + 3)/3
+Misalkan 24*c = 316 - 76. Misalkan v be (-2)/c - 1*(-5)/25. Faktor dari 0*l**3 + 2/7*l**5 + 2/7*l**4 + 0*l + v + 0*l**2.
+2*l**4*(l + 1)/7
+Misalkan s (m) menjadi turunan ke-pertama dari -5*m**4/4 - 70*m**3 + 455*m**2/2 + 660*m - 1224. Tentukan f, mengingat bahwa s(f) = 0.
+-44, -1, 3
+Misalkan n (x) menjadi turunan ke-kedua dari -x**5/4 - 20*x**4/3 - 1391*x. Tentukan b, mengingat bahwa n(b) = 0.
+-16, 0
+Misalkan m (u) menjadi turunan ke-pertama dari 3*u**5/35 + 3*u**4 + 78*u**3/7 + 114*u**2/7 + 75*u/7 - 1295. Faktor dari m(j).
+3*(j + 1)**3*(j + 25)/7
+Faktor dari -3*d**4 - 202*d - 2*d**4 + 98*d - 271*d + 16*d**2 + 9*d**2 + 35*d**3.
+-5*d*(d - 5)**2*(d + 3)
+Misalkan b (o) menjadi turunan ke-pertama dari o**4/24 - 55*o**3/9 - 37*o**2/4 - 494. Temukan g sehingga b(g) = 0.
+-1, 0, 111
+Misalkan f be 1805/(-171) - -13 - (-8)/(-18). Faktor dari 3*z + 0 - f*z**2 + 1/3*z**3.
+z*(z - 3)**2/3
+Misalkan z = 1713 - 1710. Misalkan y (n) menjadi turunan ke-kedua dari -1/6*n**4 + 0*n**3 + z*n + 0 + 0*n**2 + 1/4*n**5. Temukan v sehingga y(v) = 0.
+0, 2/5
+Misalkan g = 2383/814 + -15/814. Faktor dari -g - 12/11*m + 2/11*m**2.
+2*(m - 8)*(m + 2)/11
+Misalkan d be (52/(-6))/1 - (-189 - -180). Selesaikan 8/3*n + 16/3 + d*n**2 = 0 untuk n.
+-4
+Misalkan z be 30/25*(-80)/(-32). Misalkan v (w) menjadi turunan ke-kedua dari 1/35*w**5 - 13*w + 0*w**z + 0*w**2 + 1/7*w**4 + 0. Berapakah i dalam v(i) = 0?
+-3, 0
+Misalkan q (b) menjadi turunan ke-pertama dari 5*b**6/6 - 5*b**4/2 + 5*b**2/2 - 490. Faktor dari q(t).
+5*t*(t - 1)**2*(t + 1)**2
+Misalkan s be (-34272)/(-170) - (-4)/10. Misalkan -s*r**3 - 20*r**4 - 320*r + 397*r**3 - 140*r**3 + 160 - 5*r**5 + 130*r**2 = 0. Berapakah r?
+-4, 1, 2
+Misalkan 2*h = 4*l + 10, 9*l - 6*l - 6 = -3*h. Misalkan 2*t + k - 14 + h = 0, -5*k + 15 = 0. Temukan p, mengingat -2/5*p**2 + 0*p + 0 - 2/5*p**t - 4/5*p**3 = 0.
+-1, 0
+Misalkan k (z) menjadi turunan ke-pertama dari 3*z**5/20 + 3*z**4/4 - 2*z**3 + 75*z - 14. Misalkan f (v) menjadi turunan ke-pertama dari k(v). Faktor dari f(o).
+3*o*(o - 1)*(o + 4)
+Misalkan 0 = -2*s - 618 + 606. Misalkan p be s/(-27) - 80/(-45). Misalkan -4/7*l**p - 100/7 + 40/7*l = 0. Berapakah l?
+5
+Misalkan z be ((-7800)/624)/((-325)/60). Faktor dari 28/13 - z*l + 2/13*l**2.
+2*(l - 14)*(l - 1)/13
+Faktor dari -48/7*j + 0 - 8/7*j**3 + 44/7*j**2.
+-4*j*(j - 4)*(2*j - 3)/7
+Misalkan m be (-12882)/(-3460) + (-105)/30. Misalkan v = m - 4/173. Selesaikan 5 - 2*g + v*g**2 = 0 untuk g.
+5
+Misalkan t(v) = -11*v**2 - 30*v + 5. Misalkan y(u) = -6*u**2 - 15*u + 3. Misalkan -5*f = 26 - 51. Misalkan m(o) = f*y(o) - 3*t(o). Faktor dari m(c).
+3*c*(c + 5)
+Misalkan r (f) menjadi turunan ke-ketiga dari -2*f**7/105 + 37*f**6/240 - 17*f**5/120 - f**4/4 + 63*f**2. Faktor dari r(c).
+-c*(c - 4)*(c - 1)*(8*c + 3)/2
+Misalkan u (g) menjadi turunan ke-pertama dari g**4/18 - 70*g**3/27 + 323*g**2/9 - 578*g/9 - 533. Misalkan u(n) = 0. Berapakah n?
+1, 17
+Misalkan f = 14 + 4. Temukan x sehingga 0*x + 8*x**2 + 7*x - f - 7*x**2 = 0.
+-9, 2
+Misalkan f be (-660)/90 + 4 - 28/(-6). Faktor dari -f*c + 2/3*c**2 + 0.
+2*c*(c - 2)/3
+Misalkan -435 = 50621*g - 50708*g. Tentukan a, mengingat bahwa 64/3*a - 194/3*a**2 + 278/3*a**3 - 8/3 + 50/3*a**g - 190/3*a**4 = 0.
+2/5, 1
+Misalkan y(j) = -j**2 - 2*j + 1. Misalkan f(n) = -3*n**4 + 11*n**3 + 18*n**2 - 9*n - 7. Misalkan k(a) = f(a) - 3*y(a). Faktor dari k(x).
+-(x - 5)*(x + 1)**2*(3*x - 2)
+Misalkan q(c) = 309*c + 191 - 5*c**2 - 80*c + 25*c**2. Misalkan y(w) = -5*w**2 - 57*w - 48. Misalkan f(r) = -2*q(r) - 9*y(r). Faktor dari f(h).
+5*(h + 1)*(h + 10)
+Misalkan k (i) menjadi turunan ke-kedua dari 28/3*i**3 + 2 + 9*i + 1/3*i**4 + 0*i**2. Faktor dari k(h).
+4*h*(h + 14)
+Misalkan g (j) menjadi turunan ke-ketiga dari j**5/240 + 241*j**4/96 - 85*j**2 + 4. Faktor dari g(p).
+p*(p + 241)/4
+Faktor dari -33*w**3 - 71*w**3 - 1770*w - 906*w + 4*w**4 - 133*w + 633*w - 1024*w**2.
+4*w*(w - 34)*(w + 4)**2
+Misalkan 55*v + 5522 = 5522. Misalkan v - 4/11*k**3 + 5/11*k**2 - 1/11*k = 0. Hitung k.
+0, 1/4, 1
+Misalkan h = 81487 + -81484. Faktor dari i**h - 3/2*i**2 + 3 - 11/2*i.
+(i - 3)*(i + 2)*(2*i - 1)/2
+Misalkan u (g) menjadi turunan ke-pertama dari -72 + g**3 + 0*g + 9/4*g**2 - 3/8*g**4. Faktor dari u(a).
+-3*a*(a - 3)*(a + 1)/2
+Misalkan b = 3491/14036 + 9/7018. Tentukan h sehingga 0*h + 3/2*h**4 + b*h**3 + 5/4*h**5 + 0*h**2 + 0 = 0.
+-1, -1/5, 0
+Misalkan 5*c - 447 = -a, -3*c - 344 - 979 = -3*a. Misalkan o = a + -883/2. Temukan b, mengingat -o*b**2 - 3/2*b - 1 = 0.
+-2, -1
+Tentukan q sehingga 0 + 34/3*q**3 + 64/3*q**2 - 31/3*q**4 - 1/3*q**5 + 0*q = 0.
+-32, -1, 0, 2
+Selesaikan -102*d**3 - 167*d**3 - 160*d**3 + 340*d**2 - 15*d**4 + 140*d + 614*d**3 = 0 untuk d.
+-1, -2/3, 0, 14
+Misalkan p (o) menjadi turunan ke-pertama dari -5*o**4/2 + 1178*o**3/3 - 17287*o**2 - 6962*o + 1424. Faktor dari p(z).
+-2*(z - 59)**2*(5*z + 1)
+Misalkan s be 42/2793*(-2 + 4). Misalkan y = 2801/266 - s. Misalkan -y*p**2 - 99/2*p + 15 = 0. Berapakah p?
+-5, 2/7
+Misalkan 9*m - 107 = -89. Misalkan -m*h = 3*b + 2 + 9, -4 = 3*h + 2*b. Selesaikan 2/9*n**h + 0 + 4/9*n = 0.
+-2, 0
+Misalkan r (h) menjadi turunan ke-kedua dari -h**7/42 - h**6/6 - 3*h**5/20 + 5*h**4/12 + 2*h**3/3 - 318*h + 2. Temukan w sehingga r(w) = 0.
+-4, -1, 0, 1
+Misalkan k (z) menjadi turunan ke-ketiga dari z**7/735 - z**6/140 - 3*z**5/70 - 5*z**4/84 - 34*z**2 - 17*z. Misalkan k(y) = 0. Berapakah y?
+-1, 0, 5
+Misalkan g = -599684/9 - -66634. Faktor dari -g*t + 2/3*t**3 - 2/3*t**2 - 4/3 + 2/9*t**4.
+2*(t - 2)*(t + 1)**2*(t + 3)/9
+Misalkan t(c) = -38*c**3 - 2567*c**2 + 3447*c - 886. Misalkan a(i) = 13*i**3 + 856*i**2 - 1149*i + 296. Misalkan f(r) = 11*a(r) + 4*t(r). Faktor dari f(k).
+-3*(k - 1)*(k + 96)*(3*k - 1)
+Misalkan c = -5552/3 + 1851. Misalkan y = 1/16 - -13/48. Misalkan -y*o**2 + 0*o + c = 0. Hitung o.
+-1, 1
+Misalkan u (x) menjadi turunan ke-pertama dari -x**3/7 - 69*x**2/14 - 18*x - 505. Faktor dari u(a).
+-3*(a + 2)*(a + 21)/7
+Misalkan b be ((-361)/(-285) - (-2)/(-15)) + (-6)/(-30). Faktor dari -5/3*n + b*n**2 - 1/3*n**3 + 2/3.
+-(n - 2)*(n - 1)**2/3
+Misalkan 0 = -0*q + 3*q - 12. Selesaikan -16*a**q + 66*a**5 + 28*a - 35*a**5 - 80*a**2 + 72*a**3 - 35*a**5 = 0 untuk a.
+-7, 0, 1
+Misalkan x be (-10)/20*(8 - 8). Misalkan u (c) menjadi turunan ke-kedua dari x*c**3 - 2*c**2 + 0 + 0*c**5 + 2/3*c**4 - 2/15*c**6 - 14*c. Faktor dari u(d).
+-4*(d - 1)**2*(d + 1)**2
+Faktor dari 1/2*c**2 + 0 - 1/2*c**4 - 7/2*c**3 + 7/2*c.
+-c*(c - 1)*(c + 1)*(c + 7)/2
+Misalkan f = -3746 + 3749. Misalkan p be ((-32)/(-14) - 2)*2. Faktor dari 8/7*r**2 + 16/7 - 4*r + p*r**f.
+4*(r - 1)**2*(r + 4)/7
+Misalkan m = 13 + -10. Misalkan -s + 9 = 4*t, -3 = -4*t - 3*s - 0. Berapakah h dalam h**t + 57*h - 2*h**2 + 0*h**4 - 59*h + 2*h**4 + h**m = 0?
+-1, 0, 1
+Misalkan h be (-2)/((-14)/35*1). Misalkan 0 = 4*w - 3*b + 9, 5*b = -h*w + 33 - 18. Faktor dari w - 1/2*s**4 - 3/2*s**3 - s**2 + 0*s.
+-s**2*(s + 1)*(s + 2)/2
+Misalkan p (u) menjadi turunan ke-pertama dari -14/19*u - 6/19*u**2 + 21 + 2/57*u**3. Faktor dari p(k).
+2*(k - 7)*(k + 1)/19
+Misalkan c = -102 + 110. Misalkan p be c/36 + ((-8)/(-18) - 0). Faktor dari 11/3*x**2 + 0 - 3*x**3 - p*x.
+-x*(x - 1)*(9*x - 2)/3
+Misalkan t (q) menjadi turunan ke-kedua dari -q**6/6 + q**5 + 145*q**4/6 - 310*q**3/3 + 315*q**2/2 + 1375*q. Faktor dari t(h).
+-5*(h - 9)*(h - 1)**2*(h + 7)
+Misalkan t = -64531/2 - -32266. Temukan u, mengingat 0 - u**2 + u**4 - 1/2*u**5 + t*u**3 + 0*u = 0.
+-1, 0, 1, 2
+Misalkan a (y) menjadi turunan ke-ketiga dari 1/240*y**5 + 0 + 32/3*y**3 - 20*y**2 + 0*y + 1/3*y**4. Tentukan g, mengingat bahwa a(g) = 0.
+-16
+Misalkan h (k) menjadi turunan ke-kedua dari -49*k + 0*k**3 + 1/12*k**4 - 1/60*k**5 + 2 - 2/3*k**2. Faktor dari h(u).
+-(u - 2)**2*(u + 1)/3
+Misalkan p (g) menjadi turunan ke-ketiga dari -g**6/10 + 37*g**5/60 - 9*g**4/8 + g**3/3 - 1372*g**2. Faktor dari p(u).
+-(u - 2)*(u - 1)*(12*u - 1)
+Misalkan r be 35664/(-80) + (-14)/(-2). Misalkan x = r - -440. Faktor dari 4/5*z + 2/5*z**2 - x.
+2*(z - 1)*(z + 3)/5
+Misalkan v (c) menjadi turunan ke-kedua dari -17*c**4/3 - 62*c**3/3 + 12*c**2 + 121*c + 8. Faktor dari v(y).
+-4*(y + 2)*(17*y - 3)
+Faktor dari -44/3*w - 242/3 - 2/3*w**2.
+-2*(w + 11)**2/3
+Faktor dari -14*s - 1/2*s**2 + 102.
+-(s - 6)*(s + 34)/2
+Misalkan -32 = -3*i - 4*m, 5633*m + 40 = -5*i + 5638*m. Faktor dari 8/3*r**3 - 7/6*r**4 + i - r + 17/6*r**2.
+-r*(r - 3)*(r + 1)*(7*r - 2)/6
+Misalkan v (c) menjadi turunan ke-ketiga dari c**6/200 + c**5/300 - 11*c**4/120 + 7*c**3/30 - 613*c**2. Temukan r, mengingat v(r) = 0.
+-7/3, 1
+Misalkan q (f) menjadi turunan ke-ketiga dari -3*f**7/35 + 791*f**6/40 - 8679*f**5/5 + 63162*f**4 + 42592*f**3 + 474*f**2. Misalkan q(r) = 0. Berapakah r?
+-1/6, 44
+Faktor dari 464/11 - 108/11*m - 2/11*m**2.
+-2*(m - 4)*(m + 58)/11
+Misalkan o (k) menjadi turunan ke-kedua dari 0 - 1/10*k**6 - 45/8*k**4 - 51/40*k**5 - 38*k + 81/4*k**2 - 27/4*k**3. Misalkan o(y) = 0. Berapakah y?
+-3, 1/2
+Misalkan l = 11*t + 37, -l + 60 - 44 = -4*t. Selesaikan 245/4*b**l + 140*b**3 + 5/4 + 195/2*b**2 + 20*b = 0.
+-1, -1/7
+Misalkan 107*c**2 - 2321*c**3 + 108 + 166*c**2 - 360*c + 2411*c**3 - 75*c**4 = 0. Hitung c.
+-2, 3/5, 2
+Misalkan -73*c + 15 = -70*c. Misalkan w (g) menjadi turunan ke-pertama dari -1/6*g**3 + 7 + 1/3*g**6 + 0*g + 0*g**2 + 7/10*g**c + 1/4*g**4. Faktor dari w(t).
+t**2*(t + 1)**2*(4*t - 1)/2
+Misalkan r (q) menjadi turunan ke-kedua dari -q**6/90 - q**5/8 + 13*q**4/36 - q**3/4 + q - 231. Faktor dari r(o).
+-o*(o - 1)*(o + 9)*(2*o - 1)/6
+Misalkan 6 = 20*m - 21*m, -2*i = 3*i + 3*m + 3. Faktor dari -x**2 + 2/5*x**4 + 1/5*x**i + 3/5 - 1/5*x.
+(x - 1)**2*(x + 1)*(2*x + 3)/5
+Misalkan k (g) menjadi turunan ke-pertama dari 2*g**6/3 + 8*g**5/5 - 35*g**4 - 1508. Faktor dari k(c).
+4*c**3*(c - 5)*(c + 7)
+Faktor dari -462*l - 3/4*l**2 - 71148.
+-3*(l + 308)**2/4
+Misalkan z be (182/(-39) + 2)/(-10). Misalkan j (b) menjadi turunan ke-pertama dari -2/15*b - 4/15*b**3 - 2/75*b**5 - z*b**2 - 13 - 2/15*b**4. Faktor dari j(y).
+-2*(y + 1)**4/15
+Misalkan w (z) menjadi turunan ke-ketiga dari z**6/120 - 107*z**5/30 + 11449*z**4/24 - 45*z**2 - 5*z. Selesaikan w(u) = 0 untuk u.
+0, 107
+Misalkan s(g) = g**3 + 2*g**2 - g. Misalkan m(u) = -4*u**3 + 148*u**2 - 380*u - 224. Misalkan t(y) = -m(y) + 4*s(y). Temukan j sehingga t(j) = 0.
+-1/2, 4, 14
+Misalkan -392*i = -778*i + 387*i - 2. Selesaikan 3 + 3/4*u**i + 15/4*u = 0.
+-4, -1
+Misalkan l (r) menjadi turunan ke-kedua dari -r**5/4 - 25*r**4/12 + 20*r**3 + 1004*r. Faktor dari l(t).
+-5*t*(t - 3)*(t + 8)
+Misalkan a(m) = m**2 - 16*m + 61. Misalkan f be a(12). Tentukan s, mengingat bahwa -19 - f*s - 2*s - 5 - 13*s - 4*s**2 = 0.
+-6, -1
+Misalkan i = 1117/6660 - 6/37. Misalkan x (c) menjadi turunan ke-ketiga dari -5*c**2 + 0 - i*c**5 - 2/9*c**3 + 0*c + 5/72*c**4. Faktor dari x(m).
+-(m - 4)*(m - 1)/3
+Misalkan y = 93 + 16. Faktor dari -223*s**2 + 4*s + y*s**2 + 2*s**3 + 108*s**2.
+2*s*(s - 2)*(s - 1)
+Misalkan v = -642489/7 - -91785. Tentukan g sehingga v*g**2 - 3/7*g**3 + 0 - 3/7*g = 0.
+0, 1
+Misalkan n be (-44)/176 - 130/(-8). Misalkan 0 = -3*z - n + 31. Misalkan 4*k + 8/5*k**2 + 8/5 - 4/5*k**z - 16/5*k**3 - 16/5*k**4 = 0. Hitung k.
+-2, -1, 1
+Misalkan s = 10 - 6. Misalkan 3*j = 5*p + 110, j - 2 = -s*p + 46. Misalkan 80*c - 75 + 5*c**3 + 75 - j*c**2 = 0. Berapakah c?
+0, 4
+Misalkan u (o) menjadi turunan ke-kedua dari o**5/5 - 5*o**4 + 52*o**3/3 + 244*o - 2. Tentukan t, mengingat bahwa u(t) = 0.
+0, 2, 13
+Misalkan a(n) = -n**3 - 81*n**2 - 2187*n - 19713. Misalkan j(u) = -u**3 - 81*u**2 - 2187*u - 19708. Misalkan r(c) = 5*a(c) - 6*j(c). Faktor dari r(m).
+(m + 27)**3
+Misalkan p = 152688 + -72733. Tentukan f, mengingat bahwa -68221*f - 10584*f**2 - 107*f**3 - 777924 - p*f + f**4 - 5*f**4 - 229*f**3 = 0.
+-21
+Faktor dari -2*d**2 - 126 + 5*d**3 - d**2 - 27*d**3 + 123*d + 9*d**2 + 19*d**3.
+-3*(d - 7)*(d - 1)*(d + 6)
+Misalkan q = -1/826 + 14887/15694. Misalkan v = -35/57 + q. Misalkan 3*r**5 + 4/3*r**2 - 4*r**4 + v*r + 0 - 2/3*r**3 = 0. Hitung r.
+-1/3, 0, 1
+Misalkan m be (-8)/2*1*-1. Misalkan b = 96 - 68. Faktor dari 14 - 29*l**2 + 3*l - m*l + b*l**3 + 9 - 21.
+(l - 1)*(4*l + 1)*(7*l - 2)
+Misalkan s (t) menjadi turunan ke-pertama dari -70 - 10*t**4 - 4*t - 40/3*t**3 - 10*t**2 - 4*t**5 - 2/3*t**6. Faktor dari s(m).
+-4*(m + 1)**5
+Misalkan f be (-3 - (-85)/25) + 220/200. Faktor dari 0 - f*l**2 + 7/6*l**3 + 1/3*l.
+l*(l - 1)*(7*l - 2)/6
+Misalkan v (f) menjadi turunan ke-kedua dari f**4/2 - 381*f**3/4 + 285*f**2/4 + 277*f. Faktor dari v(u).
+3*(u - 95)*(4*u - 1)/2
+Misalkan s = -4739 + 4743. Misalkan j (h) menjadi turunan ke-pertama dari -5*h**2 + 25/3*h**3 + 0*h + h**5 - 14 - 5*h**s. Selesaikan j(l) = 0 untuk l.
+0, 1, 2
+Faktor dari -249 + 505 + 294*p + 3*p**2 + 48*p + 416.
+3*(p + 2)*(p + 112)
+Misalkan k = 71755 - 71753. Faktor dari 2/3 - m + 1/3*m**k.
+(m - 2)*(m - 1)/3
+Misalkan -202*l + 1760 = -77*l + 227*l. Temukan c sehingga 0 - 3/8*c**4 - 3/8*c**3 - 1/8*c**l - 1/8*c**2 + 0*c = 0.
+-1, 0
+Misalkan o(b) = -b**3 + 3*b**2 + 2*b + 2. Misalkan v be o(-2). Faktor dari -v*t**3 - 6 + 6*t**2 - 11*t**3 + 28*t**3 + t.
+-(t - 6)*(t - 1)*(t + 1)
+Misalkan j be (-342 - -3)*40/(-6). Misalkan -2*x - 3*x = -j. Temukan b sehingga -10*b**5 + 457*b**4 - b**3 + 6*b**3 - x*b**4 = 0.
+-1/2, 0, 1
+Misalkan t(r) = -r**3 - 36*r**2 - 174*r - 139. Misalkan w(d) = 2*d**3 + 73*d**2 + 348*d + 277. Misalkan i(x) = -10*t(x) - 6*w(x). Faktor dari i(m).
+-2*(m + 1)*(m + 4)*(m + 34)
+Misalkan c be 13 + (-10982)/306 + 24. Temukan b, mengingat -2/3*b**3 - 22/9*b**2 + 2/3 - c*b = 0.
+-3, -1, 1/3
+Misalkan s = -64 + 67. Faktor dari s*v**2 - 7*v**2 + 0*v**2 - 4 - 6*v + 16*v.
+-2*(v - 2)*(2*v - 1)
+Misalkan o (x) menjadi turunan ke-ketiga dari 3*x**5/4 + 895*x**4/24 - 50*x**3/3 - 1105*x**2. Faktor dari o(i).
+5*(i + 20)*(9*i - 1)
+Faktor dari 0*h + 0 - 110/9*h**4 + 2/9*h**5 - 136/3*h**2 + 416/9*h**3.
+2*h**2*(h - 51)*(h - 2)**2/9
+Temukan g, mengingat 0 + 0*g - 16*g**2 - 736/7*g**3 - 52/7*g**4 = 0.
+-14, -2/13, 0
+Misalkan g be 100/(-1375)*45/(-2). Misalkan -g*q - 2/11*q**2 - 16/11 = 0. Berapakah q?
+-8, -1
+Misalkan j (o) menjadi turunan ke-ketiga dari o**8/2688 + o**7/840 - o**6/960 - o**5/240 - 888*o**2. Tentukan k sehingga j(k) = 0.
+-2, -1, 0, 1
+Misalkan l = -44020 + 220112/5. Temukan h sehingga 2/5*h**3 + l - 8/5*h**2 + 2/5*h = 0.
+-1, 2, 3
+Misalkan c (m) menjadi turunan ke-ketiga dari -1/180*m**6 - 1/45*m**5 + 1/9*m**4 + 0*m + 8/9*m**3 - 3 - 8*m**2. Temukan p sehingga c(p) = 0.
+-2, 2
+Misalkan r be ((33/5)/3)/(-18 - (-47 - -28)). Temukan m sehingga 1/5*m**3 - 4/5*m**2 - 6/5 - r*m = 0.
+-1, 6
+Misalkan -118458 + 2*k**2 + 118458 + 6*k = 0. Berapakah k?
+-3, 0
+Misalkan m = -25 - -30. Misalkan 0 = 3*q - 5*d + 8, q + m = -3*d + 21. Faktor dari -q*n**2 + 0*n**2 - 7 + 12*n - 1.
+-4*(n - 2)*(n - 1)
+Misalkan q (z) menjadi turunan ke-pertama dari 15/2*z**2 + 65 - 10*z - 5/3*z**3. Faktor dari q(l).
+-5*(l - 2)*(l - 1)
+Misalkan c be (-3)/444*(12194/(-175) + -4). Misalkan x = 2/925 + c. Temukan t sehingga 1/4*t**4 + 1/4*t**3 - 5/4*t - 3/4*t**2 - x = 0.
+-1, 2
+Misalkan l be 28548/(-840) - (18/21)/(-3). Misalkan b = -156/5 - l. Temukan m, mengingat 15/2 + 5/2*m**2 + 25/2*m - b*m**3 = 0.
+-1, 3
+Misalkan g = 20940 + -20938. Misalkan 16/5 - 136/5*r + 361/5*r**3 + 209/5*r**g = 0. Berapakah r?
+-1, 4/19
+Misalkan l (s) menjadi turunan ke-kedua dari -3/4*s**5 + 0*s**2 - 1 - 5/3*s**3 - 15/4*s**4 + 5*s + 2/3*s**6. Tentukan o sehingga l(o) = 0.
+-1, -1/4, 0, 2
+Misalkan f (m) menjadi turunan ke-pertama dari -m**4/5 - 104*m**3/5 + 158*m**2/5 - 283. Faktor dari f(q).
+-4*q*(q - 1)*(q + 79)/5
+Misalkan g = -659 + 2395. Misalkan f be -4 + g/264 + 10/(-6). Misalkan 2/11*z**3 + 14/11*z - f*z**2 - 6/11 = 0. Berapakah z?
+1, 3
+Misalkan i(j) = 3*j**3 - j**2 - 30*j + 4. Misalkan m be i(-3). Faktor dari 8/9*r + 4/9*r**2 + 0 - 4/9*r**m - 8/9*r**3.
+-4*r*(r - 1)*(r + 1)*(r + 2)/9
+Misalkan t be (24/(-30))/(2/25). Misalkan r be (0/(100/t))/(1/1). Selesaikan 0*d + 0 + r*d**2 + 5/2*d**5 + 2*d**3 - 6*d**4 = 0.
+0, 2/5, 2
+Misalkan t be 9*4/6 - -108. Selesaikan -96 + c**2 - 3*c**2 + 15*c + t + 5*c**2 = 0.
+-3, -2
+Temukan x, mengingat -54*x**2 + 869*x - 1268*x + 16*x**3 - 18*x**2 + 1805 = 0.
+-5, 19/4
+Misalkan y (h) menjadi turunan ke-pertama dari 0*h + 3/40*h**5 - 73 + 15/32*h**4 + 0*h**2 + 3/8*h**3 - 1/16*h**6. Berapakah b dalam y(b) = 0?
+-1, 0, 3
+Berapakah t dalam -81*t**4 + 0 + 4374*t - 34989/8*t**3 + 81*t**2 - 3/8*t**5 = 0?
+-108, -1, 0, 1
+Tentukan k, mengingat bahwa -196*k**2 + 28*k**5 + 90*k**4 + 58*k**4 + 48 - 1263*k**3 + 1107*k**3 + 128*k = 0.
+-6, -1, -2/7, 1
+Misalkan p = -19 + 33. Misalkan w(t) = 7*t - 91. Misalkan x be w(p). Misalkan x*z**3 + 5/4*z**4 - 4 + 4*z + 12*z**2 = 0. Hitung z.
+-2, 2/5
+Misalkan p (j) menjadi turunan ke-kedua dari j**6/6 - 11*j**5/2 - 130*j**4/3 + 968*j. Temukan k sehingga p(k) = 0.
+-4, 0, 26
+Faktor dari 0*u - 1/5*u**5 - 105*u**3 - 48/5*u**4 + 0 + 250*u**2.
+-u**2*(u - 2)*(u + 25)**2/5
+Misalkan 68*g**2 - 940/7*g + 468/7 - 4/7*g**3 = 0. Hitung g.
+1, 117
+Misalkan k (n) menjadi turunan ke-kedua dari n**5/5 - 4*n**4 + 14*n**3 - 20*n**2 + 281*n. Faktor dari k(l).
+4*(l - 10)*(l - 1)**2
+Misalkan h(x) = -2*x**2 - 25*x + 1764. Misalkan r be h(24). Berapakah d dalam r + 9/2*d**2 + 21*d = 0?
+-4, -2/3
+Misalkan 2*h - 7 = -3. Faktor dari 0*w**h + 10*w**4 - 10*w**2 + w**5 - 3*w**5 - 3*w**5 + 5*w.
+-5*w*(w - 1)**3*(w + 1)
+Misalkan r (y) menjadi turunan ke-kedua dari -y**6/10 + 3*y**5/10 + 7*y**4/4 + 2*y**3 - 21*y - 2. Faktor dari r(x).
+-3*x*(x - 4)*(x + 1)**2
+Misalkan m (b) menjadi turunan ke-pertama dari -5*b**4/4 + 165*b**3 - 6480*b**2 + 34560*b + 1098. Faktor dari m(g).
+-5*(g - 48)**2*(g - 3)
+Temukan r, mengingat -1/6*r**2 - 8427/2 - 53*r = 0.
+-159
+Misalkan q (c) menjadi turunan ke-pertama dari -11*c**4 - 376*c**3/3 - 448*c**2 - 384*c + 1561. Selesaikan q(k) = 0.
+-4, -6/11
+Misalkan 3*y - 15 = 0, -4 = 9*d - 3*y - 4 - 3. Temukan q, mengingat 8/11*q**d + 0 - 2/11*q**5 + 0*q - 16/11*q**3 + 10/11*q**4 = 0.
+0, 1, 2
+Misalkan y(z) = -z**2 - 23*z + 131. Misalkan n be y(14). Misalkan g = n - -387. Misalkan g + 1/6*m - 1/6*m**2 = 0. Hitung m.
+0, 1
+Misalkan u be ((-27)/6)/((-9)/12). Misalkan -3*j - 2*c + u = 0, 0 = -4*j + 5*c - 3*c + 22. Faktor dari 78*q**4 - 81*q**j - 4*q**2 + 7*q**2.
+-3*q**2*(q - 1)*(q + 1)
+Selesaikan -263204 - z**4 - 108072*z + 94697 - 2*z**4 + 32*z**3 + 1178*z**2 + 424*z**3 - 17084*z**2 = 0 untuk z.
+-3, 79
+Misalkan b (g) menjadi turunan ke-pertama dari -8*g**6/3 + 4*g**5/5 + 3*g**4 - 815. Faktor dari b(u).
+-4*u**3*(u - 1)*(4*u + 3)
+Misalkan z (g) menjadi turunan ke-kedua dari g**6/105 - g**5/14 - 55*g**4/42 + 185*g**3/21 - 18*g**2 - 64*g + 8. Misalkan z(k) = 0. Hitung k.
+-7, 1, 2, 9
+Misalkan i (f) menjadi turunan ke-pertama dari 5*f**6/6 - 7*f**5 - 35*f**4/4 + 275*f**3/3 - 105*f**2 + 74. Misalkan i(x) = 0. Berapakah x?
+-3, 0, 1, 2, 7
+Tentukan q, mengingat bahwa 26*q - 11*q**2 - 4*q**4 + 80*q**3 + 70*q - 82*q**3 + 43*q**2 + 3*q**4 = 0.
+-4, 0, 6
+Misalkan k (u) menjadi turunan ke-pertama dari -12*u**2 - 13 + 3/4*u**4 + 5*u**3 - 36*u. Berapakah z dalam k(z) = 0?
+-6, -1, 2
+Misalkan d (i) menjadi turunan ke-pertama dari 17 + 3/4*i**3 + 3*i + 39/8*i**2. Selesaikan d(r) = 0 untuk r.
+-4, -1/3
+Tentukan t, mengingat bahwa 66*t - 60 + 2/9*t**4 - 22*t**2 + 14/9*t**3 = 0.
+-15, 2, 3
+Misalkan s = 1013/1215 - 1/2430. Misalkan r (d) menjadi turunan ke-kedua dari 1/4*d**5 + 0 + 0*d**3 + 0*d**2 - 16*d + 1/6*d**6 - s*d**4. Selesaikan r(b) = 0.
+-2, 0, 1
+Misalkan m (u) menjadi turunan ke-pertama dari -6*u - 7/4*u**3 - 14 + 45/8*u**2. Faktor dari m(p).
+-3*(p - 1)*(7*p - 8)/4
+Misalkan -k - 5*y = -10 - 9, -32 = -5*k - 4*y. Misalkan 0 = k*h + 1 + 3, -2*t + 5*h = -11. Faktor dari 3*i**2 + i + 2*i**t + 2*i**3 - 2*i**3.
+i*(i + 1)*(2*i + 1)
+Faktor dari -16/9 + 2/9*h**4 - 8/9*h + 10/9*h**3 + 4/3*h**2.
+2*(h - 1)*(h + 2)**3/9
+Misalkan f (u) menjadi turunan ke-pertama dari 25*u**3/3 + 1695*u**2 - 1360*u + 76. Misalkan f(n) = 0. Berapakah n?
+-136, 2/5
+Misalkan d (y) menjadi turunan ke-ketiga dari -1/9*y**3 - 1/30*y**5 - 5/36*y**4 - 6*y - y**2 + 0 + 1/36*y**6 + 4/315*y**7. Selesaikan d(l) = 0.
+-1, -1/4, 1
+Tentukan u sehingga 1/2*u + 27/2*u**2 - 27/2 - 1/2*u**3 = 0.
+-1, 1, 27
+Misalkan b be (-552)/3726*36/(-8). Misalkan 38/3*o + b*o**2 - 40/3 = 0. Berapakah o?
+-20, 1
+Tentukan k, mengingat bahwa 0 - 3584/5*k + 4/5*k**4 - 128*k**2 + 8/5*k**3 = 0.
+-8, 0, 14
+Misalkan q be (-141)/(-45) - 12/90. Misalkan r (l) menjadi turunan ke-pertama dari 9/5*l**5 - 3*l**2 + 0*l + 3/2*l**4 - 3*l**q + 4. Temukan k sehingga r(k) = 0.
+-1, -2/3, 0, 1
+Misalkan -3*p + 13 = 2*b, -5*p + 7 = -4*b - 0. Misalkan -6*d**3 + d**4 + 8*d - 10*d**2 + 3*d**p + 0*d**3 - 5*d**3 + 9 = 0. Hitung d.
+-1, 1, 9
+Misalkan 0 = -15*s - 2957 + 32. Misalkan m = s - -199. Misalkan 2*x**2 + 22/3*x + m = 0. Hitung x.
+-3, -2/3
+Misalkan m (t) menjadi turunan ke-pertama dari t**4/2 - 4*t**3/3 - 8*t**2 - 250. Misalkan m(y) = 0. Berapakah y?
+-2, 0, 4
+Misalkan p (j) menjadi turunan ke-pertama dari 2*j**5/45 + j**4/6 - 38*j**3/27 - j**2/3 + 4*j + 1664. Selesaikan p(c) = 0 untuk c.
+-6, -1, 1, 3
+Misalkan y (t) menjadi turunan ke-kedua dari -26/27*t**3 + 47 - 4/3*t**2 + 2*t - 7/27*t**4. Tentukan j, mengingat bahwa y(j) = 0.
+-1, -6/7
+Misalkan z be (-4)/18 + 47/9. Misalkan 0 = 3*b - z - 4. Faktor dari -2*w**2 + 3*w**b - w**4 + w**2 - w**2.
+-w**2*(w - 2)*(w - 1)
+Misalkan v be (2*-87 - 2 - 5)/(-609). Misalkan i = v + -1/87. Selesaikan -i*s**2 - 2/7*s + 4/7 = 0 untuk s.
+-2, 1
+Misalkan f(b) = -48*b**2 - 16620*b - 3309816. Misalkan z(p) = 7*p**2 + 2374*p + 472831. Misalkan t(g) = 4*f(g) + 27*z(g). Faktor dari t(m).
+-3*(m + 397)**2
+Misalkan g be (2/5)/(81/(-945)) - -6. Tentukan z sehingga 0 + z - 2/3*z**3 + g*z**4 - 4/3*z**2 - 1/3*z**5 = 0.
+-1, 0, 1, 3
+Faktor dari -41067 - 1/3*h**2 + 234*h.
+-(h - 351)**2/3
+Misalkan r be 4/(4 - (2 - 0)). Misalkan p be (-1 + r)/(3/(7 + 2)). Faktor dari 3*i**4 + 6*i**p - 30*i**2 + 30*i**2.
+3*i**3*(i + 2)
+Misalkan 62/5*r + 132/5 - 2/5*r**2 = 0. Hitung r.
+-2, 33
+Misalkan p (z) menjadi turunan ke-pertama dari 0*z**2 + 0*z + 51 - 12/5*z**4 + 72/25*z**5 - 2/3*z**6 - 32/15*z**3. Tentukan w sehingga p(w) = 0.
+-2/5, 0, 2
+Misalkan k (w) menjadi turunan ke-kedua dari 1/33*w**3 + 2*w + 12 + 1/11*w**2 - 1/33*w**4. Temukan c, mengingat k(c) = 0.
+-1/2, 1
+Misalkan 0 = 36*o + 731 - 803. Tentukan i, mengingat bahwa 0 + 1/2*i**o - 1/4*i**3 + 3/4*i = 0.
+-1, 0, 3
+Temukan v, mengingat 7/2*v**3 - 21 + 34*v**2 + 127/2*v = 0.
+-7, -3, 2/7
+Misalkan p (n) menjadi turunan ke-kedua dari -n**7/126 - 8*n**6/45 - 77*n**5/60 - 49*n**4/18 - 983*n. Faktor dari p(j).
+-j**2*(j + 2)*(j + 7)**2/3
+Misalkan v (w) menjadi turunan ke-pertama dari w**3/9 - 454*w**2/3 + 206116*w/3 - 997. Selesaikan v(h) = 0.
+454
+Misalkan u(m) = 8 - m. Misalkan -24 = -2*l - 12. Misalkan w be u(l). Faktor dari -29*x**2 - 24*x**2 - 10*x + 8*x**w.
+-5*x*(9*x + 2)
+Tentukan o sehingga 7/4*o + 1/4*o**2 - 1/4*o**4 + 0 - 7/4*o**3 = 0.
+-7, -1, 0, 1
+Misalkan o(h) = 26*h**2 + 53*h - 7. Misalkan t(y) = -33*y + 25*y + 3 - 9*y**2 - 10*y. Misalkan d(k) = -6*o(k) - 17*t(k). Misalkan d(v) = 0. Hitung v.
+-3, -1
+Misalkan w be ((-8)/((-2)/1))/(12/9). Temukan n, mengingat -2*n**2 + n**5 + 5*n**4 + 10*n**w + 11*n**2 + 1 + n**2 + 5*n = 0.
+-1
+Faktor dari -714*i**3 + 108*i - 318*i**4 + 549*i**3 + 48*i**2 + 327*i**4.
+3*i*(i - 18)*(i - 1)*(3*i + 2)
+Misalkan 7*m - 665 + 637 = 0. Faktor dari 0 + 3*l**3 + 1/3*l + 2*l**2 + 4/3*l**m.
+l*(l + 1)**2*(4*l + 1)/3
+Misalkan -d = -4*l + 13, 9*l - 4*d - 26 = 6*l. Faktor dari -8/7 + 22/7*v + 6/7*v**l.
+2*(v + 4)*(3*v - 1)/7
+Faktor dari -28*h**2 - 15106587*h**4 + 0*h**3 + 16*h**3 + 15106586*h**4.
+-h**2*(h - 14)*(h - 2)
+Misalkan -18*x = 222 - 515 + 239. Misalkan c = 387/50 - 6/25. Faktor dari -9/2*d + 27/2 - 3/2*d**x - c*d**2.
+-3*(d - 1)*(d + 3)**2/2
+Misalkan d (n) menjadi turunan ke-kedua dari -1/10*n**5 - 2/3*n**4 + 0*n**2 + 73*n - n**3 - 1. Temukan q sehingga d(q) = 0.
+-3, -1, 0
+Misalkan 1997*t - 989*t = 983*t + 75. Selesaikan 1975/4*a**4 + 585/4*a**5 + 5 + 70*a + 2435/4*a**t + 1305/4*a**2 = 0 untuk a.
+-1, -2/9, -2/13
+Misalkan i (t) menjadi turunan ke-ketiga dari -t**7/140 - 27*t**6/40 + 87*t**5/10 - 89*t**4/2 + 120*t**3 + 1459*t**2. Faktor dari i(f).
+-3*(f - 2)**3*(f + 60)/2
+Misalkan g (o) menjadi turunan ke-ketiga dari 10*o**7/63 + 2*o**6/3 + 7*o**5/15 + o**4/9 + 6*o**2 - 32. Faktor dari g(k).
+4*k*(k + 2)*(5*k + 1)**2/3
+Misalkan m be (-4)/(-6) - (-126)/(-567). Misalkan 0 - 2/3*f**2 + m*f = 0. Berapakah f?
+0, 2/3
+Misalkan r (p) menjadi turunan ke-pertama dari 4*p**2 - 2*p**4 + 4/5*p**5 - 16/3*p**3 + 12*p + 37. Faktor dari r(x).
+4*(x - 3)*(x - 1)*(x + 1)**2
+Temukan t sehingga 16/7*t + t**2 + 12/7 + 1/7*t**3 = 0.
+-3, -2
+Misalkan 5 = -t, 5*y - 3*t = 1052 + 1293. Misalkan i = y + -464. Faktor dari 0 - 1/2*m**4 - 3/2*m**i + 3/2*m**3 + 1/2*m.
+-m*(m - 1)**3/2
+Faktor dari 2/3*w**3 + 288*w**2 + 0 + 0*w.
+2*w**2*(w + 432)/3
+Misalkan i(r) = 2*r**2 - 4*r + 1. Misalkan n(d) = 17*d**2 - 29*d - 24. Misalkan u(z) = -6*i(z) + n(z). Berapakah t dalam u(t) = 0?
+-2, 3
+Misalkan p (h) menjadi turunan ke-ketiga dari -7/30*h**5 + 0*h + 0*h**3 + 0*h**4 + 0 + 1/60*h**6 - 65*h**2. Misalkan p(c) = 0. Hitung c.
+0, 7
+Misalkan k (i) menjadi turunan ke-pertama dari 14/25*i**5 + 0*i**2 + 1/2*i**4 + 1/5*i**6 + 0*i + 28 + 2/15*i**3. Misalkan k(a) = 0. Hitung a.
+-1, -1/3, 0
+Misalkan d (u) menjadi turunan ke-kedua dari -u**5/50 + u**4/3 - 7*u**3/5 + u - 82. Selesaikan d(a) = 0 untuk a.
+0, 3, 7
+Misalkan s (u) menjadi turunan ke-pertama dari u**4/2 - 40*u**3 + 1053*u**2 - 8748*u - 515. Faktor dari s(f).
+2*(f - 27)**2*(f - 6)
+Misalkan r (l) menjadi turunan ke-pertama dari 2*l**3/27 + 61*l**2/3 + 364*l/9 - 1333. Berapakah i dalam r(i) = 0?
+-182, -1
+Misalkan d be ((-41)/(6232/57) - (-7)/8)*0. Faktor dari -4/11*h**3 + 0 + 0*h**4 + d*h**2 + 2/11*h + 2/11*h**5.
+2*h*(h - 1)**2*(h + 1)**2/11
+Misalkan a be 2 + 2*(-6)/(-4). Misalkan -2*p - 73 = -2*n - 3*n, -a*p - 33 = -n. Faktor dari t**2 + 14*t**2 + 5*t**4 - 5*t**2 - 20*t**3 - n + 20*t - 2.
+5*(t - 3)*(t - 1)**2*(t + 1)
+Misalkan c (l) menjadi turunan ke-ketiga dari l**8/336 - 11*l**7/210 + l**6/40 + 203*l**5/60 - 49*l**4/6 + 597*l**2. Tentukan k, mengingat bahwa c(k) = 0.
+-4, 0, 1, 7
+Misalkan u = 15 - 3. Misalkan -u = -5*p + 2*p. Selesaikan 8*l + 60*l**4 + 1 - 4*l**2 + p*l**5 - 56*l**4 - 1 - 12*l**3 = 0 untuk l.
+-2, -1, 0, 1
+Misalkan x be 1/(-4) - (0 + (-18)/8). Misalkan s - 5 = -x*d, 5*s + 4*d = -d + 20. Faktor dari -1/3*l**s + l**2 + 1/3 - l.
+-(l - 1)**3/3
+Misalkan c(s) = s**3 - 11*s**2 + 20*s - 9. Misalkan o be c(9). Misalkan n be (-4)/o*9/(-6)*6. Selesaikan n*u**2 + 12*u + u**2 + 50 + 8*u - 3*u**2 = 0.
+-5
+Misalkan n = -454 - -438. Misalkan r be (-2)/(-4)*-12*2/n. Berapakah z dalam 3/2*z**2 + 0 + 0*z - 9/4*z**4 + r*z**3 = 0?
+-2/3, 0, 1
+Misalkan f (b) menjadi turunan ke-kedua dari 20 - 1/4*b**4 + 9/2*b**2 + b - b**3. Misalkan f(v) = 0. Hitung v.
+-3, 1
+Misalkan o = 9420 + -6676. Faktor dari 37430*p**3 - 6023*p**2 - o - 48499*p**2 - 1637*p**5 + 31360*p - 5170*p**4 - 41588*p**2 + 1879*p**5.
+2*(p - 7)**3*(11*p - 2)**2
+Misalkan k = -61643 - -61648. Temukan v, mengingat 6/5*v**2 + 33/5*v**3 - 24/5 + 3/5*v**k + 18/5*v**4 - 36/5*v = 0.
+-2, -1, 1
+Misalkan m (w) menjadi turunan ke-pertama dari -8*w - 4/9*w**3 + 14/3*w**2 + 24. Faktor dari m(q).
+-4*(q - 6)*(q - 1)/3
+Misalkan -1 + 121 = 15*m. Tentukan a, mengingat bahwa 35*a**2 - 9*a**2 + 43*a**3 - 10*a**5 - 65*a**3 + m + 32*a - 34*a**4 = 0.
+-2, -1, -2/5, 1
+Faktor dari -5689 + 1222*v**2 - 188*v - 1224*v**2 + 1271.
+-2*(v + 47)**2
+Misalkan j = 1373 - 1369. Misalkan g (b) menjadi turunan ke-ketiga dari 0*b + 1/4*b**4 - 3/2*b**3 + 0 + 1/20*b**5 - j*b**2. Faktor dari g(f).
+3*(f - 1)*(f + 3)
+Misalkan o (n) menjadi turunan ke-ketiga dari -n**6/180 - n**5/9 - 7*n**4/36 + 2*n**3 - 1610*n**2. Selesaikan o(u) = 0 untuk u.
+-9, -2, 1
+Misalkan -p = -81 - 244. Misalkan m = p - 321. Faktor dari 9/2 + 49/2*g**5 + 105/2*g**m - 15/2*g + 15*g**3 - 25*g**2.
+(g + 1)**3*(7*g - 3)**2/2
+Misalkan a be 3/(-2)*16/(-6). Misalkan s be ((-35)/(-28) + -2)/(3/(-12)). Selesaikan 9*t**3 + 13*t**3 - 30*t**s - 4*t**2 - 4*t**a + 16*t**3 = 0 untuk t.
+0, 1
+Berapakah c dalam -8/3*c**2 - 8/5*c**4 + 64/15 + 24/5*c - 2/15*c**5 - 14/3*c**3 = 0?
+-8, -2, -1, 1
+Misalkan z (g) menjadi turunan ke-kedua dari -3*g**5/140 + 4*g**4/3 + 193*g**3/42 + 39*g**2/7 + 14*g + 36. Berapakah c dalam z(c) = 0?
+-1, -2/3, 39
+Misalkan p(m) = m**3 - m**2 - 3*m + 2. Misalkan c(n) = 37*n**3 + 5853*n**2 + 7474*n + 1664. Misalkan x(i) = -c(i) + 2*p(i). Faktor dari x(v).
+-5*(v + 1)*(v + 166)*(7*v + 2)
+Misalkan t be (1 - -63) + 0/(-20). Misalkan z = 3*z - t. Misalkan -16 + z*l - 3*l**2 + 0*l**2 + 4*l**3 - 17*l**2 = 0. Hitung l.
+1, 2
+Misalkan -151*a**5 + 288*a + 480*a**2 + 27*a**4 + 121*a**5 + 218*a**3 + 31*a**5 = 0. Hitung a.
+-12, -2, -1, 0
+Faktor dari -34 + 486*t - 2 + 525*t - 1044*t + 3*t**2.
+3*(t - 12)*(t + 1)
+Tentukan n sehingga 8*n**4 - 32*n**2 - 2/3*n**5 + 0 + 88/3*n - 14/3*n**3 = 0.
+-2, 0, 1, 2, 11
+Tentukan l sehingga 18*l - 31*l**2 - l + 22*l - 3*l**3 - 5*l**2 = 0.
+-13, 0, 1
+Misalkan t (j) menjadi turunan ke-ketiga dari j**7/70 + j**6/10 - j**5/20 - j**4/2 + 19*j**2 + 12*j. Faktor dari t(a).
+3*a*(a - 1)*(a + 1)*(a + 4)
+Misalkan r = -56 + 31. Misalkan n = -9 - r. Faktor dari -5*b + n*b**4 + 5*b**5 - 16*b**4 + 10*b**3 - 10*b**5.
+-5*b*(b - 1)**2*(b + 1)**2
+Misalkan n(s) = -2*s**2 + 51*s - 10. Misalkan g(h) = 6*h**2 - 152*h + 28. Misalkan l(y) = 10*g(y) + 28*n(y). Misalkan l(c) = 0. Hitung c.
+0, 23
+Misalkan -5*o - 10 = 0, -y + 304 = -17*o + 13*o. Misalkan d = y - 296. Faktor dari 0*l**4 + 2/7*l**5 + 0*l + 4/7*l**2 + d - 6/7*l**3.
+2*l**2*(l - 1)**2*(l + 2)/7
+Misalkan 11*g + 175 - 197 = 0. Faktor dari 8/13*u**2 - 24/13 - g*u.
+2*(u - 4)*(4*u + 3)/13
+Misalkan t (d) menjadi turunan ke-kedua dari -d**4/27 + 176*d**3/27 + 40*d**2 - 4*d + 7. Berapakah a dalam t(a) = 0?
+-2, 90
+Misalkan g = -2066 - -2070. Misalkan i (b) menjadi turunan ke-kedua dari -1/48*b**g + 1/80*b**5 + 0 - 9*b - 1/24*b**3 + 1/8*b**2. Faktor dari i(q).
+(q - 1)**2*(q + 1)/4
+Misalkan h (x) menjadi turunan ke-kedua dari x**4/30 + 14*x**3/15 - 32*x**2/5 - 772*x + 1. Faktor dari h(o).
+2*(o - 2)*(o + 16)/5
+Faktor dari 0 + 72/7*u**2 + 74/7*u - 2/7*u**3.
+-2*u*(u - 37)*(u + 1)/7
+Misalkan j(z) = -3*z**3 - 217*z**2 + 278*z - 135. Misalkan k(a) = a**3 + 75*a**2 - 93*a + 45. Misalkan g(d) = 4*j(d) + 11*k(d). Berapakah o dalam g(o) = 0?
+-45, 1
+Misalkan 0 = -79*n - 47356 + 47593. Faktor dari 1/3*a**3 + 0 + n*a + 2*a**2.
+a*(a + 3)**2/3
+Misalkan j(o) = -o**2 + 17*o - 1. Misalkan b be j(13). Misalkan t = -46 + b. Faktor dari 69*v + t*v**3 - 69*v.
+5*v**3
+Misalkan z (r) menjadi turunan ke-pertama dari 9/8*r**2 - r - 1/4*r**3 + 4 + 1/48*r**4. Misalkan t (v) menjadi turunan ke-pertama dari z(v). Faktor dari t(s).
+(s - 3)**2/4
+Misalkan -11*q + 7*q + 168 = 0. Misalkan g be (q/(-28))/(-2 - (-1)/(-2)). Faktor dari g*n**2 + 0 + 3*n.
+3*n*(n + 5)/5
+Misalkan h be (-2)/18*-3 - (-350)/(-6). Misalkan c be h/(-10) + (1 - -6) + -12. Faktor dari -c*n**2 + 4/5 - 2/5*n + 2/5*n**3.
+2*(n - 2)*(n - 1)*(n + 1)/5
+Misalkan 324 = 2*w + 364. Misalkan j be 8/14 - w/70. Misalkan 96/7 + j*v**2 - 48/7*v = 0. Berapakah v?
+4
+Tentukan d, mengingat bahwa 2/17*d**2 + 1124/17*d + 157922/17 = 0.
+-281
+Misalkan r = -937261 - -134027513/143. Misalkan w = r + 76/13. Faktor dari 0 + 6/11*l - w*l**2.
+-2*l*(l - 3)/11
+Berapakah f dalam 7406 + 646/7*f**2 + 2/7*f**3 + 7498*f = 0?
+-161, -1
+Misalkan l(f) = 9*f**2 + 9*f. Misalkan h = 16 + -15. Misalkan r(g) = g**3 + g**2. Misalkan y(o) = h*l(o) + 3*r(o). Faktor dari y(i).
+3*i*(i + 1)*(i + 3)
+Misalkan k (z) menjadi turunan ke-ketiga dari -z**5/330 + 7*z**4/132 + 6*z**3/11 - 696*z**2. Faktor dari k(w).
+-2*(w - 9)*(w + 2)/11
+Misalkan 0 = 56*v - 52*v - 660. Misalkan x be 4/(-3) - (-275)/v. Misalkan 0 - x*g + 8/3*g**2 - 16/3*g**3 = 0. Hitung g.
+0, 1/4
+Misalkan h (b) menjadi turunan ke-pertama dari 5/4*b**5 + 5/24*b**6 + 45/16*b**4 + 5/4*b**2 + 0*b + 35/12*b**3 - 49. Faktor dari h(r).
+5*r*(r + 1)**3*(r + 2)/4
+Faktor dari -19/11*w - 78/11 + 1/11*w**3 + 12/11*w**2.
+(w - 3)*(w + 2)*(w + 13)/11
+Misalkan i be (146 + -150)*6/(-8). Misalkan b (u) menjadi turunan ke-pertama dari u + 15 - 2/3*u**i - 1/4*u**2 + 3/8*u**4. Tentukan z sehingga b(z) = 0.
+-2/3, 1
+Selesaikan 1/8*p**2 + 35/4 - 19/8*p = 0 untuk p.
+5, 14
+Misalkan a = -1207 - -1211. Misalkan j (r) menjadi turunan ke-pertama dari -2*r**a - 2*r**3 - 2/5*r**5 - 1 + 8*r + 4*r**2. Misalkan j(m) = 0. Hitung m.
+-2, -1, 1
+Misalkan j (c) menjadi turunan ke-ketiga dari 1/3528*c**8 + 0*c**5 + 2 + 0*c**3 - 1/630*c**6 - 18*c**2 + 1/2205*c**7 + 0*c**4 + 0*c. Faktor dari j(u).
+2*u**3*(u - 1)*(u + 2)/21
+Misalkan p be (16/(-7))/((498/42 - 4) + -8). Misalkan d (t) menjadi turunan ke-kedua dari p*t + t**2 + 0 + 0*t**3 - 1/6*t**4. Misalkan d(o) = 0. Berapakah o?
+-1, 1
+Misalkan o = -50215 + 50217. Misalkan 0 - 4/9*y - 4/9*y**3 + 2/3*y**4 - 14/9*y**o = 0. Hitung y.
+-1, -1/3, 0, 2
+Tentukan z, mengingat bahwa 2884/5*z**3 - 34/5 + 423/5*z - 1811/5*z**2 - 912/5*z**4 - 64/5*z**5 = 0.
+-17, 1/4, 2
+Misalkan k be 48/18*(-6)/(-8). Tentukan j, mengingat bahwa -74*j**2 + 76*j**2 + 22*j + 16 + 18 + k = 0.
+-9, -2
+Misalkan p (h) menjadi turunan ke-ketiga dari 1/350*h**7 + 0 - 8*h**2 + 1/24*h**4 - 1/120*h**6 - 1/15*h**3 - 1/300*h**5 + 0*h. Misalkan p(q) = 0. Hitung q.
+-1, 2/3, 1
+Misalkan a(h) = 1170 - 1168*h. Misalkan u be a(1). Faktor dari -12/11*t + 14/11*t**u - 2/11*t**3 + 0.
+-2*t*(t - 6)*(t - 1)/11
+Misalkan c (g) menjadi turunan ke-kedua dari 1/135*g**6 + 5 + 0*g**3 - 3*g + 0*g**2 + 1/9*g**4 - 1/18*g**5. Faktor dari c(q).
+2*q**2*(q - 3)*(q - 2)/9
+Misalkan -30*b - 96829 = -96949. Faktor dari 0 - m**3 + 1/3*m**b + 5/9*m**2 + 0*m + 1/9*m**5.
+m**2*(m - 1)**2*(m + 5)/9
+Misalkan w (l) menjadi turunan ke-ketiga dari -14*l**2 - 1/60*l**6 - 1/30*l**5 + 0 - 1/36*l**4 + 0*l**3 - 1/315*l**7 + l. Berapakah u dalam w(u) = 0?
+-1, 0
+Misalkan -2*l - 4*h = 4, 6*h - 2*h + 6 = -l. Misalkan s (n) menjadi turunan ke-pertama dari -2/3*n**l + n - 2 + 1/9*n**3. Faktor dari s(t).
+(t - 3)*(t - 1)/3
+Misalkan a (b) menjadi turunan ke-ketiga dari b**6/1260 - b**5/63 - 32*b**4/63 - 32*b**3/7 - 710*b**2. Faktor dari a(u).
+2*(u - 18)*(u + 4)**2/21
+Misalkan l = -254 - -462. Misalkan -j**3 - 110*j - l*j**2 - 15 + 1 + 33*j**3 = 0. Berapakah j?
+-1/4, 7
+Misalkan o = 24 - 22. Misalkan -r + 5 = -f, -o*r + 0*r = -4*f - 14. Faktor dari 7*n**4 - 9*n**r + 5*n**4 - 3*n**5 - n**5 + n**3.
+-4*n**3*(n - 2)*(n - 1)
+Misalkan a (s) menjadi turunan ke-pertama dari -1/35*s**5 + 11 + 0*s**3 + 0*s**2 + 0*s**4 + 0*s - 1/42*s**6. Misalkan a(m) = 0. Hitung m.
+-1, 0
+Temukan x, mengingat -22*x**2 - 57 - 84*x - 6 + 18*x**2 + 28 - 45 = 0.
+-20, -1
+Misalkan u = 268446/5 + -53689. Berapakah c dalam 1/5*c**2 + 0 - u*c - 1/5*c**4 + 1/5*c**3 = 0?
+-1, 0, 1
+Misalkan o (b) menjadi turunan ke-pertama dari 1/2*b**4 + 0*b**2 - 52 - 1/12*b**6 + 3/10*b**5 + 0*b + 0*b**3. Tentukan m, mengingat bahwa o(m) = 0.
+-1, 0, 4
+Misalkan o (j) menjadi turunan ke-ketiga dari j**7/105 - j**6/10 - 17*j**5/30 + j**4/2 + 16*j**3/3 - 1307*j**2. Berapakah t dalam o(t) = 0?
+-2, -1, 1, 8
+Misalkan m be 65390/3521 + (0 - (-1 + 17)). Faktor dari -m*r + 0 - 2/7*r**2.
+-2*r*(r + 9)/7
+Faktor dari -202*r + 6 + 227 + 277 + 3*r**2 + 559*r - 156.
+3*(r + 1)*(r + 118)
+Misalkan r = 137573/2 - 68776. Temukan a sehingga 3/2*a**2 + 9 - r*a = 0.
+1, 6
+Tentukan w sehingga -400/3 - 10/3*w**4 + 260/3*w + 2/3*w**5 + 194/3*w**2 - 46/3*w**3 = 0.
+-4, -2, 1, 5
+Misalkan m (u) menjadi turunan ke-kedua dari -u**5/100 + 71*u**4/60 + 29*u**3/6 + 73*u**2/10 - 114*u. Faktor dari m(k).
+-(k - 73)*(k + 1)**2/5
+Misalkan d (i) menjadi turunan ke-kedua dari -20*i - 9*i**2 + 1/4*i**5 - 37/24*i**4 + 5*i**3 - 1/60*i**6 + 2. Misalkan d(w) = 0. Berapakah w?
+2, 3
+Misalkan n = 215992/3 - 71996. Berapakah t dalam -n*t**2 - 26/9*t - 4/9 = 0?
+-2, -1/6
+Misalkan h(c) = 3*c**5 + 2*c**4 - 19*c**3 + 4*c**2 + 38*c - 3. Misalkan q(i) = 2*i**2 + 2*i + 1. Misalkan w(g) = h(g) - 5*q(g). Misalkan w(j) = 0. Hitung j.
+-2, 1/3, 1, 2
+Misalkan v be 473/903*-7*(15/33 - 1). Faktor dari 0*n**v - n - 2/3 + 1/3*n**3.
+(n - 2)*(n + 1)**2/3
+Misalkan j (n) menjadi turunan ke-kedua dari 3*n**5/35 + 29*n**4/42 + 19*n**3/21 - 4*n**2/7 + 11*n + 21. Tentukan o, mengingat bahwa j(o) = 0.
+-4, -1, 1/6
+Misalkan r be ((-8)/16*(-5408)/(-80))/(6/(-78)). Faktor dari 507/5*h + 1/5*h**3 + 39/5*h**2 + r.
+(h + 13)**3/5
+Misalkan h be (-14)/35*(-215 + 2 + 3). Faktor dari 1659*n**3 + 18*n**2 - 32 + h*n**2 + 84*n - 1673*n**3.
+-2*(n - 8)*(n + 1)*(7*n - 2)
+Misalkan w be (4/(-7))/(-2) + 0. Misalkan t = 16603 + -116219/7. Faktor dari t*d - w*d**2 + 0.
+-2*d*(d - 1)/7
+Misalkan n = 8335760 - 20881075738/2505. Misalkan y = n - 26/167. Faktor dari 4/5*r**2 + y - 8/5*r - 2/15*r**3.
+-2*(r - 2)**3/15
+Misalkan f(t) = -2*t**2 + 28*t - 16. Misalkan b be f(12). Misalkan v = 17*v - b. Misalkan -2/7*n**3 - 2/7*n**v + 4/7*n + 0 = 0. Hitung n.
+-2, 0, 1
+Misalkan o(x) = -x**2 - x - 5. Misalkan w(y) = 5*y**2 + 565*y + 35. Misalkan f(g) = -7*o(g) - w(g). Misalkan f(v) = 0. Hitung v.
+0, 279
+Misalkan v = 32 - 27. Misalkan -v*w + 3*w = -28. Tentukan q, mengingat bahwa 2 + 5 - w*q**2 - 8*q - 3 + 18*q**2 = 0.
+1
+Misalkan 33343 + 123*u**2 + 3966*u + 1077*u + 35578 + 9*u**3 + 10*u**3 - 18*u**3 = 0. Hitung u.
+-41
+Misalkan k (b) menjadi turunan ke-pertama dari -b**4/4 - 5*b**3/12 - b**2/8 + 584. Faktor dari k(j).
+-j*(j + 1)*(4*j + 1)/4
+Misalkan s (d) menjadi turunan ke-kedua dari 0 - 1/6*d**4 - 7*d - 7*d**2 - 8/3*d**3. Selesaikan s(o) = 0.
+-7, -1
+Misalkan -3*b - 231 = -5*i + b, -2*i - 4*b + 70 = 0. Misalkan p**2 + 18 + i + 9 - 6*p**2 + 65*p = 0. Hitung p.
+-1, 14
+Misalkan q be (-176 - -160) + 2 + 14. Faktor dari q*c - 9/7*c**2 + 0 + 12/7*c**3 - 3/7*c**4.
+-3*c**2*(c - 3)*(c - 1)/7
+Berapakah m dalam -2884/19*m**2 + 2/19*m**5 - 3198/19*m - 158/19*m**4 + 3042/19 + 3196/19*m**3 = 0?
+-1, 1, 39
+Misalkan z(d) = -d**3 - 6*d**2 + 6*d - 6. Misalkan a be z(-7). Misalkan r be 2/(3/9*3). Faktor dari a - 3 - 5*g**2 + r.
+-5*g**2
+Misalkan p(s) = 2*s**4 + s**3 + 6*s**2 + 11*s + 4. Misalkan t(h) = h**4 - h**2. Misalkan k be -11 + 4 - -1*6. Misalkan n(b) = k*p(b) + 3*t(b). Faktor dari n(y).
+(y - 4)*(y + 1)**3
+Selesaikan -1/2*t**3 + 2287148 + 249*t**2 - 41334*t = 0 untuk t.
+166
+Misalkan f(m) = m - 1. Misalkan t(p) = -p**2 + 108*p + 10. Misalkan o(w) = -10*f(w) - t(w). Faktor dari o(i).
+i*(i - 118)
+Misalkan -6*t = -2*t - 8. Faktor dari -43*j - t*j**3 + 83*j - 3*j**2 - 38*j + 2 + j**2.
+-2*(j - 1)*(j + 1)**2
+Misalkan y be (-24)/((-2880)/(-140)) + (-231)/(-6). Misalkan 8/3*k - 56/3*k**2 + 22*k**3 + y*k**4 + 32/3*k**5 + 0 = 0. Berapakah k?
+-2, 0, 1/4
+Misalkan j (u) menjadi turunan ke-pertama dari u**3/12 - u**2/8 - 5*u - 345. Faktor dari j(r).
+(r - 5)*(r + 4)/4

@@ -1,0 +1,666 @@
+Temukan turunan ketiga dari 4831*f**4 - 20707*f**2.
+115944*f
+Temukan turunan kedua dari 1002484*b**2 - 678912*b + 1 yang terkait dengan b.
+2004968
+Apa turunan ketiga dari 726*d**5 - 5*d**4 + 28*d**3 + 627266*d**2?
+43560*d**2 - 120*d + 168
+Apa turunan dari 70798*a - 605863 sehubungan dengan a?
+70798
+Temukan turunan pertama dari -43*a*o*v - 3*a*o - 77*a*s - 4*o*s*v - 125*o*v - 2*o - 2*s - v yang terkait dengan a.
+-43*o*v - 3*o - 77*s
+Apa turunan ketiga dari 242988*l**3 + 101*l**2 - 1988*l + 2 sehubungan dengan l?
+1457928
+Apa turunan dari 696146*l*p**3 + 2729*p**3 + 217*p**2 sehubungan dengan l?
+696146*p**3
+Apa turunan kedua dari 157*n*w**3 + 25*n*w**2 - 4*n*w + 4*w**2 + 3378*w - 1 sehubungan dengan w?
+942*n*w + 50*n + 8
+Apa turunan dari -1407171*m**2 - 968263 sehubungan dengan m?
+-2814342*m
+Temukan turunan ketiga dari -88255*a**4*b - 32*a**2 + 704*b yang terkait dengan a.
+-2118120*a*b
+Apa turunan dari 104912*q - 44329 sehubungan dengan q?
+104912
+Temukan turunan ketiga dari -26*w**4 - 18619*w**3 - 2*w**2 + 39663*w yang terkait dengan w.
+-624*w - 111714
+Temukan turunan kedua dari 116233*y**5 + 270607*y.
+2324660*y**3
+Temukan turunan kedua dari 579*f**2*k**3*r**2 + 46*f**2*k**3*r - 2*f**2*k**2*r + f**2*r**2 + 2*f**2*r + 2*k + 8 yang terkait dengan r.
+1158*f**2*k**3 + 2*f**2
+Apa turunan kedua dari -4847714*b**3 + 1120612*b?
+-29086284*b
+Apa turunan kedua dari -1034527*g**2 - 20*g + 21424?
+-2069054
+Temukan turunan kedua dari 6167*b**4 + 31*b**2 - 3*b - 357548.
+74004*b**2 + 62
+Temukan turunan kedua dari 3*a**2*f**2 + 3*a**2*f - 3*a**2 - 3*a*f**2 + 5*a*f + 459*f**2 - 86*f yang terkait dengan f.
+6*a**2 - 6*a + 918
+Apa turunan ketiga dari -25978*s**3 + 110*s**2 - 3*s - 3?
+-155868
+Temukan turunan ketiga dari 21*t**2*v**3 + 37*t**2*v**2 + 34*t*v**3 - 2*v**3 + 96*v**2 - 2 yang terkait dengan v.
+126*t**2 + 204*t - 12
+Temukan turunan pertama dari 113340*a**3 - 4*a**2 + 2*a - 109316.
+340020*a**2 - 8*a + 2
+Apa turunan kedua dari 608*b**5 - 9*b**4 + 26*b - 155?
+12160*b**3 - 108*b**2
+Apa turunan kedua dari 4*j*v*w**2*x - j*v*w*x - j*v*w + 7*j*w*x + v*w**2*x - 62*v*w*x - 2*v - 62*w**2 sehubungan dengan w?
+8*j*v*x + 2*v*x - 124
+Temukan turunan ketiga dari -4783*d*g*t**3*x**2 - 2*d*g + 8*d*t**3 - 3*d*t*x**2 - 6*g*t*x + 490*g + t**2 + x**2 yang terkait dengan t.
+-28698*d*g*x**2 + 48*d
+Apa turunan pertama dari 15302*t + 42422 sehubungan dengan t?
+15302
+Temukan turunan kedua dari 4934*a**2*s**3 + 3*a**2*s - 2*a + 447*s**3 - 3*s**2 yang terkait dengan a.
+9868*s**3 + 6*s
+Apa turunan dari 121*u**3 - 2*u**2 + 49*u - 82923 sehubungan dengan u?
+363*u**2 - 4*u + 49
+Apa turunan kedua dari 38631*y**2 + 568005*y?
+77262
+Temukan turunan pertama dari -130*p**3 + 58*p**2 + 65*p + 709909 yang terkait dengan p.
+-390*p**2 + 116*p + 65
+Apa turunan ketiga dari -9*m**4*o**2 + 576*m**3 - 11391*m**2 - 3*o**2 sehubungan dengan m?
+-216*m*o**2 + 3456
+Apa turunan ketiga dari -2*b**6 - 3*b**5 - 6008*b**3 - 2*b**2 + 216559*b sehubungan dengan b?
+-240*b**3 - 180*b**2 - 36048
+Apa turunan pertama dari 166704*f*k + 144025*f sehubungan dengan k?
+166704*f
+Apa turunan dari -136636*m**3*p - 1254*m**3 + 2*m*p + 2*m + 11 sehubungan dengan p?
+-136636*m**3 + 2*m
+Temukan turunan kedua dari 10*u**3*w + u**3*z + 18*u**2*z - 2*u*w - 4*u + w*z - 4*w + 59 yang terkait dengan u.
+60*u*w + 6*u*z + 36*z
+Diferensial yang -1510279*s**3*u**4 + 2*s**3 + 142833*s**2 sehubungan dengan u.
+-6041116*s**3*u**3
+Temukan turunan ketiga dari 29*q**2*v**3 + 524*q**2*v + 317*q*v**3 - 41*q*v**2 - v**3 yang terkait dengan v.
+174*q**2 + 1902*q - 6
+Temukan turunan ketiga dari 920*a**2*i*x**5 - a**2*x - 12*a*i*x**2 - 198*a*i + 8*i*x**5 + 3 yang terkait dengan x.
+55200*a**2*i*x**2 + 480*i*x**2
+Temukan turunan ketiga dari 2412843*a**6*p**3 - 42*a**2*p**3 + 12*a**2*p**2 + 2*a*p**3 + 4*a*p**2 - 4*p**3 yang terkait dengan a.
+289541160*a**3*p**3
+Diferensial yang -j**2*u**3 + 52637*j**2 + 21353*j*u**4 sehubungan dengan u.
+-3*j**2*u**2 + 85412*j*u**3
+Apa turunan pertama dari 2*u**4 + 2*u**2 + 1629*u + 21016 sehubungan dengan u?
+8*u**3 + 4*u + 1629
+Diferensial dari l**3 + 31493*l**2 - 72768.
+3*l**2 + 62986*l
+Apa turunan ketiga dari 312786*r**3 + 383*r**2 + 514*r?
+1876716
+Apa turunan dari 3*r**3 + 35*r**2 + 31*r - 97339?
+9*r**2 + 70*r + 31
+Apa turunan kedua dari -51*b**3*t**2 - 1314*b**3*t + 2*b*t**2 + 728*b - 4*t sehubungan dengan b?
+-306*b*t**2 - 7884*b*t
+Temukan turunan pertama dari 9*t**4 - t**3 + 950*t**2 + 15659 yang terkait dengan t.
+36*t**3 - 3*t**2 + 1900*t
+Temukan turunan pertama dari -26*o**4 - 10*o**3 - 10*o**2 + 194377.
+-104*o**3 - 30*o**2 - 20*o
+Temukan turunan kedua dari -131887*f*w**2*z**2 + f*w**2*z - 27*f*w**2 + 21*f*w*z - 2*f*w - 5*w**2 yang terkait dengan z.
+-263774*f*w**2
+Temukan turunan pertama dari -42*m**3 - 3*m**2 - 825*m - 1976318 yang terkait dengan m.
+-126*m**2 - 6*m - 825
+Apa turunan pertama dari 26*f**2*k**2 + f**2*k + 116*f**2 - 53*f*k**2 + 88*f + 1 sehubungan dengan k?
+52*f**2*k + f**2 - 106*f*k
+Apa turunan ketiga dari 189873*v**5 + 3*v**2 + 190*v + 73?
+11392380*v**2
+Temukan turunan kedua dari -188576*f**2 - 203476*f.
+-377152
+Temukan turunan kedua dari -237224*n*r**4 + 323616*n*r yang terkait dengan r.
+-2846688*n*r**2
+Apa turunan kedua dari -2*m**5 + 29650*m**4 + 20449*m?
+-40*m**3 + 355800*m**2
+Diferensial yang 2136*c*f**2 + 16*c*f*l + 9781*f**2*l sehubungan dengan c.
+2136*f**2 + 16*f*l
+Apa turunan dari 7*m**2*y - 5835*m**2 + 2*m - 193390*y sehubungan dengan m?
+14*m*y - 11670*m + 2
+Temukan turunan kedua dari -2*t**3 - 15063*t**2 + 3133148*t yang terkait dengan t.
+-12*t - 30126
+Apa turunan kedua dari 170528*w**3 + 309994*w?
+1023168*w
+Temukan turunan ketiga dari 2*c**5 + 65672*c**4 + 25*c**2 + 179 yang terkait dengan c.
+120*c**2 + 1576128*c
+Apa turunan dari -3*i**3 + 282*i**2 + 2*i - 22158?
+-9*i**2 + 564*i + 2
+Apa turunan ketiga dari -f**5 - 6*f**4 + 279*f**3 + 5*f**2 + 21335*f + 4 sehubungan dengan f?
+-60*f**2 - 144*f + 1674
+Apa turunan ketiga dari -2*b**5 - 243907*b**4 - b**3 + 97632*b**2?
+-120*b**2 - 5853768*b - 6
+Apa turunan ketiga dari 147*a**5 + 19*a**4 - 3*a**3 + 1994205*a**2 sehubungan dengan a?
+8820*a**2 + 456*a - 18
+Temukan turunan ketiga dari -56*a**3*f**3*o - 2*a**3*o + 5*a**2*f + 6*a*f**2*o - 534*a*f**2 - 62*f**3*o yang terkait dengan f.
+-336*a**3*o - 372*o
+Temukan turunan pertama dari -1926427*q**2*w - 1326305*q**2 - 2 yang terkait dengan w.
+-1926427*q**2
+Apa turunan kedua dari -158343*n*z**2 - 28*n*z - 4038*z sehubungan dengan z?
+-316686*n
+Temukan turunan ketiga dari 2*k**5 + 23000*k**3 + 104278*k**2 yang terkait dengan k.
+120*k**2 + 138000
+Apa turunan ketiga dari 103951*d**4 + 116399*d**2 sehubungan dengan d?
+2494824*d
+Apa turunan ketiga dari -5*a*v**4 - 2*a*v**3 + 25*a*v**2 + a*v - 856*v**4 + 2*v**3 - 430 sehubungan dengan v?
+-120*a*v - 12*a - 20544*v + 12
+Apa turunan kedua dari -608*j**3*w*z + 3*j**2*w**3*z + 2*j*w**3 - 362*j*w**2*z - 146*j*w*z sehubungan dengan j?
+-3648*j*w*z + 6*w**3*z
+Apa turunan ketiga dari 59656*b**3 - 3*b**2 + 2*b + 1221?
+357936
+Temukan turunan ketiga dari -646*t**6 + 2*t**5 - t**4 + 110075*t**2.
+-77520*t**3 + 120*t**2 - 24*t
+Apa turunan pertama dari 52355*w**2 + 5861 sehubungan dengan w?
+104710*w
+Apa turunan ketiga dari 242114*p**5 + 22518*p**2 sehubungan dengan p?
+14526840*p**2
+Temukan turunan pertama dari 837*l**2*p*r**3 - 214*l**2*p*r**2 + 71*l**2*r**3 + 299*l**2*r**2 + 6*l*r yang terkait dengan p.
+837*l**2*r**3 - 214*l**2*r**2
+Temukan turunan ketiga dari 5*h**3*i + 76558*h**3*l**3 + 6*h**2*i*l**3 - 2805*h**2*l**3 - h**2*l**2 - 3*h*l**3 yang terkait dengan h.
+30*i + 459348*l**3
+Apa turunan pertama dari -27*l**2 - 67*l + 471280?
+-54*l - 67
+Apa turunan kedua dari 9*g**2*m**2 - 300*g**2*m + 45*g**2 - g*m**3 - 2*g*m**2 + 19*m**2 sehubungan dengan m?
+18*g**2 - 6*g*m - 4*g + 38
+Apa turunan pertama dari -8508*u**3*w**2 - u**3 - 3*u**2 - 5543*u - 4*w**2 sehubungan dengan w?
+-17016*u**3*w - 8*w
+Temukan turunan kedua dari -1194*q**4 + 8*q**3 + 5265*q yang terkait dengan q.
+-14328*q**2 + 48*q
+Apa turunan ketiga dari -2073635*s**2*u**3 + 14*s**2 + 7029*u**2 sehubungan dengan u?
+-12441810*s**2
+Apa turunan kedua dari 44715*j**4 - 2*j - 45284 sehubungan dengan j?
+536580*j**2
+Apa turunan dari 1685*n*r*v**3 + n*v**3 - 5*n - 9*r + 3591 sehubungan dengan r?
+1685*n*v**3 - 9
+Temukan turunan ketiga dari -9877*t**4 + 3*t**2 - 3149*t - 2.
+-237048*t
+Apa turunan dari -p**2*t + 9*p**2 - 2747*p - 40852*t sehubungan dengan p?
+-2*p*t + 18*p - 2747
+Temukan turunan ketiga dari 290198*n**4 + n**2 - 22092 yang terkait dengan n.
+6964752*n
+Apa turunan kedua dari -340657*d**2 + 4*d + 150729 sehubungan dengan d?
+-681314
+Apa turunan ketiga dari 19937*p**3 - 4187*p**2 - p - 4 sehubungan dengan p?
+119622
+Temukan turunan pertama dari 55236*u + 467510.
+55236
+Apa turunan ketiga dari 44715*m**3 - 40*m**2 - m + 20 sehubungan dengan m?
+268290
+Apa turunan pertama dari -4385771*u**4 - 2311899 sehubungan dengan u?
+-17543084*u**3
+Apa turunan pertama dari 2*c**2*v + 3*c**2 - 75981*c*v**2 + 1428*c sehubungan dengan v?
+2*c**2 - 151962*c*v
+Temukan turunan pertama dari -23916*v**3 - 43387 yang terkait dengan v.
+-71748*v**2
+Temukan turunan ketiga dari g**2*h**3*z**3 + 107*g**2 + 2644*g*h**3 - 5*h**3*z + 133*h**2*z - z**3 yang terkait dengan h.
+6*g**2*z**3 + 15864*g - 30*z
+Temukan turunan kedua dari 2992*j**5*s**3 - 4*j**4*m*s - 312*j*m*s**3 - j*m*s**2 - s**3 - 7*s**2 yang terkait dengan j.
+59840*j**3*s**3 - 48*j**2*m*s
+Apa turunan dari -77703*c**4 - 46948 sehubungan dengan c?
+-310812*c**3
+Temukan turunan ketiga dari 10396*n**4 + 2*n**3 + 26216*n**2.
+249504*n + 12
+Temukan turunan kedua dari -9*c**4 + 854*c**3*d**3 + 20*c - 629*d**3 yang terkait dengan c.
+-108*c**2 + 5124*c*d**3
+Apa turunan ketiga dari 24*d**5*x - 179*d**4*x**2 + 70*d**2*x + 517*x**2 sehubungan dengan d?
+1440*d**2*x - 4296*d*x**2
+Apa turunan kedua dari s**5 - 1001562*s**3 - 835678*s?
+20*s**3 - 6009372*s
+Temukan turunan ketiga dari -17283*j**5 - 115471*j**2.
+-1036980*j**2
+Diferensial dari 139690*v**4 + 260430.
+558760*v**3
+Apa turunan ketiga dari 218377*n**3 + 62*n**2 + 1732*n sehubungan dengan n?
+1310262
+Apa turunan ketiga dari -2121*m*y**4 - 388*m*y**2 - 3*m + 8*y**4 + 2*y**3 - y**2 - 45 sehubungan dengan y?
+-50904*m*y + 192*y + 12
+Temukan turunan kedua dari -5*d**4 - 44604*d**3 - 2*d - 433065.
+-60*d**2 - 267624*d
+Apa turunan pertama dari 535*r**2 - 77*r + 139526 sehubungan dengan r?
+1070*r - 77
+Temukan turunan kedua dari 1270001*x**4 + 4*x - 664325 yang terkait dengan x.
+15240012*x**2
+Apa turunan kedua dari -47*i**3*t**3*v + i**3*t**3 + 153*i**3*t**2*v**2 + 109*i**3*v + 4*i*t**3*v**2 + 3*i*v - 43*v**2 sehubungan dengan v?
+306*i**3*t**2 + 8*i*t**3 - 86
+Apa turunan kedua dari -18827*g**4*m + 24*g**2*m + 20*g*m + 35*g + 2*m + 3 sehubungan dengan g?
+-225924*g**2*m + 48*m
+Apa turunan pertama dari 329*p*v - 203*p + 741266*v sehubungan dengan p?
+329*v - 203
+Apa turunan ketiga dari 388*m**4 - 410*m**3 + 6582*m**2 + 2*m + 3 sehubungan dengan m?
+9312*m - 2460
+Temukan turunan ketiga dari 77*g*u**5 - 9204*g*u**2 - 2*g - 2554*u**4 + 16*u**2 yang terkait dengan u.
+4620*g*u**2 - 61296*u
+Apa turunan kedua dari 528139*z**4 + 3*z**3 + 96861*z + 4 sehubungan dengan z?
+6337668*z**2 + 18*z
+Temukan turunan ketiga dari g**6*p + 14728*g**3*p - 25*g**2 - 865*g*p yang terkait dengan g.
+120*g**3*p + 88368*p
+Apa turunan pertama dari 203077*u + 286678?
+203077
+Apa turunan kedua dari -27*b**5 - 12969*b**4*p + 2203064*b*p sehubungan dengan b?
+-540*b**3 - 155628*b**2*p
+Apa turunan kedua dari 2*h**4*y + 39*h**4 + 238*h**2*y + h*y - 6525*h + 5 sehubungan dengan h?
+24*h**2*y + 468*h**2 + 476*y
+Diferensial yang -h**2*u - 371769*h*u - 652176*u sehubungan dengan h.
+-2*h*u - 371769*u
+Apa turunan pertama dari 2*r**4 + r**3 + 6*r**2 - 464*r - 273322?
+8*r**3 + 3*r**2 + 12*r - 464
+Temukan turunan pertama dari -2*o**4 + 15760*o + 91764.
+15760 - 8*o**3
+Temukan turunan kedua dari 246503*x**5 + 240935*x.
+4930060*x**3
+Temukan turunan kedua dari 2549*d**5 - 4*d**3 - 4318*d yang terkait dengan d.
+50980*d**3 - 24*d
+Temukan turunan ketiga dari 754*w**5 - 257*w**4 - 528537*w**2 yang terkait dengan w.
+45240*w**2 - 6168*w
+Temukan turunan kedua dari 714048*i**5 - 2*i**4 + 672774*i yang terkait dengan i.
+14280960*i**3 - 24*i**2
+Apa turunan ketiga dari -2*j*t**3 - 62*j*t*u**3 + 2*j*t - 6383*t**3*u**3 + t**3*u - t**2*u**3 - 22*t*u**3 sehubungan dengan t?
+-12*j - 38298*u**3 + 6*u
+Diferensial yang f**3*y + 274*f**3 - 4*f**2*y - 15107*f*y + 9 sehubungan dengan y.
+f**3 - 4*f**2 - 15107*f
+Apa turunan pertama dari 84349*f**4 + 104281 sehubungan dengan f?
+337396*f**3
+Temukan turunan kedua dari 73211*d**3*z**3 + 9*d**3*z - d**3 - d*z - 23*d yang terkait dengan z.
+439266*d**3*z
+Temukan turunan pertama dari -38737*n**2 - 32257.
+-77474*n
+Apa turunan ketiga dari 161095*b**3*w**3 + b**2*w**2 + 75280*b*w**3 - b sehubungan dengan b?
+966570*w**3
+Temukan turunan kedua dari -4*o**3*p**2 + 1794*o**3 + o**2*p**2 - 32*o*p**2 + 12*o - 25*p - 1 yang terkait dengan o.
+-24*o*p**2 + 10764*o + 2*p**2
+Diferensial dari 517698*n**3 - 445719.
+1553094*n**2
+Apa turunan ketiga dari 68245*l**3 + 610*l**2?
+409470
+Apa turunan pertama dari 677164*z + 171242 sehubungan dengan z?
+677164
+Apa turunan ketiga dari 187389*a**6 - a**5*y**3 + a**2*y**2 - 36*a**2 - a*y**3 - a*y - 17 sehubungan dengan a?
+22486680*a**3 - 60*a**2*y**3
+Temukan turunan ketiga dari 2*d**3*t**3 + 10*d**3*t**2 - 4873*d**3 - 201*d**2*t**3 - 2*d**2*t + 24*d yang terkait dengan d.
+12*t**3 + 60*t**2 - 29238
+Diferensial dari 147*c**2 + 665*c - 177629.
+294*c + 665
+Apa turunan ketiga dari 253*k**5 - 2*k**4 + 17*k**3 + 12210*k**2 sehubungan dengan k?
+15180*k**2 - 48*k + 102
+Temukan turunan ketiga dari -16*h**5 - 285*h**3 - 193*h**2 + 36*h - 1 yang terkait dengan h.
+-960*h**2 - 1710
+Temukan turunan pertama dari 44683*g*k - 9770*g yang terkait dengan k.
+44683*g
+Apa turunan dari -2*f*r**2 + 137*f*r + 14*f - 94*r**2 - 1072*r sehubungan dengan f?
+-2*r**2 + 137*r + 14
+Temukan turunan kedua dari 2*f*j**2 + 3487*f*j - 12*f - 14888*j**2 yang terkait dengan j.
+4*f - 29776
+Temukan turunan ketiga dari -469090*j**3 - 185706*j**2.
+-2814540
+Apa turunan pertama dari 286434 - 361134*y**4?
+-1444536*y**3
+Temukan turunan ketiga dari -6564055*a**3*w - 6623133*a**2*w yang terkait dengan a.
+-39384330*w
+Apa turunan ketiga dari 128*g**4*j**3 + 10*g**4*j + g**3*i - 3*g**2*i*j**2 + 79*g*i*j**2 + 50*g*j**3 sehubungan dengan g?
+3072*g*j**3 + 240*g*j + 6*i
+Temukan turunan pertama dari 631389*q + 104354.
+631389
+Temukan turunan ketiga dari -2121*l**3*v**2 + 2*l**3*v - 6*l**3 - 3*l**2 + 2*l*v + 1440*v**2 yang terkait dengan l.
+-12726*v**2 + 12*v - 36
+Apa turunan ketiga dari 27*h**5 - 13*h**4 - 10*h**3 + 2*h**2 + 283*h + 193 sehubungan dengan h?
+1620*h**2 - 312*h - 60
+Apa turunan kedua dari -407*f**4*p - 280*f**2*j**3 - 2*f*j**3*p - f*j*p + 5683*f*j sehubungan dengan f?
+-4884*f**2*p - 560*j**3
+Apa turunan ketiga dari 614340*z**5 + 359*z**2 + 2*z + 98?
+36860400*z**2
+Apa turunan dari 2*p**3*q + 25*p**3 + 448031*p**2*q**2 + 10186*p**2 sehubungan dengan q?
+2*p**3 + 896062*p**2*q
+Temukan turunan ketiga dari -45611*l**3 + l**2 - 9*l - 6 yang terkait dengan l.
+-273666
+Apa turunan kedua dari -4683120*d**2*x**2 + 1181686*d**2*x + 2*d*x**2 sehubungan dengan x?
+-9366240*d**2 + 4*d
+Temukan turunan pertama dari 1840832 - 1597122*x**4 yang terkait dengan x.
+-6388488*x**3
+Apa turunan ketiga dari -313*a**5 + 5*a**4 + 269*a**3 + 4533*a**2 - 12*a - 6?
+-18780*a**2 + 120*a + 1614
+Apa turunan kedua dari -1005329*s**2 + s - 888985?
+-2010658
+Temukan turunan ketiga dari -8966*b**4 + 398*b**2 - b + 3.
+-215184*b
+Temukan turunan ketiga dari 52303*c**3 + 26*c**2 - 5*c - 174.
+313818
+Apa turunan ketiga dari 1488*q**3*y**3 + 15*q**3*y - 359*q**2*y**3 + 17*q sehubungan dengan q?
+8928*y**3 + 90*y
+Temukan turunan kedua dari 198348*v**2 + 240126*v.
+396696
+Temukan turunan ketiga dari -35621*c**6 + 132891*c**2 yang terkait dengan c.
+-4274520*c**3
+Apa turunan ketiga dari 288744*i**4 + 24107*i**2 + 8*i?
+6929856*i
+Apa turunan kedua dari -2901544*b**2 - 40*b + 293 sehubungan dengan b?
+-5803088
+Apa turunan kedua dari 341867*u**3 - 2*u - 2919 sehubungan dengan u?
+2051202*u
+Diferensial yang 25596*w**2 + 6882 sehubungan dengan w.
+51192*w
+Temukan turunan ketiga dari -4*q**4 - 220812*q**3 - 1011463*q**2 yang terkait dengan q.
+-96*q - 1324872
+Apa turunan ketiga dari -2*g**6 - 9*g**4 - 342*g**3 - 4*g**2 + 16*g - 222 sehubungan dengan g?
+-240*g**3 - 216*g - 2052
+Temukan turunan ketiga dari 3762*i*t**5*z + i*t**3*z - i*t**3 + 3*i*t**2*z + 696*i*t*z - t**2*z + 3 yang terkait dengan t.
+225720*i*t**2*z + 6*i*z - 6*i
+Diferensial yang -151069*m**4 - 415075 sehubungan dengan m.
+-604276*m**3
+Apa turunan pertama dari -3*m**3*n**2 + 963*m**3*n - 29*m**3 + m**2 + 793*m - 167*n**2 + 2 sehubungan dengan n?
+-6*m**3*n + 963*m**3 - 334*n
+Apa turunan kedua dari -2*i*w**2 + 107*i*w + 698775*w**2 - 1652*w sehubungan dengan w?
+1397550 - 4*i
+Temukan turunan pertama dari -7*g*i**2 - 6*g*i*n**2 - 219*g*i*n - 141*g*n**2 + 331*g*n yang terkait dengan i.
+-14*g*i - 6*g*n**2 - 219*g*n
+Diferensial yang -1989*f**4 - 26*f**2 + f + 1710597 sehubungan dengan f.
+-7956*f**3 - 52*f + 1
+Apa turunan ketiga dari -4*i**2*l**3*r**3 + 229*i**2*l**2*r + 6526*i**2*l*r**3 - 2*l**3*r**2 - r**2 sehubungan dengan r?
+-24*i**2*l**3 + 39156*i**2*l
+Temukan turunan ketiga dari -114673*q**6 + 6*q**5 + 2257*q**2 + 346*q yang terkait dengan q.
+-13760760*q**3 + 360*q**2
+Apa turunan dari -53*g**3 + 2*g**2 - 151*g - 1899217?
+-159*g**2 + 4*g - 151
+Apa turunan kedua dari 113*a**2*q**3 + 20*a**2*y**3 + a*q**3*y**2 - 19*a*q**3 + 10*a*q*y**3 + a - 2*q**3*y - 7*q**2*y**3 sehubungan dengan a?
+226*q**3 + 40*y**3
+Temukan turunan ketiga dari -i**3*v**3 + 1207*i**3*v + i**3 + 3*i**2 + 6*i*v**3 + 877 yang terkait dengan i.
+-6*v**3 + 7242*v + 6
+Temukan turunan pertama dari -u**4 - 3876*u**3 - u**2 + u*y - 198446*y yang terkait dengan u.
+-4*u**3 - 11628*u**2 - 2*u + y
+Temukan turunan pertama dari -2687*n**3 + 3*n**2 + 8*n - 149221 yang terkait dengan n.
+-8061*n**2 + 6*n + 8
+Apa turunan ketiga dari -217220*d**4 - d**3*n - 2*d**3 + 6*d**2 - 24270*n sehubungan dengan d?
+-5213280*d - 6*n - 12
+Apa turunan kedua dari 1857*m**5 - 3*m**4 - 35*m**3 - 588365*m?
+37140*m**3 - 36*m**2 - 210*m
+Temukan turunan ketiga dari -42830*d**4 + 2*d**3*t - d**2*t - 4051*d*t + 2*t - 1 yang terkait dengan d.
+-1027920*d + 12*t
+Diferensial yang 3535*h*j**3 - 43*h*j*p**2 + j**3*p**2 - 4*j**3 - 3*j**2*p**2 + 33*j**2*p - 167*j sehubungan dengan h.
+3535*j**3 - 43*j*p**2
+Apa turunan pertama dari -3*m**4 + 16121*m**3 + 82351 sehubungan dengan m?
+-12*m**3 + 48363*m**2
+Apa turunan kedua dari -70839*q**3 - q**2 - 593323*q sehubungan dengan q?
+-425034*q - 2
+Temukan turunan pertama dari 34425*d**2 + 178746.
+68850*d
+Temukan turunan kedua dari 1967398*q**2 - 4368886*q.
+3934796
+Apa turunan dari 461*g**3*k**3 + 10*g**2*k**3 + 6*k**3 - 3*k**2 - 8 sehubungan dengan g?
+1383*g**2*k**3 + 20*g*k**3
+Temukan turunan ketiga dari -j*l*n**3*y + 3*j*l*n**2*y + 2*j*l*n*y**3 + 781*j*n**3*y**3 - j*n**3*y - 3*l*n**3 + 150*n**2*y**2 + 2*y yang terkait dengan y.
+12*j*l*n + 4686*j*n**3
+Temukan turunan kedua dari 331157*b**2*t**3 - 13*b**2*t - 2*b**2 + 530*b*t yang terkait dengan t.
+1986942*b**2*t
+Apa turunan dari 1893*m*s*v*z**2 + 143*m*s - 2*m*z**2 - 24*s*v*z - 281*s - v sehubungan dengan z?
+3786*m*s*v*z - 4*m*z - 24*s*v
+Diferensial yang -163295*b*h*v**2 + 2*b*h - 2*h*v**2 + 3*h + v**2 - 86815*v sehubungan dengan b.
+-163295*h*v**2 + 2*h
+Diferensial yang -2591*d**2*q - 498*d**2 + 5*d - 1 sehubungan dengan q.
+-2591*d**2
+Temukan turunan ketiga dari 782967*v**6 + 50*v**2 + 2*v - 365 yang terkait dengan v.
+93956040*v**3
+Apa turunan ketiga dari 427*r*t**6 - 60*r*t**3 + 138708*r*t**2 sehubungan dengan t?
+51240*r*t**3 - 360*r
+Apa turunan ketiga dari -14246*t**6 + 2*t**4 - 2*t**2 + 30558?
+-1709520*t**3 + 48*t
+Apa turunan ketiga dari -561177*x**4 + 6*x**2 - 4*x - 1574?
+-13468248*x
+Apa turunan dari 131446*q - 25842?
+131446
+Temukan turunan pertama dari -n*u**2 - 3*n*u + 81481*n - 4*u**2 - 66*u yang terkait dengan u.
+-2*n*u - 3*n - 8*u - 66
+Temukan turunan kedua dari 6843*i**5 - 2*i**4 + 14967*i yang terkait dengan i.
+136860*i**3 - 24*i**2
+Diferensial dari -51213*a - 98262.
+-51213
+Temukan turunan kedua dari -26*f**5*j - 428*f**4*j**2 - 981*f*j**2 + 14*j yang terkait dengan f.
+-520*f**3*j - 5136*f**2*j**2
+Temukan turunan ketiga dari -384462*l**3 + 131*l**2 - 17*l yang terkait dengan l.
+-2306772
+Temukan turunan kedua dari -1412*g**2*l**3 + 19*g**2*l**2 + g**2 + g*l**2 - g*l - 13343*l**3 yang terkait dengan g.
+-2824*l**3 + 38*l**2 + 2
+Temukan turunan ketiga dari -2*l**6 - 1838*l**4 - 2*l**3 - 2*l**2 + 9*l - 1919 yang terkait dengan l.
+-240*l**3 - 44112*l - 12
+Temukan turunan ketiga dari -36436*h**3 + 4*h**2 + 2*h + 28938.
+-218616
+Temukan turunan pertama dari -99*n**3*u + 55*n**3 + 7*n**2*u - 51*n*u + 56*n yang terkait dengan u.
+-99*n**3 + 7*n**2 - 51*n
+Temukan turunan pertama dari -19*d*r**2 + 708*d*r - 17679*d - 4*r**2 - 2*r + 35 yang terkait dengan r.
+-38*d*r + 708*d - 8*r - 2
+Apa turunan ketiga dari -107849*j**4 - 7*j**2 - 12857?
+-2588376*j
+Apa turunan ketiga dari -752960*m**6 - 9165*m**2 - 2*m?
+-90355200*m**3
+Temukan turunan ketiga dari 24939*r**3 - 3*r**2 - 2*r + 32 yang terkait dengan r.
+149634
+Apa turunan dari 25*m**3 - 556*m + 46387 sehubungan dengan m?
+75*m**2 - 556
+Temukan turunan ketiga dari -n**2*u*v**3 - 151*n**2*u + 10335*n**2*v**3 - 17*n*v**2 - 2*u*v**3 + u*v**2 yang terkait dengan v.
+-6*n**2*u + 62010*n**2 - 12*u
+Apa turunan ketiga dari 5*b*c*y**2 - 8*b*c*y - 15*b*y**3 + 41*b*y + 568*c*y**4 sehubungan dengan y?
+-90*b + 13632*c*y
+Temukan turunan ketiga dari 937440*f**6 - 3*f**2 - 51040*f.
+112492800*f**3
+Temukan turunan kedua dari -z**3 - 4204*z**2 - 12966*z yang terkait dengan z.
+-6*z - 8408
+Temukan turunan kedua dari 3*g**3*n + 50*g**3 - 190*g**2*n - 6*g*n - 88*g - 23*n yang terkait dengan g.
+18*g*n + 300*g - 380*n
+Apa turunan ketiga dari 2210*q**5 - 9*q**4 + 3*q**2 - 1725*q - 2?
+132600*q**2 - 216*q
+Apa turunan ketiga dari 83551*d**2*v**4 - 8*d**2*v**2 + 18*d*v**2 + v**6 - 2*v**3 - 495*v**2 sehubungan dengan v?
+2005224*d**2*v + 120*v**3 - 12
+Temukan turunan kedua dari 36470*d**4 - 4*d**2 - d - 336250.
+437640*d**2 - 8
+Apa turunan kedua dari -39*n**4 + 5*n**3 - 8*n**2 - 58*n - 193?
+-468*n**2 + 30*n - 16
+Temukan turunan ketiga dari -k**5 - 84686*k**3 - 2*k**2 + 288166*k.
+-60*k**2 - 508116
+Apa turunan kedua dari 4555*c**2*p**2 + 2*c**2*p*s**2 + 1488*c*p**2*s - 2*c*p**2 + c*p*s**2 - 2*p*s**2 sehubungan dengan c?
+9110*p**2 + 4*p*s**2
+Diferensial dari -187417*t - 26747.
+-187417
+Temukan turunan kedua dari 1886331*h**2 - 1272710*h yang terkait dengan h.
+3772662
+Apa turunan pertama dari -3789*n**2 - 10*n + 46565?
+-7578*n - 10
+Temukan turunan kedua dari -684900*q**3 - 750398*q yang terkait dengan q.
+-4109400*q
+Temukan turunan ketiga dari -76115*g**4 + 33*g**2 + 580*g.
+-1826760*g
+Diferensial yang -2*r**4 - 36263*r**3 + r**2 - 3414651 sehubungan dengan r.
+-8*r**3 - 108789*r**2 + 2*r
+Apa turunan pertama dari 349*y**3 + 105*y**2 - 12*y - 1426294 sehubungan dengan y?
+1047*y**2 + 210*y - 12
+Temukan turunan ketiga dari -95669*j**5 + 5747*j**2 - 4 yang terkait dengan j.
+-5740140*j**2
+Temukan turunan ketiga dari -856475*c**3 + 143457*c**2 yang terkait dengan c.
+-5138850
+Apa turunan pertama dari -o**4 + 241*o**3 + 23*o**2 + 8*o - 2438288 sehubungan dengan o?
+-4*o**3 + 723*o**2 + 46*o + 8
+Apa turunan ketiga dari -2269356*c*z**3 + 7*c*z**2 + 8101*c + 2*z sehubungan dengan z?
+-13616136*c
+Temukan turunan kedua dari 2*g**3*k*t - g**3*k + 135*g**3*t**3 + 7*g**2*k*t + 277*g*k*t**2 + 46*g - k*t**3 yang terkait dengan t.
+810*g**3*t + 554*g*k - 6*k*t
+Temukan turunan ketiga dari 2456635*h**3 + 6399*h**2 + 71*h yang terkait dengan h.
+14739810
+Apa turunan ketiga dari -79*a**2*g**4 + 12*a**2*g**2 + 1415*a*g**4 + a*g**2 + 851*a*g sehubungan dengan g?
+-1896*a**2*g + 33960*a*g
+Apa turunan kedua dari 799*f*j**2*v**2 - 6*f*j**2*v + 211*f*v**2 - 1162*j**2*v - 19*j**2 sehubungan dengan v?
+1598*f*j**2 + 422*f
+Temukan turunan kedua dari -1120628*s**3 - 6*s + 35744 yang terkait dengan s.
+-6723768*s
+Temukan turunan pertama dari 4*n**2 - 2335*n + 35534.
+8*n - 2335
+Apa turunan pertama dari 2*o**2*u**3 + 313682*o - 155158*u**3 + 5*u sehubungan dengan o?
+4*o*u**3 + 313682
+Temukan turunan kedua dari -288*a**5*s - 471*a**3*s**2 + a*s**2 - 13*a*s - 246*a yang terkait dengan a.
+-5760*a**3*s - 2826*a*s**2
+Diferensial yang 3*w*y**3 + 419*w*y - 21360*w - 2*y sehubungan dengan y.
+9*w*y**2 + 419*w - 2
+Apa turunan ketiga dari -173*g**5 + 4*g**4 - g**3 - 244*g**2 - 3*g sehubungan dengan g?
+-10380*g**2 + 96*g - 6
+Temukan turunan ketiga dari -4*t**5 + 2304*t**4 + t**3 + 28224*t**2.
+-240*t**2 + 55296*t + 6
+Apa turunan ketiga dari 427482*i**3 + 829325*i**2?
+2564892
+Apa turunan pertama dari 13965*h*x + 18099*x sehubungan dengan h?
+13965*x
+Temukan turunan ketiga dari -4686*z**5 - z**3 + 84*z**2 - 5*z - 5.
+-281160*z**2 - 6
+Temukan turunan kedua dari -50221*g**3*o**2 + 37*g**3*o - 87*g - 14*o yang terkait dengan o.
+-100442*g**3
+Temukan turunan ketiga dari 376002*a**3 + 734*a**2 + 2*a + 83.
+2256012
+Apa turunan pertama dari -591877*x - 3066818?
+-591877
+Apa turunan pertama dari 106224*j - 125701 sehubungan dengan j?
+106224
+Apa turunan pertama dari 67163 - 11285*m**4?
+-45140*m**3
+Apa turunan ketiga dari -4*w**4 + 24580*w**3 + 2011*w**2 + w - 1 sehubungan dengan w?
+147480 - 96*w
+Apa turunan ketiga dari 3*s**2*u**4 + 2409*s**2*u**3 - 7*s**2*u**2 - 1911*s**2*u + s*u**3 + 2*u**2 sehubungan dengan u?
+72*s**2*u + 14454*s**2 + 6*s
+Apa turunan kedua dari 1738*g**2*j**2 + 11*g**2*j + 5396*g*j**2 - 2*j sehubungan dengan g?
+3476*j**2 + 22*j
+Apa turunan ketiga dari 893399*p**3 - 6*p**2 - 21*p + 284?
+5360394
+Apa turunan kedua dari 156713*x**4 + 81478*x?
+1880556*x**2
+Diferensial yang -36815*o - 87295 sehubungan dengan o.
+-36815
+Apa turunan kedua dari c**2*l*p**2 - 2*c**2*l*p + 117*c**2 + c*l*p - 12*l*p**2 + 4*l*p - 87*p**2 + p sehubungan dengan p?
+2*c**2*l - 24*l - 174
+Temukan turunan kedua dari -u**5 - 858*u**3 + 4*u**2 + 4*u - 24641 yang terkait dengan u.
+-20*u**3 - 5148*u + 8
+Temukan turunan kedua dari 5266*g**5 + 4*g**3*z**2 + g*z**2 - 176*g*z - 2*g + 138*z - 5 yang terkait dengan g.
+105320*g**3 + 24*g*z**2
+Temukan turunan ketiga dari -135*d**2*x**3 + 113930*d**2*x - 391*d*x**3 + 3*d*x**2 - x**3 yang terkait dengan x.
+-810*d**2 - 2346*d - 6
+Apa turunan kedua dari j**2*o**2 + 20682*j**2*o - 2*j**2 - 2*j*o**2 - 5092*j - 2 sehubungan dengan j?
+2*o**2 + 41364*o - 4
+Apa turunan dari -27164*o - 8015 sehubungan dengan o?
+-27164
+Apa turunan dari 59254*h + 14971?
+59254
+Temukan turunan pertama dari 2401179*g + 1964731 yang terkait dengan g.
+2401179
+Diferensial yang 344*b**2*j**2 + 7*b**2 - 441769*j**2 sehubungan dengan b.
+688*b*j**2 + 14*b
+Apa turunan ketiga dari -82*j**3*r**3 + 138*j**3*u**2 + 12*j**2*r**3 - 2*j**2*r**2 + j*r**2*u**2 - 204*r*u sehubungan dengan j?
+-492*r**3 + 828*u**2
+Temukan turunan pertama dari -1672*c*i**2 + 12*c*i - 1064844*c - 3*i**2 + 1 yang terkait dengan i.
+-3344*c*i + 12*c - 6*i
+Temukan turunan ketiga dari -16*s**5 + 3*s**4 - 541*s**3 - 63*s**2 + 1698*s yang terkait dengan s.
+-960*s**2 + 72*s - 3246
+Apa turunan dari -444*i**4 + 4*i**3 + 16*i**2 - 119974 sehubungan dengan i?
+-1776*i**3 + 12*i**2 + 32*i
+Temukan turunan kedua dari 2533282*x**2 + 524814*x yang terkait dengan x.
+5066564
+Diferensial yang 2*o**4 + 239814*o**2*r + o + 631079*r sehubungan dengan o.
+8*o**3 + 479628*o*r + 1
+Temukan turunan ketiga dari 231840*r*z**3 - 2*r*z**2 - 6*r + 59*z - 166 yang terkait dengan z.
+1391040*r
+Apa turunan kedua dari -135426*c**2*s**2 - 256038*c*s**2 sehubungan dengan c?
+-270852*s**2
+Apa turunan ketiga dari -5589*l**3*w**3 - l**3*w + l**2*w**3 + 7*l**2*w**2 - 31*l**2*w - 2*l**2 - l*w**3 - 19*l*w sehubungan dengan w?
+-33534*l**3 + 6*l**2 - 6*l
+Apa turunan kedua dari 2562*d**3 + 2*d + 2941?
+15372*d
+Temukan turunan ketiga dari 11486*l**4 + 28*l**3 - 365*l**2 + 6*l + 3 yang terkait dengan l.
+275664*l + 168
+Apa turunan dari 2*f**2 + 28804*f*p + 15*p + 1757 sehubungan dengan f?
+4*f + 28804*p
+Apa turunan dari -74*t**3 - 4730*t + 638631?
+-222*t**2 - 4730
+Temukan turunan pertama dari -160*t**2*v*y**2 + 4135*t*y**3 - v*y + 1090437*y**3 yang terkait dengan t.
+-320*t*v*y**2 + 4135*y**3
+Apa turunan dari -3*b**2*c**3*p + 255*b**2*c**3 - 35*b**2*c**2 - 182*b**2*p sehubungan dengan p?
+-3*b**2*c**3 - 182*b**2
+Diferensial yang 28481*r**3 + r - 20026 sehubungan dengan r.
+85443*r**2 + 1
+Apa turunan pertama dari -519*l**3 - 813*l - 1302500 sehubungan dengan l?
+-1557*l**2 - 813
+Apa turunan pertama dari 2*c**2*j**3 - 2*c**2*j - 5457*c*j**2 - 3*j**3 - 1446*j - 1 sehubungan dengan c?
+4*c*j**3 - 4*c*j - 5457*j**2
+Temukan turunan kedua dari 29*b**5*g**2 - 4944*b**5*g + b*g**2 - 3*b*g + g**2 + 371*g - 1 yang terkait dengan b.
+580*b**3*g**2 - 98880*b**3*g
+Apa turunan ketiga dari b**2*h**3 - 4600*b**2*h**2 - 3*b**2*h + 26*b*h**3 + b*h + 319*h**3 sehubungan dengan h?
+6*b**2 + 156*b + 1914
+Temukan turunan pertama dari -11497*t**4 - t**2 - 63370 yang terkait dengan t.
+-45988*t**3 - 2*t
+Apa turunan ketiga dari -1175646*h**5 - 430101*h**2?
+-70538760*h**2
+Temukan turunan ketiga dari 49670*m**3 + 33466*m**2.
+298020
+Apa turunan pertama dari -3*q*v**3 + 2*q*v**2 - 3892*q*v + 5*q - 2*v**3 - 3422*v + 22 sehubungan dengan q?
+-3*v**3 + 2*v**2 - 3892*v + 5
+Temukan turunan kedua dari 1494763*g**5 + g**4 + 35651*g - 23.
+29895260*g**3 + 12*g**2
+Apa turunan dari 88*c*u**2*x - c*x - 2*c + u**2 + 1029*u - 14548 sehubungan dengan u?
+176*c*u*x + 2*u + 1029
+Apa turunan dari -10336*b**2*z + 1808976*b**2 - 48*z sehubungan dengan z?
+-10336*b**2 - 48
+Diferensial yang 75255*i**2*q**3*t - 3*i**2 + i*q**3*t + 25*i*q**3 - 46*i*q**2 + 1 sehubungan dengan t.
+75255*i**2*q**3 + i*q**3
+Apa turunan kedua dari -479412*y**2 + 2228415*y?
+-958824
+Apa turunan kedua dari 314*j**3 - 1436*j**2*z**3 + 7*j*z**3 + 40*j*z**2 - 6*j - z**3 - z**2 sehubungan dengan j?
+1884*j - 2872*z**3
+Apa turunan dari g*p**2 - 4793*g*p + 661*g + 8*p**2 - p - 61 sehubungan dengan p?
+2*g*p - 4793*g + 16*p - 1
+Apa turunan kedua dari -115482*m**2*x**4 + 91*m**2*x + 163*m**2 - 2*m*x**2 - m - 2*x**2 sehubungan dengan x?
+-1385784*m**2*x**2 - 4*m - 4
+Apa turunan kedua dari -35142*t**4 - 38894*t - 2 sehubungan dengan t?
+-421704*t**2
+Temukan turunan kedua dari 15858*r**2 + 41757*r.
+31716
+Apa turunan ketiga dari 20882*d**3 + 4*d**2 - 49*d + 14?
+125292
+Apa turunan kedua dari 34*h**3*z**3 + 114*h**3*z + 85*h*z**4 - 155*h*z sehubungan dengan z?
+204*h**3*z + 1020*h*z**2
+Temukan turunan pertama dari 310452 - 1016092*n**4 yang terkait dengan n.
+-4064368*n**3
+Temukan turunan pertama dari 1574103*u**4 - 1625263.
+6296412*u**3
+Apa turunan kedua dari -b*m**3 - 31723*b*m - 929*m**3 - 27*m**2 - 2*m sehubungan dengan m?
+-6*b*m - 5574*m - 54
+Temukan turunan ketiga dari -2973671*i**4 - 665664*i**2.
+-71368104*i
+Apa turunan kedua dari -3*m**2*t**4 - 2*m**2*t - 1090*m**2 + 2*m*t + 1654*t**3 + 6*t**2 sehubungan dengan t?
+-36*m**2*t**2 + 9924*t + 12
+Diferensial yang -11846*h*y**2 + h*y + 2*h + 29*y**2 - 2*y - 57 sehubungan dengan h.
+-11846*y**2 + y + 2
+Diferensial yang 2*s**2 + 637817*s - 837216 sehubungan dengan s.
+4*s + 637817
+Temukan turunan kedua dari -34191*y**2 - 14*y + 44.
+-68382
+Temukan turunan ketiga dari -108088*a**4 - 123*a**2 - 2*a + 31.
+-2594112*a
+Temukan turunan ketiga dari 312766*j**4 - j**3 + 744787*j**2.
+7506384*j - 6
+Temukan turunan kedua dari 865*g**3 + 179*g**2 - 46348*g - 13.
+5190*g + 358
+Apa turunan kedua dari -29306*o**2 - 32716*o?
+-58612
+Temukan turunan kedua dari 8688*t**5 - 13*t + 730 yang terkait dengan t.
+173760*t**3
+Apa turunan ketiga dari 13733*l**6 - 4*l**4 + 6794*l**2 + 6*l?
+1647960*l**3 - 96*l
+Apa turunan dari 10*r**2 - 6652*r - 109347?
+20*r - 6652
+Apa turunan pertama dari -143*l**2 - 11730*l - 3434744?
+-286*l - 11730
+Apa turunan pertama dari -3*l**2 + 20*l*q - 3718*l - 271288*q + 2 sehubungan dengan l?
+-6*l + 20*q - 3718
+Apa turunan ketiga dari 4553*z**6 + 16*z**5 - 4*z**3 - 3*z**2 + z - 26070 sehubungan dengan z?
+546360*z**3 + 960*z**2 - 24
+Apa turunan kedua dari 3204*d*o**2*p**2 + 2*d*o**2 + 30*d*o*p + 5*d*p**3 - 2*d - 3*o**2*p sehubungan dengan p?
+6408*d*o**2 + 30*d*p
+Diferensial yang -5486881*b**4*p + 706*p + 17 sehubungan dengan b.
+-21947524*b**3*p
+Temukan turunan ketiga dari 17653*v**4 - 13633*v**2.
+423672*v
+Temukan turunan kedua dari -25*o**4 - 2*o**3 + 230*o**2 + 10252*o.
+-300*o**2 - 12*o + 460
+Apa turunan kedua dari 673*a**2*k - 9*a**2*o**2 - 9*a*k*o - a*k - 4*k*o - 3*k - o**2 sehubungan dengan a?
+1346*k - 18*o**2
+Temukan turunan ketiga dari -48*f**6 - 141*f**3 - 20331*f**2 yang terkait dengan f.
+-5760*f**3 - 846
+Temukan turunan pertama dari 826*k**2*r + 230422*k**2 - 48*k*r yang terkait dengan r.
+826*k**2 - 48*k
+Temukan turunan ketiga dari 3*a**4*q**3 - 10940*a**3*q**3 - 45*a**2*q**3 - 428*q**3 yang terkait dengan a.
+72*a*q**3 - 65640*q**3
+Apa turunan kedua dari 318*c**4 + 3276*c**2 + 117030*c sehubungan dengan c?
+3816*c**2 + 6552
+Apa turunan kedua dari -2*f**2*h**3 - 2*f**2*h**2 + 1577*f**2 + 163*f*h**3 + 157*f - 2*h sehubungan dengan f?
+-4*h**3 - 4*h**2 + 3154

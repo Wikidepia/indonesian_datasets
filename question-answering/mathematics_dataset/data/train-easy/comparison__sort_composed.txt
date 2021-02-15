@@ -1,0 +1,666 @@
+Misalkan t(a) = 5 - a**2. Misalkan k be t(0). Misalkan -3*s - 2*s = -k. Misalkan n(m) = m - 2. Misalkan p be n(4). Urutkan s, 5, p dalam urutan turun.
+5, p, s
+Misalkan f (k) menjadi turunan ke-kedua dari k**3/6 + 7*k**2/2 + 2*k. Misalkan u be f(6). Misalkan z = -18 + u. Taruh -2, 4, z dalam urutan menurun.
+4, -2, z
+Misalkan x be 0/5 - (-2)/2. Urutkan x, 2, -5 dalam urutan turun.
+2, x, -5
+Misalkan 4*g + 3*j = -28, -7*j = -3*j + 16. Urutkan 1/13, g, 2 dalam urutan meningkat.
+g, 1/13, 2
+Misalkan z = 30 + -15. Misalkan w be (0 + (-1)/(-3))*z. Taruh w, 2, 3 dalam urutan naik.
+2, 3, w
+Misalkan v = -1.334 - -7.344. Misalkan u = v + -0.01. Misalkan b = 2 - u. Urutkan b, 0, 0.2 dalam urutan menurun.
+0.2, 0, b
+Misalkan o = 7 + -7. Misalkan a = o + 5. Misalkan v = 7 + -6.7. Urutkan 0, a, v dalam urutan menurun.
+a, v, 0
+Misalkan -2*a - 3 = a. Misalkan z = 11 - 11. Taruh -4, a, z dalam urutan menurun.
+z, a, -4
+Misalkan u(i) = i**3 + 8*i**2 + i + 3. Misalkan n(s) = s**3 - 5*s**2 - s - 3. Misalkan b be n(5). Misalkan r be u(b). Urutkan 4, r, 1 dalam urutan meningkat.
+r, 1, 4
+Misalkan -4*c - c + 5 = 0. Taruh 3/4, c, 0.4 dalam urutan menurun.
+c, 3/4, 0.4
+Misalkan i be (5/((-150)/8))/((-6)/9). Sort -2/11, i, 2, 2/9.
+-2/11, 2/9, i, 2
+Misalkan k be 2/4 + (-1)/2. Misalkan p(t) = 2 - t. Misalkan a be p(k). Misalkan h be (-105)/45 - (-1 - 4/(-6)). Taruh 5, h, a dalam urutan turun.
+5, a, h
+Misalkan 2*p + 4*w + 18 = 0, 4*p - 14 = 2*w - 0*w. Sort p, -1, 5.
+-1, p, 5
+Misalkan d(z) = -z - 7. Misalkan f be d(-4). Misalkan r = f + 5. Misalkan 5*b - 21 = s, -5*b = s - 27 - 2. Taruh -1, r, b dalam urutan turun.
+b, r, -1
+Misalkan d = 72 + -76. Taruh 0.7, 2, d dalam urutan meningkat.
+d, 0.7, 2
+Misalkan u = 2.3 + -0.1. Misalkan z = 4 - u. Misalkan s = 0.2 + z. Sort 1, -0.5, s.
+-0.5, 1, s
+Misalkan u be ((-1295)/20)/(138/4). Misalkan p = 24/23 + u. Misalkan r be 0 + ((-32)/36)/4. Urutkan r, p, -0.5 dalam urutan menurun.
+r, -0.5, p
+Misalkan -4*y = 2*f - 6, 3*f + f + 6 = y. Misalkan i + y = -1. Misalkan u be ((-2)/(-8))/(7/112). Sort u, 5, i.
+i, u, 5
+Misalkan 4*r - 26 = r - p, 3*r - 29 = 2*p. Misalkan u be (0 - -1)*(5 + 0). Taruh u, -5, r dalam urutan meningkat.
+-5, u, r
+Misalkan q(s) = -s**2 - 10*s + 13. Misalkan o be q(-11). Sort -1, o, -4.
+-4, -1, o
+Misalkan m be (-27)/18*2/6*-8. Sort 15, -4, -1, m.
+-4, -1, m, 15
+Misalkan b be (4 + -5)/(18/(-4)). Misalkan 0 = 3*c, -3*c = 5*i - 0*c + 10. Misalkan f = 3 + i. Taruh f, -4, b dalam urutan meningkat.
+-4, b, f
+Misalkan o = -28 + 24.4. Misalkan k = -0.1 + o. Misalkan m = -4 - k. Taruh 5, m, -5 dalam urutan meningkat.
+-5, m, 5
+Misalkan u = 5360/23 + -233. Taruh u, 0.2, 2/13 dalam urutan turun.
+0.2, 2/13, u
+Misalkan v be (-23)/(-7) + 2/(-7). Taruh v, 24, 0 dalam urutan naik.
+0, v, 24
+Misalkan t = 0.7 + -0.3. Misalkan f = 0.5 - t. Misalkan x = 0.1 - 0.3. Urutkan 0.3, f, x dalam urutan meningkat.
+x, f, 0.3
+Misalkan x(j) = -j**2 + 11*j - 2. Misalkan k be x(10). Misalkan r - k = -3*r. Taruh 1, r, -3 dalam urutan naik.
+-3, 1, r
+Misalkan o - 5*o = -12. Misalkan -o = 3*n - 0. Misalkan y = -8 - -8.3. Urutkan y, 0, n dalam urutan meningkat.
+n, 0, y
+Misalkan s = 5 + -3. Taruh 3, s, 6 dalam urutan meningkat.
+s, 3, 6
+Misalkan -3*s - 3*h = 0, 3*s - 2*h = -0*h + 5. Taruh -0.1, 0, s dalam urutan turun.
+s, 0, -0.1
+Misalkan a = 20 - 14. Misalkan -3*g - 3*s - 21 + a = 0, 5*s + 13 = g. Sort 0, g, 4.
+g, 0, 4
+Misalkan d = -0.44 + 0.04. Misalkan n be (-19)/(-42) + (-4)/14. Urutkan n, d, 0 dalam urutan turun.
+n, 0, d
+Misalkan w(f) = -f - 8. Misalkan g be w(-8). Misalkan g = 2*z + z - 21. Misalkan n = z + -3. Taruh n, -4, 0 dalam urutan meningkat.
+-4, 0, n
+Misalkan m = -7 + 2. Misalkan a - 3*q = 7, -3*a + 0*q + 14 = -2*q. Misalkan g be ((-24)/20)/(a/(-10)). Taruh 1, g, m dalam urutan turun.
+g, 1, m
+Misalkan h = 0.06 - 2.06. Misalkan m = -28 + 27.5. Taruh h, m, 0.2 dalam urutan menurun.
+0.2, m, h
+Misalkan s = 86/7 - 88/7. Misalkan 4*v - 3 - 13 = 0. Misalkan -5*t = 5*r, -4*r - 30 = -6*t + v*t. Urutkan r, s, 1 dalam urutan turun.
+1, s, r
+Misalkan 2*v + 29 = -v - 5*z, v = -3*z - 15. Misalkan l(s) = -s**2 + 4*s - 1. Misalkan t = 4 - 0. Misalkan g be l(t). Taruh 4, v, g dalam urutan turun.
+4, g, v
+Misalkan x = 0.26 + -0.36. Misalkan f be 185/20 - 1/4. Misalkan s = -5 + f. Taruh 3, x, s dalam urutan menurun.
+s, 3, x
+Misalkan l(f) = -3*f**2 - f + 1. Misalkan x be l(1). Misalkan g = -5 - x. Taruh -5, g, 5 dalam urutan meningkat.
+-5, g, 5
+Misalkan v(j) = 3*j**3 - 5*j**2 + 5 + 2*j**3 - 2*j**3 - 2*j**3. Misalkan d be v(5). Urutkan -4, d, 0 dalam urutan menurun.
+d, 0, -4
+Misalkan j be 1/(-1) + (-49)/(-63). Sort 5, j, 4.
+j, 4, 5
+Misalkan 7*t - 4*t - 16 = z, 2*z - 2*t = -16. Taruh 2, 1, z dalam urutan menurun.
+2, 1, z
+Misalkan -4*r + 10 + 6 = 0. Misalkan d be (-36)/10 + (-4)/10. Urutkan r, 1, d dalam urutan menurun.
+r, 1, d
+Misalkan 1 = 4*w + 5. Taruh 3, w, 17 dalam urutan meningkat.
+w, 3, 17
+Misalkan 3 = 4*y + 7. Misalkan d be y/(-3) + 0/(-2). Urutkan d, 2/11, 4 dalam urutan meningkat.
+2/11, d, 4
+Misalkan l be (-5)/(-2)*(2 - 0). Taruh 1/7, 2/3, l dalam urutan turun.
+l, 2/3, 1/7
+Misalkan m = -55 - -32. Misalkan x = 23 + m. Urutkan x, 2, -0.5 dalam urutan menurun.
+2, x, -0.5
+Misalkan -30 = 5*r - 75. Misalkan k(u) = u**3 + 6. Misalkan x be k(0). Misalkan 2*p + s - x = 0, 6 = 3*p + 3*s - r. Urutkan 2, 4, p dalam urutan menurun.
+4, 2, p
+Misalkan v = 37 + -37. Taruh v, 3, -1/3 dalam urutan meningkat.
+-1/3, v, 3
+Misalkan h + b = 5*b - 14, 0 = 4*h + 4*b - 4. Sort 14, 1, -3, h.
+-3, h, 1, 14
+Misalkan f = -0.08 - 0.32. Misalkan h be (-3452)/(-20) - 0/2. Misalkan k = 172 - h. Taruh k, -2/7, f dalam urutan naik.
+k, f, -2/7
+Misalkan -u = 3*u - 8. Misalkan 5*z - u*p - 27 = -0*p, -2*z - 2*p + 8 = 0. Taruh -4, -1/2, z dalam urutan turun.
+z, -1/2, -4
+Misalkan 0*a - 4*a + 4 = 0. Misalkan z = -4 - a. Misalkan t(v) = -v**2 + 6*v + 5. Misalkan c be t(6). Urutkan c, 4, z dalam urutan naik.
+z, 4, c
+Misalkan 5*s + 75 = -205. Misalkan g = s - -166/3. Misalkan t = -0.1 + 0.2. Urutkan g, t, -2/9 dalam urutan naik.
+g, -2/9, t
+Misalkan n be -2*(-1)/3*27/(-162). Taruh n, -2, 1, 0 dalam urutan menurun.
+1, 0, n, -2
+Misalkan n = 2.4 + -0.4. Misalkan -3*y + 5*i = -8, -3*y - 2*y - i + 4 = 0. Misalkan q be 6*6/63 - y. Taruh -2, q, n dalam urutan meningkat.
+-2, q, n
+Misalkan l (u) menjadi turunan ke-ketiga dari -u**5/60 - u**4/8 + 5*u**3/6 - u**2. Misalkan h be l(-4). Taruh -5, h, -4 dalam urutan menurun.
+h, -4, -5
+Misalkan -6*u - 104 = 7*u. Taruh u, 0, 6 dalam urutan naik.
+u, 0, 6
+Misalkan r = -7 - -6.7. Misalkan w(l) = -l**3 + 4*l**2 + l - 1. Misalkan g be w(4). Misalkan o be (g/6)/((-9)/2). Taruh o, r, 0.4 dalam urutan menurun.
+0.4, o, r
+Misalkan -4*p - 9 = -21. Misalkan v - 3 = -y, 0*y + p*y - 17 = -5*v. Taruh 0, y, 1 dalam urutan menurun.
+1, 0, y
+Misalkan y = 3.05 - 0.05. Misalkan v = -2.8 - -2.5. Taruh v, y, -3/5 dalam urutan meningkat.
+-3/5, v, y
+Misalkan h = -1.32 + -0.08. Misalkan t = 1.1 + h. Taruh -0.1, -3, t dalam urutan turun.
+-0.1, t, -3
+Misalkan -4*c - 4*n + 28 = 0, -5*c + 17 = -2*c + n. Misalkan a be (-3)/(-2)*4/3. Misalkan 5*d - 20 = -4*l + 12, 0 = -d - 4*l + 16. Sort c, d, a.
+a, d, c
+Misalkan -12 + 3 = 3*n. Urutkan 7, n, -5, 3 dalam urutan turun.
+7, 3, n, -5
+Misalkan p(v) = -v**2 + 4*v - 2. Misalkan f be p(4). Urutkan -5, f, -8, 4 dalam urutan menurun.
+4, f, -5, -8
+Misalkan -4*a = 4*a + 32. Urutkan 1/6, -2/5, a dalam urutan meningkat.
+a, -2/5, 1/6
+Misalkan x(c) = 5 - c. Misalkan z be x(3). Misalkan q = 25 - 76. Misalkan w be q/(-9) + (-2)/3. Taruh z, w, -5 dalam urutan turun.
+w, z, -5
+Misalkan r = -2 + 2. Misalkan -4*w - 18 = -o + 3, -4*o = 3*w - 8. Sort r, 1, w.
+w, r, 1
+Misalkan s = 0 + -2. Misalkan 0*p - 20 = 5*p + 5*c, -4*p + 4*c = 0. Misalkan k be 0 + s*1/p. Sort k, -5, 2.
+-5, k, 2
+Misalkan h = -6.4 - -4.4. Taruh -3, h, 3 dalam urutan naik.
+-3, h, 3
+Misalkan j be (-1)/6 - (-53)/(-6). Sort j, 0, -5.
+j, -5, 0
+Misalkan l = -4 - 0. Misalkan d be ((-2)/l)/((-7)/56). Misalkan 0 = -4*b - 3*a + 21 - 1, -5*b - 2*a + 18 = 0. Urutkan 5, d, b dalam urutan meningkat.
+d, b, 5
+Misalkan w = 83 + -82.5. Urutkan 2/7, w, -4 dalam urutan turun.
+w, 2/7, -4
+Misalkan f = -22 + 15. Taruh 4, f, -1, 0 dalam urutan turun.
+4, 0, -1, f
+Misalkan t(q) = 2*q**2 - 3*q + 2. Misalkan w be t(2). Misalkan x = -15 + 18. Misalkan 4*a - 11 = -x. Urutkan w, a, 0 dalam urutan meningkat.
+0, a, w
+Misalkan x = -16 + 13. Urutkan 0.7, x, 2 dalam urutan turun.
+2, 0.7, x
+Misalkan 0 = n + 5*a + 26, -4*a - 17 = -5*n - 2. Sort -16, n, -5, 3.
+-16, -5, n, 3
+Misalkan -y - 5*t = -3*t - 5, -6 = 2*y - 4*t. Misalkan a = 2 - 4. Misalkan b be (-5)/((-2)/(-4)*a). Sort b, 2, y.
+y, 2, b
+Misalkan h = -39/2 + 20. Taruh -19, 1, h dalam urutan turun.
+1, h, -19
+Misalkan -3*v + 5 = -4*v - 5*z, 0 = -4*v + 3*z - 20. Urutkan v, 2, 1 dalam urutan menurun.
+2, 1, v
+Misalkan n = 0.434 - 0.014. Misalkan j = 0.12 - n. Sort 0.2, 0, j.
+j, 0, 0.2
+Misalkan w(y) = y**2 - y - 3. Misalkan h = 0 - -2. Misalkan v be w(h). Urutkan 3, v, 5 dalam urutan meningkat.
+v, 3, 5
+Misalkan x = -1.3 - -6.3. Misalkan y = 3/13 - 53/117. Sort y, 0, x.
+y, 0, x
+Misalkan r = -4 - -3. Misalkan n = 0 + 0. Misalkan k be 10*(2/(-4) - -1). Urutkan n, r, k dalam urutan menurun.
+k, n, r
+Misalkan r = -4879 - -902613/185. Misalkan k be (-3556)/(-13320) - (-3)/(-6). Misalkan b = k - r. Taruh b, 2/3, 0 dalam urutan menurun.
+2/3, 0, b
+Misalkan r = -1 - -3. Misalkan f(o) = 3*o - 1. Misalkan u be f(r). Taruh 0, 1, u dalam urutan menurun.
+u, 1, 0
+Misalkan n be 23/5 - 6/(-15). Misalkan 0 = 3*q + 4*x - x + 57, -32 = 2*q - x. Misalkan m = 19 + q. Taruh m, n, -2 dalam urutan meningkat.
+-2, m, n
+Misalkan t be 2/4 - (-3)/(-4). Misalkan -6 = -5*q + 2*b + 20, 2*q = -b + 5. Sort -0.5, q, t.
+-0.5, t, q
+Misalkan 20*q + 15 = 25*q. Taruh q, -6, 5 dalam urutan turun.
+5, q, -6
+Misalkan j = 3 + -2. Taruh -34, -3, j dalam urutan turun.
+j, -3, -34
+Misalkan s = -1.2 - -9.2. Misalkan z = -5 + s. Misalkan f = z + -3. Taruh f, -5, 0.2 dalam urutan turun.
+0.2, f, -5
+Misalkan k be (-1)/3 - (5 + (-31)/6). Urutkan k, -0.4, 0.4, -0.04 dalam urutan menurun.
+0.4, -0.04, k, -0.4
+Misalkan p be 2/(-1) - (9 + -1). Misalkan b be (8/p)/(10/(-50)). Misalkan 0 = 5*n + 11 + 9. Sort b, -5, n.
+-5, n, b
+Misalkan w(s) = s + 11. Misalkan p be w(-11). Misalkan 3 + 1 = 4*j. Misalkan f be p/(1 - (0 - j)). Sort 1, -1, f.
+-1, f, 1
+Misalkan v be (-1)/(-2 - (-2 - 1)). Urutkan v, 1, 4 dalam urutan turun.
+4, 1, v
+Misalkan q(j) = -j**2 - 4*j + 11. Misalkan t be q(-5). Taruh 3, 2, t dalam urutan turun.
+t, 3, 2
+Misalkan l (r) menjadi turunan ke-kedua dari -r**4/12 + 4*r**3/3 - 7*r**2/2 - 7*r. Misalkan z be l(6). Taruh 4, 1, z dalam urutan menurun.
+z, 4, 1
+Misalkan h = -111 - -100.1. Misalkan u = h + 10. Misalkan k = u + -0.1. Urutkan k, -4, 0.3 dalam urutan turun.
+0.3, k, -4
+Misalkan z = 2 + -2. Urutkan z, -3, 1 dalam urutan naik.
+-3, z, 1
+Misalkan v be (2 + -1)*0*2/(-12). Misalkan 2*l - 3*l = -3. Urutkan l, v, 1 dalam urutan turun.
+l, 1, v
+Misalkan j + 13 = -5. Misalkan x be j/(-2 + (-2 - -2)). Misalkan w(o) = -o**3 + 9*o**2 - o + 8. Misalkan l be w(x). Taruh 5, l, 0 dalam urutan turun.
+5, 0, l
+Misalkan x be ((-3)/(-45) - 0)*2. Urutkan -0.1, x, -2 dalam urutan menurun.
+x, -0.1, -2
+Misalkan -5*w + 5*v = 35, 2*w - 4 = -2*w - 4*v. Urutkan -2/3, -2/5, w dalam urutan meningkat.
+w, -2/3, -2/5
+Misalkan 3 = 2*i - 1. Taruh 5, -1/2, -1/3, i dalam urutan menurun.
+5, i, -1/3, -1/2
+Misalkan v(f) = f - 5. Misalkan a be v(0). Misalkan t = 91 - 95. Urutkan a, -2, t dalam urutan meningkat.
+a, t, -2
+Misalkan w = 1.38 - 1.4. Taruh w, -4, -2 dalam urutan naik.
+-4, -2, w
+Misalkan s(p) = p + 10. Misalkan g be s(-11). Taruh 2, -5, -3, g dalam urutan menurun.
+2, g, -3, -5
+Misalkan v = -0.03 - -2.03. Taruh v, -2, 0.5 dalam urutan turun.
+v, 0.5, -2
+Misalkan p = -132 - -662/5. Sort -3, 5, p.
+-3, p, 5
+Misalkan c = -0.1 - 0.1. Misalkan j be ((-2)/5)/((-2)/90). Misalkan n be j/7 + 6/(-3). Urutkan c, n, -0.5 dalam urutan menurun.
+n, c, -0.5
+Misalkan j = 230 + -162. Sort j, 3, 0.
+0, 3, j
+Misalkan v(g) = 3*g**2 - 2*g + 2. Misalkan d be v(-2). Misalkan f be 4/d - (-275)/18. Misalkan r = f - 15. Taruh r, 4, -0.3 dalam urutan turun.
+4, r, -0.3
+Misalkan -j - 11 + 35 = 0. Misalkan q be 2*1 + j/(-4). Misalkan t be (1/(-4))/((-10)/16). Taruh t, 1, q dalam urutan naik.
+q, t, 1
+Misalkan r = 9.5 + -8. Misalkan h = r - -0.1. Misalkan n = 2 - h. Sort n, -2/5, -0.1.
+-2/5, -0.1, n
+Misalkan -2*q + 8 = -2. Misalkan s = -p + 6, 5*s - s = 3*p + 17. Taruh q, 2, p dalam urutan turun.
+q, 2, p
+Misalkan u(j) = j**3 + 2*j**2 + 8. Misalkan v be u(-3). Misalkan g be 0/((3 - 2) + -3). Misalkan t = -2 + g. Sort 4, t, v.
+t, v, 4
+Misalkan -2*o - 2*n = 2*o + 606, 0 = -5*o + 3*n - 741. Misalkan w be o/(-39) - (-2)/13. Misalkan a = w + -7. Taruh a, -2, -5 dalam urutan turun.
+-2, a, -5
+Misalkan x be -1 + 2 - (-2 + -1). Misalkan -2*d = 9 - 15. Taruh x, -5, d dalam urutan menurun.
+x, d, -5
+Misalkan l be 2*(-4 + 9 - 6). Taruh 2, -5, l dalam urutan menurun.
+2, l, -5
+Misalkan b(h) = -h**3 - 10*h**2 + 3*h - 6. Misalkan p be b(-8). Misalkan k = p - -1420/9. Misalkan d = -3 - -7. Taruh 2/7, k, d dalam urutan menurun.
+d, 2/7, k
+Misalkan p be -4 + (-51)/(-6) + -1. Urutkan 0, -1, p dalam urutan turun.
+p, 0, -1
+Misalkan p = -1046/465 - -78/31. Misalkan m = 1/15 + p. Urutkan -4, 0, m dalam urutan naik.
+-4, 0, m
+Misalkan g be 10 + 1/((-2)/(-4)). Misalkan r be (4/6)/(2/g). Misalkan 3*n - 2*n + 5 = 0. Taruh n, r, -1 dalam urutan meningkat.
+n, -1, r
+Misalkan n be ((-2)/(-15))/(15/25). Urutkan n, -0.1, 2/11 dalam urutan menurun.
+n, 2/11, -0.1
+Misalkan t = 12.1 - 13.08. Misalkan o = t + -0.02. Misalkan v = 1.1 + o. Taruh -2/5, -0.2, v dalam urutan naik.
+-2/5, -0.2, v
+Misalkan y be 0 + (-1)/(-2)*6. Misalkan o = 0.5 - -0.5. Taruh o, -3/5, y dalam urutan meningkat.
+-3/5, o, y
+Misalkan z = -11 + 7. Misalkan c(s) = -s**2 - 8*s - 4 - 4 + 0*s**2. Misalkan o be c(-7). Urutkan 1, z, o dalam urutan naik.
+z, o, 1
+Misalkan p = 8 - -14. Misalkan x = 25 - p. Misalkan h = 0.3 - -0.7. Urutkan x, -4, h dalam urutan meningkat.
+-4, h, x
+Misalkan m = 0.48 + -0.4. Misalkan d = -4.08 + m. Misalkan n be 1/6*(-7 - -5). Taruh -0.3, n, d dalam urutan menurun.
+-0.3, n, d
+Misalkan k = 97/404 + 1/101. Misalkan 0 = 4*m - 4*u - 4, 0*m - 3*u = -2*m + 1. Misalkan w = -17 - -12. Urutkan k, m, w dalam urutan meningkat.
+w, k, m
+Misalkan f = -5 - -6. Urutkan -2, f, -11 dalam urutan turun.
+f, -2, -11
+Misalkan w = -26 + 22. Taruh -3, 4, w, 1 dalam urutan turun.
+4, 1, -3, w
+Misalkan 0 = 5*d + 15 - 35. Taruh 1, d, -5, 5 dalam urutan turun.
+5, d, 1, -5
+Misalkan 2*b - 52 = -2*b. Misalkan 4*t - 22 = 3*f, 5 - b = -4*f - 4*t. Sort -4, 4, f.
+-4, f, 4
+Misalkan v = 85 - 86. Urutkan v, 2, -3, 3 dalam urutan menurun.
+3, 2, v, -3
+Misalkan 0 = 3*i + 1 - 58. Misalkan h be (4 + -2 + -4)/i. Urutkan h, -1, -3 dalam urutan menurun.
+h, -1, -3
+Misalkan x = 0 + -5. Misalkan 3*q = 10 + 2. Misalkan 2*y + 4 = 0, v = -q*y - 3 - 0. Sort x, 4, v.
+x, 4, v
+Misalkan 4*k - 3 = -7*p + 2*p, 2*p - 5*k = 21. Taruh p, -1, -5, 4 dalam urutan menurun.
+4, p, -1, -5
+Misalkan -4*g = -2*a + 14 - 42, -g = 4*a + 92. Misalkan x = a - -133/6. Misalkan p(l) = l**2 - 5*l - 10. Misalkan c be p(7). Taruh c, -0.5, x dalam urutan naik.
+-0.5, x, c
+Misalkan 0 = 2*r - 18 + 8. Misalkan h(t) = t**3 - 5*t**2 + 4*t - 4. Misalkan l be h(4). Urutkan r, l, 3 dalam urutan turun.
+r, 3, l
+Misalkan q be 12 + (0 - (-2 - -3)). Misalkan c = -8 + q. Urutkan c, -5, -4 dalam urutan turun.
+c, -4, -5
+Misalkan w = 20 - 18.7. Urutkan w, -2/3, -3 dalam urutan menurun.
+w, -2/3, -3
+Misalkan k(s) = 8 - s. Misalkan x be k(7). Misalkan -z = -1 - 1. Misalkan i = x - z. Urutkan -0.4, 1/2, i dalam urutan naik.
+i, -0.4, 1/2
+Misalkan w = -418 - -603. Misalkan d = w + -2777/15. Taruh 3/2, 0.1, d dalam urutan turun.
+3/2, 0.1, d
+Misalkan i be ((-4)/14)/(4/2). Misalkan t = 16 - 8. Misalkan n = -5 + t. Taruh n, i, -0.4 dalam urutan turun.
+n, i, -0.4
+Misalkan 4*g = -5*d - 2, 2*g + 2 = 4*d - 6*d. Misalkan h be -1 + 2 - -3*(-4)/12. Sort h, -1, d.
+-1, h, d
+Misalkan q = 9 - 8.8. Urutkan -4, 2/9, q, -1/4 dalam urutan meningkat.
+-4, -1/4, q, 2/9
+Misalkan d = 3.9 - -0.1. Misalkan w = -7.6 + 0.6. Misalkan f = -9 - w. Urutkan f, 0.2, d dalam urutan meningkat.
+f, 0.2, d
+Misalkan m = 15 - 15.16. Misalkan n = m - 0.04. Urutkan n, -4, 0 dalam urutan naik.
+-4, n, 0
+Misalkan q = -0.4 + -3.6. Misalkan x = -2.99 + -0.01. Taruh q, -5, x dalam urutan naik.
+-5, q, x
+Misalkan c = 2 - 0. Misalkan k(m) = -m**3 + 6*m**2 - 5*m. Misalkan g be k(5). Sort g, c, 3.
+g, c, 3
+Misalkan g be 209/(-133) + (-1 - -2). Urutkan -1/2, 1/8, g, -1 dalam urutan turun.
+1/8, -1/2, g, -1
+Misalkan s = -1.79 - 2.32. Misalkan k = -0.11 - s. Urutkan 5, -2, k dalam urutan turun.
+5, k, -2
+Misalkan 3*j - 4 = 2. Misalkan w be ((-2)/4)/((-1)/(-4)). Misalkan k = w + 1. Taruh -5, j, k dalam urutan menurun.
+j, k, -5
+Misalkan 0 = -4*c + 2 - 14. Sort 4, 0, c.
+c, 0, 4
+Misalkan u be (-1)/2*(-8 + 2). Misalkan 4*j - 5*p + 0 - 4 = 0, 5*j - 5 = 5*p. Taruh j, -1, u dalam urutan menurun.
+u, j, -1
+Misalkan y = 0.06 + 1.94. Misalkan v = -48 - -718/15. Sort y, 1/6, v.
+v, 1/6, y
+Misalkan h be 18/(-3)*1/(-2). Misalkan -6 - 3 = -h*w. Misalkan o be w*((-8)/6 - -2). Taruh o, 4, -2 dalam urutan naik.
+-2, o, 4
+Misalkan x = 1.31 - 0.11. Misalkan o = x - 1.6. Misalkan i = -1.5 + 1. Urutkan o, -5, i dalam urutan menurun.
+o, i, -5
+Misalkan -15 = -3*n + 4*p, -3*p + 5 = n - 0. Misalkan 0 = -n*v - 2*a + a - 19, v - 5*a = 17. Sort 2, 5, v.
+v, 2, 5
+Misalkan -6*i + 3*i + 6 = 0. Misalkan 6*b = i*b. Urutkan b, 4, 5 dalam urutan meningkat.
+b, 4, 5
+Misalkan -1 + 7 = 4*t + j, -3*t - 2*j + 7 = 0. Misalkan 9 = 5*p - 6. Urutkan 0, p, t dalam urutan menurun.
+p, t, 0
+Misalkan -t + 5*m + 10 = 0, 3*m + 24 = -2*t - t. Misalkan p be (3/(-2))/(6/16). Taruh p, t, 3 dalam urutan menurun.
+3, p, t
+Misalkan m be 2/(4*(-4 - -6)). Misalkan q = 5 - 4.97. Misalkan 12 = 3*a, 2*n + 5 = n + 2*a. Sort m, q, n.
+q, m, n
+Misalkan j(n) = -n**2 - 6*n. Misalkan o be j(-5). Urutkan 4, o, 2, -3 dalam urutan naik.
+-3, 2, 4, o
+Misalkan r = 9 + -9.1. Misalkan w(j) = -3*j**2 - 5*j - 7. Misalkan q be w(-7). Misalkan f be (-48)/q + 2/(-7). Urutkan f, 4, r dalam urutan meningkat.
+r, f, 4
+Misalkan j = -2 + 4. Misalkan a = 1 - j. Misalkan z = -1 - a. Urutkan 2/5, z, -2/7 dalam urutan naik.
+-2/7, z, 2/5
+Misalkan h = 18 + -17. Misalkan f(b) = -b**3 - 9*b**2 - 7*b + 10. Misalkan t be f(-8). Taruh h, t, -4 dalam urutan turun.
+t, h, -4
+Misalkan 6*u + 4 = 4*u. Urutkan 6, 3, u dalam urutan meningkat.
+u, 3, 6
+Misalkan g = -31 + 37.1. Misalkan p = 6 - g. Misalkan d = 742/5 + -149. Urutkan d, p, -2/7 dalam urutan meningkat.
+d, -2/7, p
+Misalkan h(q) = -q**2 + 10*q + 8. Misalkan s be h(11). Misalkan c be 6/4*2/3. Taruh 5, s, c dalam urutan turun.
+5, c, s
+Misalkan p be 2 - 2 - (11 + -4). Taruh 4, p, 0 dalam urutan turun.
+4, 0, p
+Misalkan 0 = 6*v - 3*v + 2*w - 1, 0 = -4*v + 2*w + 6. Misalkan x(h) = -h**2 + 10*h + 16. Misalkan m be x(11). Urutkan v, m, 3 dalam urutan turun.
+m, 3, v
+Misalkan u be (16/(-120))/(3/(-5)*1). Misalkan 0 = n + 1 - 0. Urutkan u, n, 0.05 dalam urutan menurun.
+u, 0.05, n
+Misalkan j be 18/1 + -2 + -1. Misalkan d = -15 + j. Urutkan d, -5, -2 dalam urutan meningkat.
+-5, -2, d
+Misalkan p = -9 - -8.94. Misalkan s = -5.06 - p. Taruh -0.5, 2/5, s dalam urutan menurun.
+2/5, -0.5, s
+Misalkan -5*w + 2*w - 27 = -2*g, -3 = -g. Misalkan p = -10 - w. Urutkan p, 1, 2 dalam urutan naik.
+p, 1, 2
+Misalkan b = 15 - 10. Misalkan q = b - 10. Misalkan k be -2*1/8 - 0. Taruh k, -4, q dalam urutan meningkat.
+q, -4, k
+Misalkan c = 0.1 + 0.1. Misalkan u = -0.204 - -0.704. Sort c, u, 5/6.
+c, u, 5/6
+Misalkan -2*w + 0*a - 5*a + 2 = 0, 3*a = 3*w - 3. Sort -2, 5, w.
+-2, w, 5
+Misalkan j = 2.4 - 2. Misalkan n = 0.1 + j. Urutkan 2/5, 4, n dalam urutan turun.
+4, n, 2/5
+Misalkan -5*w + 6 = -4. Misalkan j = 0.8 + -1. Misalkan z = 6 - 3. Urutkan z, w, j dalam urutan naik.
+j, w, z
+Misalkan -5*k - 3 = -2*k. Urutkan -2, 2, k dalam urutan menurun.
+2, k, -2
+Misalkan 3*v - 15 = -0*h - h, 0 = -4*h + v + 8. Taruh h, 2, 26 dalam urutan meningkat.
+2, h, 26
+Misalkan f = 0.97 + -0.47. Sort -6, f, 3.
+-6, f, 3
+Misalkan v be 1*(-1 + (-8)/(-7)). Misalkan o(f) = f**3 + 2*f**2 - 4*f - 1. Misalkan x be o(-3). Urutkan x, v, -3 dalam urutan turun.
+x, v, -3
+Misalkan c be 4/26 + 75/(-65). Taruh c, -5, 3 dalam urutan meningkat.
+-5, c, 3
+Misalkan t(b) = b**2 + 7*b - 15. Misalkan x be t(-9). Sort 28, x, 1.
+1, x, 28
+Misalkan m = -2 + 2.2. Misalkan k = -0.1 + m. Misalkan 3*i - 10 = 8*i. Urutkan 1, k, i dalam urutan naik.
+i, k, 1
+Misalkan b = -7/5 + 101/65. Sort -1, -0.1, b.
+-1, -0.1, b
+Misalkan -2*h - 5*d = 10, 2*h + 7 = 4*d - 3. Taruh h, 4, 3 dalam urutan turun.
+4, 3, h
+Misalkan 34*s - 33*s - 1 = 0. Taruh -17, s, 2 dalam urutan naik.
+-17, s, 2
+Misalkan k = 0 + 2. Misalkan 0 = 3*i - 7*i - 12. Taruh i, k, 5 dalam urutan turun.
+5, k, i
+Misalkan p(w) = 5 - w. Misalkan s be p(4). Misalkan r(f) = 5*f**2 + 2*f - 1. Misalkan x be r(s). Misalkan g = -1 + x. Urutkan g, 0, -1/2 dalam urutan turun.
+g, 0, -1/2
+Misalkan -65 = a - 2*a. Misalkan p = a + -977/15. Taruh -4, -2, p dalam urutan menurun.
+p, -2, -4
+Misalkan k = -114.01 - -114. Urutkan k, 2, 4, 5 dalam urutan meningkat.
+k, 2, 4, 5
+Misalkan v = 1 + -3. Misalkan f be (4/(-6))/((-3)/(-18)). Taruh v, f, -0.2 dalam urutan turun.
+-0.2, v, f
+Misalkan p = 59.06 - 57. Misalkan k = -0.06 + p. Taruh 4/5, -2, k dalam urutan menurun.
+k, 4/5, -2
+Misalkan 2*i = t - 0 + 1, -5*i - 5 = 0. Misalkan r = 40 + -39. Urutkan r, t, 2 dalam urutan naik.
+t, r, 2
+Misalkan h = -15 - -35. Misalkan y be h/(-25)*10/4. Sort 1, -3, y.
+-3, y, 1
+Misalkan s be -34 - 1/((-4)/(8 + -4)). Taruh -3, 5, s, 3 dalam urutan turun.
+5, 3, -3, s
+Misalkan r(s) = -s**3 - 4*s**2 + s + 4. Misalkan p be r(-4). Misalkan m = -9 - -14. Misalkan f = 4 + -7. Sort p, f, m.
+f, p, m
+Misalkan s = -7.9 - -7.6. Taruh s, 2, 25 dalam urutan menurun.
+25, 2, s
+Misalkan w = 0.084 + 0.816. Urutkan -4/9, 0.3, w, -2/15 dalam urutan naik.
+-4/9, -2/15, 0.3, w
+Misalkan h be 4/(-16)*0 - 3. Taruh -1, 5, h dalam urutan turun.
+5, -1, h
+Misalkan -3*z = 5*p + 34, -3*z + 3*p + p + 11 = 0. Misalkan 20 = 5*v, 4*k = -v + 13 + 11. Urutkan z, -10, k dalam urutan menurun.
+k, z, -10
+Misalkan u = 9 + -6. Misalkan v = 2.8 - u. Misalkan k = 94/77 + -15/11. Taruh v, 0.5, k dalam urutan turun.
+0.5, k, v
+Misalkan p = 4.72 - -0.28. Taruh -9, p, -4 dalam urutan turun.
+p, -4, -9
+Misalkan x = 44/3 - 29/2. Sort -1/4, -1/12, x.
+-1/4, -1/12, x
+Misalkan q = 82 - 85. Sort 0.05, q, 1/5, -1.
+q, -1, 0.05, 1/5
+Misalkan -5*u + 7 = -0*u - q, -9 = -3*u + 3*q. Urutkan 0, 8, -4, u dalam urutan turun.
+8, u, 0, -4
+Misalkan w be -2 - 1 - (-10 + 5). Sort 7, w, -2.
+-2, w, 7
+Misalkan g = 7 + 1. Misalkan -2*h = g - 28. Sort -5, h, 2.
+-5, 2, h
+Misalkan o = 5 - 10. Misalkan 4*t + 0 = -4. Misalkan n be 5/(5/(-2))*t. Urutkan n, o, 4 dalam urutan naik.
+o, n, 4
+Misalkan k = -822 + 821. Misalkan j(o) = o**3 - 5*o**2 + 1. Misalkan r be j(5). Misalkan a = 1 - r. Taruh a, -3, k dalam urutan naik.
+-3, k, a
+Misalkan p = 0.4 + 0.6. Urutkan 2/11, p, 2 dalam urutan turun.
+2, p, 2/11
+Misalkan a = -30 - -28. Misalkan g = -0.3 - -0.3. Urutkan a, 1/6, g dalam urutan meningkat.
+a, g, 1/6
+Misalkan h = 19 - 18. Misalkan v be (-4)/6 - 24/(-63). Urutkan h, 1/4, v dalam urutan turun.
+h, 1/4, v
+Misalkan f(a) = 2*a - 10. Misalkan m be f(7). Misalkan -4*v + m = 12. Misalkan d be (-3)/6 + v/4. Taruh -3, -5, d dalam urutan menurun.
+d, -3, -5
+Misalkan t be 4/(11/(-4) - -3). Misalkan -5*p = -5*j, 5*j - t = -6*p + 3*p. Misalkan d(c) = c - 2. Misalkan r be d(6). Urutkan p, -2, r dalam urutan turun.
+r, p, -2
+Misalkan j = -0.2 - 0.3. Misalkan k = 58/5 + -11. Urutkan k, j, 2 dalam urutan turun.
+2, k, j
+Misalkan 6 = 4*k + 3*i - 23, -2*i + 31 = 5*k. Sort 10, 0, k, -1.
+-1, 0, k, 10
+Misalkan m be 5 - 0*2/(-4). Misalkan s(y) = 2 - 4*y. Misalkan d be s(1). Urutkan d, m, 9 dalam urutan naik.
+d, m, 9
+Misalkan v(s) = s**2 + 3*s. Misalkan z be v(-2). Misalkan h(y) = 2*y**2 + y - 3. Misalkan g be h(z). Misalkan a be (2 + -1)*-1 + 0. Sort g, -0.2, a.
+a, -0.2, g
+Misalkan -4*g + 5*j = j + 20, 10 = 4*g + 2*j. Sort -2/17, g, -0.3.
+-0.3, -2/17, g
+Misalkan o = -3 - -12. Misalkan -2*f = 3 - o. Urutkan -5, f, 1 dalam urutan turun.
+f, 1, -5
+Misalkan 3*m - x - 16 = -2*x, 0 = 2*m - 2*x - 8. Misalkan y = 2 - m. Misalkan c be 4/2 - (-15)/y. Taruh c, 3, 4 dalam urutan menurun.
+4, 3, c
+Misalkan k = -3 + 3.4. Misalkan y = 0.5 - k. Misalkan j = -0.3 - -0.8. Taruh 4, j, y dalam urutan naik.
+y, j, 4
+Misalkan b = 0.1 - -1.9. Misalkan t be (0 + 8/(-4))/10. Urutkan t, b, 0 dalam urutan turun.
+b, 0, t
+Misalkan i = 8.3 - 8. Misalkan d = 2.3 - 0.3. Misalkan s = -127/3 + 43. Urutkan d, i, s dalam urutan meningkat.
+i, s, d
+Misalkan h be (4/20 - 1)*-5. Sort h, 5, 3.
+3, h, 5
+Misalkan q = -3 + 7. Misalkan t be (6/(-9))/((-1)/(-60)). Misalkan l be ((-6)/t)/(1/q). Taruh -1, l, 0.5 dalam urutan menurun.
+l, 0.5, -1
+Misalkan 3*i + 18 = -x, -2*x - 3 = -i - 2. Misalkan 4*v + 11 = -j - 0*v, 3*v = -4*j - 5. Taruh x, 6, j dalam urutan meningkat.
+x, j, 6
+Misalkan v = 9 - 7. Misalkan a be -5*4/(-8) - v. Sort a, -0.1, 4.
+-0.1, a, 4
+Misalkan f = 2.1 - 0.1. Urutkan 3/7, f, 6 dalam urutan naik.
+3/7, f, 6
+Misalkan m(b) = -b**2 + 6*b - 4. Misalkan l be m(6). Misalkan 6 = 3*y + 4*s, 5*s - 8 = 7. Urutkan l, -3, y dalam urutan turun.
+y, -3, l
+Misalkan c = 1 + 0. Misalkan s = 6.8 - 7. Sort -2/15, c, s.
+s, -2/15, c
+Misalkan -3*n = -2*n - 3. Misalkan n*c - 3 - 6 = 0. Misalkan 0*g - 6 = c*g - 2*t, 4*g - 3*t + 7 = 0. Urutkan -2, g, 4 dalam urutan turun.
+4, -2, g
+Misalkan i(p) = 5*p + 31. Misalkan m be i(-7). Misalkan g be 8/3*9/2. Misalkan 5*b + 3*j = 14, 4*b - g = -2*j - 0*j. Urutkan b, 3, m dalam urutan turun.
+b, 3, m
+Misalkan p(d) = 3*d**3 - d**2 - 3*d - 3. Misalkan -8 + 2 = 3*i. Misalkan f be p(i). Misalkan r be (-40)/f + 4/10. Urutkan r, -0.2, 0.3 dalam urutan menurun.
+r, 0.3, -0.2
+Misalkan b = -2.04 - -0.04. Misalkan d(n) = n**2 + 1. Misalkan c be d(0). Urutkan c, 5, b dalam urutan menurun.
+5, c, b
+Misalkan g = -2 + 3. Misalkan k = -6 - -4. Misalkan h = -4 - -1. Taruh g, h, k dalam urutan menurun.
+g, k, h
+Misalkan k(x) = x**2 + 6*x - 5. Misalkan l be k(-7). Misalkan c be (1 - l) + -5 + 4. Misalkan 4 + 0 = 2*u. Taruh c, -4, u dalam urutan naik.
+-4, c, u
+Misalkan z be (-2)/(-4)*(-2 - -2). Misalkan -14 = -5*j + 3*n, -4*j - 7 = j + 4*n. Taruh 2, j, z dalam urutan naik.
+z, j, 2
+Misalkan l be 3/((-6)/(-4)) - 1. Misalkan b = l - -1. Misalkan 0*o - o + 5 = 3*z, -5 = b*o + z. Sort o, -1, 2.
+o, -1, 2
+Misalkan a = -1 + 5. Misalkan -k - a*k + 25 = 0. Taruh -2, 1, k dalam urutan menurun.
+k, 1, -2
+Misalkan s = -1/4 + -13/12. Misalkan c = -0.3 + 0.3. Taruh s, c, -2 dalam urutan naik.
+-2, s, c
+Misalkan -5*y + 25 = -10*y. Misalkan n be (-1 + -1)*10/(-4). Urutkan n, y, -2 dalam urutan turun.
+n, -2, y
+Misalkan 4*g - 3*g - 7 = 0. Misalkan q = 9 - g. Sort 1, 6, q.
+1, q, 6
+Misalkan c = -4 + 2. Misalkan g = 16 + -17. Taruh g, -6, c dalam urutan meningkat.
+-6, c, g
+Misalkan -5*z + w + 2 = 0, 2*z - 4 = 7*z - 3*w. Misalkan -4*p - 2 = 6. Urutkan p, z, 0 dalam urutan naik.
+p, 0, z
+Misalkan g = 0.7 + -1. Misalkan w = 5.9 - 5.9. Taruh g, w, -0.5 dalam urutan menurun.
+w, g, -0.5
+Misalkan 0 = -s - 2*s. Misalkan -4 = -s*y - 2*y. Misalkan -q = -5 + y. Taruh 1, 4, q dalam urutan meningkat.
+1, q, 4
+Misalkan b be (-179)/(-63) - (-2)/(-2). Misalkan g = -1/529 - 8457/3703. Misalkan h = b + g. Urutkan -1, h, 1/2 dalam urutan turun.
+1/2, h, -1
+Misalkan d be (2 + -3 + 2)*(-5)/(-15). Urutkan -0.5, 4, d dalam urutan menurun.
+4, d, -0.5
+Misalkan 0 = l - m - 13, 5*l = -3*m + m + 44. Taruh -4, 3, l, 2 dalam urutan menurun.
+l, 3, 2, -4
+Misalkan v be (-74)/26 - (0 + -3). Misalkan c = -3 + 6. Taruh v, c, -4 dalam urutan meningkat.
+-4, v, c
+Misalkan q = -11.8 - -10. Misalkan o = q - -5.8. Taruh -2/19, o, 0.3 dalam urutan menurun.
+o, 0.3, -2/19
+Misalkan d = 18 - 15. Sort -0.1, d, -5.
+-5, -0.1, d
+Misalkan a be (-1)/4 + 14/(-8). Misalkan 4*z - 16 = -2*h, 0 = -z + h + h - 6. Misalkan 0 = n - k + 2, z*k + 16 = -4*n - 2*k. Taruh 2, a, n dalam urutan menurun.
+2, a, n
+Misalkan d = 388 - 6594/17. Misalkan m = -0.2 + 1.2. Misalkan r = -2 - -5. Urutkan d, m, r dalam urutan turun.
+r, m, d
+Misalkan k = 115/4 + -29. Urutkan k, 0.4, -5, -0.3 dalam urutan turun.
+0.4, k, -0.3, -5
+Misalkan p(h) = -h. Misalkan y be p(2). Misalkan q(a) = -2*a**3 - a**2 - 4. Misalkan u be q(0). Taruh u, -5, y dalam urutan menurun.
+y, u, -5
+Misalkan t be ((-6)/5)/(8/(-20)). Misalkan -d - 2 = -7. Misalkan f be -1 - 2*1/2. Urutkan t, f, d dalam urutan naik.
+f, t, d
+Misalkan m = -8.9 - 3.1. Misalkan r = 11.5 + m. Taruh r, 0.4, -6/5 dalam urutan turun.
+0.4, r, -6/5
+Misalkan n be 0 + (-3 - 1093/(-364)). Misalkan h = n - -155/364. Taruh h, -2, -3 dalam urutan turun.
+h, -2, -3
+Misalkan y = 183 + -202. Taruh -1, 1, y dalam urutan turun.
+1, -1, y
+Misalkan j = -3 + 0. Misalkan 3*k + 10 = 2*l, 0 = k + l - 2*l + 4. Misalkan a(w) = -w**3 - 9*w**2 + 10*w - 5. Misalkan q be a(-10). Sort j, k, q.
+q, j, k
+Misalkan o = -8 + 8.12. Misalkan m = -147.88 + 143. Misalkan r = m - o. Taruh -0.4, 5, r dalam urutan meningkat.
+r, -0.4, 5
+Misalkan q(v) = -9*v**3 - v + 1. Misalkan y be q(1). Misalkan r be -2 - ((-96)/y)/(-4). Sort r, -5, -2/5.
+-5, -2/5, r
+Misalkan 3*d = -3*i + 30, -5 = 4*i - 8*i + 3*d. Misalkan k = i - 5. Misalkan k = 2*b + 9 - 3. Taruh 1, -5, b dalam urutan menurun.
+1, b, -5
+Misalkan 3*n - 5 = 2*n. Taruh -1/10, n, -4 dalam urutan meningkat.
+-4, -1/10, n
+Misalkan d be (4 - -6)*(-4)/(-10). Misalkan 5*z - 37 = d*y, y + 3*y + z = -7. Misalkan r(p) = p + 1. Misalkan q be r(-3). Urutkan -4, y, q dalam urutan turun.
+q, y, -4
+Misalkan f = 890.27 + -885. Misalkan u = 0.27 - f. Misalkan y = -1 - -1. Taruh u, -2/13, y dalam urutan naik.
+u, -2/13, y
+Misalkan -k + 6 = 3*i - 2*k, 5*i + 4*k = 10. Taruh i, -1, 0.1 dalam urutan menurun.
+i, 0.1, -1
+Misalkan q = -50 - -101/2. Urutkan q, -0.01, -0.3, 3/7 dalam urutan menurun.
+q, 3/7, -0.01, -0.3
+Misalkan j(q) = q**2 - 8*q - 4. Misalkan y be j(9). Misalkan -5*v - 27 = -w, 3*v + y = w - 12. Sort 0, w, 0.4.
+0, 0.4, w
+Misalkan k(r) = -r**3 - 2*r**2 - 2*r - 2. Misalkan h be k(-2). Misalkan j(v) = 5*v - 16. Misalkan q be j(4). Urutkan q, h, -1 dalam urutan meningkat.
+-1, h, q
+Misalkan p = -19 + 23. Misalkan w(f) = f**3 + 7*f**2 + 5*f - 9. Misalkan r be w(-6). Sort p, r, 3.
+r, 3, p
+Misalkan u = -3 - 1. Misalkan g = -0.3 - 0.7. Misalkan i = -1.2 - g. Taruh 0.1, u, i dalam urutan turun.
+0.1, i, u
+Misalkan h = -7 + 9. Urutkan -3, h, 3, -1 dalam urutan meningkat.
+-3, -1, h, 3
+Misalkan g = -36 - -39. Misalkan 6 = -5*v + 3*t, 5*v = 2*v + 5*t - 10. Taruh -5, v, g dalam urutan menurun.
+g, v, -5
+Misalkan -4*y - 2 = -2*d, -d - 2*y - 13 = -2. Misalkan x + 3*x + 12 = 0. Taruh d, x, 4 dalam urutan meningkat.
+d, x, 4
+Misalkan c(k) = -k - 17. Misalkan h be c(-16). Misalkan -1 = 2*y - 9. Misalkan j(u) = u**2 - 5*u - 2. Misalkan n be j(5). Sort h, y, n.
+n, h, y
+Misalkan 3*w + 3 - 12 = 0, 5*w - 30 = -5*q. Taruh q, -4, -12 dalam urutan naik.
+-12, -4, q
+Misalkan a = 24 - 46. Misalkan p = a + 22.4. Taruh -10, 0.2, p dalam urutan turun.
+p, 0.2, -10
+Misalkan n be ((0/2)/1)/1. Misalkan a = -12 - -14.6. Misalkan u = -3 + a. Urutkan -0.2, n, u dalam urutan menurun.
+n, -0.2, u
+Misalkan y = 0.38 + -0.08. Misalkan w = -1.3 + y. Misalkan j = w + 6. Urutkan 4/5, j, 3 dalam urutan turun.
+j, 3, 4/5
+Misalkan u = 4 + 1. Urutkan 2, -5, u, -4 dalam urutan meningkat.
+-5, -4, 2, u
+Misalkan s be (3/(-2))/((-35)/10). Sort s, -4, 2/3, 0.
+-4, 0, s, 2/3
+Misalkan 0*i = -2*i + 4. Misalkan -f = -5*q + f - 29, i*q - 1 = 5*f. Misalkan h = q - -12. Taruh 4, h, -2/13 dalam urutan turun.
+h, 4, -2/13
+Misalkan x = -1 + 3. Misalkan d be x/(-10) - 8/20. Taruh 0, d, 1/9 dalam urutan turun.
+1/9, 0, d
+Misalkan u = -18 + 22. Taruh -1, u, -5 dalam urutan meningkat.
+-5, -1, u
+Misalkan -o + 2*d + 3 = 0, 2*d = -5*o + 3*d + 15. Taruh 4, o, -6, -1 dalam urutan meningkat.
+-6, -1, o, 4
+Misalkan u be (2 + -5 - (0 - 1))/(-14). Urutkan u, -5, 3 dalam urutan naik.
+-5, u, 3
+Misalkan x = 14 + 9. Taruh x, -2, -5 dalam urutan naik.
+-5, -2, x
+Misalkan w + 2 = 7. Urutkan 1, -1, w, 0 dalam urutan menurun.
+w, 1, 0, -1
+Misalkan v = 1 + -4. Urutkan -4, v, -14, -1 dalam urutan turun.
+-1, v, -4, -14
+Misalkan 3*k = -5*y + 2*k + 21, -5*k = -5*y + 15. Taruh y, -2, 1 dalam urutan menurun.
+y, 1, -2
+Misalkan -o = -4*t, 0*t + t - 7 = 2*o. Misalkan n = -2/117 + -193/117. Misalkan r = t - n. Urutkan -3, -1, r dalam urutan turun.
+r, -1, -3
+Misalkan t be 4 + -2 + -3 + 30/25. Urutkan t, 5/4, -4, 1/7 dalam urutan turun.
+5/4, t, 1/7, -4
+Misalkan 4*h = -3*c + 9, -3*c + 2*c - 3*h + 3 = 0. Urutkan -5, -2, c dalam urutan turun.
+c, -2, -5
+Misalkan m(d) = 3*d + 5. Misalkan l be m(5). Misalkan 0 = -4*b - 0*b + l. Taruh 2, b, 0 dalam urutan menurun.
+b, 2, 0
+Misalkan d = 0.925 + 0.075. Taruh d, -1, 0 dalam urutan menurun.
+d, 0, -1
+Misalkan z = 2 + -2.04. Misalkan u = 0.59 + -0.33. Misalkan o = z - u. Taruh -0.1, o, -5 dalam urutan turun.
+-0.1, o, -5
+Misalkan c = 13 - 16. Misalkan r = 9 + -14. Taruh -2, c, r dalam urutan turun.
+-2, c, r
+Misalkan m be ((-21)/14)/(9/(-24)). Urutkan -5, m, 0, -3 dalam urutan meningkat.
+-5, -3, 0, m
+Misalkan x = -0.1 + -4.9. Misalkan m = -0.11 + 0.11. Urutkan x, 4, m dalam urutan menurun.
+4, m, x
+Misalkan m be -9 - -10 - 0/2. Urutkan -1/5, m, 0 dalam urutan menurun.
+m, 0, -1/5
+Misalkan o = -6 + 11. Misalkan -y = -o*y + 4. Misalkan j(g) = 2*g + 2. Misalkan u be j(-2). Urutkan u, 4, y dalam urutan meningkat.
+u, y, 4
+Misalkan 11*a - 8*a = -6. Taruh -0.5, 7/2, a, -5 dalam urutan meningkat.
+-5, a, -0.5, 7/2
+Misalkan n = -5 - -6. Taruh -1, n, 5 dalam urutan naik.
+-1, n, 5
+Misalkan 1 - 3 = -v. Misalkan u be 5*(0 - (v + -3)). Misalkan m = 4 - 1. Taruh 1, m, u dalam urutan menurun.
+u, m, 1
+Misalkan m = 19 + -19.8. Sort 5, 5/3, m.
+m, 5/3, 5
+Misalkan r = 50 + -46. Urutkan r, -5, 2 dalam urutan naik.
+-5, 2, r
+Misalkan z = -6/13 - 9/65. Misalkan d be (-4)/(-35)*(0 + 5). Taruh -3, z, d dalam urutan turun.
+d, z, -3
+Misalkan s = -1.6 - 0.4. Misalkan 3 = d + 5*t - 2, 53 = 3*d - 4*t. Misalkan 4*m + 4*f = -0*m + 20, -3*m = -f - d. Taruh s, -4, m dalam urutan turun.
+m, s, -4
+Misalkan k be (-2)/((-1 + 0)/(-1)). Misalkan u = 8 - 0. Misalkan -5*j = -2*c - 13, -u*j + 17 = -3*c - 3*j. Taruh k, c, -5 dalam urutan turun.
+k, c, -5
+Misalkan n = 20 + -19. Urutkan -3/4, 0, n dalam urutan meningkat.
+-3/4, 0, n
+Misalkan j = 5 - 3. Misalkan 0 = -y + 5 - 1. Misalkan z(t) = -t**2 + t + 3. Misalkan l be z(3). Sort l, y, j.
+l, j, y
+Misalkan q be (1*0/(-1))/2. Misalkan d = -5 + 3. Misalkan k(z) = z**3 + 4*z**2 - 10*z + 14. Misalkan w be k(-6). Taruh d, w, q dalam urutan turun.
+w, q, d
+Misalkan w = -1 - -1.08. Misalkan o = w + 2.92. Misalkan i = -3 - -2. Taruh o, -5, i dalam urutan turun.
+o, i, -5
+Misalkan i = -534 + 3209/6. Misalkan -2*f + 0 + 4 = 2*s, 12 = -2*s + 2*f. Taruh i, s, 5 dalam urutan turun.
+5, i, s
+Misalkan p = 0.3 - -0.2. Misalkan q = 8 + -10. Misalkan c = -1.9 - q. Taruh -3, p, c dalam urutan meningkat.
+-3, c, p
+Misalkan 2*z - 7 = z. Misalkan k be 4/(-14) - (-23)/z. Misalkan 0 = -13*h - 7 - 6. Urutkan h, k, 5 dalam urutan naik.
+h, k, 5
+Misalkan x = 100 + -75. Misalkan n be ((-4)/3)/((-2)/9). Misalkan x = d - n*d. Taruh -1, d, 3 dalam urutan naik.
+d, -1, 3
+Misalkan k = 160 - 163. Urutkan 3, k, -2, -1 dalam urutan naik.
+k, -2, -1, 3
+Misalkan d = 26 - 30. Misalkan g be (10/(-8))/((-4)/(-16)). Sort d, 5, g.
+g, d, 5
+Misalkan v = -58 - -55. Misalkan l = 3 + -4. Misalkan f = 4 + l. Taruh 1, v, f dalam urutan naik.
+v, 1, f
+Misalkan w = -6 - -4. Misalkan 0 = -2*h + f - 0 + 1, 0 = f + 3. Misalkan r be (32/(-1))/(-4) + -12. Urutkan w, r, h dalam urutan meningkat.
+r, w, h
+Misalkan 0 = 3*d - 1 + 16. Misalkan x = 4 + d. Misalkan h(l) = l**2 - 8*l + 7. Misalkan n be h(7). Taruh 4, x, n dalam urutan meningkat.
+x, n, 4
+Misalkan 3*m = 8*m. Misalkan p be 3/(-1) - (-1)/2*-4. Taruh p, -4, m dalam urutan menurun.
+m, -4, p
+Misalkan -5*m + u = 5 + 5, 4*m + 4*u + 8 = 0. Misalkan 2*g = 2*r + 4, -g + 13 = 4*r + 26. Taruh 0.6, r, m dalam urutan menurun.
+0.6, m, r

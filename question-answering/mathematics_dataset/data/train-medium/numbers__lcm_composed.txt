@@ -1,0 +1,666 @@
+Misalkan n(m) = 1286*m**3 + 4*m - 1287*m**3 - 5 + 10*m**2 + 10*m. Hitung kelipatan persekutuan paling rendah dari n(11) dan 4.
+28
+Misalkan g = 991 - 4988/5. Hitung penyebut dari g dan 18/17.
+85
+Misalkan -135 - 30 = -3*j. Misalkan b = j - 50. Misalkan -3*y - 32 = -7*y. Hitung kelipatan persekutuan paling sedikit dari y dan b.
+40
+Misalkan d = -21 + 26. Misalkan b(n) = n**2 + 13*n + 12. Misalkan f = -5 + -8. Berapa paling kecil kelipatan persekutuan dari b(f) dan d?
+60
+Temukan penyebut yang sama dari 3/308*370 + 4/22 dan (24/(-32))/((-66)/(-148)).
+154
+Misalkan a = 8 + 16. Misalkan r = -8 + a. Berapa paling rendah kelipatan persekutuan dari r dan (14/(-5))/(5/(-25))?
+112
+Misalkan i = -31383/896 - -246/7. Hitung penyebut dari 101/144 dan i.
+1152
+Misalkan d = -1297 + 10389/8. Hitung penyebut dari d dan 50/43.
+344
+Temukan penyebut yang sama dari -77/12 dan -5 + 1 - ((-26383)/(-3150) + -12).
+900
+Misalkan d be -3 - 2793/(-2070) - 1. Misalkan g = d - -7/138. Hitung penyebut dari 4/17 dan g.
+85
+Misalkan -7*u = 2*u - 2*u. Misalkan u = -h - 5*p + 14, -3*p - 13 = -5*h + 169. Berapa paling rendah kelipatan persekutuan dari h dan 8?
+136
+Misalkan s = -17 - -31. Misalkan y be 3 + (-2)/s + 1. Misalkan d = -701/42 + y. Temukan penyebut yang sama dari d dan -21/8.
+24
+Misalkan r be ((-3)/(-9))/(2/30). Misalkan y(h) = -h**2 + 6*h + 4. Misalkan p = 9 + -5. Hitung kelipatan persekutuan paling rendah dari p dan y(r).
+36
+Misalkan -24*f = -22*f + 10. Hitung penyebut dari 8 + (f - 0) - (-153)/(-10) dan -17/21.
+210
+Misalkan y be (-430)/(-8)*(-5 + 3). Misalkan j = y - -96. Misalkan w = 106107/22 + -4820. Temukan penyebut yang sama dari w dan j.
+22
+Misalkan v be (-265)/15 + 2/(-6). Misalkan b = v + 18. Misalkan -2*a + a + 5 = b. Berapa paling rendah kelipatan persekutuan dari 4 dan a?
+20
+Misalkan d(g) = 6*g - 124. Berapa paling rendah kelipatan persekutuan dari d(21) dan 18?
+18
+Misalkan b = -272816 + 1624829/6. Misalkan d = b - -2023. Misalkan a = -649/98 - -6/49. Temukan penyebut yang sama dari a dan d.
+6
+Misalkan 0 = 2*z + 3*k - 5, -2*z + 65*k - 3 = 60*k. Misalkan b = -1532 + 679. Misalkan a = 6017/7 + b. Berapa penyebut dari z dan a?
+7
+Misalkan p = 7341919/132 - 55620. Temukan penyebut yang sama dari 133/18 dan p.
+396
+Misalkan m be (-18)/(-8) - 3/12. Hitung penyebut dari (-2470)/(-368) - (16 - 4758/299) dan -21*(19/(-12) + m).
+8
+Misalkan k be (-111808614)/(-25762208) + 1/(-2). Misalkan o = k - 7/26128. Misalkan r = 279/58 - o. Hitung penyebut dari r dan -95/6.
+102
+Misalkan n be (1/(-2)*-4)/((-40)/87540). Temukan penyebut yang sama dari (-2)/11 - n/(-792) dan -49/27.
+216
+Misalkan q(c) = 3*c - 13 + c**3 + 2*c**2 - 2*c + 3*c**2 + 8. Berapa paling rendah kelipatan persekutuan dari q(-3) dan 14?
+70
+Misalkan 2*t + 2*t + 2*j = 172, 4*j = 0. Misalkan g = 55 - t. Berapa paling rendah kelipatan persekutuan dari g dan 22?
+132
+Misalkan u = -34607/5 + 761297/110. Berapa penyebut dari u dan -19/220?
+220
+Misalkan g = -33397878 + 734566571/22. Misalkan u = -8490 - g. Berapa penyebut dari u dan (-3)/3 - 47/16?
+176
+Misalkan v = -22184522574 + 123890020927567777/5584525. Misalkan q = -362758790332/62775645525 + v. Misalkan n = -1/1249 - q. Berapa penyebut dari 0 dan n?
+9
+Misalkan 0 = w + o - 110, -15*w + 3*o - 100 = -16*w. Berapa paling kecil kelipatan persekutuan dari 10 dan w?
+230
+Misalkan h(s) = s**2 - s - 6. Misalkan v be (-6)/(-2) + (-4)/(-4). Berapa paling sedikit kelipatan persekutuan dari h(v) dan 2 + (-9)/3 + 9?
+24
+Misalkan 0 = -s - 4*q + 615 - 118, -16 = 4*q. Hitung kelipatan persekutuan paling sedikit dari s dan 99.
+5643
+Misalkan 2*m - 5*r - 846 = 0, -10*r + 426 = m - 11*r. Hitung kelipatan persekutuan paling kecil dari 12 dan m.
+1284
+Misalkan 0 = j + 3*b - 705, -b - 3*b - 2154 = -3*j. Misalkan -3*a = -6*a + 63. Berapa paling rendah kelipatan persekutuan dari 2/11 - j/(-187) dan a?
+84
+Misalkan p = 530 + -23315/44. Berapa penyebut dari -19/2 dan p?
+44
+Misalkan u be (-15)/(-9) + (-1)/(-3). Hitung kelipatan persekutuan paling sedikit dari 1/(-2*u/(-16)) dan 8.
+8
+Misalkan v = 118365/233 - 508. Misalkan n = 2333/699 - v. Temukan penyebut yang sama dari 47/5 dan n.
+15
+Misalkan n = 77819/16 + -4859. Misalkan 4*s + 0*s + a - 48 = 0, 0 = -3*s - 4*a + 23. Hitung penyebut dari n dan -1 - (-39)/84*(s - 3).
+112
+Misalkan s = 9/4 - 11/4. Misalkan x = -209480/207 + 1012. Misalkan u = x + 9859/414. Berapa penyebut dari u dan s?
+6
+Misalkan t = -270/103 + 1717/2266. Misalkan m = 7922 + -158511/20. Hitung penyebut dari m dan t.
+220
+Misalkan s(a) = a**2 - 28*a + 3. Misalkan l be s(25). Hitung kelipatan persekutuan paling kecil dari 6/4 - l/16 dan 8.
+24
+Misalkan g(h) = 3*h**2 + 31*h + 4. Hitung kelipatan persekutuan paling rendah dari 20 dan g(-11).
+260
+Temukan penyebut yang sama dari -61/15 dan (-142)/18*162/(-216).
+60
+Misalkan c(y) = -y**2 - 23*y + 214. Hitung kelipatan persekutuan paling sedikit dari 90 dan c(-30).
+180
+Misalkan o = -28 + 37. Misalkan 14*g - 13*g - o = 0. Berapa paling kecil kelipatan persekutuan dari 1 dan g?
+9
+Misalkan y be ((-3183178)/71695)/(-12 + 4). Misalkan l = y - -2/14339. Berapa penyebut dari l dan 87/26?
+260
+Misalkan k = -2668 + 31993/12. Misalkan i = -67 + 97. Hitung penyebut dari i dan k.
+12
+Misalkan i = 848 - 648. Berapa paling rendah kelipatan persekutuan dari i dan 50?
+200
+Misalkan 5*f + 4*l = 37, 8*l - 40 = -5*f + 3*l. Misalkan 22 = f*j + 32. Misalkan u(t) = 4 - 5*t. Hitung kelipatan persekutuan paling rendah dari u(j) dan 14.
+14
+Misalkan g = 93/19 - 3799/912. Hitung penyebut dari g dan -38 - -39 - 22/(-4).
+48
+Misalkan i(v) = -v - 3. Misalkan d be i(-11). Misalkan 4*q - d*q - 176 = 0. Hitung penyebut dari (0 + -6)/(80/q) dan 5/22.
+110
+Misalkan 2761 = 2*g - 135. Misalkan g = -5*j + 2*v, j = -5*v - 289 - 6. Temukan penyebut yang sama dari 87/20 dan (j/3)/((-24)/(-3)).
+60
+Misalkan -2*n - 4*m - 28 = 0, 0*n - 3*m = -5*n - 31. Berapa paling sedikit kelipatan persekutuan dari ((-9)/(-2))/((-6)/n) dan 28?
+84
+Misalkan x = 447 - 427. Berapa paling sedikit kelipatan persekutuan dari x dan 40?
+40
+Misalkan n = 3859/6 + -650. Misalkan p be 2*(-6)/4*1. Berapa penyebut dari n dan (-5)/((-10)/p) + 40?
+6
+Misalkan 3*d - 7 = 11. Misalkan 4*k + 5*g + 13 = 0, 5*k - d = 5*g + 34. Berapa paling sedikit kelipatan persekutuan dari k dan 9/(-2)*(-2)/3?
+3
+Misalkan 6*k - k = 345. Misalkan m = -41 + k. Misalkan -l + m = 4*c - 4*l, 0 = -3*c + 4*l + 28. Berapa paling kecil kelipatan persekutuan dari c dan 9?
+36
+Berapa penyebut dari ((-32)/(-12))/(12/66) dan 61/78?
+78
+Misalkan s = 1/4480 + -15263/13440. Temukan penyebut yang sama dari s dan 35/264.
+1056
+Misalkan -v = 2*r - 26, -2*v = -3*r + 30 + 2. Misalkan b = 911 - 910. Berapa paling kecil kelipatan persekutuan dari b dan r?
+12
+Misalkan t(v) = 2 - v. Misalkan m be t(0). Misalkan k = m - -6. Berapa paling kecil kelipatan persekutuan dari (-9 + 7)/((-1)/11) dan k?
+88
+Hitung kelipatan persekutuan paling sedikit dari -18*17/((-102)/4) dan 420.
+420
+Misalkan 5*p + 2 = 3*p. Hitung penyebut dari -15/7 dan 2/(-1)*p - (-268)/(-28).
+7
+Misalkan g = -5 + 11. Misalkan r be ((-10)/(-20))/(629/314 - 2). Misalkan z = r + -151. Hitung kelipatan persekutuan paling sedikit dari g dan z.
+6
+Misalkan k = -14011 + 1218991/87. Berapa penyebut dari k dan -13/21?
+609
+Misalkan y be (-3)/6*8 + -16. Misalkan u = 24 + y. Misalkan -u*v + 3*v = z, 2*z - 10 = 3*v. Hitung kelipatan persekutuan paling sedikit dari z dan 9.
+18
+Misalkan r(d) = -726*d. Misalkan b be r(1). Misalkan j = b - -470. Hitung penyebut dari (j/(-90))/((-78)/(-65)) dan 57/8.
+216
+Misalkan a = 9898/3289 - -56/253. Misalkan 0 = 3*x - 4*l - 128, 3*x + 0*x = 3*l + 123. Berapa penyebut dari x dan a?
+13
+Misalkan c = -786 - -803. Misalkan f(u) = 11*u**2 - 2*u + 1. Berapa paling rendah kelipatan persekutuan dari f(1) dan c?
+170
+Misalkan d = 47667/26708 + 13/1214. Misalkan w = 20299/6 + -3370. Berapa penyebut dari d dan w?
+132
+Misalkan v = 74 - 65. Berapa penyebut dari ((-3915)/(-250))/v + -3 dan 45/4?
+100
+Misalkan h be (-388243)/(-2548)*2 - (1 + -2). Misalkan l = h - 3987/13. Hitung penyebut dari 113/14 dan l.
+98
+Berapa penyebut dari ((-1962)/(-42))/((-2280)/42) - -1 dan 7/5?
+380
+Misalkan a = 79 - 78. Hitung penyebut dari a/(-5) + 628/540 dan -53/9.
+27
+Misalkan w(y) = 8*y**3 + 2*y + 2. Misalkan j be w(-1). Misalkan q be (-7)/5 - 2/(-5). Berapa paling sedikit kelipatan persekutuan dari (j - -9)*(q + 7) dan 14?
+42
+Misalkan z = -67/984 - 155/82. Hitung penyebut dari z dan 11/18.
+72
+Misalkan p(w) = w**3 - 18*w**2 + 31*w. Misalkan l be p(16). Misalkan i(f) = 2*f + 33. Berapa paling sedikit kelipatan persekutuan dari 31 dan i(l)?
+31
+Misalkan p(y) = 22*y - 37. Berapa paling rendah kelipatan persekutuan dari p(4) dan 9?
+153
+Berapa paling rendah kelipatan persekutuan dari 24/8 + 1 - 86*-4 dan 16?
+1392
+Misalkan z be ((-1)/2)/((-4)/(-64)). Misalkan x(f) = -f**3 - 18*f**2 + 2*f + 4. Misalkan n be x(z). Misalkan r = n - -2545/4. Berapa penyebut dari -93/10 dan r?
+20
+Misalkan 2*i = -5*z + 58, -3*z + 50 = 3*i - i. Misalkan f = i - 39. Hitung kelipatan persekutuan paling kecil dari 11 dan 1/(-4) - 205/f.
+110
+Misalkan j(t) = t**3 - 9*t**2 + 8*t - 11. Misalkan g be j(8). Misalkan n = g - -14. Berapa paling rendah kelipatan persekutuan dari 9 dan n?
+9
+Hitung penyebut dari (1064/(-3040))/(12/(-130)) dan -11/96.
+96
+Misalkan 2*l - 5510 = -8*l. Hitung kelipatan persekutuan paling kecil dari l dan 7.
+3857
+Misalkan q(u) = 36*u - 33*u + 6 + 0. Misalkan y(p) = -2*p**3 - 4*p**2 - 2*p - 4. Berapa paling sedikit kelipatan persekutuan dari y(-3) dan q(2)?
+60
+Misalkan 0 = -b + 4*y + 22, -2*y = -2*b + 7*b. Misalkan 0*j = -j + b. Hitung kelipatan persekutuan paling sedikit dari 19 - (-2)/(2/(-1)) dan j.
+18
+Misalkan -2*r = r - 210. Hitung penyebut dari (-441)/r + (-1)/(-2) dan (19/3)/(25/75).
+5
+Misalkan l(z) = 8*z - 10. Misalkan a be l(6). Berapa penyebut dari a/(-16)*8/22 dan -91/22?
+22
+Misalkan m(w) = -w - 12. Misalkan 5*j + 7 = 2*i, 4*i = -0*i + 2*j - 26. Misalkan k be m(i). Hitung penyebut dari -5 dan (k/36)/((-2)/(-9)).
+8
+Misalkan s = 6161 - 6149. Misalkan 4*n - 85 = -0*n + 5*d, -5*d = 25. Hitung kelipatan persekutuan paling kecil dari s dan n.
+60
+Hitung kelipatan persekutuan paling rendah dari (0 + -1 - -2)*6 dan 18.
+18
+Misalkan m = -326 - -206. Temukan penyebut yang sama dari (12/m)/(1/(-17)) dan ((-124)/10)/((-3)/(-5)).
+30
+Misalkan -d - 254 = -3*q - 2*d, q - 3*d = 78. Berapa paling sedikit kelipatan persekutuan dari 18 dan q?
+252
+Misalkan t = -78305807/22 + 3560718. Misalkan w = -1364 + t. Hitung penyebut dari 101/12 dan w.
+132
+Misalkan h = 444 + -3982/9. Temukan penyebut yang sama dari h dan (-128)/20*9/12.
+45
+Misalkan r = -27/5 - -91/15. Temukan penyebut yang sama dari r dan (-119)/(-45)*3/(-2).
+30
+Misalkan -2*k = -5*g + 552, -4*g + 223 = k - 216. Temukan penyebut yang sama dari -83/40 dan ((-3)/(-15) - 192/g) + 0.
+440
+Berapa penyebut dari (-8)/16 - (-1881)/1080 dan 49/150?
+600
+Misalkan -f + 4*y + 1500 = 3*y, y + 4490 = 3*f. Berapa penyebut dari 97/68 dan f/(-483)*(-3)/(-2)?
+476
+Misalkan u = 3973/110 - 179/5. Misalkan m = 1476 + -5977/4. Berapa penyebut dari u dan m?
+44
+Misalkan m = 370 - 4411/12. Berapa penyebut dari m dan 125/42?
+84
+Misalkan d = -373795/42 + 8902. Temukan penyebut yang sama dari d dan 91/48.
+336
+Berapa penyebut dari (-1)/15*-1*-62 dan (-6)/144*-6*1030/15?
+30
+Misalkan m = 1405 - 2137. Misalkan s be (m/9)/(5/15). Misalkan i = s + 2447/10. Hitung penyebut dari 81/14 dan i.
+70
+Misalkan i be (147/(-14))/((-6)/808). Misalkan q = i + -31115/22. Hitung penyebut dari -143/6 dan q.
+66
+Misalkan h(d) = -d**2 - 4*d + 2. Misalkan 2*p = 11 + 31. Misalkan t = 25 - p. Hitung kelipatan persekutuan paling kecil dari t dan h(-4).
+4
+Misalkan 0 = -7*i + 82 + 310. Berapa paling rendah kelipatan persekutuan dari 28 dan i?
+56
+Misalkan 0 = 4*r - 2*n - 25 - 5, 2*n = 2*r - 12. Misalkan 2*i + 4*s - 62 = 0, 2*i + 3*i + 2*s = 115. Hitung kelipatan persekutuan paling sedikit dari i dan r.
+63
+Misalkan n = -18 - -28. Misalkan -4*d + 5*d - 6 = 0. Misalkan f = d - -14. Hitung kelipatan persekutuan paling rendah dari f dan n.
+20
+Misalkan j = -7282/1467 - 24/163. Misalkan x = j - 49/45. Berapa penyebut dari x dan 225/(-12) + 2/4?
+20
+Misalkan z = -934/3 + 69103/222. Berapa penyebut dari z dan 151/6?
+222
+Misalkan -5*u + 2*b + 1052 = 0, -2*u + 0*u + 3*b + 423 = 0. Hitung kelipatan persekutuan paling sedikit dari u dan 3.
+210
+Misalkan g = 46 + -40. Misalkan r be 1 + 489/g*-2. Temukan penyebut yang sama dari 65/9 - 36/r dan 11/7.
+63
+Misalkan q = -18855834/33847 - -6128/11. Misalkan i = q + 163073/12308. Temukan penyebut yang sama dari i dan -107/38.
+76
+Misalkan s = -906 + 978. Berapa paling rendah kelipatan persekutuan dari s dan 99?
+792
+Misalkan x = -129 + 227. Hitung kelipatan persekutuan paling kecil dari 10 dan x.
+490
+Misalkan d be 0 + 2/(-1 + 2). Misalkan 4*o = -3*k + k, 2 = 2*o. Misalkan u = d - k. Hitung kelipatan persekutuan paling rendah dari u dan 6.
+12
+Misalkan d be ((-8)/(-6))/(-1)*(-136689)/184. Misalkan o = 1030 - d. Misalkan j = 3/449 + -27404/2245. Berapa penyebut dari o dan j?
+10
+Misalkan -4*z - 2*w = -112, 2*z - 4*z + 80 = -5*w. Berapa paling rendah kelipatan persekutuan dari 75/7 - 1 - 92/(-322) dan z?
+30
+Misalkan 0 = 4*c + 2*w - 2, 5*w = -3*c - 0*c - 9. Hitung kelipatan persekutuan paling kecil dari (-14)/(-3 + (-1)/(-1)) dan ((-30)/9)/(c/(-6)).
+70
+Misalkan 6*a + 70 = a. Misalkan t = a - -12. Hitung kelipatan persekutuan paling kecil dari 1 dan 0 + (14 - (1 - t)).
+11
+Misalkan y = 4735 - 4733. Berapa paling kecil kelipatan persekutuan dari -1*1 + 48/2 dan y?
+46
+Misalkan a = 6090 + -85193/14. Berapa penyebut dari 4/(-14) - (-607)/(-56) dan a?
+56
+Misalkan n = -120/157 + 8773/1413. Misalkan 2*k - 240 = -3*k. Temukan penyebut yang sama dari k/12 - 10/(-6) dan n.
+9
+Misalkan 15*l + 7*l = 836. Berapa paling sedikit kelipatan persekutuan dari l dan 10?
+190
+Misalkan k = 287 + -2287/8. Hitung penyebut dari k dan ((-4)/6)/(120/657).
+40
+Misalkan c = -2150 - -2172. Hitung kelipatan persekutuan paling kecil dari c dan 166.
+1826
+Misalkan v(k) = k**2 - 3 - 3*k - 11*k + 19*k. Berapa paling kecil kelipatan persekutuan dari 9 dan v(-6)?
+9
+Misalkan t(j) = -j**3 - 3*j**2 + 2. Misalkan v be t(-2). Misalkan w be (-730)/415 + v*1. Misalkan y = w + 8143/996. Temukan penyebut yang sama dari y dan 23/3.
+12
+Misalkan u = -6260/3 - -37673/18. Misalkan v be 32083/(-7) - 10/(-35). Misalkan x = v - -128425/28. Berapa penyebut dari x dan u?
+252
+Misalkan 749*l + 200 = 754*l. Berapa paling sedikit kelipatan persekutuan dari l dan 16?
+80
+Misalkan -3*j + 7*j - 576 = 0. Berapa penyebut dari 7/30 dan (3 + (-700)/j)*(-6)/2?
+60
+Misalkan t = 12055/4 + -60041/20. Misalkan -2*a + 4*s - 12 = 0, 3*a + 6 = 5*s - 10. Berapa penyebut dari t dan (-4097)/714 + a/6?
+70
+Misalkan l = 1837/1725 + 1/575. Hitung penyebut dari l dan 13/60.
+60
+Misalkan 12*l - 15*l = -24. Berapa paling kecil kelipatan persekutuan dari l dan 145?
+1160
+Misalkan y - 36 = s - 140, 3*s = 5*y + 314. Misalkan 0 = l - 303 + s. Hitung penyebut dari ((-3)/8)/((-2)/l) dan 83/8.
+8
+Misalkan q(d) = 3*d**2 - 3*d - 9. Misalkan v be q(4). Misalkan x = -17 + v. Hitung kelipatan persekutuan paling sedikit dari x dan 9.
+90
+Berapa paling sedikit kelipatan persekutuan dari 48/(-32)*40/(-6) dan 25?
+50
+Misalkan f = -992/15 - -323/5. Hitung penyebut dari (-8)/(-162)*1*15 dan f.
+135
+Misalkan n = 41 + -23. Misalkan j = 37/2 - n. Temukan penyebut yang sama dari 44/7 dan j.
+14
+Misalkan m = -20 + 69. Misalkan p = -3 + 5. Hitung kelipatan persekutuan paling kecil dari p dan (-40)/(-14)*m/14.
+10
+Berapa penyebut dari -31/14 dan 10/2 - (-1395)/(-600)?
+280
+Misalkan q = 246 - 168. Misalkan -6 = -3*l + q. Hitung kelipatan persekutuan paling rendah dari 6 dan l.
+84
+Berapa penyebut dari 35/64 dan 19/9 - (-267)/(-712)?
+576
+Temukan penyebut yang sama dari -25/77 dan ((-2)/16)/(1148/(-4838)).
+1232
+Misalkan r = -103 - -106. Misalkan 0 = -3*m - 5*a + 122, -m - 3*a + 170 = r*m. Berapa paling kecil kelipatan persekutuan dari 20 dan m?
+220
+Misalkan l = -30776/21 + 1466. Hitung penyebut dari l dan 2 - 51/180*-14.
+210
+Misalkan s = -157003/60 + 7841/3. Misalkan i = -1/4405 - 50213/17620. Berapa penyebut dari s dan i?
+20
+Misalkan v = 11 - 11. Misalkan w(f) = -f**2 - f + 3. Berapa paling kecil kelipatan persekutuan dari w(v) dan ((-2)/(-6))/((-2)/(-6))?
+3
+Misalkan k(q) = -64*q - 322. Berapa paling sedikit kelipatan persekutuan dari 12 dan k(-8)?
+1140
+Misalkan a = 396603/2470 + -2088/13. Hitung penyebut dari 58/55 dan a.
+2090
+Misalkan b = -74167/9804 + -15/817. Temukan penyebut yang sama dari b dan -49/132.
+132
+Misalkan a = -75 - 36. Misalkan r = a + 185. Misalkan -6*h + r = 8. Berapa paling kecil kelipatan persekutuan dari 5 dan h?
+55
+Misalkan 4*h = -3*v + 64, 2*h + 58 = 3*v - 0*h. Misalkan z = v - 14. Berapa paling rendah kelipatan persekutuan dari 12 dan z?
+12
+Misalkan g = 96 + -51. Misalkan 3*o - 3*b + 0*b = g, -55 = -2*o - 3*b. Misalkan 0 - 4 = -v. Hitung kelipatan persekutuan paling sedikit dari v dan o.
+20
+Misalkan c = 2450 + -14743/6. Berapa penyebut dari -1*4/(-30)*364/8 dan c?
+30
+Misalkan o(k) = 2*k**2 - 37*k + 63. Berapa paling kecil kelipatan persekutuan dari 14 dan o(17)?
+84
+Misalkan 4 + 4 = 4*p + s, -2*p - 4*s = -4. Misalkan 0 = -11*j + 4*j + 70. Berapa paling kecil kelipatan persekutuan dari p dan j?
+10
+Misalkan f be 4/10*(7 - -3) - 784. Berapa penyebut dari (-4 + 2)*(-2249)/f dan -103/30?
+30
+Misalkan m(d) = d**2 - 16*d - 12. Misalkan b be m(17). Hitung kelipatan persekutuan paling kecil dari 6 dan 16/(-20)*b/(-2).
+6
+Misalkan m = -17410 + 957584/55. Hitung penyebut dari 27/55 dan m.
+55
+Berapa penyebut dari ((-1498)/(-308))/((-4)/(-4)) dan (-282)/(-32)*2/6?
+176
+Misalkan v = -3385/6 + 578. Hitung penyebut dari v dan 101/78.
+78
+Misalkan k + 4*p - 19 = 0, k - 4*p = -2*p + 1. Hitung kelipatan persekutuan paling sedikit dari k dan 11.
+77
+Misalkan s(t) = -t**3 + 8*t**2 - 6*t + 3. Hitung kelipatan persekutuan paling kecil dari 330 dan s(7).
+330
+Misalkan t = -331499/804 - -2472/67. Misalkan i = -370 - t. Berapa penyebut dari -16/3 dan i?
+12
+Misalkan -f = -l - 4*l + 17, 6 = -3*f. Misalkan -7*a - b + 24 = -l*a, -b = -a + 11. Hitung kelipatan persekutuan paling sedikit dari 9 dan a.
+63
+Hitung kelipatan persekutuan paling rendah dari 42/18*((-864)/(-4))/3 dan 189.
+1512
+Misalkan 20*a + 4*j + 431 = 23*a, 5*j = 5. Berapa paling kecil kelipatan persekutuan dari 25 dan a?
+725
+Berapa penyebut dari 163/42 dan (-75)/25 + (-131)/(-18)?
+126
+Berapa paling rendah kelipatan persekutuan dari (-67)/(-4) + 40/96*3 dan 198?
+198
+Misalkan m be (2 - (-36)/(-1995)) + -2. Misalkan d = -46149/14630 - m. Berapa penyebut dari d dan 2/(24/(-387))*1/(-3)?
+44
+Misalkan q = 28 - 33. Misalkan 0 = 4*x + x - 5. Misalkan a = x - q. Berapa paling kecil kelipatan persekutuan dari 6 dan a?
+6
+Misalkan d be 3176573/180 + 6/27. Misalkan y = -17653 + d. Temukan penyebut yang sama dari y dan 41/8.
+40
+Misalkan j = 5174501459/36 + -143795391. Misalkan l = j + 59243. Temukan penyebut yang sama dari l dan 29/5.
+180
+Hitung penyebut dari (-3)/(-6) + 0 + 32/(-21) dan 40/147.
+294
+Misalkan 0 = 4*y - n - 28, -5*n + 6 - 2 = -2*y. Misalkan -r - 4*b = -y + 2, -72 = -5*r + b. Berapa paling sedikit kelipatan persekutuan dari 4 dan r?
+28
+Misalkan v = 2056651/170 - 12098. Berapa penyebut dari v dan -33/34?
+170
+Misalkan a = -386 + 406. Berapa paling rendah kelipatan persekutuan dari a dan 80?
+80
+Misalkan c = 32 - 19. Temukan penyebut yang sama dari 59/7 dan (c/156)/(4/(-27)).
+112
+Misalkan 5*v - 2*v + 25 = -2*b, v - 5*b - 20 = 0. Misalkan y = -1 - v. Misalkan h(u) = 11 - u. Berapa paling sedikit kelipatan persekutuan dari h(5) dan y?
+12
+Misalkan p = 22004969/34 + -647559. Misalkan m = -713/2 - p. Temukan penyebut yang sama dari m dan -123/10.
+170
+Misalkan b be 6/(-1)*3/(-9). Berapa paling sedikit kelipatan persekutuan dari (2 + 42)*1/b dan 4?
+44
+Misalkan u be 5/(-35) + 2/14. Misalkan 5*x = m + 51, -x - 2*m + 3 + 5 = u. Berapa paling kecil kelipatan persekutuan dari 12 dan x?
+60
+Misalkan h = -1844 - -27652/15. Berapa penyebut dari h dan (10/8)/(66/(-8))?
+165
+Misalkan -40*p - 20*p = -240. Hitung kelipatan persekutuan paling sedikit dari 56 dan p.
+56
+Misalkan b be (-34846)/312*(-81851)/(-621065). Misalkan d = b - -2/372639. Misalkan p = 140/13 + d. Berapa penyebut dari -113/10 dan p?
+20
+Misalkan -11*x = -9*x - 248. Misalkan a be x/(-264) + (-3)/18. Misalkan r = a + 76/33. Berapa penyebut dari 5/6 dan r?
+6
+Misalkan f = 170 + -162. Berapa paling kecil kelipatan persekutuan dari 14 dan f?
+56
+Misalkan j = -2/56737 + 9248251/3404220. Berapa penyebut dari -99/20 dan j?
+60
+Misalkan c = 2002438/65 + -30806. Berapa penyebut dari c dan -8/55?
+715
+Misalkan y be -2 - -3 - (-5918)/6. Misalkan d = y + -23861/24. Berapa penyebut dari -3*(-85)/(-90) - (2 + 0) dan d?
+24
+Misalkan m = 7020 - 7010. Misalkan p = 2 + 2. Berapa paling rendah kelipatan persekutuan dari p dan m?
+20
+Misalkan r = 83 - -31. Berapa paling rendah kelipatan persekutuan dari r dan 7?
+798
+Misalkan v(s) = -s**2 + s + 12. Hitung kelipatan persekutuan paling kecil dari v(0) dan (5*1/(-25) - (-3)/(-10))*-14.
+84
+Misalkan h + 2*x = -0*x + 15, 5*x = 3*h - 1. Hitung kelipatan persekutuan paling sedikit dari 2/9 + (-1672)/(-171) dan h.
+70
+Misalkan u = -528541/344433 + 1/23754. Berapa penyebut dari u dan 125/6?
+174
+Misalkan 4*t = 60 - 0. Misalkan i = t - -6. Misalkan 4*y + 32 - 6 = 2*n, 3*y + i = 2*n. Berapa paling kecil kelipatan persekutuan dari 3 dan n?
+3
+Temukan penyebut yang sama dari (-4)/(-3) + 1687/(-84) dan 67/460.
+460
+Misalkan 0 = -u + 2*f + 99, 3*u + 5*f = -6 + 358. Misalkan g = 33393/143 + -4422/13. Misalkan z = u + g. Berapa penyebut dari z dan -19/6?
+66
+Misalkan p = 1376 - 10979/8. Temukan penyebut yang sama dari p dan 1*9/((-450)/260) + 4/10.
+40
+Misalkan x = 5 - -3. Misalkan c(h) = -5*h**2 + 3*h**2 + 4 - 4*h + h**2 - 5*h. Berapa paling rendah kelipatan persekutuan dari x dan c(-9)?
+8
+Misalkan k(p) = 30*p**3 - p**2 + 2*p. Misalkan a be k(1). Misalkan w + a = 21. Berapa paling rendah kelipatan persekutuan dari w/(-3)*(-276)/(-115) dan 8?
+8
+Misalkan c = 15189/4400 + 1/400. Hitung penyebut dari c dan (-108)/(-21)*(-3 + (-11)/(-4)).
+77
+Misalkan o = 335 + 42. Hitung kelipatan persekutuan paling kecil dari o dan 117.
+3393
+Misalkan 5*k - 222 = -27. Hitung kelipatan persekutuan paling sedikit dari k dan 6 - -2*(-45)/(-6).
+273
+Misalkan s be -12*((-28)/12)/7. Berapa penyebut dari ((-1)/(-3))/((-39)/198) dan 2 - 228/(-16) - s/1?
+52
+Misalkan g(x) = -x**2 + 6*x + 3. Misalkan n + 0*n = 4*w - 195, 2*w = -5*n + 125. Hitung kelipatan persekutuan paling sedikit dari w dan g(5).
+200
+Misalkan -k = -5*h - 43, 4*h - 48 = -k + 4. Hitung kelipatan persekutuan paling kecil dari 16 dan k.
+48
+Misalkan h(b) = 6*b + 37. Misalkan r be h(-6). Hitung penyebut dari r/(32/(-92) - 0) dan 83/6 - 0/(-2).
+24
+Misalkan j = 37/81 - 4097/162. Misalkan q = 9622/55 - 1709/10. Hitung penyebut dari q dan j.
+66
+Misalkan i = -1189/2 + 628. Misalkan q = 15239963/364 + -41868. Misalkan c = q + -3985/1092. Temukan penyebut yang sama dari i dan c.
+42
+Misalkan j(w) = 3*w + 23. Misalkan b be j(-5). Misalkan -4*l = -b, 2*l + 2*l = 2*r - 14. Berapa paling sedikit kelipatan persekutuan dari 2 dan r?
+22
+Misalkan w be (-3 - -1)*1746/39. Misalkan g = w - -20731/234. Hitung penyebut dari 7/10 dan g.
+90
+Misalkan x = -1072484/169 - -6346. Misalkan z = 4871/507 - x. Berapa penyebut dari z dan -14/13?
+39
+Misalkan w = -2915361/70 - -41650. Temukan penyebut yang sama dari -34 dan w.
+70
+Hitung kelipatan persekutuan paling kecil dari 88*(190/80)/19 dan 512.
+5632
+Misalkan n = 29 + -230/7. Misalkan g = -571 + 1697/3. Temukan penyebut yang sama dari g dan n.
+21
+Misalkan o = 46 + -28. Misalkan p be 142/(-12) + 6/o. Misalkan k = p - -92/9. Temukan penyebut yang sama dari -107/12 dan k.
+36
+Misalkan i be 2 + -3 + 1 + -1. Misalkan q be 4/4*(i + 2). Misalkan q = 2*j - 1. Hitung kelipatan persekutuan paling sedikit dari 4 dan j.
+4
+Misalkan -2*c - 4*q + 13 = -3*c, 0 = 5*c - 4*q + 97. Berapa penyebut dari 4/14*(-213)/12 dan c/(-14)*(-59)/(-18)?
+84
+Misalkan i = 19598374731163/14280 - 1372435206. Misalkan w = -3/952 - i. Berapa penyebut dari w dan 46/51?
+255
+Misalkan p be (-3653)/(-78)*(-123)/8. Misalkan w = 721 + p. Temukan penyebut yang sama dari w dan (2/(-6))/((-8)/69).
+16
+Misalkan r = -110 - -24. Temukan penyebut yang sama dari (-26)/((-6)/(-15)*-8) dan 3/(108/r) - 3.
+72
+Misalkan -2*j = 4*g - 7*j - 6, 0 = 2*g + j + 4. Berapa penyebut dari 177/18 + g - -3 dan 59/16?
+48
+Misalkan r = -27421/126 + 1495/7. Misalkan s = 213999/13 + -16489. Misalkan c = s - -8149/286. Temukan penyebut yang sama dari r dan c.
+198
+Misalkan m (o) menjadi turunan ke-ketiga dari o**5/60 - o**4/6 + o**3/3 - 7*o**2. Hitung kelipatan persekutuan paling rendah dari 7 dan m(5).
+7
+Hitung kelipatan persekutuan paling kecil dari (3 + -5)/((-11)/((-2244)/(-8))) dan 30.
+510
+Misalkan t = -55231/12 + 4600. Berapa penyebut dari t dan 55/98?
+588
+Temukan penyebut yang sama dari -5/12 dan 3*(-3)/((-99)/15).
+132
+Temukan penyebut yang sama dari (-2)/(-6)*284/(-12) dan 9/2*(132/(-16) + 8).
+72
+Misalkan 0 = 2*o + 7*o - 126. Hitung kelipatan persekutuan paling rendah dari o dan 4.
+28
+Misalkan 28 = -6*l + 76. Berapa penyebut dari (((-62)/(-4))/(l/24))/(-4) dan 83/4?
+8
+Misalkan q = 19 - 9. Misalkan 0 = z + 132 - 139. Berapa paling sedikit kelipatan persekutuan dari q dan z?
+70
+Misalkan h = -2/10651 - -1033167/106510. Hitung penyebut dari h dan (47/8)/(42/8).
+210
+Temukan penyebut yang sama dari 235/(-150) - (3 + -6 + 3) dan (-6)/15 + 703/(-30).
+30
+Misalkan n = -1393 - -1685. Hitung kelipatan persekutuan paling sedikit dari n dan 8.
+584
+Misalkan q = -10/277 - -20261/1108. Hitung penyebut dari 15/2 dan q.
+4
+Misalkan x be 6/(4/(-7) + 1). Misalkan 15 = 2*s + 5*t - 1, -4*s = t - x. Hitung kelipatan persekutuan paling kecil dari s dan 6.
+6
+Hitung penyebut dari 605/(-150) + 9 + -4 dan 7/(42/(-4))*68/12.
+90
+Misalkan l - 358 = -5*n, -275 = -4*n + 4*l + 21. Hitung kelipatan persekutuan paling rendah dari n dan 90.
+360
+Hitung kelipatan persekutuan paling kecil dari -20*((-11)/2)/11 dan (-2)/6*36/(-2).
+30
+Misalkan k be 3020/(-3795) + (-2)/(-6). Misalkan h = k + 65/23. Hitung penyebut dari (-5)/1 + 6313/118 dan h.
+22
+Misalkan h = -6443/879 + -1/293. Temukan penyebut yang sama dari h dan 30/(-4)*(-18)/(-80).
+48
+Temukan penyebut yang sama dari 16/105 dan (-4)/((2310/(-48))/(-5)).
+1155
+Misalkan k = 8 - -4. Misalkan f be -4*4/k*-3. Hitung kelipatan persekutuan paling rendah dari 8 dan ((-22)/3)/(f/(-6)).
+88
+Misalkan v(n) = 7*n - 34. Misalkan 0 = y, -35 = -6*i + i - 5*y. Hitung kelipatan persekutuan paling rendah dari v(5) dan i.
+7
+Temukan penyebut yang sama dari 29/40 dan ((1782/(-32))/(-9))/4.
+320
+Berapa paling rendah kelipatan persekutuan dari ((-6)/9)/(3/(-18)) dan (1/(-3))/1*-21?
+28
+Misalkan p(q) = -17*q**3 + 2*q**2 - 15*q - 16. Berapa paling rendah kelipatan persekutuan dari p(-1) dan 18?
+18
+Hitung penyebut dari (306/240)/((-3)/2) + 0 dan 103/12.
+60
+Misalkan a be -4 + (-3)/(-15)*-572. Misalkan p = a + 14063/120. Hitung penyebut dari p dan -45/2.
+24
+Misalkan -203 = -11*p + 6. Hitung kelipatan persekutuan paling sedikit dari p dan 6.
+114
+Misalkan f = -1679 + 1693. Berapa paling kecil kelipatan persekutuan dari f dan 86?
+602
+Misalkan k = -2564651/378 - -47510/7. Hitung penyebut dari k dan (-463)/126 - 36/(-126).
+54
+Misalkan l(z) = -z**3 - 4*z**2 + z + 6. Misalkan r be l(-4). Berapa paling sedikit kelipatan persekutuan dari 15/9 + r/(-3) dan (-6)/(-4)*(161/21 - 5)?
+4
+Misalkan 64*w - 60*w = -g + 53, 4*g - 157 = -5*w. Hitung kelipatan persekutuan paling kecil dari 9 dan g.
+99
+Berapa paling rendah kelipatan persekutuan dari 14 dan (-130)/(-110) + (-8)/44?
+14
+Misalkan 3*m - 6*m + 5 = 2*b, 2*b = 5*m + 13. Berapa paling sedikit kelipatan persekutuan dari 2 dan b?
+4
+Berapa paling kecil kelipatan persekutuan dari 12 dan (0 + -1)/(((-77)/(-28))/(-11))?
+12
+Misalkan -k - 16 = -41. Berapa paling rendah kelipatan persekutuan dari (-25)/(-5)*(20 - 11) dan k?
+225
+Misalkan y = 9877/10 + -164353/165. Misalkan w = 171/11 + y. Temukan penyebut yang sama dari -107/20 dan w.
+60
+Misalkan t(h) = -h**2 - 2*h + 5. Misalkan o be t(3). Misalkan x(q) = 9 - q. Berapa paling kecil kelipatan persekutuan dari x(o) dan 8?
+152
+Misalkan j (s) menjadi turunan ke-pertama dari s**4/4 + s**3/3 - s**2/2 + 3*s + 4. Misalkan b be j(0). Berapa penyebut dari 116/b*(-18)/(-112) dan -61/16?
+112
+Misalkan y be ((-162)/15)/(2/10). Hitung kelipatan persekutuan paling rendah dari 90 dan (y/(-24))/(6/64).
+360
+Misalkan o(t) = -t**2 - 50*t - 181. Hitung kelipatan persekutuan paling sedikit dari o(-4) dan 506.
+1518
+Misalkan 17 - 22 = -5*q, 0 = -2*y - 4*q - 2408. Misalkan z = y + 2505/2. Temukan penyebut yang sama dari z dan -13/20.
+20
+Misalkan y = 714 + -672. Hitung kelipatan persekutuan paling sedikit dari 84 dan y.
+84
+Misalkan -p + 6*p = 180. Misalkan j = -18 + p. Hitung kelipatan persekutuan paling kecil dari j dan 3 + (-77)/((-44)/4).
+90
+Misalkan -2*t = -2*j + 28, -3*j + 9*t + 48 = 4*t. Misalkan j*g = 2*g + 297. Berapa paling kecil kelipatan persekutuan dari 30 dan g?
+330
+Misalkan s = -43/2 - -27/4. Temukan penyebut yang sama dari -31/2 dan s.
+4
+Misalkan n(w) = w**2 - w - 4. Misalkan y be n(0). Misalkan u be y*(-3)/12*2. Berapa penyebut dari 93/2 dan u/10 + (-3601)/(-2145)?
+66
+Misalkan y(r) = 2*r**2 + 10*r - 156. Hitung kelipatan persekutuan paling sedikit dari 22 dan y(-21).
+5676
+Misalkan u = 70073 - 681943/10. Misalkan x = u + -1883. Berapa penyebut dari -71/24 dan x?
+120
+Misalkan 0*g - 10 = -2*x - 2*g, 4*x - 2 = 2*g. Berapa paling kecil kelipatan persekutuan dari x dan 7?
+14
+Hitung kelipatan persekutuan paling sedikit dari 54 dan (-108)/(-21)*(-840)/(-80).
+54
+Misalkan -4*s + 5*s + 2 = 0. Hitung penyebut dari (s/(-8))/(((-63)/150)/7) dan -31/14.
+42
+Misalkan u(k) = k**2 + 19*k - 63. Hitung kelipatan persekutuan paling kecil dari 2/7 - 150/(-14) dan u(3).
+33
+Misalkan y be 4 + -68 + (-3)/3. Hitung penyebut dari -29/18 dan (-1)/18*-1*y.
+18
+Misalkan -c + 56 = 46. Misalkan c = 2*h - 5*t, -h - 2*h + t + 28 = 0. Hitung kelipatan persekutuan paling kecil dari 10 dan h.
+10
+Misalkan 30 - 750 = 2*j. Misalkan s = -5739/16 - j. Hitung penyebut dari s dan 11/96.
+96
+Berapa paling rendah kelipatan persekutuan dari ((10/(-4))/5*-2)/((-6)/(-24)) dan (-1)/(-2)*1*34?
+68
+Misalkan 2*p - 35 = -x, 4*x = 2*p - 3 - 57. Berapa paling sedikit kelipatan persekutuan dari p dan 214?
+2140
+Berapa penyebut dari (596/(-48) - -3) + -1 dan 127/150?
+300
+Misalkan -375*b - 40 = -385*b. Misalkan 5*d + 11 = -c - 3, -c = -5*d - 26. Hitung kelipatan persekutuan paling kecil dari c dan b.
+12
+Hitung penyebut dari -61/10 dan 6/(-66)*259/(-14).
+110
+Misalkan o(b) = 2*b**2 - 4*b + 6. Misalkan s be o(3). Misalkan i = s - 23. Hitung penyebut dari 385/6*i/(-55) dan 3/2.
+6
+Misalkan i(h) = 11*h**3 - 2*h**2 - 2*h + 4. Misalkan x be i(-3). Misalkan j = x + -3557. Misalkan s = -38653/10 - j. Hitung penyebut dari s dan 59/12.
+60
+Hitung penyebut dari 1*(-5 + 1) - 82/(-80) dan -103/20.
+40
+Misalkan f = -240105 + 116691095/486. Berapa penyebut dari f dan -61/2?
+486
+Misalkan -8*z = -4*z - 80. Misalkan b = 17 - 9. Berapa paling rendah kelipatan persekutuan dari z dan b?
+40
+Misalkan q = 23 + -8. Misalkan -3*t - q = 2*t. Temukan penyebut yang sama dari -71/3 dan -3 - -2 - (-5)/t.
+3
+Misalkan -4*n + 9*n = c + 97, 2*c + 34 = 2*n. Misalkan x be (-86)/(-4)*(0 + -2). Misalkan g = -23 - x. Berapa paling sedikit kelipatan persekutuan dari n dan g?
+20
+Misalkan 0*x + 2*o = 5*x - 26, -32 = -5*x - o. Misalkan -5*m - r + 73 + 145 = 0, 3*r = 3*m - 138. Hitung kelipatan persekutuan paling kecil dari m dan x.
+132
+Berapa paling rendah kelipatan persekutuan dari (-8 - -2)/(-7 + 1) dan 4?
+4
+Misalkan x be 3 + -1 + (-354)/3. Temukan penyebut yang sama dari (x/(-3))/(1 - 7) dan (-66)/(-21) + -3 - (-1794)/(-210).
+45
+Misalkan m = 5598 - -23675. Misalkan p = 2605264/89 - m. Hitung penyebut dari p dan -51/8.
+712
+Misalkan -4*y + 12 = 0, -10 = -j - y + 8. Misalkan 0 = 143*k - 123*k - 300. Hitung kelipatan persekutuan paling rendah dari k dan j.
+15
+Misalkan -6 = 13*d - 11*d. Misalkan -l = j - 1 - 0, 8 = 5*l + 4*j. Hitung kelipatan persekutuan paling kecil dari -1 - ((-1)/d)/((-11)/165) dan l.
+4
+Misalkan 0*c = -c - 4*u - 43, -5*u + 34 = -2*c. Misalkan n = 57 + c. Berapa paling kecil kelipatan persekutuan dari n dan 14?
+210
+Misalkan j(a) = -a**3 + 8*a**2 + a - 6. Hitung kelipatan persekutuan paling rendah dari 7992/168 - (-16)/(-28) dan j(8).
+94
+Misalkan b(u) = -8*u**2 + 80*u + 20. Berapa paling kecil kelipatan persekutuan dari 50 dan b(10)?
+100
+Misalkan -11*h + 237 = 61. Hitung kelipatan persekutuan paling kecil dari h dan 658.
+5264
+Misalkan d be 63/(-12) - 2/(-8). Temukan penyebut yang sama dari (-137)/42 - ((-124)/28 - d) dan -15/4.
+12
+Misalkan 4 = 4*r, 3*r = -3*c - 2*r + 23. Berapa paling sedikit kelipatan persekutuan dari c dan ((66/(-15))/1)/((-4)/10)?
+66
+Misalkan -18*p + 203 = 59. Hitung kelipatan persekutuan paling sedikit dari 8 dan p.
+8
+Misalkan m = -1076/3 - -14857/42. Misalkan x(c) = -c**3 - c**2 + c + 1. Misalkan t be x(0). Berapa penyebut dari (t/(-16))/(3/(-201)) dan m?
+112
+Misalkan v = -11/19 - 805/152. Hitung penyebut dari v dan 91/2052.
+4104
+Misalkan n be (-4)/14 + ((-613904)/(-26250))/(-8). Misalkan s = -36/625 + n. Hitung penyebut dari s dan -35/27.
+135
+Misalkan -18*f = -f - 357. Misalkan x(q) = 5*q + 3. Berapa paling sedikit kelipatan persekutuan dari x(3) dan f?
+126
+Misalkan g = -211/21 + 68/7. Hitung penyebut dari 21 dan g.
+3
+Misalkan b = -740/9 + 778/9. Hitung penyebut dari b dan 65/9.
+9
+Misalkan f be (136/(-10))/((-96)/45 - -2). Misalkan -a + f = 2*a. Berapa paling sedikit kelipatan persekutuan dari (-7)/(-4) + 1/4 dan a?
+34
+Misalkan a = 149 - -163. Hitung kelipatan persekutuan paling sedikit dari 4 dan a.
+312
+Misalkan p = -5809/2090 - -7/1045. Temukan penyebut yang sama dari -41/162 dan p.
+1782
+Misalkan -74*g - 237 = -75*g - 5*w, 4*g - 3*w - 925 = 0. Hitung kelipatan persekutuan paling rendah dari 290 dan g.
+1160
+Misalkan -140 + 18 = -2*x. Misalkan g = x + -29. Misalkan -h - 3*h = -g. Berapa paling kecil kelipatan persekutuan dari h dan 2?
+8
+Misalkan 69 = 5*y - 4*b - 20, -5*b + 125 = 5*y. Misalkan -y*f = -18*f - 66. Misalkan l = 7 + 5. Berapa paling kecil kelipatan persekutuan dari l dan f?
+132
+Misalkan 2*j - 321 = -j. Misalkan 5*b - j + 17 = 0. Hitung kelipatan persekutuan paling kecil dari b dan 2.
+18
+Misalkan r = 237617/50 - 4753. Berapa penyebut dari -31/15 dan r?
+150
+Misalkan b = -104 - -41. Misalkan f = b + 36. Berapa penyebut dari 50/11 dan 2 - ((-264)/f - 2)?
+99
+Hitung penyebut dari -5 - ((-8155)/504)/5 dan -41/14.
+504
+Hitung penyebut dari -77/30 dan (171/21)/((-18)/63).
+30
+Misalkan d = 26 - 26. Misalkan 27*x - 24*x - 11739 = d. Misalkan i = 15747/4 - x. Temukan penyebut yang sama dari i dan -2/7.
+28
+Hitung penyebut dari ((-4235)/(-1452))/((2 - 1)/3) dan (1 - 50)*(-2)/20.
+20
+Misalkan 894 = -7*w + 4*w. Temukan penyebut yang sama dari 11/3 dan w/(-84) - 11/(-22).
+21
+Misalkan k = -2135980 - -12862483/6. Misalkan c = 7784 - k. Hitung penyebut dari 55/2 dan c.
+6
+Misalkan 2 = -3*i + 49*g - 47*g, -2*g - 2 = -5*i. Misalkan 0 = 5*z - 40 + 5. Berapa paling kecil kelipatan persekutuan dari z dan i?
+14
+Misalkan -8*p = -5*h - 48, h = -3*p + 2*h + 18. Misalkan g = -1 + 15. Berapa paling rendah kelipatan persekutuan dari g dan p?
+42
+Misalkan 4*p - 5*d = 42, 0 = -2*p - 3*p + 4*d + 48. Hitung kelipatan persekutuan paling sedikit dari p dan 16.
+16
+Misalkan 8*p - 2336 - 2128 = 0. Berapa penyebut dari 99/122 dan (-6)/(-32)*p/(-54)?
+976
+Misalkan 5*l - 77760 = -0*l. Misalkan b = 186727/12 - l. Misalkan w = 7177 + -157835/22. Temukan penyebut yang sama dari w dan b.
+132
+Misalkan -174*d + 179*d - 250 = 0. Berapa paling kecil kelipatan persekutuan dari d dan 35?
+350
+Hitung penyebut dari 37/11 dan ((-488)/(-12))/(-2) + 6.
+33

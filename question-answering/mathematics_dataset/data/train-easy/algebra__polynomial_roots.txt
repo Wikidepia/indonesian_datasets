@@ -1,0 +1,666 @@
+Temukan w sehingga -2*w**3/11 + 2*w**2 - 80*w/11 + 96/11 = 0.
+3, 4
+Faktor dari 44*l**2/19 - 222*l/19 + 10/19.
+2*(l - 5)*(22*l - 1)/19
+Selesaikan 3*z**2 - 147*z + 144 = 0 untuk z.
+1, 48
+Misalkan -2*j**5/3 - 38*j**4/3 + 14*j**3 + 38*j**2/3 - 40*j/3 = 0. Hitung j.
+-20, -1, 0, 1
+Faktor dari 5*d**4 - 10210*d**3 + 5212205*d**2.
+5*d**2*(d - 1021)**2
+Faktor dari k**4/3 - 17*k**3/3 + 38*k**2/3 + 56*k/3.
+k*(k - 14)*(k - 4)*(k + 1)/3
+Misalkan -3*d**5 + 48*d**4 - 84*d**3 - 6*d**2 + 87*d - 42 = 0. Hitung d.
+-1, 1, 14
+Faktor dari 4*n**2 + 28088*n + 49308484.
+4*(n + 3511)**2
+Faktor dari 1169*q**2/5 + 1167*q/5 - 2/5.
+(q + 1)*(1169*q - 2)/5
+Faktor dari 3*q**3 + 15*q**2 + 12*q.
+3*q*(q + 1)*(q + 4)
+Temukan k sehingga k**2/9 - 4*k/3 - 13/9 = 0.
+-1, 13
+Misalkan w**3/2 - 23*w**2 + 89*w/2 - 22 = 0. Berapakah w?
+1, 44
+Faktor dari -4*n**3/3 + 2348*n**2/3.
+-4*n**2*(n - 587)/3
+Temukan d sehingga -4*d**5/5 - 24*d**4/5 - 56*d**3/5 - 64*d**2/5 - 36*d/5 - 8/5 = 0.
+-2, -1
+Temukan b, mengingat -10*b**4 + 45*b**3 + 25*b**2 = 0.
+-1/2, 0, 5
+Tentukan x sehingga -141*x**3 - 6*x**2 + 141*x + 6 = 0.
+-1, -2/47, 1
+Berapakah l dalam 4*l**3 - 40*l**2 = 0?
+0, 10
+Misalkan -n**2/3 - 16*n - 47/3 = 0. Hitung n.
+-47, -1
+Berapakah h dalam h**2/6 + 11*h/3 + 19/2 = 0?
+-19, -3
+Temukan n sehingga 5*n**5 - 55*n**4 + 215*n**3 - 365*n**2 + 280*n - 80 = 0.
+1, 4
+Faktor dari 2*f**3 - 46*f**2 + 286*f - 242.
+2*(f - 11)**2*(f - 1)
+Misalkan -3*x**5 - 12*x**4 + 6*x**3 + 36*x**2 - 27*x = 0. Berapakah x?
+-3, 0, 1
+Selesaikan -n**3/4 - 37*n**2/2 - 104*n - 136 = 0.
+-68, -4, -2
+Faktor dari 4*l**3/5 + 436*l**2/5 + 2332*l - 2420.
+4*(l - 1)*(l + 55)**2/5
+Faktor dari 2*a**5/7 - 4*a**4/7 - 12*a**3/7 + 40*a**2/7 - 38*a/7 + 12/7.
+2*(a - 2)*(a - 1)**3*(a + 3)/7
+Selesaikan 8*o**4/11 - 54*o**3/11 + 34*o**2/11 + 12*o/11 = 0 untuk o.
+-1/4, 0, 1, 6
+Tentukan w, mengingat bahwa 2*w**5 - 8*w**4 + 4*w**3 + 8*w**2 - 6*w = 0.
+-1, 0, 1, 3
+Tentukan k, mengingat bahwa -2*k**4 - 28*k**3 + 102*k**2 - 8*k - 136 = 0.
+-17, -1, 2
+Tentukan b, mengingat bahwa -6*b**2 - 137*b + 23 = 0.
+-23, 1/6
+Misalkan 3*c**3/4 - 9*c/4 + 3/2 = 0. Hitung c.
+-2, 1
+Temukan r, mengingat r**4/4 + 381*r**3/4 - 1535*r**2/4 + 1923*r/4 - 385/2 = 0.
+-385, 1, 2
+Faktor dari -2*r**4/3 + 188*r**3/3 - 1408*r**2 - 3072*r.
+-2*r*(r - 48)**2*(r + 2)/3
+Tentukan q sehingga q**3 - 3*q**2 - 9*q - 5 = 0.
+-1, 5
+Temukan f sehingga 2*f**3/5 + 1474*f**2/5 - 1476*f/5 = 0.
+-738, 0, 1
+Tentukan i, mengingat bahwa -20*i**4 - 565*i**3 - 1125*i**2 + 1170*i = 0.
+-26, -3, 0, 3/4
+Misalkan -5*o**5 - 9*o**4 + 80*o**3 + 144*o**2 = 0. Hitung o.
+-4, -9/5, 0, 4
+Faktor dari j**3/8 + 1645*j**2/8 + 84666*j + 168921/2.
+(j + 1)*(j + 822)**2/8
+Misalkan -25*j**2/4 + 7415*j - 2965 = 0. Hitung j.
+2/5, 1186
+Faktor dari -5*w**5 + 35*w**4 + 90*w**3 + 10*w**2 - 85*w - 45.
+-5*(w - 9)*(w - 1)*(w + 1)**3
+Faktor dari -2*y**3/11 - 32*y**2/11 - 70*y/11 + 104/11.
+-2*(y - 1)*(y + 4)*(y + 13)/11
+Faktor dari -q**2/7 + 326*q/7 + 1992/7.
+-(q - 332)*(q + 6)/7
+Faktor dari -g**2/8 + 12*g - 288.
+-(g - 48)**2/8
+Misalkan 60*g**2 - 1528*g - 516 = 0. Berapakah g?
+-1/3, 129/5
+Misalkan 2*x**5 - 50*x**4 + 412*x**3 - 1084*x**2 - 414*x + 1134 = 0. Berapakah x?
+-1, 1, 7, 9
+Faktor dari 2*t**5/11 - 2272*t**4/11 + 638402*t**3/11 + 3885100*t**2/11 + 7806712*t/11 + 5216656/11.
+2*(t - 571)**2*(t + 2)**3/11
+Selesaikan 3*d**5 + 18*d**4 - 39*d**3 - 198*d**2 + 216*d = 0.
+-6, -4, 0, 1, 3
+Misalkan p**3/6 + p**2 + 2*p + 4/3 = 0. Hitung p.
+-2
+Selesaikan -l**3/2 - 49*l**2/2 + 26*l + 50 = 0.
+-50, -1, 2
+Faktor dari -4*t**4 + 32*t**3 - 84*t**2 + 72*t.
+-4*t*(t - 3)**2*(t - 2)
+Misalkan -21*k**4 - 237*k**3 - 564*k**2 - 348*k = 0. Berapakah k?
+-58/7, -2, -1, 0
+Temukan q sehingga 3*q**4 - 45*q**3 + 42*q**2 = 0.
+0, 1, 14
+Faktor dari 2*q**4/15 + 784*q**3/15 + 6864*q**2 + 919360*q/3 + 1757600/3.
+2*(q + 2)*(q + 130)**3/15
+Temukan b sehingga 3*b**2 - 540*b + 24300 = 0.
+90
+Misalkan 2*t**2 - 112*t + 1536 = 0. Berapakah t?
+24, 32
+Temukan j sehingga -5*j**2/3 - 230*j/3 - 1925/3 = 0.
+-35, -11
+Selesaikan 2*y**2 = 0.
+0
+Misalkan -j**2 + 186*j - 8649 = 0. Hitung j.
+93
+Misalkan h**4/3 + 10*h**3/3 + 8*h**2 = 0. Berapakah h?
+-6, -4, 0
+Misalkan -3*h**2/4 + 51*h/4 - 12 = 0. Hitung h.
+1, 16
+Selesaikan j**4/3 - 11*j**3/3 - 13*j**2 - 41*j/3 - 14/3 = 0.
+-1, 14
+Faktor dari -a**4/3 + 142*a**3/3 + 287*a**2/3 + 48*a.
+-a*(a - 144)*(a + 1)**2/3
+Tentukan h sehingga h**5 + 8*h**4 + 18*h**3 - 27*h = 0.
+-3, 0, 1
+Misalkan -6*h**4 - 67*h**3 - 69*h**2 + 12*h + 20 = 0. Hitung h.
+-10, -1, -2/3, 1/2
+Selesaikan 2*s**4/13 + 4*s**3/13 - 24*s**2/13 - 80*s/13 - 64/13 = 0 untuk s.
+-2, 4
+Faktor dari -4*g**2 + 88*g + 92.
+-4*(g - 23)*(g + 1)
+Misalkan -5*a**3/3 - 2780*a**2/3 - 380800*a/3 + 1568000/3 = 0. Hitung a.
+-280, 4
+Tentukan b, mengingat bahwa -28*b**3 - 1072*b**2 - 10412*b - 2888 = 0.
+-19, -2/7
+Misalkan -10*q**4/3 + 92*q**3/9 - 8*q**2 + 16*q/9 = 0. Berapakah q?
+0, 2/5, 2/3, 2
+Misalkan -4*n**3 + 732*n**2 + 4*n - 732 = 0. Hitung n.
+-1, 1, 183
+Faktor dari h**2/4 + 27*h/2 - 55/4.
+(h - 1)*(h + 55)/4
+Misalkan 4*o**2/5 - 36/5 = 0. Hitung o.
+-3, 3
+Faktor dari -h**2/3 + 7*h - 20/3.
+-(h - 20)*(h - 1)/3
+Faktor dari x**3 + 111*x**2 + 3135*x + 3025.
+(x + 1)*(x + 55)**2
+Faktor dari v**4/8 - 6*v**3.
+v**3*(v - 48)/8
+Tentukan h sehingga -2*h**2 - 300*h - 11250 = 0.
+-75
+Faktor dari -u**2 + 8*u + 9.
+-(u - 9)*(u + 1)
+Faktor dari 4*r**4 - 48*r**3 + 40*r**2 + 48*r - 44.
+4*(r - 11)*(r - 1)**2*(r + 1)
+Faktor dari 4*g**3/9 - 464*g**2/3 + 53824*g/3 - 6243584/9.
+4*(g - 116)**3/9
+Faktor dari a**2/3 - 181*a/3 - 182/3.
+(a - 182)*(a + 1)/3
+Faktor dari -3*n**3/2 - 27*n**2/2 - 45*n/2 + 75/2.
+-3*(n - 1)*(n + 5)**2/2
+Tentukan w, mengingat bahwa w**3/4 - 7*w**2/2 + 41*w/4 + 14 = 0.
+-1, 7, 8
+Faktor dari -t**3/2 - 200*t**2 + 806*t - 808.
+-(t - 2)**2*(t + 404)/2
+Faktor dari 15*k**3 + 201*k**2 + 393*k/5 + 39/5.
+3*(k + 13)*(5*k + 1)**2/5
+Selesaikan 33*p**5/2 - 315*p**4 + 3753*p**3/2 - 3336*p**2 + 288*p = 0 untuk p.
+0, 1/11, 3, 8
+Selesaikan u**4/3 - 41*u**3/3 + 440*u**2/3 - 400*u/3 = 0.
+0, 1, 20
+Faktor dari h**3/2 - 3*h**2/2 + 3*h/2 - 1/2.
+(h - 1)**3/2
+Faktor dari 3*c**2 + 21*c + 18.
+3*(c + 1)*(c + 6)
+Misalkan -3*v**4/2 + 3*v**3 + 12*v**2 = 0. Hitung v.
+-2, 0, 4
+Faktor dari -u**4 - 31*u**3/2 - 46*u**2.
+-u**2*(u + 4)*(2*u + 23)/2
+Faktor dari j**5/2 - 287*j**4/3 - 64*j**3.
+j**3*(j - 192)*(3*j + 2)/6
+Selesaikan -2*s**5 + 12*s**4 + 18*s**3 - 28*s**2 = 0 untuk s.
+-2, 0, 1, 7
+Tentukan p, mengingat bahwa -4*p**2 - 12064*p - 9096256 = 0.
+-1508
+Misalkan -n**2 - n + 56 = 0. Hitung n.
+-8, 7
+Berapakah p dalam 2*p**4/3 + 310*p**3/3 - 2*p**2 - 934*p/3 - 620/3 = 0?
+-155, -1, 2
+Selesaikan 12*o**4 + 538*o**3 + 6246*o**2 + 4752*o - 968 = 0 untuk o.
+-22, -1, 1/6
+Misalkan -2*q**2 + 454*q + 456 = 0. Hitung q.
+-1, 228
+Misalkan w**2/9 - 34*w/9 + 11/3 = 0. Berapakah w?
+1, 33
+Misalkan 2*z**2/7 + 60*z/7 - 62/7 = 0. Berapakah z?
+-31, 1
+Selesaikan -18*y**4/5 - 14*y**3/5 + 94*y**2/5 - 74*y/5 + 12/5 = 0 untuk y.
+-3, 2/9, 1
+Misalkan 3*q**2/4 - 39*q/2 = 0. Hitung q.
+0, 26
+Temukan h sehingga 36*h**2 + 1784*h - 800 = 0.
+-50, 4/9
+Faktor dari t**5 + 3*t**4 + 3*t**3 + t**2.
+t**2*(t + 1)**3
+Faktor dari -3*u**3 + 729*u - 4374.
+-3*(u - 9)**2*(u + 18)
+Faktor dari -b**3/5 - 6*b**2 - 107*b/5 - 78/5.
+-(b + 1)*(b + 3)*(b + 26)/5
+Misalkan 3*q**4 - 45*q**3 + 36*q**2 + 84*q = 0. Berapakah q?
+-1, 0, 2, 14
+Misalkan -9*o**2/7 - 159*o/7 - 102/7 = 0. Berapakah o?
+-17, -2/3
+Tentukan n, mengingat bahwa 2/3 - n**2/6 = 0.
+-2, 2
+Misalkan -5*i**4 - 170*i**3 - 1865*i**2 - 7140*i - 8820 = 0. Hitung i.
+-14, -3
+Faktor dari -f**5 - 50*f**4 - 865*f**3 - 5680*f**2 - 8960*f - 4096.
+-(f + 1)**2*(f + 16)**3
+Misalkan -h**4/5 + 11*h**3 - 306*h**2/5 + 596*h/5 - 392/5 = 0. Berapakah h?
+2, 49
+Tentukan n, mengingat bahwa 5*n**3 - 8440*n**2 + 16865*n - 8430 = 0.
+1, 1686
+Misalkan 12*m**3 - 80*m**2 - 28*m = 0. Hitung m.
+-1/3, 0, 7
+Faktor dari 7*i**3/11 - 40*i**2/11 + 69*i/11 - 36/11.
+(i - 3)*(i - 1)*(7*i - 12)/11
+Misalkan 5*o**2 + 45*o + 100 = 0. Berapakah o?
+-5, -4
+Misalkan 2*y**5/11 - 8*y**4/11 + 4*y**3/11 + 8*y**2/11 - 6*y/11 = 0. Hitung y.
+-1, 0, 1, 3
+Misalkan -w**4/4 - 9*w**3/4 - 3*w**2/2 + 4*w = 0. Hitung w.
+-8, -2, 0, 1
+Selesaikan 2*t**2 - 170*t + 332 = 0.
+2, 83
+Berapakah d dalam -4*d**4 + 68*d**3 - 124*d**2 + 60*d = 0?
+0, 1, 15
+Faktor dari -j**3/2 - 15*j**2/2 - 22*j.
+-j*(j + 4)*(j + 11)/2
+Faktor dari 4*z**4 - 56*z**3 + 260*z**2 - 496*z + 336.
+4*(z - 7)*(z - 3)*(z - 2)**2
+Faktor dari 27*d**3/2 + 944*d**2 + 32935*d/2 - 1225.
+(d + 35)**2*(27*d - 2)/2
+Misalkan -3*h**3 - 180*h**2 - 1791*h + 1974 = 0. Hitung h.
+-47, -14, 1
+Faktor dari -3*i**2 + 507*i - 504.
+-3*(i - 168)*(i - 1)
+Misalkan -m**2/5 + 432*m/5 = 0. Hitung m.
+0, 432
+Faktor dari 3*i**3/4 - 3*i**2/4 - 1203*i/4 - 1197/4.
+3*(i - 21)*(i + 1)*(i + 19)/4
+Faktor dari -2*b**4 - 24*b**3 - 86*b**2 - 120*b - 56.
+-2*(b + 1)*(b + 2)**2*(b + 7)
+Tentukan a sehingga -a**3 + 71*a**2 - 1455*a + 9225 = 0.
+15, 41
+Tentukan a, mengingat bahwa -4*a**4 - 12*a**3 + 24*a**2 + 32*a = 0.
+-4, -1, 0, 2
+Faktor dari 5*m**2/3 - 80*m/3 - 1820.
+5*(m - 42)*(m + 26)/3
+Misalkan 2*b**2 - 1252*b + 1250 = 0. Hitung b.
+1, 625
+Selesaikan -4*n**3 + 180*n**2 - 2700*n + 13500 = 0 untuk n.
+15
+Faktor dari -29815125*w**4/4 + 30647175*w**3/4 - 419895*w**2/2 + 1941*w - 6.
+-3*(w - 1)*(215*w - 2)**3/4
+Temukan y sehingga -5*y**3 + 14330*y**2 - 10267445*y = 0.
+0, 1433
+Faktor dari 3*m**4 + 27*m**3 + 42*m**2.
+3*m**2*(m + 2)*(m + 7)
+Selesaikan -56*r**4 + 46*r**3 + 146*r**2 - 4*r - 48 = 0.
+-1, -3/4, 4/7, 2
+Selesaikan -2*j**5/13 - 8*j**4/13 + 32*j**2/13 + 32*j/13 = 0 untuk j.
+-2, 0, 2
+Selesaikan 3*j**5 - 66*j**4 + 363*j**3 = 0.
+0, 11
+Tentukan a, mengingat bahwa -25*a**5 + 195*a**4 - 89*a**3 - 939*a**2 - 846*a - 216 = 0.
+-1, -3/5, 4, 6
+Misalkan -20*g**5/9 - 34*g**4/9 + 4*g**3/3 + 40*g**2/9 + 8*g/9 - 2/3 = 0. Berapakah g?
+-1, 3/10, 1
+Tentukan v sehingga 5*v**2/2 + 405*v + 32805/2 = 0.
+-81
+Temukan n sehingga -3*n**2 - 10584*n - 9335088 = 0.
+-1764
+Tentukan q sehingga -4*q**3 + 52*q**2 + 120*q = 0.
+-2, 0, 15
+Faktor dari -q**5 - 6*q**4 - 11*q**3 - 2*q**2 + 12*q + 8.
+-(q - 1)*(q + 1)*(q + 2)**3
+Faktor dari w**3/2 - 13*w**2/2 + 24*w - 18.
+(w - 6)**2*(w - 1)/2
+Misalkan -5*l**5/6 + 11*l**4/2 - 28*l**3/3 + 2*l**2 + 8*l/3 = 0. Berapakah l?
+-2/5, 0, 1, 2, 4
+Misalkan -2*n**3/9 + 20*n**2/3 - 56*n + 784/9 = 0. Hitung n.
+2, 14
+Temukan f sehingga 2*f**3 + 216*f**2 + 840*f + 832 = 0.
+-104, -2
+Tentukan w, mengingat bahwa w**2 + 29*w - 30 = 0.
+-30, 1
+Faktor dari -4*f**4 - 16*f**3 + 84*f**2 - 16*f - 112.
+-4*(f - 2)**2*(f + 1)*(f + 7)
+Faktor dari 4*l**3 - 40*l**2 + 84*l.
+4*l*(l - 7)*(l - 3)
+Faktor dari 5*y**5 - 70*y**4 + 60*y**3 + 2170*y**2 - 3185*y - 20580.
+5*(y - 7)**3*(y + 3)*(y + 4)
+Faktor dari 5*i**2 + 9525*i + 19030.
+5*(i + 2)*(i + 1903)
+Faktor dari 10*x**3/9 + 2*x**2 + 2*x/3 - 2/9.
+2*(x + 1)**2*(5*x - 1)/9
+Selesaikan f**2/3 - 479*f/3 + 318 = 0.
+2, 477
+Faktor dari f**4/2 - 26*f**3 + 338*f**2.
+f**2*(f - 26)**2/2
+Berapakah d dalam d**2 + 136*d + 4624 = 0?
+-68
+Misalkan 2*r**2 - 125*r/2 - 48 = 0. Hitung r.
+-3/4, 32
+Berapakah c dalam c**2/6 + c + 3/2 = 0?
+-3
+Berapakah n dalam 4*n**4 + 84*n**3 + 292*n**2 + 348*n + 136 = 0?
+-17, -2, -1
+Misalkan a**5/2 + 3*a**4/2 - 2*a**3 = 0. Berapakah a?
+-4, 0, 1
+Berapakah z dalam 4*z**3 - 348*z**2 + 7392*z + 7744 = 0?
+-1, 44
+Tentukan m, mengingat bahwa 36*m**4 + 3108*m**3 + 1012*m**2 - 1716*m + 344 = 0.
+-86, -1, 1/3
+Faktor dari -324*t**3 + 1368*t**2 + 320*t.
+-4*t*(9*t - 40)*(9*t + 2)
+Faktor dari -3*x**2 - 177*x - 2592.
+-3*(x + 27)*(x + 32)
+Misalkan -84*t**2 - 1420*t + 136 = 0. Berapakah t?
+-17, 2/21
+Tentukan o, mengingat bahwa -o**5 + 15*o**4/2 - 5*o**3/2 - 15*o**2/2 + 7*o/2 = 0.
+-1, 0, 1/2, 1, 7
+Tentukan g sehingga g**4/6 + 2*g**3/3 - g**2/6 - 2*g/3 = 0.
+-4, -1, 0, 1
+Selesaikan p**4/3 + 16*p**3/3 + 21*p**2 + 92*p/3 + 44/3 = 0.
+-11, -2, -1
+Faktor dari 3*u**2 - 534*u + 23763.
+3*(u - 89)**2
+Faktor dari 2*m**3/9 + 1114*m**2/3 + 620498*m/3 + 345617386/9.
+2*(m + 557)**3/9
+Faktor dari 5*u**2 - 240*u - 245.
+5*(u - 49)*(u + 1)
+Misalkan -5*p**5/4 - 99*p**4/2 - 1155*p**3/4 - 1103*p**2/2 - 225*p + 198 = 0. Berapakah p?
+-33, -3, -2, 2/5
+Temukan i sehingga -i**2/8 + 365*i/4 + 183 = 0.
+-2, 732
+Tentukan v sehingga -2*v**3 + 58*v**2 - 108*v = 0.
+0, 2, 27
+Faktor dari -3*x**2/4 - 2703*x - 2435403.
+-3*(x + 1802)**2/4
+Faktor dari -2*j**2/7 - 30*j/7 + 152/7.
+-2*(j - 4)*(j + 19)/7
+Faktor dari 2*a**4 - 2*a**3 - 268*a**2 - 1272*a - 1008.
+2*(a - 14)*(a + 1)*(a + 6)**2
+Faktor dari -3*j**2 - 1269*j - 2526.
+-3*(j + 2)*(j + 421)
+Faktor dari 5*u**5 - 110*u**4 - 115*u**3.
+5*u**3*(u - 23)*(u + 1)
+Misalkan n**3/6 - 55*n**2/6 - 28*n/3 = 0. Hitung n.
+-1, 0, 56
+Faktor dari 4*y**2 + 44*y - 240.
+4*(y - 4)*(y + 15)
+Tentukan w, mengingat bahwa 18*w**5 + 147*w**4 + 146*w**3 - 12*w**2 - 36*w - 7 = 0.
+-7, -1, -1/3, 1/2
+Selesaikan -5*l**4/2 - 445*l**3/2 + 5*l**2/2 + 445*l/2 = 0 untuk l.
+-89, -1, 0, 1
+Misalkan 2*j**3/3 - 8884*j**2/3 + 9865682*j/3 = 0. Hitung j.
+0, 2221
+Misalkan x**4/4 + 3*x**3/2 - 7*x**2/4 - 12*x - 9 = 0. Hitung x.
+-6, -2, -1, 3
+Faktor dari -r**3/5 - 13*r**2/5 + 16*r/5 + 28/5.
+-(r - 2)*(r + 1)*(r + 14)/5
+Misalkan -20*c**5 + 345*c**4 - 1205*c**3 + 1320*c**2 - 260*c = 0. Hitung c.
+0, 1/4, 2, 13
+Faktor dari -k**3/4 + k**2/2 - k/4.
+-k*(k - 1)**2/4
+Misalkan -2*m**4 + 2*m**3 + 14*m**2 - 2*m - 12 = 0. Hitung m.
+-2, -1, 1, 3
+Tentukan x sehingga -7*x**4 - 82*x**3 - 249*x**2 - 118*x + 56 = 0.
+-7, -4, -1, 2/7
+Temukan y sehingga 5*y**4 - 25*y**3 + 40*y**2 - 20*y = 0.
+0, 1, 2
+Faktor dari 14*y**3/15 - 48*y**2/5 + 26*y - 20/3.
+2*(y - 5)**2*(7*y - 2)/15
+Faktor dari -w**4/5 + 38*w**3/5 + 171*w**2/5 - 108*w/5 - 756/5.
+-(w - 42)*(w - 2)*(w + 3)**2/5
+Temukan p sehingga p**2/4 + 1703*p/2 + 2900209/4 = 0.
+-1703
+Misalkan -2*q**5/3 - 4*q**4/3 + 8*q**3/3 + 4*q**2/3 - 2*q = 0. Berapakah q?
+-3, -1, 0, 1
+Faktor dari -14*t**3 - 16*t**2 - 32*t/7.
+-2*t*(7*t + 4)**2/7
+Tentukan q, mengingat bahwa -2*q**4/13 + 2824*q**3/13 - 1495308*q**2/13 + 351895816*q/13 - 31054805762/13 = 0.
+353
+Faktor dari -n**4/3 + 46*n**3/3 - 209*n**2/3 + 164*n/3.
+-n*(n - 41)*(n - 4)*(n - 1)/3
+Faktor dari -4*w**4 + 72*w**3 + 4*w**2 - 72*w.
+-4*w*(w - 18)*(w - 1)*(w + 1)
+Faktor dari 15*y**2 - 54*y + 27.
+3*(y - 3)*(5*y - 3)
+Faktor dari a**2/6 + 1961*a/6 + 979.
+(a + 3)*(a + 1958)/6
+Tentukan j, mengingat bahwa 5*j**2 + 810*j = 0.
+-162, 0
+Faktor dari s**2 - 32*s - 33.
+(s - 33)*(s + 1)
+Selesaikan 2*x**4/7 + 5*x**3 + 177*x**2/7 + 208*x/7 + 64/7 = 0 untuk x.
+-8, -1, -1/2
+Temukan q sehingga q**4/9 - 46*q**3/9 + 131*q**2/9 - 86*q/9 = 0.
+0, 1, 2, 43
+Faktor dari i**2/3 - 97*i/3 - 100.
+(i - 100)*(i + 3)/3
+Misalkan 3*t**4/2 + 18*t**3 + 81*t**2/2 = 0. Hitung t.
+-9, -3, 0
+Tentukan y sehingga 6*y**5 - 104*y**4 + 1730*y**3/3 - 876*y**2 - 792*y - 144 = 0.
+-1/3, 6
+Faktor dari -5*d**5 - 5*d**4 + 15*d**3 + 25*d**2 + 10*d.
+-5*d*(d - 2)*(d + 1)**3
+Selesaikan 2*m**5 + 6*m**4 - 2*m**3 - 22*m**2 - 24*m - 8 = 0.
+-2, -1, 2
+Faktor dari -2*z**3/5 - 2*z**2/5 + 44*z/5 + 16.
+-2*(z - 5)*(z + 2)*(z + 4)/5
+Misalkan -i**3/2 + 24*i**2 - 557*i/2 + 255 = 0. Hitung i.
+1, 17, 30
+Tentukan u, mengingat bahwa -u**3 + 328*u**2 - 1300*u + 1296 = 0.
+2, 324
+Faktor dari -2*f**3 + 4*f**2.
+-2*f**2*(f - 2)
+Faktor dari -2*a**2/5 + 248*a/5 - 246/5.
+-2*(a - 123)*(a - 1)/5
+Tentukan b sehingga 2*b**3/11 - 12*b**2/11 + 24*b/11 - 16/11 = 0.
+2
+Faktor dari -4*i**2 + 76*i - 240.
+-4*(i - 15)*(i - 4)
+Faktor dari 2*g**5 + 84*g**4 + 316*g**3 + 464*g**2 + 306*g + 76.
+2*(g + 1)**4*(g + 38)
+Faktor dari -h**5/6 + 16*h**4/3 - 58*h**3/3 + 56*h**2/3.
+-h**2*(h - 28)*(h - 2)**2/6
+Misalkan 4*r**2 - 16*r - 20 = 0. Berapakah r?
+-1, 5
+Temukan q sehingga 2*q**4/11 - 10*q**3/11 - 6*q**2/11 + 90*q/11 - 108/11 = 0.
+-3, 2, 3
+Faktor dari 3*s**4/7 + 669*s**3/7.
+3*s**3*(s + 223)/7
+Misalkan 5*n**2/2 + 670*n - 1345/2 = 0. Hitung n.
+-269, 1
+Faktor dari -n**2 - 22*n + 135.
+-(n - 5)*(n + 27)
+Misalkan q**5 - 11*q**3 + 18*q**2 - 8*q = 0. Hitung q.
+-4, 0, 1, 2
+Faktor dari -l**4 - 326*l**3 - 35316*l**2 - 1259386*l + 1295029.
+-(l - 1)*(l + 109)**3
+Faktor dari p**3/2 - 17*p**2/2 - 10*p + 18.
+(p - 18)*(p - 1)*(p + 2)/2
+Selesaikan -x**3 + 6*x**2 + 40*x = 0 untuk x.
+-4, 0, 10
+Faktor dari -5*s**4 + 240*s**3 + 15*s**2 - 730*s + 480.
+-5*(s - 48)*(s - 1)**2*(s + 2)
+Misalkan -4*i**3/11 - 415*i**2/11 - 1108*i/11 + 303/11 = 0. Berapakah i?
+-101, -3, 1/4
+Faktor dari 4*d**2 + 20*d - 96.
+4*(d - 3)*(d + 8)
+Faktor dari -2*x**3 + 38*x**2 - 112*x - 392.
+-2*(x - 14)*(x - 7)*(x + 2)
+Faktor dari -169*o**4/3 - 97799*o**3/3 + 30104*o**2/3 - 772*o.
+-o*(o + 579)*(13*o - 2)**2/3
+Temukan a, mengingat 4*a**3/3 + 188*a**2/3 + 2464*a/3 + 1936 = 0.
+-22, -3
+Selesaikan -2*y**2/7 + 64*y/7 - 512/7 = 0 untuk y.
+16
+Misalkan 8*a**3 + 52*a**2 + 68*a - 48 = 0. Hitung a.
+-4, -3, 1/2
+Selesaikan 4*n**4/11 + 46*n**3/11 + 150*n**2/11 + 16*n + 56/11 = 0 untuk n.
+-7, -2, -1/2
+Misalkan -3*k**4/4 + 21*k**3/2 - 9*k**2 - 186*k - 240 = 0. Hitung k.
+-2, 8, 10
+Temukan h sehingga 4*h**3/3 + 160*h**2/3 + 644*h/3 - 1960/3 = 0.
+-35, -7, 2
+Misalkan 3*d**3/4 + 75*d**2/2 + 693*d/4 + 405/2 = 0. Berapakah d?
+-45, -3, -2
+Selesaikan -r**4/7 - 15*r**3/7 - 27*r**2/7 - 13*r/7 = 0 untuk r.
+-13, -1, 0
+Faktor dari 3*a**5/7 - 15*a**4/7 + 3*a**3/7 + 51*a**2/7 - 66*a/7 + 24/7.
+3*(a - 4)*(a - 1)**3*(a + 2)/7
+Faktor dari -14*r**3/3 - 542*r**2/3 + 52*r.
+-2*r*(r + 39)*(7*r - 2)/3
+Temukan k sehingga -k**3/2 + 42*k**2 + 357*k/2 - 220 = 0.
+-5, 1, 88
+Faktor dari -o**2/2 + 11*o.
+-o*(o - 22)/2
+Misalkan -p**3 + 8*p**2 + 45*p + 36 = 0. Hitung p.
+-3, -1, 12
+Selesaikan -3*p**4 + 27*p**3 + 39*p**2 - 387*p + 324 = 0.
+-4, 1, 3, 9
+Misalkan -q**4 - 9*q**3 + 19*q**2 + 141*q - 270 = 0. Berapakah q?
+-9, -5, 2, 3
+Tentukan c, mengingat bahwa -2*c**3/7 - 6374*c**2/7 - 12742*c/7 - 910 = 0.
+-3185, -1
+Temukan h, mengingat h**3/4 - 3*h**2 + 29*h/4 - 9/2 = 0.
+1, 2, 9
+Faktor dari 4*x**3 - 544*x**2 - 556*x + 1096.
+4*(x - 137)*(x - 1)*(x + 2)
+Misalkan 9*y**4 - 219*y**3 + 3289*y**2/4 + 6205*y + 7225 = 0. Berapakah y?
+-2, 85/6
+Tentukan y sehingga 5*y**5/3 - 29*y**4/6 - 21*y**3/2 + 37*y**2/3 + 4*y/3 = 0.
+-2, -1/10, 0, 1, 4
+Misalkan -3*m**3/7 - 33*m**2/7 - 24*m/7 + 60/7 = 0. Berapakah m?
+-10, -2, 1
+Temukan p, mengingat 3*p**2/8 - 1443*p/4 - 2889/8 = 0.
+-1, 963
+Faktor dari -5*i**3 + 80*i**2 - 385*i + 490.
+-5*(i - 7)**2*(i - 2)
+Tentukan i sehingga 2286*i**2/7 + 780*i/7 + 6/7 = 0.
+-1/3, -1/127
+Misalkan -33*h**5 - 171*h**4 - 195*h**3 + 135*h**2 + 228*h + 36 = 0. Berapakah h?
+-3, -2, -1, -2/11, 1
+Faktor dari l**2/3 - 3184*l/3 + 2534464/3.
+(l - 1592)**2/3
+Faktor dari -a**3/8 + 5*a**2/4.
+-a**2*(a - 10)/8
+Faktor dari -4*u**2 - 72*u - 68.
+-4*(u + 1)*(u + 17)
+Faktor dari -n**5 - 55*n**4 - 106*n**3 + 2*n**2 + 107*n + 53.
+-(n - 1)*(n + 1)**3*(n + 53)
+Selesaikan -y**3/2 + 45*y**2 - 177*y/2 + 44 = 0.
+1, 88
+Berapakah p dalam p**5 + 3*p**4 + 2*p**3 = 0?
+-2, -1, 0
+Tentukan h, mengingat bahwa 4*h**5 + 1044*h**4 = 0.
+-261, 0
+Faktor dari -d**4/3 - d**3 + 7*d**2/3 + 5*d - 6.
+-(d - 2)*(d - 1)*(d + 3)**2/3
+Faktor dari p**2 - 21*p + 110.
+(p - 11)*(p - 10)
+Faktor dari 4*j**2 - 304*j + 592.
+4*(j - 74)*(j - 2)
+Tentukan x, mengingat bahwa 2*x**4/5 + 16*x**3/5 - 124*x**2/5 + 96*x/5 + 234/5 = 0.
+-13, -1, 3
+Misalkan -2*a**2/5 + 174*a/5 - 504/5 = 0. Berapakah a?
+3, 84
+Faktor dari -4*k**3 + 660*k**2 - 2588*k + 1932.
+-4*(k - 161)*(k - 3)*(k - 1)
+Faktor dari -o**4 + 8*o**3 + 19*o**2 + 10*o.
+-o*(o - 10)*(o + 1)**2
+Faktor dari -3*a**4 + 2379*a**3 + 7155*a**2 + 7161*a + 2388.
+-3*(a - 796)*(a + 1)**3
+Faktor dari -o**4 + 372*o**3 - 46494*o**2 + 1997028*o - 5582601.
+-(o - 123)**3*(o - 3)
+Temukan l sehingga -6*l**3/7 + 642*l**2/7 - 1266*l/7 + 90 = 0.
+1, 105
+Faktor dari 2*q**4/3 + 16*q**3/3 + 12*q**2 - 18.
+2*(q - 1)*(q + 3)**3/3
+Berapakah s dalam s**5/3 + s**4/2 - 27*s**3/2 + 181*s**2/6 - 11*s/2 - 12 = 0?
+-8, -1/2, 1, 3
+Temukan n sehingga 5*n**5 - 183*n**4/4 + 317*n**3/4 - 105*n**2/4 - 49*n/4 = 0.
+-1/4, 0, 1, 7/5, 7
+Selesaikan 6*g**5 - 46*g**4 - 94*g**3/3 + 394*g**2/3 - 212*g/3 + 32/3 = 0.
+-2, 1/3, 1, 8
+Misalkan -t**4/6 + 13*t**3/6 - 2*t**2 = 0. Berapakah t?
+0, 1, 12
+Faktor dari -2*w**4/5 - 34*w**3/5 - 84*w**2/5.
+-2*w**2*(w + 3)*(w + 14)/5
+Misalkan y**4/3 + 7*y**3 + 74*y**2/3 - 128*y + 96 = 0. Hitung y.
+-12, 1, 2
+Misalkan -2*s**3 - 6*s**2 + 8*s = 0. Hitung s.
+-4, 0, 1
+Misalkan 2*o**5 + 16*o**4 - 6*o**3 - 260*o**2 - 400*o = 0. Berapakah o?
+-5, -2, 0, 4
+Faktor dari 4*j**3/5 + 22*j**2/5 - 42*j/5.
+2*j*(j + 7)*(2*j - 3)/5
+Misalkan 3*k**2 - 24*k = 0. Hitung k.
+0, 8
+Selesaikan 9*m**5/8 - 21*m**4/2 + 153*m**3/8 - 21*m**2/4 = 0 untuk m.
+0, 1/3, 2, 7
+Selesaikan -2*l**2 - 20*l + 48 = 0 untuk l.
+-12, 2
+Temukan j, mengingat 5*j**2 - 8525*j = 0.
+0, 1705
+Misalkan -i**3/5 - 75*i**2 + 753*i/5 - 377/5 = 0. Hitung i.
+-377, 1
+Misalkan -3*t**5/4 - 45*t**4/4 - 36*t**3 - 33*t**2 = 0. Berapakah t?
+-11, -2, 0
+Faktor dari 2*x**3/13 - 20*x**2/13 - 2*x/13 + 20/13.
+2*(x - 10)*(x - 1)*(x + 1)/13
+Selesaikan -8*h**4/11 + 6*h**3 - 112*h**2/11 + 24*h/11 = 0.
+0, 1/4, 2, 6
+Misalkan 3*f**5 + 45*f**4 + 144*f**3 - 192*f**2 = 0. Hitung f.
+-8, 0, 1
+Misalkan -4*k**2 + 208*k = 0. Berapakah k?
+0, 52
+Misalkan -3*r**3/5 - 108*r**2/5 - 21*r = 0. Hitung r.
+-35, -1, 0
+Faktor dari s**4/3 + 2*s**3 - 7*s**2/3.
+s**2*(s - 1)*(s + 7)/3
+Berapakah q dalam 3*q**5 + 444*q**4 + 16854*q**3 + 30660*q**2 - 47961*q = 0?
+-73, -3, 0, 1
+Selesaikan 5*o**4 + 345*o**3 + 3915*o**2 + 15775*o + 21000 = 0.
+-56, -5, -3
+Tentukan m, mengingat bahwa m**2/5 + 333*m/5 - 334/5 = 0.
+-334, 1
+Faktor dari 218*l**4/5 + 2614*l**3/5 + 7824*l**2/5 - 72*l/5.
+2*l*(l + 6)**2*(109*l - 1)/5
+Misalkan 3*f**2/4 + 6213*f/2 + 12867123/4 = 0. Berapakah f?
+-2071
+Misalkan q**3/4 - 15*q**2/4 - 73*q/4 - 57/4 = 0. Berapakah q?
+-3, -1, 19
+Temukan j, mengingat -3*j**2/2 + 45*j/2 + 24 = 0.
+-1, 16
+Temukan l, mengingat 4*l**4 + 20*l**3 + 8*l**2 - 80*l - 96 = 0.
+-3, -2, 2
+Misalkan -3*w**4 - 12*w**3 - 9*w**2 = 0. Hitung w.
+-3, -1, 0
+Misalkan -135*m**5 + 390*m**4 - 260*m**3 + 40*m**2 = 0. Hitung m.
+0, 2/9, 2/3, 2
+Selesaikan -4*d**3/3 - 4324*d**2/3 - 1166396*d/3 + 1170724/3 = 0 untuk d.
+-541, 1
+Faktor dari -3*p**3 - 459*p**2 - 23409*p - 397953.
+-3*(p + 51)**3
+Faktor dari -4*h**3 + 16*h**2 - 20*h + 8.
+-4*(h - 2)*(h - 1)**2
+Temukan b, mengingat -b**2/9 + 2*b/3 + 8 = 0.
+-6, 12
+Selesaikan -r**2/3 + 91*r/3 - 196 = 0.
+7, 84
+Faktor dari -4*h**4 - 138*h**3 - 480*h**2 + 25088*h + 221184.
+-2*(h + 16)**3*(2*h - 27)
+Berapakah y dalam 5*y**5 + 30*y**4 + 65*y**3 + 60*y**2 + 20*y = 0?
+-2, -1, 0
+Faktor dari 21*p**5 - 27*p**4 + 6*p**3.
+3*p**3*(p - 1)*(7*p - 2)
+Faktor dari -2*v**3/9 - 52*v**2/9 - 280*v/9 + 784/9.
+-2*(v - 2)*(v + 14)**2/9
+Faktor dari 5*s**3/3 + 70*s**2/3.
+5*s**2*(s + 14)/3
+Faktor dari 3*q**5 - 9*q**4 - 30*q**3.
+3*q**3*(q - 5)*(q + 2)
+Temukan l, mengingat -l**5 + 14*l**4 - 11*l**3 - 26*l**2 = 0.
+-1, 0, 2, 13
+Faktor dari -3*c**3 - 1134*c**2 - 2259*c - 1128.
+-3*(c + 1)**2*(c + 376)
+Faktor dari 13*b**3 + 493*b**2/2 + 865*b/2 - 17.
+(b + 2)*(b + 17)*(26*b - 1)/2
+Berapakah r dalam 2*r**4/9 - 4*r**3/9 - 58*r**2/9 + 20*r/3 = 0?
+-5, 0, 1, 6
+Tentukan z, mengingat bahwa 5*z**3 + 692*z**2 + 276*z = 0.
+-138, -2/5, 0
+Faktor dari j**2/3 - 11*j - 280/3.
+(j - 40)*(j + 7)/3
+Tentukan v sehingga -3*v**4 + 22*v**3 - 121*v**2/3 + 28*v - 20/3 = 0.
+2/3, 1, 5
+Faktor dari -i**5 + 2*i**4 + 3*i**3 - 8*i**2 + 4*i.
+-i*(i - 2)*(i - 1)**2*(i + 2)
+Berapakah u dalam u**5 - 167*u**4/2 - 43*u**3 + 167*u**2/2 + 42*u = 0?
+-1, -1/2, 0, 1, 84
+Faktor dari -9*b**2 + 57*b + 150.
+-3*(b + 2)*(3*b - 25)
+Tentukan b sehingga -4*b**5 - 36*b**4 - 108*b**3 - 124*b**2 - 48*b = 0.
+-4, -3, -1, 0
+Faktor dari 2*g**2/19 - 106*g/19 - 24.
+2*(g - 57)*(g + 4)/19
+Tentukan a, mengingat bahwa -5*a**3 - 930*a**2 - 49020*a - 517720 = 0.
+-86, -14
+Selesaikan -4*m**5 + 28*m**4 + 36*m**3 - 460*m**2 + 400*m = 0.
+-4, 0, 1, 5
+Misalkan -4*j**3 + 12*j**2 + 132*j - 140 = 0. Hitung j.
+-5, 1, 7

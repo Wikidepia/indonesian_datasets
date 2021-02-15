@@ -11,6 +11,7 @@ This repository will be used to store Indonesia Dataset. Mostly from translating
     * [PAWS](#paws)
   * [Question Answering](#question-answering)
     * [SQuAD](#SQuAD)
+    * [Mathematics Dataset](#mathematics_dataset)
 
 ## [Crawl](crawl)
 
@@ -39,3 +40,9 @@ This dataset contains 108,463 human-labeled and 656k noisily labeled pairs that 
 Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles, where the answer to every question is a segment of text, or span, from the corresponding reading passage, or the question might be unanswerable.
 
 [Original Dataset](https://rajpurkar.github.io/SQuAD-explorer/)
+
+#### [Mathematics Dataset](question-answering/mathematics_dataset)
+
+This dataset contains mathematical question and answer pairs, from a range of question types at roughly school-level difficulty. This is designed to test the mathematical learning and algebraic reasoning skills of learning models.
+
+[Original Dataset](https://github.com/deepmind/mathematics_dataset)

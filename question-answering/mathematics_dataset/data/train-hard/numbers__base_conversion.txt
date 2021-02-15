@@ -1,0 +1,666 @@
+-1414757 (basis 9) ke basis 11
+-491360
+120120323100 (basis 4) ke basis 13
+142b189
+Ubah -8220274 (basis 9) menjadi basis 4.
+-100232010001
+Apa -101373 (basis 9) di basis 4?
+-32222313
+9210b (basis 13) ke basis 6
+5335115
+Ubah -1101100001111011 (basis 2) menjadi basis 14.
+-162a7
+147560 (basis 9) ke basis 6
+1540343
+-1070630 (basis 9) ke basis 2
+-10001101000101011001
+Apa 1134050 (basis 7) di basis 10?
+143066
+-6a2f65 (basis 16) ke basis 2
+-11010100010111101100101
+Ubah 160013 (basis 7) menjadi basis 15.
+93b8
+Ubah -815a1b (basis 13) menjadi basis 8.
+-13372024
+71c35 (basis 13) ke basis 7
+1510216
+Apa -c2b9 (basis 13) di basis 9?
+-40747
+Ubah -5b12a2b (basis 12) menjadi basis 8.
+-103374103
+a61138 (basis 14) ke basis 10
+5611726
+Ubah 1f9a96 (basis 16) menjadi basis 14.
+3bcb42
+Ubah 4a908 (basis 15) menjadi basis 4.
+322023023
+Ubah -269d4 (basis 15) menjadi basis 3.
+-20021201101
+Ubah 1d1860 (basis 15) menjadi basis 16.
+15b5ad
+Apa 21218 (basis 14) di basis 16?
+13876
+-12ac9e (basis 15) ke basis 4
+-3123003020
+Apa -243113234 (basis 5) di basis 6?
+-40312031
+Ubah 13540313 (basis 7) menjadi basis 4.
+10312020032
+Ubah -30b703 (basis 15) menjadi basis 4.
+-20311220130
+Apa -830a13 (basis 11) di basis 4?
+-11011210303
+Apa 152dc (basis 16) di basis 2?
+10101001011011100
+Apa 1530160 (basis 7) di basis 6?
+4251254
+203101014 (basis 6) ke basis 3
+20121011222101
+Ubah 41206 (basis 13) menjadi basis 7.
+664324
+Apa 1613805 (basis 10) di basis 8?
+6117755
+-1cb812 (basis 13) ke basis 15
+-e91de
+Ubah -1389763 (basis 12) menjadi basis 9.
+-7326333
+Ubah -782464 (basis 9) menjadi basis 8.
+-1621327
+Ubah -e3f5 (basis 16) menjadi basis 6.
+-1130101
+Apa -583545 (basis 11) di basis 13?
+-265c50
+Apa 167417 (basis 8) di basis 12?
+2b4bb
+16500621 (basis 8) ke basis 11
+2189809
+-10011010010001111 (basis 2) ke basis 7
+-446203
+Ubah -5516533 (basis 8) menjadi basis 4.
+-11221311123
+Ubah -10515225 (basis 6) menjadi basis 5.
+-40240111
+Ubah 212002102 (basis 3) menjadi basis 9.
+25072
+Apa -1a95865 (basis 12) di basis 13?
+-1237202
+Apa -2300640 (basis 9) di basis 15?
+-197886
+-2c8ca4 (basis 13) ke basis 5
+-240330211
+Ubah -1011010010110001000 (basis 2) menjadi basis 8.
+-1322610
+Ubah -23682 (basis 15) menjadi basis 11.
+-77869
+Apa -b078ce (basis 16) di basis 14?
+-1770a62
+7248383 (basis 10) ke basis 3
+111122020220122
+Ubah -12512012 (basis 6) menjadi basis 5.
+-101220424
+-12111321103 (basis 4) ke basis 5
+-411200142
+Apa -1212000111 (basis 3) di basis 10?
+-36463
+Apa 4305742 (basis 8) di basis 13?
+313537
+Apa 103674 (basis 9) di basis 16?
+f15d
+17a156 (basis 11) ke basis 13
+99130
+-1768055 (basis 10) ke basis 14
+-340499
+Apa -5614226 (basis 10) di basis 14?
+-a62002
+Ubah -737816 (basis 9) menjadi basis 6.
+-13223240
+Apa -1650223 (basis 8) di basis 7?
+-4034415
+Apa 435255242 (basis 6) di basis 7?
+123265364
+Apa 293b97 (basis 13) di basis 3?
+1220020000002
+Ubah -222633 (basis 7) menjadi basis 13.
+-14c34
+6ca8 (basis 14) ke basis 9
+28011
+-112110022331 (basis 4) ke basis 13
+-129a81a
+-22111132 (basis 4) ke basis 12
+-205ba
+Apa -975c (basis 13) di basis 12?
+-10209
+50333201 (basis 6) ke basis 16
+15c8a1
+Apa 1c9510 (basis 14) di basis 10?
+1024506
+Ubah -2059b6 (basis 14) menjadi basis 5.
+-234410132
+Ubah -23164010 (basis 8) menjadi basis 15.
+-698591
+Ubah -48882 (basis 9) menjadi basis 14.
+-bd4a
+344654 (basis 9) ke basis 15
+41447
+Ubah 2151461 (basis 7) menjadi basis 5.
+31432232
+Ubah 314302020 (basis 5) menjadi basis 3.
+2111011121222
+Apa -560130 (basis 8) di basis 11?
+-119698
+1515361 (basis 7) ke basis 5
+23042430
+Ubah -22babd (basis 15) menjadi basis 3.
+-10010022110221
+Apa 46561023 (basis 7) di basis 11?
+234a5a3
+Ubah 1323003203 (basis 5) menjadi basis 13.
+8c7077
+-a9a326 (basis 13) ke basis 4
+-33032232220
+4421314 (basis 5) ke basis 11
+52499
+-1166159 (basis 10) ke basis 4
+-10130231033
+372b3 (basis 12) ke basis 15
+1721c
+Apa 1430416 (basis 9) di basis 4?
+3000103023
+Ubah 28b0675 (basis 12) menjadi basis 14.
+1133437
+Ubah -63114045 (basis 7) menjadi basis 9.
+-11000503
+-212221001202 (basis 3) ke basis 16
+-72fc5
+Ubah 1001000111011011110 (basis 2) menjadi basis 15.
+5d798
+Ubah 2134a5 (basis 14) menjadi basis 4.
+10102032121
+-40d4a7 (basis 14) ke basis 12
+-89618b
+Ubah -1a1276 (basis 11) menjadi basis 5.
+-34342432
+Apa 603a30 (basis 11) di basis 15?
+142ce7
+Ubah 577123 (basis 9) menjadi basis 11.
+217269
+11400411 (basis 5) ke basis 6
+2140220
+Ubah -102220212220020 (basis 3) menjadi basis 9.
+-12825806
+1100111110010010111001 (basis 2) ke basis 5
+1332312024
+Apa -121121022011 (basis 3) di basis 2?
+-1001111110010011100
+Ubah -8591c (basis 15) menjadi basis 3.
+-210112112000
+Apa 13247531 (basis 8) di basis 3?
+12120212022000
+Apa 510220 (basis 7) di basis 10?
+86548
+Ubah 4a120 (basis 12) menjadi basis 10.
+100392
+Apa 1106401 (basis 7) di basis 2?
+100001011000000111
+26c1a (basis 14) ke basis 16
+175b8
+Ubah 108bb (basis 14) menjadi basis 2.
+1001110011010101
+-3a0c28 (basis 13) ke basis 15
+-1ca41b
+22636 (basis 8) ke basis 15
+2cc0
+Apa -324125552 (basis 6) di basis 3?
+-101220111222212
+Ubah 4ae18 (basis 16) menjadi basis 5.
+34303322
+-441 (basis 14) ke basis 8
+-1511
+-114313110 (basis 5) ke basis 14
+-101579
+Apa -20656 (basis 13) di basis 5?
+-3330312
+Ubah -10001010110000111010110 (basis 2) menjadi basis 4.
+-101112013112
+24222504 (basis 6) ke basis 3
+1102212201211
+90c30 (basis 16) ke basis 9
+1103326
+Apa -2146426 (basis 8) di basis 11?
+-364395
+Ubah -1237810 (basis 10) menjadi basis 4.
+-10232030302
+Ubah 100133321032 (basis 4) menjadi basis 12.
+1546a3a
+Ubah 103211213021 (basis 4) menjadi basis 3.
+100122212121112
+Apa 17957 (basis 15) di basis 16?
+12a45
+Apa -1143544 (basis 6) di basis 5?
+-3413342
+Apa 8153098 (basis 10) di basis 5?
+4041344343
+Ubah 734784 (basis 9) menjadi basis 14.
+b5169
+Apa 3292c (basis 15) di basis 13?
+581ac
+140082 (basis 11) ke basis 10
+219705
+21323023113 (basis 4) ke basis 16
+27b2d7
+123323 (basis 7) ke basis 8
+54422
+Ubah -31510320 (basis 6) menjadi basis 15.
+-1348e0
+Apa -131020404 (basis 5) di basis 10?
+-641979
+-343602 (basis 8) ke basis 2
+-11100011110000010
+Ubah 553354 (basis 8) menjadi basis 9.
+313238
+Apa -38ea7 (basis 15) di basis 11?
+-114970
+Apa -3302031203 (basis 4) di basis 14?
+-1bb7a3
+-70a71a (basis 11) ke basis 10
+-1141535
+Ubah -123045 (basis 6) menjadi basis 7.
+-44126
+Ubah -14401 (basis 5) menjadi basis 3.
+-1200102
+-377871 (basis 9) ke basis 15
+-47c44
+-9873b (basis 12) ke basis 10
+-201503
+Apa 1a1429 (basis 15) di basis 9?
+2345023
+Ubah 2cb726 (basis 16) menjadi basis 7.
+33623434
+Apa 23312130212 (basis 4) di basis 5?
+1243402343
+130202331022 (basis 4) ke basis 13
+1720147
+Ubah 53643 (basis 7) menjadi basis 11.
+a045
+-437555 (basis 8) ke basis 6
+-3053553
+234235 (basis 8) ke basis 12
+3a391
+Ubah -112310100 (basis 5) menjadi basis 16.
+-7c849
+3113020103 (basis 4) ke basis 11
+552045
+-7a17cc (basis 15) ke basis 8
+-26164711
+Ubah 33b19 (basis 14) menjadi basis 8.
+365333
+Ubah -130103133 (basis 4) menjadi basis 8.
+-342337
+Ubah -2203165 (basis 8) menjadi basis 14.
+-1157a5
+-11002022121120 (basis 3) ke basis 4
+-20102020101
+Ubah -3865598 (basis 11) menjadi basis 16.
+-663540
+Apa -2202120012 (basis 3) di basis 12?
+-27558
+Ubah 665206 (basis 7) menjadi basis 2.
+11100100101001011
+-1d4d5 (basis 15) ke basis 12
+-473a8
+Ubah 1012021112101 (basis 3) menjadi basis 10.
+635347
+Apa -5a2183 (basis 11) di basis 14?
+-1abc15
+-31e94b (basis 16) ke basis 5
+-1314132422
+-2535c0 (basis 16) ke basis 15
+-33282c
+-3044413 (basis 5) ke basis 15
+-ec23
+Ubah e2526 (basis 16) menjadi basis 2.
+11100010010100100110
+Apa 2169c (basis 14) di basis 4?
+103233322
+Ubah 1001111110000110 (basis 2) menjadi basis 16.
+9f86
+Apa 19503a (basis 15) di basis 7?
+13320430
+Ubah -df4247 (basis 16) menjadi basis 4.
+-313310021013
+1200142331 (basis 5) ke basis 4
+22131001311
+102111213312 (basis 4) ke basis 8
+22254766
+-171196 (basis 15) ke basis 13
+-30184b
+145828 (basis 10) ke basis 15
+2d31d
+30a564a (basis 11) ke basis 14
+a24c92
+-820ca (basis 13) ke basis 10
+-233048
+3205442 (basis 6) ke basis 2
+100110010001100010
+Ubah -12010131 (basis 5) menjadi basis 9.
+-176847
+Ubah 3132031023 (basis 4) menjadi basis 2.
+11011110001101001011
+Apa -45242420 (basis 7) di basis 13?
+-a762bb
+92781 (basis 10) ke basis 15
+1c756
+Ubah 63815 (basis 13) menjadi basis 7.
+1344551
+Apa -1670 (basis 15) di basis 6?
+-34210
+Apa 210202343 (basis 5) di basis 12?
+359185
+Apa 2110121 (basis 6) di basis 12?
+4b341
+Ubah -24b8940 (basis 12) menjadi basis 4.
+-123200121000
+Ubah -16263154 (basis 9) menjadi basis 3.
+-120022010011211
+Apa -11110101101100111100111 (basis 2) di basis 3?
+-120011001010200
+Ubah -12677 (basis 13) menjadi basis 2.
+-1000010100010011
+Ubah -2e8196 (basis 16) menjadi basis 5.
+-1240012310
+Ubah -80263 (basis 15) menjadi basis 6.
+-12405303
+Ubah 2c965 (basis 13) menjadi basis 8.
+246142
+623778 (basis 13) ke basis 6
+121050333
+Ubah 194974 (basis 11) menjadi basis 2.
+1001001000100110010
+-102020301032 (basis 4) ke basis 2
+-10010001000110001001110
+140743 (basis 8) ke basis 4
+30013203
+Apa 1022014 (basis 5) di basis 3?
+212111121
+Ubah -128719 (basis 13) menjadi basis 3.
+-211201102211
+210291 (basis 10) ke basis 12
+a1843
+Ubah 45532 (basis 7) menjadi basis 4.
+2311003
+14536310 (basis 8) ke basis 16
+32bcc8
+-1a114 (basis 16) ke basis 10
+-106772
+Ubah -32a364 (basis 13) menjadi basis 3.
+-2020122020221
+Apa 142534511 (basis 6) di basis 7?
+33650125
+Apa -12312430 (basis 5) di basis 10?
+-119740
+-30220123112 (basis 4) ke basis 3
+-20020020021102
+Ubah -29060 (basis 10) menjadi basis 6.
+-342312
+Apa -681a29 (basis 14) di basis 9?
+-6583546
+Apa 1080452 (basis 9) di basis 11?
+369aa2
+-4043365 (basis 7) ke basis 4
+-1311202033
+Ubah -115744 (basis 8) menjadi basis 12.
+-1b118
+-23345343 (basis 7) ke basis 4
+-13313121333
+Apa -11141402 (basis 5) di basis 13?
+-36449
+Apa -1407 (basis 9) di basis 12?
+-744
+Ubah -11531354 (basis 6) menjadi basis 7.
+-3066616
+36354d (basis 16) ke basis 11
+2007127
+Apa -2004325 (basis 6) di basis 2?
+-10111000001011101
+Apa -85ac7 (basis 14) di basis 16?
+-4ee6f
+Ubah 120124432 (basis 5) menjadi basis 8.
+2065673
+Apa -188362 (basis 12) di basis 16?
+-68bfa
+-134650 (basis 9) ke basis 10
+-82179
+Ubah 267bb (basis 15) menjadi basis 9.
+207055
+Ubah 8983387 (basis 10) menjadi basis 7.
+136233430
+16445b8 (basis 15) ke basis 5
+13114223143
+-393a28 (basis 13) ke basis 6
+-45321215
+120342645 (basis 7) ke basis 4
+130200130131
+-420333251 (basis 6) ke basis 16
+-6f7c3f
+Ubah -22110232 (basis 8) menjadi basis 9.
+-8847421
+Ubah -1101010111110000001 (basis 2) menjadi basis 8.
+-1527601
+Apa -39d506 (basis 14) di basis 13?
+-54b5ba
+a998370 (basis 11) ke basis 7
+323054221
+d910 (basis 15) ke basis 16
+b35b
+Apa -8b78f (basis 16) di basis 12?
+-236727
+Apa 12002212202000 (basis 3) di basis 5?
+1143321003
+Ubah 481c78 (basis 13) menjadi basis 3.
+10020021122001
+Apa 14261 (basis 15) di basis 10?
+64666
+Apa 50b33d (basis 14) di basis 7?
+32055606
+Ubah -3337543 (basis 9) menjadi basis 3.
+-10101021121110
+3333325 (basis 7) ke basis 2
+1100100100001110110
+236201114 (basis 7) ke basis 5
+12233141032
+Ubah -1514423 (basis 6) menjadi basis 8.
+-253457
+Ubah -71061 (basis 11) menjadi basis 15.
+-20baa
+Ubah 52830 (basis 11) menjadi basis 8.
+226104
+Ubah -200220201011 (basis 3) menjadi basis 14.
+-99975
+130330032 (basis 4) ke basis 6
+2312450
+Apa -50152 (basis 9) di basis 7?
+-165005
+Apa -1011101001001100011101 (basis 2) di basis 7?
+-34641612
+Apa 2055684 (basis 13) di basis 11?
+559a326
+Ubah 7c6a5 (basis 13) menjadi basis 14.
+5cc5a
+519919 (basis 10) ke basis 12
+210a67
+Ubah 4a6067 (basis 13) menjadi basis 7.
+21110211
+Ubah a86c (basis 13) menjadi basis 2.
+101101101110100
+-2200312 (basis 5) ke basis 4
+-21023032
+-44643 (basis 8) ke basis 15
+-58bb
+Apa 21222020001 (basis 3) di basis 15?
+3174d
+Apa 4417065 (basis 8) di basis 15?
+186c3b
+-101210322330 (basis 4) ke basis 11
+-26678a7
+-453541 (basis 6) ke basis 11
+-26973
+-2102541 (basis 6) ke basis 3
+-12011112121
+Ubah 1111031113 (basis 5) menjadi basis 2.
+1001010011100101101101
+-d600aa (basis 14) ke basis 2
+-11011100011010001010110
+Apa 382c5 (basis 15) di basis 5?
+21221020
+Apa 76484 (basis 14) di basis 10?
+286276
+Apa -1044551101 (basis 6) di basis 4?
+-223212130231
+Apa 844120 (basis 10) di basis 8?
+3160530
+-21322244 (basis 5) ke basis 2
+-101100101000101000
+-73635 (basis 13) ke basis 15
+-41786
+Ubah 6335330 (basis 9) menjadi basis 11.
+1a05555
+Ubah 14b313 (basis 13) menjadi basis 15.
+a12a2
+-7434515 (basis 9) ke basis 2
+-1111001011100000100101
+Ubah 1b9b219 (basis 13) menjadi basis 11.
+52095a7
+Apa 32643 (basis 14) di basis 6?
+2340403
+Apa 35438406 (basis 9) di basis 8?
+101676671
+5800427 (basis 9) ke basis 11
+1848636
+Ubah -1a76b19 (basis 12) menjadi basis 6.
+-320411233
+-220010011112 (basis 3) ke basis 13
+-1380b6
+Apa 844388 (basis 9) di basis 3?
+221111102222
+-25e2d8 (basis 16) ke basis 8
+-11361330
+214221331 (basis 5) ke basis 16
+e2f37
+Ubah 20161 (basis 7) menjadi basis 9.
+6637
+Ubah 90114 (basis 11) menjadi basis 13.
+48067
+-2065142 (basis 7) ke basis 5
+-31021443
+Apa 12743716 (basis 9) di basis 6?
+342440023
+Apa 2753a82 (basis 11) di basis 5?
+2203431402
+Ubah 2222012112 (basis 4) menjadi basis 10.
+696726
+1d588 (basis 16) ke basis 8
+352610
+Ubah -2bdb7 (basis 15) menjadi basis 6.
+-3010544
+202600 (basis 13) ke basis 8
+2664732
+Ubah -18344c (basis 13) menjadi basis 16.
+-94388
+Apa -100022011112 (basis 3) di basis 15?
+-393bb
+Ubah -201330243 (basis 5) menjadi basis 4.
+-3011110012
+Ubah -20060661 (basis 9) menjadi basis 3.
+-200002000202001
+Ubah 97174 (basis 14) menjadi basis 9.
+616023
+Ubah -11001111011000010110100 (basis 2) menjadi basis 13.
+-153c096
+Ubah -141514 (basis 8) menjadi basis 3.
+-2112120201
+Apa 122472 (basis 8) di basis 16?
+a53a
+Apa -433140440 (basis 6) di basis 9?
+-15453006
+Ubah -1314430311 (basis 5) menjadi basis 6.
+-154145321
+-444444 (basis 7) ke basis 11
+-53a22
+30841484 (basis 9) ke basis 11
+8422033
+Ubah 12a79 (basis 13) menjadi basis 6.
+424505
+Apa 538a26 (basis 13) di basis 14?
+390b54
+cc193 (basis 13) ke basis 9
+622627
+7a23b0 (basis 13) ke basis 11
+16a4095
+Apa -11140511 (basis 6) di basis 12?
+-144737
+Ubah -153b3 (basis 15) menjadi basis 16.
+-10af7
+Ubah 1451258 (basis 10) menjadi basis 5.
+332420013
+Apa 67357 (basis 10) di basis 2?
+10000011100011101
+130221223 (basis 4) ke basis 9
+187874
+Ubah -230314 (basis 7) menjadi basis 16.
+-a00f
+Apa -192557a (basis 13) di basis 12?
+-29130a3
+Ubah -14412 (basis 15) menjadi basis 8.
+-177022
+Apa 3102320 (basis 6) di basis 12?
+719a0
+Apa 1d144 (basis 16) di basis 11?
+81540
+Ubah 31241240 (basis 5) menjadi basis 13.
+90b2b
+Ubah 3957a (basis 11) menjadi basis 4.
+31310102
+-122322110 (basis 4) ke basis 5
+-12011403
+122751 (basis 8) ke basis 5
+2324343
+Ubah 5431425 (basis 6) menjadi basis 4.
+1001211221
+28430c (basis 14) ke basis 16
+154778
+-32145405 (basis 7) ke basis 12
+-aba3a6
+Ubah -72177301 (basis 8) menjadi basis 5.
+-12402111234
+Ubah -10103011213 (basis 4) menjadi basis 16.
+-113167
+Ubah 601356 (basis 7) menjadi basis 12.
+4a7b9
+12011234400 (basis 5) ke basis 9
+27823763
+332322121130 (basis 4) ke basis 11
+9344860
+-2111060 (basis 11) ke basis 10
+-3720211
+Ubah a2e8ce (basis 15) menjadi basis 16.
+762af4
+-12230100 (basis 5) ke basis 4
+-130230111
+Ubah -15cf3 (basis 16) menjadi basis 5.
+-10324311
+50162 (basis 13) ke basis 9
+237208
+Ubah -1242d (basis 14) menjadi basis 11.
+-30673
+Ubah 1828a (basis 16) menjadi basis 12.
+49322
+1563063 (basis 7) ke basis 15
+44529
+Ubah -3288501 (basis 11) menjadi basis 16.
+-57f82f
+Ubah 1b9a9c1 (basis 13) menjadi basis 4.
+203010010301
+-102101020010 (basis 3) ke basis 12
+-a9740
+Apa -121210222221 (basis 3) di basis 4?
+-1100303110

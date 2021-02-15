@@ -1,0 +1,2000 @@
+Misalkan -7*q + 2*q = 60. Misalkan s be (q/20)/(1/(-5)). Misalkan s*a = 18893 + 51007. Bulatkan a ke paling dekat 1000.
+23000
+Misalkan 0 = 4*q - 4*q + 16*q + 149200. Bulatkan q ke paling dekat 1000.
+-9000
+Misalkan h = -216.24 - -216. Misalkan w = -19 + 17.65. Misalkan g = w - h. Bulatkan g ke satu desimal.
+-1.1
+Misalkan p = 1160 + -1128.88. Misalkan b = -31 + p. Misalkan z = 2.52 - b. Berapakah z dibulatkan menjadi nol desimal?
+2
+Misalkan x = 0.36755 - 0.271. Berapakah x dibulatkan menjadi tiga desimal?
+0.097
+Misalkan y = -29.37208 + 29.43. Bulatkan y ke tiga desimal.
+0.058
+Misalkan g = -451 + 231. Misalkan c = -211 + g. Misalkan p = c + 431.0267. Bulatkan p ke 3 desimal.
+0.027
+Misalkan d = 3.3 - 5.548. Berapakah d dibulatkan menjadi 1 desimal?
+-2.2
+Misalkan g(z) = 299*z**3 + 8 - 14*z**2 + 23*z**2 - 13*z + 286*z**3. Misalkan y = 4 + 4. Misalkan c be g(y). Berapakah c dibulatkan menjadi paling dekat 100000?
+300000
+Misalkan j = -132254.5699769 + 132253.8. Misalkan z = 0.77 + j. Berapakah z dibulatkan menjadi enam desimal?
+0.000023
+Misalkan w be (-1 + 3)*(10/(-2) - -3). Misalkan t be (-3)/(-18)*-2918 - w/12. Bulatkan t ke paling dekat 10.
+-490
+Misalkan t = 3640 - 3640.13712. Bulatkan t ke dua desimal.
+-0.14
+Misalkan y = 1290 - 1207.18. Bulatkan y ke bilangan terdekat.
+83
+Misalkan g be (-1)/6 + (-14)/((-1176)/88382). Bulatkan g ke paling dekat sepuluh.
+1050
+Misalkan q be (-3 - -4)/(16/(-7899200)). Berapakah q dibulatkan menjadi paling dekat 100000?
+-500000
+Misalkan d = 577 - 576.8445. Misalkan q = 12.2255 - d. Berapakah q dibulatkan menjadi bilangan terdekat?
+12
+Misalkan v = -6.54 - -5.3. Misalkan o = -1.038 - v. Bulatkan o ke 2 desimal.
+0.2
+Misalkan t = 1.95 + -2.11. Misalkan s = -360625 - -360625.1599948. Misalkan v = t + s. Berapakah v dibulatkan menjadi enam desimal?
+-0.000005
+Misalkan g = -28998 - -51327. Misalkan -4*f + 8613 = 4*y - 36015, 2*y - 3*f = g. Bulatkan y ke paling dekat satu ribu.
+11000
+Misalkan j = 0.583479839 - 0.58344. Bulatkan j ke 7 desimal.
+0.0000398
+Misalkan p = 18.53 - -0.47. Misalkan i = p + -7. Misalkan d = 12.03 - i. Bulatkan d ke dua desimal.
+0.03
+Misalkan z be 1/(-1) + -2 + 1911. Misalkan g = 7329 + -12027. Misalkan s = z + g. Bulatkan s ke paling dekat 100.
+-2800
+Misalkan -1418565 - 257349 = -6*o. Misalkan q be (1837276/(-12))/(2/6). Misalkan f = o + q. Berapakah f dibulatkan menjadi paling dekat 10000?
+-180000
+Misalkan a = -4.849 - 412.351. Berapakah a dibulatkan menjadi paling dekat sepuluh?
+-420
+Misalkan o = 290 - 130. Misalkan 153*m = o*m + 24150. Berapakah m dibulatkan menjadi paling dekat satu ratus?
+-3500
+Misalkan p = 3660 + -3661.91. Berapakah p dibulatkan menjadi 0 desimal?
+-2
+Misalkan y = -92038564 - -92038569.58999522. Misalkan v = y + -5.59. Berapakah v dibulatkan menjadi 6 desimal?
+-0.000005
+Misalkan h = -688 - -696.77. Misalkan a = h - 8.5. Berapakah a dibulatkan menjadi satu desimal?
+0.3
+Misalkan h = -50.1 - 21.7. Misalkan y = h + 79. Misalkan p = 8.13 - y. Berapakah p dibulatkan menjadi 1 desimal?
+0.9
+Misalkan -153*r - 13200840 = -99*r. Bulatkan r ke paling dekat satu ribu.
+-244000
+Misalkan s = 8.9 - 15. Misalkan u = 6.1105 + s. Bulatkan u ke dua desimal.
+0.01
+Misalkan z be ((-9607563 + 0)/(-3))/(6/90). Misalkan 7*r + 12162185 + z = 0. Bulatkan r ke paling dekat satu juta.
+-9000000
+Misalkan g = 0.3806 + -0.31358. Bulatkan g ke dua desimal.
+0.07
+Misalkan k = -314.7 + 1582.7. Misalkan a = k - 1268.0511. Bulatkan a ke 3 desimal.
+-0.051
+Misalkan d be (266235/(-1))/3 + -2. Misalkan p = -51456 - d. Misalkan p + 4662709 = -h. Berapakah h dibulatkan menjadi paling dekat 1000000?
+-5000000
+Misalkan d = -103 - 190. Misalkan v = d - -292.999659. Bulatkan v ke lima desimal.
+-0.00034
+Misalkan l = 2566 - 2566.000403. Berapakah l dibulatkan menjadi 3 desimal?
+0
+Misalkan l = 3181 - 3180.99978515. Berapakah l dibulatkan menjadi 5 desimal?
+0.00021
+Misalkan u = 30.74 + -0.24. Misalkan h = 38 - u. Misalkan m = 4.6 - h. Berapakah m dibulatkan menjadi bilangan terdekat?
+-3
+Misalkan c = -3225.997302 + 3226. Bulatkan c ke 4 desimal.
+0.0027
+Misalkan z = -4.5964 - 0.0386. Misalkan p = 128.205 + z. Misalkan r = -123 + p. Berapakah r dibulatkan menjadi 1 desimal?
+0.6
+Misalkan q = 6.35 - 11.97. Misalkan y = q - 1.68. Misalkan s = y + 7.3000066. Berapakah s dibulatkan menjadi 6 desimal?
+0.000007
+Misalkan j = -4167 + 4167.00198. Bulatkan j ke 3 desimal.
+0.002
+Misalkan a = -1859 + 1845.46. Berapakah a dibulatkan menjadi 1 desimal?
+-13.5
+Misalkan y = -0.097 - 48.903. Misalkan k = 14593 - 14544.048. Misalkan w = k + y. Bulatkan w ke 2 desimal.
+-0.05
+Misalkan x = -445.74997 - -0.01997. Misalkan r = -449 - x. Berapakah r dibulatkan menjadi satu desimal?
+-3.3
+Misalkan v be (-4)/5 - ((-2851152)/(-60) - 10). Bulatkan v ke paling dekat 1000.
+-48000
+Misalkan f = -2073 + 2072.999997671. Berapakah f dibulatkan menjadi 7 desimal?
+-0.0000023
+Misalkan g = 4432.0003762 + -4432. Berapakah g dibulatkan menjadi 4 desimal?
+0.0004
+Misalkan z = 2442 - 2441.999995667. Bulatkan z ke enam desimal.
+0.000004
+Misalkan n = 88.172 + -89. Misalkan h = 5.338 + n. Misalkan z = h - 4.9. Berapakah z dibulatkan menjadi satu desimal?
+-0.4
+Misalkan i = 304.7 - 310.292. Berapakah i dibulatkan menjadi 0 desimal?
+-6
+Misalkan t = 708217.67 - 708152.169551. Misalkan w = 65.5 - t. Bulatkan w ke 4 desimal.
+-0.0004
+Misalkan y = -1 + 3. Misalkan y*j = j + 2*n + 4839994, -4*j - n = -19360012. Misalkan r be (-20)/110 + j/11. Berapakah r dibulatkan menjadi paling dekat 100000?
+400000
+Misalkan b(f) = -48062*f. Misalkan t be b(-1). Misalkan 4*z - t = 261874. Misalkan h = 192516 + z. Berapakah h dibulatkan menjadi paling dekat 100000?
+300000
+Misalkan f be 6 - -2683 - (4 - 2). Misalkan y be f - 2/(-1)*1. Misalkan 4*l = -2*v + 4832, 2*l - y + 249 = 5*v. Berapakah l dibulatkan menjadi paling dekat 100?
+1200
+Misalkan w = 165 - 34.5. Misalkan s = -181 + w. Bulatkan s ke bilangan terdekat.
+-51
+Misalkan n = -159887514676 - -159887514812.999999978. Misalkan x = 137 - n. Berapakah x dibulatkan menjadi 7 desimal?
+0
+Misalkan v = 3507.18 + -3542. Bulatkan v ke 0 desimal.
+-35
+Misalkan -8*k = -336 + 72. Misalkan j = -5 + k. Misalkan i be 4/(j - 4) - (-34199)/6. Bulatkan i ke paling dekat 1000.
+6000
+Misalkan n = 11607 + -16930. Bulatkan n ke paling dekat satu ribu.
+-5000
+Misalkan l = -1.3931 + 0.0531. Misalkan f = -72492.34228 + 72491. Misalkan x = l - f. Bulatkan x ke empat desimal.
+0.0023
+Misalkan n = -0.014 - 28.986. Misalkan h = n - -29.46. Misalkan t = h + -0.58. Berapakah t dibulatkan menjadi 1 desimal?
+-0.1
+Misalkan v(u) = -u**2 - 14*u - 21. Misalkan x be v(-12). Misalkan -x*r = -q + 2*r - 499020, -4*r - 1995984 = 4*q. Bulatkan q ke paling dekat 10000.
+-500000
+Misalkan a be (20 - 1176552/24) + 7/(-1). Berapakah a dibulatkan menjadi paling dekat satu ribu?
+-49000
+Misalkan f = -30.1171 + 0.0571. Misalkan w = f - -30. Misalkan k = w - -0.061. Berapakah k dibulatkan menjadi 2 desimal?
+0
+Misalkan g = 53232093825 + -53232094070.43150027. Misalkan l = g - -245.4455. Misalkan k = 0.014 - l. Berapakah k dibulatkan menjadi tujuh desimal?
+0.0000003
+Misalkan w = -4409.436 + 4395. Bulatkan w ke 1 desimal.
+-14.4
+Misalkan g = 8803 - 9515.8. Bulatkan g ke paling dekat sepuluh.
+-710
+Misalkan s = 0.6412476 + -0.6389. Bulatkan s ke 4 desimal.
+0.0023
+Misalkan x = 20313 - 18127.2. Bulatkan x ke paling dekat satu ratus.
+2200
+Misalkan s = -0.052 - -10.402. Misalkan z = 0.17 + 10.83. Misalkan a = s - z. Berapakah a dibulatkan menjadi 1 desimal?
+-0.7
+Misalkan 1045738 = -2*x - l + 50738, x - l + 497500 = 0. Berapakah x dibulatkan menjadi paling dekat 10000?
+-500000
+Misalkan k = -0.328 + 0.328003996. Bulatkan k ke 6 desimal.
+0.000004
+Misalkan t = 19 + 14. Misalkan i = t - -28. Misalkan x = -60.9862 + i. Bulatkan x ke tiga desimal.
+0.014
+Misalkan h = 21571501 + -21571474.0000168. Misalkan z = h - 27. Bulatkan z ke 5 desimal.
+-0.00002
+Misalkan j = 2795509.9507 - 2795221. Misalkan k = j - 289. Bulatkan k ke tiga desimal.
+-0.049
+Misalkan s = -1.67 - -3.017. Berapakah s dibulatkan menjadi nol desimal?
+1
+Misalkan z = -940 + 1627.5. Bulatkan z ke paling dekat satu ratus.
+700
+Misalkan s = -113.15 + -0.85. Misalkan d = s + 137.8. Misalkan p = 23.681 - d. Berapakah p dibulatkan menjadi dua desimal?
+-0.12
+Misalkan 6*f = 5*s + 221712, s - 2*f + 909 = -43435. Berapakah s dibulatkan menjadi paling dekat 10000?
+-40000
+Misalkan 3*p = 2*o - 293789990, 17*o = -3*p + 14*o - 293790015. Berapakah p dibulatkan menjadi paling dekat satu juta?
+-98000000
+Misalkan g = -1.16 - -1.06976. Misalkan o = g + 0.095. Bulatkan o ke empat desimal.
+0.0048
+Misalkan c = -12946 + 12945.9999989386. Bulatkan c ke 7 desimal.
+-0.0000011
+Misalkan z = 411 + -221. Misalkan z = -2*c + 5*x + 21, c - 3*x + 84 = 0. Bulatkan c ke paling dekat 10.
+-90
+Misalkan y = -27712.11969 + 27712. Berapakah y dibulatkan menjadi 3 desimal?
+-0.12
+Misalkan f(h) = h**2 - 4*h - 1399996. Misalkan y be f(0). Misalkan l be y + (170/(-40) - 1/(-4)). Berapakah l dibulatkan menjadi paling dekat satu ratus ribu?
+-1400000
+Misalkan s(h) = -h**3 - 2*h**2 - 14. Misalkan y be s(0). Misalkan m = y - -17. Misalkan i = 74 - m. Bulatkan i ke paling dekat 10.
+70
+Misalkan -5*n = -2*p + 34453, -2*p + 5*n - n = -34448. Misalkan a = -20884 - p. Misalkan y = a + 15798. Bulatkan y ke paling dekat 1000.
+-22000
+Misalkan p = -689.96 - -624. Misalkan j = 5.64 - p. Bulatkan j ke paling dekat 10.
+70
+Misalkan x = 5360 - 5359.82924. Bulatkan x ke 3 desimal.
+0.171
+Misalkan h = -21.334 - 0.166. Misalkan c = h - -21.572. Bulatkan c ke satu desimal.
+0.1
+Misalkan f = 20.5 - -0.5. Misalkan m = -3.1 - f. Misalkan b = -25 - m. Bulatkan b ke bilangan terdekat.
+-1
+Misalkan h = 3 + 1. Misalkan -59200000 = h*f + q, -3424656 = 2*f - 4*q + 26175344. Berapakah f dibulatkan menjadi paling dekat 1000000?
+-15000000
+Misalkan h = -3.02 - -2.6. Misalkan z = h + -0.08. Misalkan u = 0.500072 + z. Berapakah u dibulatkan menjadi lima desimal?
+0.00007
+Misalkan i = -47 + 49. Misalkan -20 = -i*r - 2*r. Misalkan -r*p = 14 + 11, 0 = -4*b - p - 560005. Berapakah b dibulatkan menjadi paling dekat 10000?
+-140000
+Misalkan h = -30800658.00542 + 30800334. Misalkan t = h + 324. Berapakah t dibulatkan menjadi 4 desimal?
+-0.0054
+Misalkan y = 15467.5176365915 - 0.0946425915. Misalkan p = y + -15454.423. Misalkan u = p + -13. Berapakah u dibulatkan menjadi 6 desimal?
+-0.000006
+Misalkan s(d) = 11988053*d - 38. Misalkan f be s(12). Misalkan l - 91600001 = -4*z, -5*z - 29356600 = -2*l - f. Bulatkan z ke paling dekat satu juta.
+23000000
+Misalkan s = -39.89 - -0.89. Misalkan j = 80 + s. Misalkan d = j + -40.9999959. Berapakah d dibulatkan menjadi enam desimal?
+0.000004
+Misalkan p = -75025.910967 - -75026. Misalkan t = -785.363967 - p. Misalkan i = -785 - t. Berapakah i dibulatkan menjadi 2 desimal?
+0.45
+Misalkan o = 567.86555 - 568. Berapakah o dibulatkan menjadi 2 desimal?
+-0.13
+Misalkan h = 84 - 45. Misalkan n = -33 + h. Misalkan j(g) = 1450002*g - 12. Misalkan y be j(n). Bulatkan y ke paling dekat 1000000.
+9000000
+Misalkan r = -18 + 17.4. Misalkan o = 0.9 - 1.645. Misalkan w = o - r. Bulatkan w ke 2 desimal.
+-0.15
+Misalkan s = 13.99 - 16.2. Misalkan d = -2.2 - s. Misalkan w = 0.00775 - d. Berapakah w dibulatkan menjadi empat desimal?
+-0.0023
+Misalkan v = 10 - 10.51. Misalkan g = v - 28.49. Misalkan t = -29.000121 - g. Bulatkan t ke 5 desimal.
+-0.00012
+Misalkan s be ((-2)/(-3))/(1/3). Misalkan i(n) = -40*n**3 - 4 - 7*n**2 + s - 3 - 3. Misalkan t be i(6). Bulatkan t ke paling dekat satu ribu.
+-9000
+Misalkan v = 189 + -201. Misalkan l = 9.9 + v. Bulatkan l ke satu desimal.
+-2.1
+Misalkan v = 13109.89769 + -13110. Berapakah v dibulatkan menjadi 3 desimal?
+-0.102
+Misalkan g = -2113 - -2113.0004072. Bulatkan g ke 5 desimal.
+0.00041
+Misalkan u = 39925 + -39925.0000018051. Bulatkan u ke tujuh desimal.
+-0.0000018
+Misalkan q = 565.04386 + -565. Bulatkan q ke dua desimal.
+0.04
+Misalkan h be 81/18 - 2/4. Misalkan 69022 - 3027 = -2*s - 5*j, -h*j + 4 = 0. Bulatkan s ke paling dekat 10000.
+-30000
+Misalkan a = 0.52 + -0.22. Misalkan c = 3.7 + a. Misalkan f = c - 4.0000052. Bulatkan f ke enam desimal.
+-0.000005
+Misalkan -2*x = -6*x + m + 65, m + 5 = 0. Misalkan x*b = 11*b - 387200. Bulatkan b ke paling dekat 1000.
+-97000
+Misalkan k = 0.229 + 53.771. Misalkan i = k + -53.9999584. Bulatkan i ke lima desimal.
+0.00004
+Misalkan d = -2242795948771 + 2242795738240.0510082. Misalkan l = -210531 - d. Misalkan b = l - -0.051. Berapakah b dibulatkan menjadi 6 desimal?
+-0.000008
+Misalkan y = 12903 + -12902.985509. Berapakah y dibulatkan menjadi empat desimal?
+0.0145
+Misalkan d = -31 - -26.7. Misalkan r = 2.2 + d. Misalkan l = -2.77 - r. Berapakah l dibulatkan menjadi satu desimal?
+-0.7
+Misalkan b = 4867 - 4866.999997807. Berapakah b dibulatkan menjadi tujuh desimal?
+0.0000022
+Misalkan 23*v + 1074515 = 28*v. Misalkan u = 307903 - v. Berapakah u dibulatkan menjadi paling dekat 10000?
+90000
+Misalkan y be (871/10 + 10/25)*(-601204800)/(-1421). Berapakah y dibulatkan menjadi paling dekat 1000000?
+37000000
+Misalkan a = -101315445 + 101315675.000484. Misalkan p = a + -230. Berapakah p dibulatkan menjadi 5 desimal?
+0.00048
+Misalkan o(w) = 1 - 2 + 72*w - 8*w. Misalkan b be o(1). Misalkan u be 188998/(-9) + (-14)/b. Bulatkan u ke paling dekat sepuluh ribu.
+-20000
+Misalkan l = 0.111 - -2.889. Misalkan n = 10068473 - 10068470.00000075. Misalkan q = l - n. Berapakah q dibulatkan menjadi 7 desimal?
+0.0000008
+Misalkan z = -21199 - -21199.00020169. Bulatkan z ke 6 desimal.
+0.000202
+Misalkan q = -1.612 + 1.02. Misalkan t = -0.08 + q. Berapakah t dibulatkan menjadi satu desimal?
+-0.7
+Misalkan j = 57 + -66.9. Misalkan c = -239490 - -239480.1131. Misalkan h = c - j. Berapakah h dibulatkan menjadi 3 desimal?
+0.013
+Misalkan k = 2564 - 2563.999983064. Bulatkan k ke tujuh desimal.
+0.0000169
+Misalkan b = -27.175 + 28. Misalkan h = b - 0.82151. Berapakah h dibulatkan menjadi tiga desimal?
+0.003
+Misalkan i be (-6 - (142 - 0))*-215. Berapakah i dibulatkan menjadi paling dekat satu ribu?
+32000
+Misalkan x = -711.87374 - -0.31374. Misalkan d = -724 - x. Misalkan m = -12 - d. Berapakah m dibulatkan menjadi 1 desimal?
+0.4
+Misalkan g = -75 - -38. Misalkan k = 79220.021 + -79257. Misalkan f = k - g. Bulatkan f ke 2 desimal.
+0.02
+Misalkan k = 870536 + -324036. Berapakah k dibulatkan menjadi paling dekat 10000?
+550000
+Misalkan s(r) = -143*r**3 + 14*r**2 - 54*r + 24. Misalkan t be s(-16). Berapakah t dibulatkan menjadi paling dekat satu ratus ribu?
+600000
+Misalkan m = 44777.000029763 - 44777. Bulatkan m ke tujuh desimal.
+0.0000298
+Misalkan n = 1873.800014369 - 1873.8. Bulatkan n ke enam desimal.
+0.000014
+Misalkan i(a) = -a**3 - 8*a**2 + 7*a - 14. Misalkan c be i(-9). Misalkan g be (2 - (-11)/(-2))*(c + -86). Bulatkan g ke paling dekat satu ratus.
+300
+Misalkan y = -0.762 + 4.532. Misalkan p = 8.83 - y. Berapakah p dibulatkan menjadi bilangan terdekat?
+5
+Misalkan t = 9503 + -9502.5947. Bulatkan t ke satu desimal.
+0.4
+Misalkan t = 139 + -138.98389. Misalkan k = 2.92061 - t. Misalkan x = 2.9 - k. Bulatkan x ke tiga desimal.
+-0.005
+Misalkan 389817 + 18001 - 16038 = -38*g. Bulatkan g ke paling dekat 10000.
+-10000
+Misalkan n = 238.00015015 - 238. Berapakah n dibulatkan menjadi 5 desimal?
+0.00015
+Misalkan s = 48.950009408 - 48.95. Bulatkan s ke enam desimal.
+0.000009
+Misalkan y = -2 - 0. Misalkan o = 0.1 - -1.907. Misalkan n = y + o. Bulatkan n ke 3 desimal.
+0.007
+Misalkan h = 3 + -2. Misalkan m = 546 - 548.1. Misalkan i = h - m. Berapakah i dibulatkan menjadi nol desimal?
+3
+Misalkan i = 33.326555 + -31.89655296. Misalkan h = -1.43 + i. Bulatkan h ke 6 desimal.
+0.000002
+Misalkan x(d) = 8724011*d - 4. Misalkan s be x(-1). Misalkan z = s - -25621498. Misalkan k = -9597483 + z. Bulatkan k ke paling dekat 1000000.
+7000000
+Misalkan c(g) = -3*g - 57. Misalkan s be c(-20). Misalkan 5*v - p - 1913 = p, 1145 = s*v - 4*p. Bulatkan v ke paling dekat sepuluh.
+380
+Misalkan -14*g + 3200 = -22*g. Misalkan t be g/((-10202)/1700 - -6). Berapakah t dibulatkan menjadi paling dekat satu juta?
+0
+Misalkan 98*m = 151*m + 151580. Bulatkan m ke paling dekat 10000.
+0
+Misalkan 0*k + 3*m = 2*k - 598391, 5*k + 5*m = 1496015. Misalkan -b + 12*b = -k. Berapakah b dibulatkan menjadi paling dekat 10000?
+-30000
+Misalkan u = 13809368 - 2133368. Berapakah u dibulatkan menjadi paling dekat 1000000?
+12000000
+Misalkan 0*o + 32 = 4*o. Misalkan -o*j = -7*j - 33. Misalkan w be (880000/j)/(2/84). Berapakah w dibulatkan menjadi paling dekat satu ratus ribu?
+1100000
+Misalkan b = 2766.04 - 2856. Berapakah b dibulatkan menjadi paling dekat 10?
+-90
+Misalkan n = 65 + 84. Misalkan s = n + -148.999987. Bulatkan s ke 4 desimal.
+0
+Misalkan d = 83.7 - 83.7007775. Berapakah d dibulatkan menjadi empat desimal?
+-0.0008
+Misalkan s(q) = -q**2 - 16*q + 62. Misalkan i be s(-19). Misalkan w - i*p - 13290 = 0, 0 = w - 6*w - 4*p + 66508. Bulatkan w ke paling dekat sepuluh ribu.
+10000
+Misalkan t be (48750/40)/((-3)/10272). Misalkan h be (7/(21/t))/(-1). Bulatkan h ke paling dekat 100000.
+1400000
+Misalkan j(t) = 13431*t**3 - 17*t**2 - 139*t - 32. Misalkan g be j(-32). Berapakah g dibulatkan menjadi paling dekat 1000000?
+-440000000
+Misalkan 55*f = 12*f - 20902300. Bulatkan f ke paling dekat 100000.
+-500000
+Misalkan c(n) = -9 - 16*n**2 + 112*n**2 + 77*n**2. Misalkan f be c(-3). Bulatkan f ke paling dekat satu ratus.
+1500
+Misalkan l = -3.33765 - -3.27. Berapakah l dibulatkan menjadi tiga desimal?
+-0.068
+Misalkan v = 0.047644454 - 0.04764. Berapakah v dibulatkan menjadi 6 desimal?
+0.000004
+Misalkan 3*r = -3*i - 39645, 52835 = -28*r + 24*r + i. Berapakah r dibulatkan menjadi paling dekat 10000?
+-10000
+Misalkan y = 15601 - 15583.418. Misalkan k = -0.318 - y. Misalkan l = k - -17.8893. Bulatkan l ke 3 desimal.
+-0.011
+Misalkan v = 3118.0012895 - 3118. Bulatkan v ke empat desimal.
+0.0013
+Misalkan q = -350.99 + 350. Misalkan o = 0.485 - -0.639. Misalkan b = o + q. Bulatkan b ke 2 desimal.
+0.13
+Misalkan z = -787 - -1264. Misalkan s = z - 169. Berapakah s dibulatkan menjadi paling dekat 100?
+300
+Misalkan w = -0.09395661 + 3.69395881. Misalkan r = -3.3 + -0.3. Misalkan q = w + r. Berapakah q dibulatkan menjadi tujuh desimal?
+0.0000022
+Misalkan k = 43176 - 43123.143. Misalkan z = 52.72 + 0.28. Misalkan v = z - k. Bulatkan v ke 2 desimal.
+0.14
+Misalkan 21780389 = 6*a + 6780449. Misalkan -2*i = 3*t + 5000006, i + 3*t = 8*t - a. Berapakah i dibulatkan menjadi paling dekat satu juta?
+-3000000
+Misalkan y = 0.01697 - 51.95697. Misalkan f = 4.26 - y. Bulatkan f ke paling dekat 10.
+60
+Misalkan v = -1207 - -1207.01221. Berapakah v dibulatkan menjadi dua desimal?
+0.01
+Misalkan -5*t + w - 65 = 87, 2*w = -3*t - 86. Misalkan k = t - -65. Misalkan h = k - 24. Berapakah h dibulatkan menjadi paling dekat sepuluh?
+10
+Misalkan m = -395.611855662 + 0.611794762. Misalkan d = -395 - m. Bulatkan d ke 5 desimal.
+0.00006
+Misalkan z = -29522 + 29510.8541. Misalkan b = z + 11.06. Berapakah b dibulatkan menjadi dua desimal?
+-0.09
+Misalkan 0 = 5*g - 4*s - 253 - 1767, -2020 = -5*g - 4*s. Misalkan -597 = 3*p - 3*r, 2*p + 9*r = 8*r - g. Bulatkan p ke paling dekat sepuluh.
+-200
+Misalkan a = -0.06 - 1.94. Misalkan f = -202.8 + a. Misalkan m = 181 + f. Berapakah m dibulatkan menjadi bilangan terdekat?
+-24
+Misalkan g = 215709.8775 - 215687.47750193. Misalkan u = g + -22.4. Bulatkan u ke 7 desimal.
+-0.0000019
+Misalkan f = -3.02064 + 3.11. Misalkan w = f + -0.09. Bulatkan w ke empat desimal.
+-0.0006
+Misalkan j = 0.0727 + -0.235. Bulatkan j ke satu desimal.
+-0.2
+Misalkan r = 0.41602 + -0.3857. Bulatkan r ke tiga desimal.
+0.03
+Misalkan k = 236 + -163. Misalkan h = k - 68.9. Misalkan r = h - 5.41. Berapakah r dibulatkan menjadi satu desimal?
+-1.3
+Misalkan x = -198181.61 - -199303. Misalkan m = x + -1116. Berapakah m dibulatkan menjadi satu desimal?
+5.4
+Misalkan s = -150 + 37. Misalkan v = s - -48. Misalkan q = 64.999846 + v. Berapakah q dibulatkan menjadi lima desimal?
+-0.00015
+Misalkan s be (-7 + 4/2)*2208789. Misalkan i(z) = -734241*z**2 + 44*z - 250. Misalkan y be i(5). Misalkan n = y + s. Bulatkan n ke paling dekat satu juta.
+-29000000
+Misalkan u(j) = 20153*j**2 - j + 15. Misalkan k be u(6). Misalkan 62483 = -4*h - k. Berapakah h dibulatkan menjadi paling dekat 10000?
+-200000
+Misalkan r = -888 - -408. Misalkan n = r + 480.00219. Bulatkan n ke empat desimal.
+0.0022
+Misalkan m = -791 - -790.99996098. Berapakah m dibulatkan menjadi 5 desimal?
+-0.00004
+Misalkan t = -0.0177 + -2.0923. Misalkan d = -2.1100052 - t. Bulatkan d ke enam desimal.
+-0.000005
+Misalkan p = 1086.1624 + -0.1624. Misalkan t = -1086.02042 + p. Berapakah t dibulatkan menjadi tiga desimal?
+-0.02
+Misalkan -167*f - 220080 = -181*f. Berapakah f dibulatkan menjadi paling dekat 10000?
+20000
+Misalkan c = -73.8 + -24.2. Misalkan s = 95.45 + c. Bulatkan s ke nol desimal.
+-3
+Misalkan z = 20.09 - 322.89. Berapakah z dibulatkan menjadi paling dekat sepuluh?
+-300
+Misalkan f = -147949.03 - 11216601.97. Misalkan v = -11364550.71000204 - f. Misalkan u = -0.29 + v. Berapakah u dibulatkan menjadi tujuh desimal?
+-0.000002
+Misalkan c(h) = -1533*h**2 + h - 6. Misalkan n be c(4). Misalkan k = 15740 + n. Bulatkan k ke paling dekat satu ribu.
+-9000
+Misalkan r = -54.4 - -542.4. Misalkan i = -455.9 + r. Misalkan n = 36 - i. Berapakah n dibulatkan menjadi nol desimal?
+4
+Misalkan c = -12.67890748628 - -0.04890567928. Misalkan b = 12.63 + c. Bulatkan b ke 7 desimal.
+-0.0000018
+Misalkan s be -898 + 112/14 + -6. Bulatkan s ke paling dekat 100.
+-900
+Misalkan n = -0.78 - -44.78. Misalkan q = n - 155. Misalkan h = q - -111.0083. Berapakah h dibulatkan menjadi 3 desimal?
+0.008
+Misalkan v(o) = o**3 + 20*o**2 - o - 20. Misalkan y be v(-20). Misalkan y = -5*r - 244 - 2446. Berapakah r dibulatkan menjadi paling dekat satu ratus?
+-500
+Misalkan k = 0.25 - -127.75. Misalkan i = 128.12 - k. Bulatkan i ke dua desimal.
+0.12
+Misalkan -5*i = -5*d - i + 33318802, 0 = 2*d + 5*i - 13327501. Misalkan m = d + 8636242. Berapakah m dibulatkan menjadi paling dekat 1000000?
+15000000
+Misalkan b = 152 + -152.006. Misalkan p = -25.706 - b. Berapakah p dibulatkan menjadi nol desimal?
+-26
+Misalkan x = 15.147 - 15.1463583. Bulatkan x ke 5 desimal.
+0.00064
+Misalkan q = -2052799.0262 - -2052991. Misalkan f = -192 + q. Berapakah f dibulatkan menjadi 2 desimal?
+-0.03
+Misalkan x(y) = -833004*y - 36. Misalkan k be x(-9). Bulatkan k ke paling dekat 1000000.
+7000000
+Misalkan n(j) = -j**3 - 7*j**2 + 31*j + 77. Misalkan f be n(-37). Misalkan z be ((-996)/(-10))/(24/f). Bulatkan z ke paling dekat 10000.
+170000
+Misalkan v(b) = -389460*b - 860. Misalkan u be v(9). Bulatkan u ke paling dekat sepuluh ribu.
+-3510000
+Misalkan x = 246.898 + -189.32631. Misalkan q = 57.3106769 - x. Misalkan p = 0.261 + q. Bulatkan p ke 6 desimal.
+-0.000013
+Misalkan s = -742 + 742.0000015666. Bulatkan s ke tujuh desimal.
+0.0000016
+Misalkan w be (-3083608)/33 + 2/(-6). Misalkan a = 24843 + w. Berapakah a dibulatkan menjadi paling dekat 10000?
+-70000
+Misalkan 3*l - 2*y = 405595, l + 3*l + 3*y - 540799 = 0. Misalkan 7*u + 12501 = -l. Berapakah u dibulatkan menjadi paling dekat 10000?
+-20000
+Misalkan t = -82 + 81.49. Misalkan w = -1.343 + -17.747. Misalkan k = t + w. Bulatkan k ke 0 desimal.
+-20
+Misalkan n = -9547 + 9547.10987. Bulatkan n ke dua desimal.
+0.11
+Misalkan y = 88.16 + -90. Misalkan g = y - -2.57. Berapakah g dibulatkan menjadi satu desimal?
+0.7
+Misalkan h = 157.7 - -29.3. Misalkan w = 185.68 - h. Berapakah w dibulatkan menjadi satu desimal?
+-1.3
+Misalkan d = 22 - 17.6. Misalkan w = 37.6 + d. Misalkan v = -41.9999902 + w. Bulatkan v ke enam desimal.
+0.00001
+Misalkan w = -771.78 - -772.57334. Misalkan q = 117.13566 + w. Misalkan b = -118 + q. Berapakah b dibulatkan menjadi dua desimal?
+-0.07
+Misalkan g = 64.429 + -64.2329504. Misalkan b = -0.196 + g. Berapakah b dibulatkan menjadi 5 desimal?
+0.00005
+Misalkan i be (60/(-7))/((-1379792)/2299920 - 18/(-30)). Berapakah i dibulatkan menjadi paling dekat 10000?
+-120000
+Misalkan u = -12.47 - 0.63. Misalkan x = 11.79 + u. Misalkan n = x - -1.3266. Berapakah n dibulatkan menjadi 3 desimal?
+0.017
+Misalkan -2*w + 3513975 = 5*t, -93259 = -w + t + 1663746. Bulatkan w ke paling dekat satu juta.
+2000000
+Misalkan i = -224.1 - -224.0325. Misalkan z = -128.051 + 128. Misalkan g = z - i. Berapakah g dibulatkan menjadi 3 desimal?
+0.017
+Misalkan u = -63 - -87. Misalkan c = 24.083 - u. Bulatkan c ke dua desimal.
+0.08
+Misalkan q = -3592.98954 + 3593. Bulatkan q ke empat desimal.
+0.0105
+Misalkan -5*j = -z + 252297, -4*z + 100905 = -2*j + z. Berapakah j dibulatkan menjadi paling dekat sepuluh ribu?
+-50000
+Misalkan w(g) = 12 - 14*g. Misalkan m be w(4). Misalkan q = m + 44. Misalkan a be q/(0/(-2) - 1). Berapakah a dibulatkan menjadi bilangan terdekat?
+0
+Misalkan x = 2460.005491 + -2460. Bulatkan x ke 4 desimal.
+0.0055
+Misalkan n = -584618926.70000021 - -584618923. Misalkan k = -44.3 + 48. Misalkan u = k + n. Berapakah u dibulatkan menjadi 7 desimal?
+-0.0000002
+Misalkan a = 40.59 - 41. Misalkan y = 185.7 - 185.4. Misalkan h = y + a. Berapakah h dibulatkan menjadi 1 desimal?
+-0.1
+Misalkan d = 0.03074 - 223.79874. Misalkan o = d + 224. Bulatkan o ke 1 desimal.
+0.2
+Misalkan 3*v + 119480 = -4*a, -a + 29*v = 25*v + 29870. Berapakah a dibulatkan menjadi paling dekat satu ribu?
+-30000
+Misalkan r = 3804.000005134 + -3804. Bulatkan r ke 7 desimal.
+0.0000051
+Misalkan w(c) = -80*c**2 + 5*c + 104. Misalkan u be w(-7). Bulatkan u ke paling dekat satu ratus.
+-3900
+Misalkan z = -16967 + 30327. Berapakah z dibulatkan menjadi paling dekat sepuluh ribu?
+10000
+Misalkan 0 = -4*w - 8, 3*w = 29*b - 25*b - 693760006. Bulatkan b ke paling dekat 1000000.
+173000000
+Misalkan a be -2*(-5 - -7 - (-62)/(-4)). Misalkan f = a + -30. Misalkan z be (3 + (0 - 11491/f))*-1800. Bulatkan z ke paling dekat satu juta.
+-7000000
+Misalkan f = -1538785.92232 + 1538838. Misalkan z = 52.1 - f. Bulatkan z ke 3 desimal.
+0.022
+Misalkan f be -52634*-1*(1 + -2) + -1. Misalkan d = 75135 + f. Bulatkan d ke paling dekat 1000.
+23000
+Misalkan f be (536/6)/((-7)/2047500*-1). Berapakah f dibulatkan menjadi paling dekat satu juta?
+26000000
+Misalkan l = -4.8644017 - -4.864. Berapakah l dibulatkan menjadi 5 desimal?
+-0.0004
+Misalkan 5*j - 1 = -86. Misalkan t be -4*(3 + (j - -6)). Berapakah t dibulatkan menjadi paling dekat 10?
+30
+Misalkan t = -3375530 + 3375497.00234. Misalkan y = -33 - t. Bulatkan y ke empat desimal.
+-0.0023
+Misalkan i = -0.31954 + 0.31969299. Bulatkan i ke lima desimal.
+0.00015
+Misalkan l(z) = 777*z - 12. Misalkan s be l(-14). Misalkan o = -25310 - s. Bulatkan o ke paling dekat satu ribu.
+-14000
+Misalkan 0 = -14*d + 17*d - 12. Misalkan 2*l - 647998 = d*k, -3*l = k - 0*k + 162003. Bulatkan k ke paling dekat 10000.
+-160000
+Misalkan n = 541731 + -287031. Berapakah n dibulatkan menjadi paling dekat 100000?
+300000
+Misalkan o = 8496407 - 8496408.94999575. Misalkan r = o + 1.95. Berapakah r dibulatkan menjadi 7 desimal?
+0.0000043
+Misalkan y = -2.648 + 2.9221. Berapakah y dibulatkan menjadi dua desimal?
+0.27
+Misalkan j = -0.8431 + 0.84282807. Bulatkan j ke lima desimal.
+-0.00027
+Misalkan u = -918069 + 298310. Misalkan z = -619763.599896 - u. Misalkan m = z - -4.6. Bulatkan m ke 5 desimal.
+0.0001
+Misalkan d = -250.688 - -162.6. Misalkan j = 88 + d. Berapakah j dibulatkan menjadi satu desimal?
+-0.1
+Misalkan c = -122.4 - 33.62. Misalkan p = 160 + c. Bulatkan p ke satu desimal.
+4
+Misalkan y = 22 + -40. Misalkan q = 15 + y. Misalkan h = q - -2.999979. Bulatkan h ke lima desimal.
+-0.00002
+Misalkan y = 45.969999117 + -45.97. Bulatkan y ke 6 desimal.
+-0.000001
+Misalkan r(d) = -2313*d**3 + 10*d**2 + 6. Misalkan p be r(-9). Misalkan a be 5/((-1)/2 - p/(-3374000)). Berapakah a dibulatkan menjadi paling dekat 100000?
+-2400000
+Misalkan b = 342.1413 - 342. Bulatkan b ke satu desimal.
+0.1
+Misalkan g = 4488.1531 + -4489. Berapakah g dibulatkan menjadi satu desimal?
+-0.8
+Misalkan o = -0.0847335 + 0.087. Bulatkan o ke lima desimal.
+0.00227
+Misalkan x be (-88656690)/24 + 5 + 3/4. Misalkan -5*j + 4*j = -12605977. Misalkan a = x - j. Berapakah a dibulatkan menjadi paling dekat 1000000?
+-16000000
+Misalkan d = -528.7 + 28.9. Misalkan g = -471.43 - d. Misalkan w = 27 - g. Berapakah w dibulatkan menjadi 1 desimal?
+-1.4
+Misalkan 5*j = -2*c + 3 - 9, c - 8 = 3*j. Misalkan s be c*3015001 - (-6)/(-3). Bulatkan s ke paling dekat 1000000.
+6000000
+Misalkan v = -18.9 - 142.1. Misalkan q = v + 160.9999851. Berapakah q dibulatkan menjadi 6 desimal?
+-0.000015
+Misalkan k = -2630.6269 + 2631. Misalkan j = -0.415 + k. Misalkan o = -0.037 - j. Bulatkan o ke 3 desimal.
+0.005
+Misalkan v = 1474 - 1524. Misalkan l = 1926807424.00000002 - 1926807474. Misalkan z = l - v. Bulatkan z ke 7 desimal.
+0
+Misalkan k = -410801 + 23901. Berapakah k dibulatkan menjadi paling dekat sepuluh ribu?
+-390000
+Misalkan g = 4011 + -4010.7524. Bulatkan g ke satu desimal.
+0.2
+Misalkan -108360010 = 32*c + 98935990. Berapakah c dibulatkan menjadi paling dekat satu ratus ribu?
+-6500000
+Misalkan h = 16.8 + -62.8. Misalkan k = 1612020.00006 + -1612066. Misalkan g = k - h. Berapakah g dibulatkan menjadi 4 desimal?
+0.0001
+Misalkan y = -5771 + 5771.00017558. Bulatkan y ke enam desimal.
+0.000176
+Misalkan o = 0 + -2. Misalkan b be 0/(-7) - 8/o. Misalkan 22198877 = -b*m - 4201123. Berapakah m dibulatkan menjadi paling dekat 1000000?
+-7000000
+Misalkan b = -85.4 - -102. Misalkan z = b - 16.60000005. Berapakah z dibulatkan menjadi 7 desimal?
+-0.0000001
+Misalkan v = -18101.556 + 18033. Misalkan k = v - -68.905994. Misalkan n = 0.35 - k. Berapakah n dibulatkan menjadi enam desimal?
+0.000006
+Misalkan i = -22136.26 + 20530.571. Misalkan q = i - -1597.9. Misalkan l = -7.9 - q. Berapakah l dibulatkan menjadi 2 desimal?
+-0.11
+Misalkan f be 168/448 + ((-471760015)/(-8))/(-5). Bulatkan f ke paling dekat 1000000.
+-12000000
+Misalkan p = -3470 - -3369.59. Bulatkan p ke nol desimal.
+-100
+Misalkan b = 6.629832 - 134444.979832. Misalkan q = b + 134439.64999976. Misalkan j = q - 1.3. Berapakah j dibulatkan menjadi tujuh desimal?
+-0.0000002
+Misalkan x = 2.1 - -128.9. Misalkan h = 130.9999991 - x. Bulatkan h ke tujuh desimal.
+-0.0000009
+Misalkan f = -571 + 571.005504. Bulatkan f ke empat desimal.
+0.0055
+Misalkan -5*u = 2*w - 74742000, 4*w - 2*u + 6*u = 149484000. Berapakah w dibulatkan menjadi paling dekat satu juta?
+37000000
+Misalkan x(l) = 213*l**3 + 19*l**2 - 33*l - 39. Misalkan y be x(11). Bulatkan y ke paling dekat 10000.
+290000
+Misalkan o be -2*(2 - 1 - (-2 - -2)). Misalkan u(p) = -1250001*p**2 + p + 6. Misalkan c be u(o). Berapakah c dibulatkan menjadi paling dekat 1000000?
+-5000000
+Misalkan m = 4483.04675 + -4483. Berapakah m dibulatkan menjadi 2 desimal?
+0.05
+Misalkan k = 1.786331 - 0.967104. Misalkan t = k - 0.818. Bulatkan t ke 4 desimal.
+0.0012
+Misalkan -i - 92433663 = 4*t, 7*t + 2*i = 6*t - 23108414. Misalkan l = t + -12291584. Berapakah l dibulatkan menjadi paling dekat 1000000?
+-35000000
+Misalkan p = 142.960678 - -45.03933. Misalkan w = p - 188. Bulatkan w ke 6 desimal.
+0.000008
+Misalkan j = -16664755.99882 - -16664622. Misalkan g = j - -134. Bulatkan g ke 4 desimal.
+0.0012
+Misalkan s(n) = 40501*n - 1446. Misalkan p be s(-4). Berapakah p dibulatkan menjadi paling dekat sepuluh ribu?
+-160000
+Misalkan n = -56.61 + 57. Misalkan l = 16.81 + n. Berapakah l dibulatkan menjadi bilangan terdekat?
+17
+Misalkan l = 8 + -17.1. Misalkan u = l + 9.099999125. Berapakah u dibulatkan menjadi 7 desimal?
+-0.0000009
+Misalkan x = 0.229 + -0.417. Misalkan n = x - -0.1880061. Bulatkan n ke 7 desimal.
+0.0000061
+Misalkan u = 6207.0025934 + -6207. Berapakah u dibulatkan menjadi lima desimal?
+0.00259
+Misalkan n = 5005 + -5004.9999990892. Berapakah n dibulatkan menjadi tujuh desimal?
+0.0000009
+Misalkan d = -1953 - -6173. Bulatkan d ke paling dekat satu ribu.
+4000
+Misalkan h = 20.2 + -28.2. Misalkan b = 8.0000252 + h. Berapakah b dibulatkan menjadi enam desimal?
+0.000025
+Misalkan a = 1.69971 - 1.6072. Misalkan g = a - 0.0841. Bulatkan g ke 3 desimal.
+0.008
+Misalkan d = -224.6 + 279. Misalkan u = d + -36. Bulatkan u ke nol desimal.
+18
+Misalkan r = -0.6345010506 + 0.6345. Bulatkan r ke 7 desimal.
+-0.0000011
+Misalkan f = -39224 - -39221.5643. Misalkan o = f + 2.42. Bulatkan o ke 3 desimal.
+-0.016
+Misalkan q = -1.7 - -2.69. Misalkan x = -1.3 - -0.81. Misalkan c = x + q. Berapakah c dibulatkan menjadi satu desimal?
+0.5
+Misalkan r = 0.173613716 + -0.1736. Bulatkan r ke tujuh desimal.
+0.0000137
+Misalkan 14*d - 4*d = 30. Misalkan -5*x = q - d*q + 20, 2*x - 1 = -q. Bulatkan x ke 1 desimal.
+-2
+Misalkan f = -0.065 + -49.935. Misalkan x = 50.44 + f. Misalkan l = x - 0.4395. Bulatkan l ke tiga desimal.
+0.001
+Misalkan s = 380.24668 + -351.6465672. Misalkan w = -28.6 + s. Berapakah w dibulatkan menjadi 5 desimal?
+0.00011
+Misalkan k = 16.001 - 16. Misalkan j = k + -0.291. Misalkan u = 0.21 - j. Berapakah u dibulatkan menjadi bilangan terdekat?
+1
+Misalkan j = -5733 + 5738.718. Misalkan n = 5.08 - j. Berapakah n dibulatkan menjadi 1 desimal?
+-0.6
+Misalkan h = 0.08 + 1.72. Misalkan y = h + -1.7999899. Bulatkan y ke lima desimal.
+0.00001
+Misalkan k(l) = -7560*l - 440. Misalkan v be k(-34). Berapakah v dibulatkan menjadi paling dekat 10000?
+260000
+Misalkan u = -101.7 - 1. Misalkan r = -103.139 - u. Bulatkan r ke satu desimal.
+-0.4
+Misalkan q = -651 + 977. Misalkan l = 2887 - 2632. Misalkan -l = -4*o - x + q, -727 = -5*o - 2*x. Bulatkan o ke paling dekat 10.
+150
+Misalkan i = 211539 + -211550.3117. Misalkan k = -118.3 - -107. Misalkan q = k - i. Bulatkan q ke tiga desimal.
+0.012
+Misalkan f be (-18)/(-7 + 4) + -527142. Misalkan z(x) = -x - 354136. Misalkan i be z(0). Misalkan d = i - f. Berapakah d dibulatkan menjadi paling dekat 10000?
+170000
+Misalkan u = -11672674.00098 - -11672558. Misalkan t = -116 - u. Bulatkan t ke 4 desimal.
+0.001
+Misalkan 11*n - 6*n = 36345. Misalkan -13 = -4*f + 3, 3*v = -3*f + n. Misalkan -4*b + v = -1741. Berapakah b dibulatkan menjadi paling dekat 100?
+1000
+Misalkan -4*l + 2*l - 4*t + 8 = 0, -t - 26 = -3*l. Misalkan v be 6/(-24) - 1951998/l. Berapakah v dibulatkan menjadi paling dekat 10000?
+-240000
+Misalkan s = 22361977507.17072959 + -22361978773.5. Misalkan c = -1320.3292707 - s. Misalkan l = -54 - c. Bulatkan l ke 7 desimal.
+0.0000003
+Misalkan -35 = -2*j + 2*b + 3*b, 5*b = j - 30. Misalkan j*v = -2707875 + 9437875. Berapakah v dibulatkan menjadi paling dekat satu ratus ribu?
+1300000
+Misalkan u = 1565 + -1564.9999994806. Bulatkan u ke 7 desimal.
+0.0000005
+Misalkan g = -4629.348506 + -0.051494. Berapakah g dibulatkan menjadi paling dekat sepuluh?
+-4630
+Misalkan h be ((-2)/(-1*4/10) - 8) + -95397. Bulatkan h ke paling dekat satu ratus ribu.
+-100000
+Misalkan j = 4.2 + -9. Misalkan w = -568 + 572.788. Misalkan m = w + j. Bulatkan m ke tiga desimal.
+-0.012
+Misalkan y = -6 + 13. Misalkan y*i - 8*i + 3150 = 0. Bulatkan i ke paling dekat 100.
+3200
+Misalkan w be 1 + 42/(-12)*4/(-7). Misalkan 6279994 = 4*u + 2*k, -4*u + 7*k - w*k + 6280012 = 0. Berapakah u dibulatkan menjadi paling dekat 100000?
+1600000
+Misalkan -12*k + 19 = -5. Misalkan 6*t - 645 = w + t, -k*t = -w - 657. Bulatkan w ke paling dekat 100.
+-700
+Misalkan r(g) = -5156*g**2 + 34*g + 56. Misalkan x be r(12). Bulatkan x ke paling dekat 100000.
+-700000
+Misalkan j = -36.942114 - -36.95. Berapakah j dibulatkan menjadi tiga desimal?
+0.008
+Misalkan w = -996 + 688. Misalkan m = w - -308.0000378. Berapakah m dibulatkan menjadi 5 desimal?
+0.00004
+Misalkan a = -365 + 372.84. Misalkan y = 7.84001298 - a. Berapakah y dibulatkan menjadi enam desimal?
+0.000013
+Misalkan v = 29.36993916 - 29.37. Bulatkan v ke 6 desimal.
+-0.000061
+Misalkan -140 = -2*l - 3*l. Misalkan f be (-75536)/l + (-6)/21. Misalkan n = -32 + f. Berapakah n dibulatkan menjadi paling dekat satu ratus?
+-2700
+Misalkan p = -464.4 - -496.8. Bulatkan p ke paling dekat satu ratus.
+0
+Misalkan c = -521478290.000457 + 521477426. Misalkan k = 864 + c. Bulatkan k ke empat desimal.
+-0.0005
+Misalkan f = 0.1102 + -0.110197308. Bulatkan f ke tujuh desimal.
+0.0000027
+Misalkan q(l) = l**2 + l + 7800. Misalkan 9*f = 4*f - 0*f. Misalkan g be q(f). Misalkan -3*b = -0*b - g. Bulatkan b ke paling dekat 1000.
+3000
+Misalkan h = 0.113 - 28.513. Misalkan p = h - -29.83. Misalkan j = p + -3.06. Bulatkan j ke 1 desimal.
+-1.6
+Misalkan c = -9 + -164. Misalkan u = -170.48 - c. Bulatkan u ke 1 desimal.
+2.5
+Misalkan b = -20.42 + -366.48. Berapakah b dibulatkan menjadi paling dekat 10?
+-390
+Misalkan m = -55.7 + 0.7. Misalkan n = m + -247. Misalkan o = n + 302.00000127. Berapakah o dibulatkan menjadi tujuh desimal?
+0.0000013
+Misalkan p be 337566/(-56) + 71/(-1988). Berapakah p dibulatkan menjadi paling dekat satu ribu?
+-6000
+Misalkan i = -6315 + 6315.012338. Berapakah i dibulatkan menjadi empat desimal?
+0.0123
+Misalkan x = 307342.438 + -306917. Misalkan y = x - 425. Bulatkan y ke satu desimal.
+0.4
+Misalkan m = 785.91 + -758. Misalkan p = 0.09 + m. Misalkan q = -28.025 + p. Berapakah q dibulatkan menjadi tiga desimal?
+-0.025
+Misalkan l = -10.5 - -493.6. Bulatkan l ke paling dekat sepuluh.
+480
+Misalkan z = -4565 + 4564.98758. Berapakah z dibulatkan menjadi 3 desimal?
+-0.012
+Misalkan o be 8 - (-2 - 25/(-5) - 3). Misalkan 6*h = 3*x + h + 23990, -4*h - o = 0. Bulatkan x ke paling dekat satu ribu.
+-8000
+Misalkan a be (-30 - -34) + (3/(-2) - (-31727)/2). Bulatkan a ke paling dekat 1000.
+16000
+Misalkan c = 11 - 11.013. Misalkan u = c - 0.0045. Bulatkan u ke 3 desimal.
+-0.018
+Misalkan i = -0.417 - 43.383. Misalkan w = 43.800203 + i. Berapakah w dibulatkan menjadi 5 desimal?
+0.0002
+Misalkan q = 4489 + -4489.00001394. Berapakah q dibulatkan menjadi 6 desimal?
+-0.000014
+Misalkan c = -233 + 107. Misalkan n = 34.3125 - -91.7052. Misalkan k = c + n. Berapakah k dibulatkan menjadi tiga desimal?
+0.018
+Misalkan u = -0.146 + 101.146. Misalkan k = 62 - u. Misalkan g = k - -38.999. Berapakah g dibulatkan menjadi tiga desimal?
+-0.001
+Misalkan p = -72 - -69.3. Misalkan j = p + 2.700138. Berapakah j dibulatkan menjadi lima desimal?
+0.00014
+Misalkan w(k) = 3*k + 37. Misalkan j be w(-9). Misalkan i be 1732*2/(8/j). Bulatkan i ke paling dekat 100.
+4300
+Misalkan d = 2159.2337 - -13.5263. Misalkan j = 2126 - d. Misalkan y = -46 - j. Bulatkan y ke 1 desimal.
+0.8
+Misalkan -5*g - 12 = m - 41, 3*m + 3 = 3*g. Misalkan -24 = -4*l - m. Misalkan i + 8*f = 5*f - 2, -l*i - 4*f + 12 = 0. Bulatkan i ke 0 desimal.
+4
+Misalkan p = 10.1 + 2.9. Misalkan o = p + -14.95. Misalkan z = o + 0.35. Bulatkan z ke 1 desimal.
+-1.6
+Misalkan h = 44 - 71. Misalkan g = h + 517. Bulatkan g ke paling dekat 100.
+500
+Misalkan j = -896 + 1548. Misalkan p = j - 651.8757. Bulatkan p ke 2 desimal.
+0.12
+Misalkan p be (-8350)/(-3)*((-2052)/798)/((-10)/(-14)). Bulatkan p ke paling dekat sepuluh ribu.
+-10000
+Misalkan k = 71824.95 - 71823.1200065. Misalkan r = k - 1.83. Bulatkan r ke enam desimal.
+-0.000007
+Misalkan a = 0.0163 - 47.4163. Misalkan p = a + 47.3809. Bulatkan p ke 2 desimal.
+-0.02
+Misalkan k = 19 + -17. Misalkan -k*w - 9 = -13. Misalkan f be 72/(8/w - 3). Berapakah f dibulatkan menjadi paling dekat 10?
+70
+Misalkan i = 296.51367 + -296.68. Berapakah i dibulatkan menjadi tiga desimal?
+-0.166
+Misalkan l = 0.576713 - 0.78015. Misalkan w = 0.203 + l. Bulatkan w ke 5 desimal.
+-0.00044
+Misalkan h = -181 + 172.7. Misalkan g = -15.4 - h. Bulatkan g ke paling dekat sepuluh.
+-10
+Misalkan w = -758 - -400. Misalkan u = -363.46 - w. Misalkan h = -6.6 - u. Berapakah h dibulatkan menjadi satu desimal?
+-1.1
+Misalkan d = -6831 + 6677.17. Berapakah d dibulatkan menjadi paling dekat sepuluh?
+-150
+Misalkan d = -4775.85246 - -4776. Berapakah d dibulatkan menjadi dua desimal?
+0.15
+Misalkan f(w) = 39 - 4141*w. Misalkan x be f(-21). Misalkan u = -5*u + x. Bulatkan u ke paling dekat satu ribu.
+15000
+Misalkan x = 12 + 63. Misalkan i = 406.8 - 370. Misalkan l = i - x. Berapakah l dibulatkan menjadi bilangan terdekat?
+-38
+Misalkan b = -0.555 + -303.145. Berapakah b dibulatkan menjadi paling dekat 10?
+-300
+Misalkan z = 28.4 + -7.2. Misalkan i = -24 + z. Misalkan t = i + -0.6. Bulatkan t ke bilangan terdekat.
+-3
+Misalkan l = 2.32 + 0.08. Misalkan r = 2.456 - l. Misalkan f = -0.056292 + r. Bulatkan f ke lima desimal.
+-0.00029
+Misalkan p = -87.58 - -44.31. Bulatkan p ke paling dekat 10.
+-40
+Misalkan 43*s - 96797337 + 629880569 = -190950768. Berapakah s dibulatkan menjadi paling dekat 1000000?
+-17000000
+Misalkan h = -171.1 + 172.1. Misalkan z = -0.116 + 1.0941. Misalkan y = h - z. Bulatkan y ke 3 desimal.
+0.022
+Misalkan r = -12.565 - -11. Misalkan g = r - -1.5651213. Berapakah g dibulatkan menjadi lima desimal?
+0.00012
+Misalkan w = -0.068 - -104.068. Misalkan z = w + -102.04. Berapakah z dibulatkan menjadi 1 desimal?
+2
+Misalkan d = 222.718 + -308.4. Misalkan k = -86 - d. Bulatkan k ke satu desimal.
+-0.3
+Misalkan w(t) = 624685*t + 740. Misalkan c be w(-4). Bulatkan c ke paling dekat sepuluh ribu.
+-2500000
+Misalkan h = 1.657 + -0.799. Misalkan o = h - -6.552. Berapakah o dibulatkan menjadi bilangan terdekat?
+7
+Misalkan t = -37.3 - -287.3. Misalkan u = 249.98948 - t. Bulatkan u ke 4 desimal.
+-0.0105
+Misalkan u = -20.8 + 39. Misalkan g = u - -2.5. Bulatkan g ke nol desimal.
+21
+Misalkan g = -3938 + 4278. Berapakah g dibulatkan menjadi paling dekat satu ratus?
+300
+Misalkan k = -1089 - -1090.397. Bulatkan k ke 1 desimal.
+1.4
+Misalkan h = -37 + 15. Misalkan w = -35 - h. Misalkan u = -13.0000085 - w. Berapakah u dibulatkan menjadi enam desimal?
+-0.000009
+Misalkan k = 414437 - 982944. Misalkan p = k - 765838. Misalkan q = 764345 + p. Berapakah q dibulatkan menjadi paling dekat satu ratus ribu?
+-600000
+Misalkan o = 64492.153 - 64528. Bulatkan o ke nol desimal.
+-36
+Misalkan 3*x + 2 + 5 = -h, 2*x = -h - 3. Misalkan h*u = c - 21, u - c - 11 = 3*c. Misalkan n be (232/u)/((-6)/(-15000)). Bulatkan n ke paling dekat 10000.
+-120000
+Misalkan a = 35.05 + -43.738. Berapakah a dibulatkan menjadi 0 desimal?
+-9
+Misalkan h = -49.941 - -79.488. Misalkan b = h - 0.147. Berapakah b dibulatkan menjadi paling dekat 10?
+30
+Misalkan a = 10 + -105. Misalkan x = a - -95.000000454. Berapakah x dibulatkan menjadi 7 desimal?
+0.0000005
+Misalkan -52*z - 53*z + 1169892050 = 3135177050. Berapakah z dibulatkan menjadi paling dekat satu juta?
+-19000000
+Misalkan -25*s - 14135 = 3865. Bulatkan s ke paling dekat satu ratus.
+-700
+Misalkan 4*f + 4*c = 1148016, 8*f = 13*f + 3*c - 1435012. Bulatkan f ke paling dekat 1000000.
+0
+Misalkan h be ((-8)/7)/((16/(-14))/4). Misalkan s(o) = 300*o - 20. Misalkan i be s(h). Berapakah i dibulatkan menjadi paling dekat satu ribu?
+1000
+Misalkan f = 6932 + -6931.994322. Bulatkan f ke 4 desimal.
+0.0057
+Misalkan 4*j - 24 = -8. Misalkan 6*a = j*a + 6934752. Misalkan s = -1567376 + a. Berapakah s dibulatkan menjadi paling dekat satu juta?
+2000000
+Misalkan t be (48 - 54)/((-6)/4) + 562792/2. Bulatkan t ke paling dekat sepuluh ribu.
+280000
+Misalkan u = -1.677605805 - 5.322394063. Misalkan g = 7 + u. Berapakah g dibulatkan menjadi 7 desimal?
+0.0000001
+Misalkan t = 419 - 111. Misalkan d = -309.57 + t. Misalkan h = d + 1.56999913. Bulatkan h ke tujuh desimal.
+-0.0000009
+Misalkan r = 379.5 - 383.63. Berapakah r dibulatkan menjadi bilangan terdekat?
+-4
+Misalkan z = 802 - 293. Misalkan p = -509.249 + z. Berapakah p dibulatkan menjadi satu desimal?
+-0.2
+Misalkan -5*k = -3*f - 25, 0*f - 4*f - 22 = -k. Misalkan 0*t + 5*t + 2*m = 12749998, -k*m - 2550002 = -t. Bulatkan t ke paling dekat satu ratus ribu.
+2600000
+Misalkan g(q) = 9 - 8*q + 6*q + 11*q - 15*q**2 + 21. Misalkan k be g(-7). Bulatkan k ke paling dekat satu ratus.
+-800
+Misalkan z = -35916.27 + 35463. Misalkan n = z + 449. Berapakah n dibulatkan menjadi bilangan terdekat?
+-4
+Misalkan l = 63.8 - 39.9. Misalkan s = l + -21. Misalkan o = s - 2.887. Berapakah o dibulatkan menjadi 2 desimal?
+0.01
+Misalkan i = -50345.72000048 - -50346. Misalkan w = 0.15 - 0.43. Misalkan p = i + w. Berapakah p dibulatkan menjadi tujuh desimal?
+-0.0000005
+Misalkan x(d) = 1229*d - 50. Misalkan o be x(22). Misalkan 3*h = 5*g + 67488, g + 3*h = 3*g + o. Berapakah g dibulatkan menjadi paling dekat 10000?
+-10000
+Misalkan s = -15977 + 15597.14. Bulatkan s ke paling dekat sepuluh.
+-380
+Misalkan f = 16.816 + -16.3. Bulatkan f ke dua desimal.
+0.52
+Misalkan j(a) = 4*a + 3 + 11 - 17 + 3*a**2 - 2*a**2. Misalkan o be j(-5). Misalkan -2*v = t + 326, v + o*v - 624 = 2*t. Bulatkan t ke paling dekat sepuluh.
+-320
+Misalkan w = 11198 - 11203.767. Berapakah w dibulatkan menjadi satu desimal?
+-5.8
+Misalkan l = -12.8 + -59.2. Misalkan d = l + 72.000117. Berapakah d dibulatkan menjadi 5 desimal?
+0.00012
+Misalkan q = 27050007 + -47738007. Bulatkan q ke paling dekat satu juta.
+-21000000
+Misalkan -22*z + 161151 = 515263. Berapakah z dibulatkan menjadi paling dekat 1000?
+-16000
+Misalkan m(z) = 108174*z - 608. Misalkan a be m(-8). Berapakah a dibulatkan menjadi paling dekat 1000000?
+-1000000
+Misalkan s = -123 + 110. Misalkan j be -8950*s/((-52)/(-80)). Bulatkan j ke paling dekat 100000.
+200000
+Misalkan -8*t + 7*t + 15 = 0. Misalkan j be (-421000)/t*2/4*-9. Berapakah j dibulatkan menjadi paling dekat 10000?
+130000
+Misalkan s be (-138)/(-8) + 1/(-4). Misalkan -s*q - 5270064 = -19*q. Misalkan 17464968 = 3*o - q. Berapakah o dibulatkan menjadi paling dekat 1000000?
+7000000
+Misalkan l = 64.7998424 + -64.8. Berapakah l dibulatkan menjadi lima desimal?
+-0.00016
+Misalkan i = -1498.03686 - -1498. Berapakah i dibulatkan menjadi 3 desimal?
+-0.037
+Misalkan q = -49 - -45. Misalkan p be 15/4 + q - (-46538)/8. Misalkan o = -14817 + p. Berapakah o dibulatkan menjadi paling dekat 10000?
+-10000
+Misalkan g = -0.038 + 36.038. Misalkan b = g - 35.89. Misalkan o = b + -0.1100014. Berapakah o dibulatkan menjadi 7 desimal?
+-0.0000014
+Misalkan t = 7.297 + -67.757. Berapakah t dibulatkan menjadi paling dekat 10?
+-60
+Misalkan -5*v + 10*v + 10182 = 4*v. Bulatkan v ke paling dekat 1000.
+-10000
+Misalkan t = -2673.1 + 2673.0999968638. Bulatkan t ke tujuh desimal.
+-0.0000031
+Misalkan a(z) = 23*z**2 - 23*z - 33. Misalkan c be a(-18). Misalkan m = -4283 + c. Berapakah m dibulatkan menjadi paling dekat satu ratus?
+3600
+Misalkan k be 10/45 + (-6)/27. Misalkan i - 3 = -k. Misalkan w be i + (-4 - (-1 - 810)). Berapakah w dibulatkan menjadi paling dekat 100?
+800
+Misalkan c = -28 + 46. Misalkan o = c - 12.4. Misalkan d = o + -5.600166. Bulatkan d ke 5 desimal.
+-0.00017
+Misalkan p = -88.47410171 + 88.41548. Misalkan u = -0.10962322 - p. Misalkan g = u - -0.051. Berapakah g dibulatkan menjadi 7 desimal?
+-0.0000015
+Misalkan k = 3238.94691 - 3239. Misalkan s = k + 0.054. Bulatkan s ke 3 desimal.
+0.001
+Misalkan k = -290.13029865 - -289.8503. Misalkan m = -0.28 - k. Berapakah m dibulatkan menjadi enam desimal?
+-0.000001
+Misalkan r = -822 - -769.32. Misalkan k = -3.22 + r. Berapakah k dibulatkan menjadi paling dekat 10?
+-60
+Misalkan g = -254 - 2062. Misalkan n = g + 2327.03. Berapakah n dibulatkan menjadi nol desimal?
+11
+Misalkan -8*m + 6*m + 200 = 0. Misalkan j be (8/20)/(4/m). Misalkan o be (-1)/(2/456) - (-20)/j. Berapakah o dibulatkan menjadi paling dekat sepuluh?
+-230
+Misalkan 16 = -4*t + 8*t. Misalkan 4*a = t*x + 58520, 3*a + 29245 = -0*x - 2*x. Misalkan i = 20927 + x. Berapakah i dibulatkan menjadi paling dekat satu ribu?
+6000
+Misalkan x(u) = u - 18. Misalkan r be x(16). Misalkan a be 10 + -283 - ((3 - 2) + r). Berapakah a dibulatkan menjadi paling dekat 10?
+-270
+Misalkan l = 49719 - 352577. Misalkan s = l - -452858. Berapakah s dibulatkan menjadi paling dekat 100000?
+200000
+Misalkan r = -369 + 369.161. Misalkan w = 0.036 - -0.038. Misalkan j = w + r. Berapakah j dibulatkan menjadi dua desimal?
+0.24
+Misalkan i = 12 + -282. Misalkan c = 58 + i. Misalkan x = c - -212.00000379. Berapakah x dibulatkan menjadi 7 desimal?
+0.0000038
+Misalkan n = 4109.0000264 + -4109. Bulatkan n ke 5 desimal.
+0.00003
+Misalkan z = 53.6267292 - 28.6267366. Misalkan i = 24.56 + 0.44. Misalkan o = z - i. Bulatkan o ke enam desimal.
+-0.000007
+Misalkan m = -286.8 - -56.8. Misalkan p = -229.999335 - m. Berapakah p dibulatkan menjadi 5 desimal?
+0.00067
+Misalkan a = 3124.96564 - 3125. Bulatkan a ke 2 desimal.
+-0.03
+Misalkan l = 2990 - 2991.0432. Bulatkan l ke satu desimal.
+-1
+Misalkan s be 420604 + 13/((-26)/8). Berapakah s dibulatkan menjadi paling dekat 10000?
+420000
+Misalkan m = -3.3 + 30.1. Misalkan q = 26.800444 - m. Bulatkan q ke lima desimal.
+0.00044
+Misalkan k = -4047.99992432 - -4048. Berapakah k dibulatkan menjadi enam desimal?
+0.000076
+Misalkan b = -130 + 130.0154. Misalkan i = b + -0.5374. Bulatkan i ke 1 desimal.
+-0.5
+Misalkan g be 434/(-93)*(0 + 15/2). Misalkan 4*t + 125012 = -0*t - 3*s, t + 3*s = -31262. Misalkan r be 22*(0 + 3 + g)*t. Bulatkan r ke paling dekat satu juta.
+22000000
+Misalkan c(x) = 14*x - 8. Misalkan g be c(1). Misalkan 0 = g*t - 4*t + 54600. Bulatkan t ke paling dekat 10000.
+-30000
+Misalkan q = 4557.990926 + -4558. Bulatkan q ke tiga desimal.
+-0.009
+Misalkan -1875606 = 4*o - 2*m, 7*o + 5*m - 849314 + 4131599 = 0. Bulatkan o ke paling dekat satu ratus ribu.
+-500000
+Misalkan l = 134730.1 - 135387.0474. Misalkan c = -657 - l. Berapakah c dibulatkan menjadi 3 desimal?
+-0.053
+Misalkan -q - 2*f + 235 = 0, 4*q - 966 = -2*f + 7*f. Misalkan z be q + (-24)/4 + 5. Berapakah z dibulatkan menjadi paling dekat satu ratus?
+200
+Misalkan b = 0.089 - 37.089. Misalkan o = b - -36.7. Misalkan y = -5.2 + o. Bulatkan y ke nol desimal.
+-6
+Misalkan q be -3 + 0 + 3*(-5380)/(-15). Misalkan w = q + -30. Bulatkan w ke paling dekat 100.
+1000
+Misalkan -2*d - 338612 = 5*u - 1266397, -2*u - 927806 = -2*d. Bulatkan d ke paling dekat sepuluh ribu.
+460000
+Misalkan z = 459.1 + -459.5537. Bulatkan z ke 2 desimal.
+-0.45
+Misalkan b = -3 + -167. Misalkan s = b + 105. Misalkan t = s - -69.1. Bulatkan t ke nol desimal.
+4
+Misalkan n = 150 + -150.089. Misalkan u = n + 0.088822. Bulatkan u ke lima desimal.
+-0.00018
+Misalkan h = -8401 - -8400.5681. Bulatkan h ke dua desimal.
+-0.43
+Misalkan 2*f + 5*c - 14 = 0, 2*f - 4*c = 15 - 1. Misalkan i + d = 3*d + f, -3*i = 5*d + 12. Bulatkan i ke satu desimal.
+1
+Misalkan t = 19.91 + -19.4856. Bulatkan t ke dua desimal.
+0.42
+Misalkan f = 0.5711 - -7.7479. Bulatkan f ke nol desimal.
+8
+Misalkan q = 49 - 100. Misalkan c = 21 + q. Misalkan s = -29.99999932 - c. Bulatkan s ke tujuh desimal.
+0.0000007
+Misalkan i = 0.42 - 30.42. Misalkan l = i - -29.979. Misalkan t = -0.01923 - l. Bulatkan t ke empat desimal.
+0.0018
+Misalkan z = -7.6 + 27. Misalkan s = 16.77831 - -2.62066. Misalkan k = z - s. Berapakah k dibulatkan menjadi empat desimal?
+0.001
+Misalkan f = 0.25 - 0.012. Misalkan w = 0.24635 - f. Bulatkan w ke 3 desimal.
+0.008
+Misalkan p = -0.27369487 + 0.2737. Berapakah p dibulatkan menjadi enam desimal?
+0.000005
+Misalkan c = 2192.97792 + -2193. Berapakah c dibulatkan menjadi 2 desimal?
+-0.02
+Misalkan v(t) = -t**3 + 2*t**2 + 2*t + 5. Misalkan p be v(3). Misalkan 3*m = 5*q + 1229997, p*q + 2*q = 3*m - 983997. Bulatkan q ke paling dekat 100000.
+-200000
+Misalkan k = 3.968 - 2390.968. Misalkan g = k - -2434.21. Misalkan v = 47 - g. Berapakah v dibulatkan menjadi satu desimal?
+-0.2
+Misalkan q = -98 - -98.177. Misalkan j = -5.777 + q. Berapakah j dibulatkan menjadi 0 desimal?
+-6
+Misalkan x = -0.096 - -0.469. Bulatkan x ke 1 desimal.
+0.4
+Misalkan f = 16144899601.418507708034987 - -435.581488681965013. Misalkan m = f + -16144899855. Misalkan a = 182 - m. Bulatkan a ke tujuh desimal.
+0.0000036
+Misalkan m be 165349248/36 - (-2)/6 - 3. Misalkan 5*x - m = -12393032. Berapakah x dibulatkan menjadi paling dekat satu ratus ribu?
+-1600000
+Misalkan b = -14 - -16. Misalkan b*n - 20 = -22. Misalkan y be n + 64794/(-8) - 1/(-4). Berapakah y dibulatkan menjadi paling dekat satu ribu?
+-8000
+Misalkan r = -1780.997236 + 1781. Berapakah r dibulatkan menjadi 4 desimal?
+0.0028
+Misalkan m = 0.4381 - 238.9581. Berapakah m dibulatkan menjadi paling dekat 10?
+-240
+Misalkan u be (2/4 - -1)/((-15)/(-50)). Misalkan u*h - 13 = 2*a, 0 = -4*a + 2*a + h - 9. Misalkan p be -40*(-730)/a*18/9. Bulatkan p ke paling dekat 1000.
+-15000
+Misalkan f = -3665 + 3160.5. Berapakah f dibulatkan menjadi paling dekat 10?
+-500
+Misalkan c = 189.32408 + -189.47408029. Misalkan g = 0.0549 + 0.0951. Misalkan d = g + c. Berapakah d dibulatkan menjadi 7 desimal?
+-0.0000003
+Misalkan 0 = 2*u + 6, 3*z = z - u + 3. Misalkan 2*g - 2*i = 4*g + 8, -2*g + z*i = -12. Misalkan p be 0/1 + g + 43000. Bulatkan p ke paling dekat 10000.
+40000
+Misalkan 61*a - 4298404 = 1812835 + 6629221. Bulatkan a ke paling dekat satu ribu.
+209000
+Misalkan p = 0.57886737 + -0.579. Berapakah p dibulatkan menjadi enam desimal?
+-0.000133
+Misalkan 1145635 - 3225453 = -5*z + 3755682. Berapakah z dibulatkan menjadi paling dekat 10000?
+1170000
+Misalkan n = 1570 - 1570.00000301. Bulatkan n ke 7 desimal.
+-0.000003
+Misalkan 63*i - 21*i - 2119997266 = 48882734. Berapakah i dibulatkan menjadi paling dekat satu juta?
+52000000
+Misalkan w = 0.07203 + 729.72797. Bulatkan w ke paling dekat 100.
+700
+Misalkan q = 96.781 + -81.79. Misalkan h = q + -0.091. Bulatkan h ke bilangan terdekat.
+15
+Misalkan o = 11628 + -11627.84301. Berapakah o dibulatkan menjadi 3 desimal?
+0.157
+Misalkan k(g) = -21*g**3 + 10*g**2 - 14*g - 31. Misalkan z be k(-8). Bulatkan z ke paling dekat satu ribu.
+11000
+Misalkan o = 440.0794 - 440.5. Bulatkan o ke dua desimal.
+-0.42
+Misalkan 0*v - 40 = -2*v. Misalkan b be 892/v + 6/15. Misalkan -h - b = d + 91, -2*d = -2. Bulatkan h ke paling dekat sepuluh.
+-140
+Misalkan y = -31987.013 - -31955. Berapakah y dibulatkan menjadi satu desimal?
+-32
+Misalkan h = 5488.53 - 5390. Misalkan o = h - -4.17. Misalkan u = -97 + o. Berapakah u dibulatkan menjadi bilangan terdekat?
+6
+Misalkan c = 58580 - 58579.699692. Misalkan v = -0.3 + c. Berapakah v dibulatkan menjadi lima desimal?
+0.00031
+Misalkan m = -13.334 + 13.347017. Berapakah m dibulatkan menjadi tiga desimal?
+0.013
+Misalkan j be -6*9/(-486) + -1*35096402/18. Berapakah j dibulatkan menjadi paling dekat 100000?
+-1900000
+Misalkan i = -153.6 - -71.9. Misalkan y = i - -81.69999221. Berapakah y dibulatkan menjadi 6 desimal?
+-0.000008
+Misalkan j = -3336 - -3337.193. Bulatkan j ke satu desimal.
+1.2
+Misalkan j = 67.9668 - 63.91. Bulatkan j ke 2 desimal.
+4.06
+Misalkan w = 54 - 50. Misalkan l = 97 + w. Misalkan n = l - 101.00000082. Berapakah n dibulatkan menjadi tujuh desimal?
+-0.0000008
+Misalkan g(j) = -47899985*j - 5. Misalkan r(a) = -2*a. Misalkan s(c) = -g(c) - 5*r(c). Misalkan d be s(1). Bulatkan d ke paling dekat satu juta.
+48000000
+Misalkan y = 11790068.5537115 + -11790064. Misalkan j = 4.98371 - y. Misalkan c = j - 0.43. Bulatkan c ke 6 desimal.
+-0.000002
+Misalkan v = -0.3441731 + 2996.4031731. Misalkan k = v - 2990. Misalkan b = 6 - k. Bulatkan b ke 2 desimal.
+-0.06
+Misalkan a = -92 + 71. Misalkan r = -21.00062 - a. Bulatkan r ke 4 desimal.
+-0.0006
+Misalkan f = 495.527987 - 694.5279924. Misalkan i = 199 + f. Bulatkan i ke enam desimal.
+-0.000005
+Misalkan f = 201.7 - 208. Misalkan x = f + 6.403. Berapakah x dibulatkan menjadi satu desimal?
+0.1
+Misalkan q = 0.413 - -18.357. Misalkan w = -11.14 + q. Bulatkan w ke 1 desimal.
+7.6
+Misalkan u (z) menjadi turunan ke-kedua dari -16313*z**3/6 - 22*z**2 - 2*z + 10. Misalkan d be u(12). Berapakah d dibulatkan menjadi paling dekat 10000?
+-200000
+Misalkan p = 3843.854 + -3844. Berapakah p dibulatkan menjadi dua desimal?
+-0.15
+Misalkan s = 2.06 - -448.94. Misalkan o = 456.78 - s. Bulatkan o ke bilangan terdekat.
+6
+Misalkan q = -31714 - -31460.01. Berapakah q dibulatkan menjadi 0 desimal?
+-254
+Misalkan 2*q = -z + 20, -5*z - 5*q = 35 - 130. Misalkan -z*u = -20*u + 278000. Bulatkan u ke paling dekat 100000.
+100000
+Misalkan a = 12.88 + 0.12. Misalkan u = -12.81 + a. Misalkan m = 0.1900056 - u. Berapakah m dibulatkan menjadi enam desimal?
+0.000006
+Misalkan w = -573.309 + 573. Misalkan q = w + 30.109. Berapakah q dibulatkan menjadi paling dekat sepuluh?
+30
+Misalkan r(s) = 10628*s + 82. Misalkan v(a) = -10627*a - 81. Misalkan t(w) = -5*r(w) - 6*v(w). Misalkan u be t(-8). Bulatkan u ke paling dekat sepuluh ribu.
+-80000
+Misalkan q = -159273.9617 - -323107.9483. Misalkan z = 163995 - q. Misalkan n = z + -161. Bulatkan n ke 3 desimal.
+0.013
+Misalkan 0 = w - 5*w + 24. Misalkan n be (w/(-10))/((-13)/65). Misalkan 0 = n*c - 50614306 + 122314306. Berapakah c dibulatkan menjadi paling dekat 1000000?
+-24000000
+Misalkan r = -3838.61764 - -3839. Misalkan m = -0.39 + r. Berapakah m dibulatkan menjadi 4 desimal?
+-0.0076
+Misalkan h = 1.003 + -1.003006602. Berapakah h dibulatkan menjadi 6 desimal?
+-0.000007
+Misalkan i = -1.34 - -1.0702. Bulatkan i ke 2 desimal.
+-0.27
+Misalkan o = -4360 - -4359.995385. Bulatkan o ke 3 desimal.
+-0.005
+Misalkan d = 2487.88416 - 2488. Berapakah d dibulatkan menjadi tiga desimal?
+-0.116
+Misalkan m = 2.22 - 50.02. Misalkan o = 5.5 - -35.5. Misalkan v = o + m. Bulatkan v ke bilangan terdekat.
+-7
+Misalkan h = 8456 - 9150.6. Bulatkan h ke paling dekat satu ratus.
+-700
+Misalkan 0 = -2*o - 425 - 393. Misalkan g = o + 625. Misalkan l be (g/15)/(1 + 406/(-400)). Berapakah l dibulatkan menjadi paling dekat satu ratus?
+-1000
+Misalkan 41*d = 37*d - 187692. Misalkan v = 43877 - d. Bulatkan v ke paling dekat 10000.
+90000
+Misalkan b be -30*((-266)/(-21) + 4)/((-2)/62932). Berapakah b dibulatkan menjadi paling dekat 100000?
+15700000
+Misalkan d = 42.2000004447 - 42.2. Bulatkan d ke tujuh desimal.
+0.0000004
+Misalkan i = 0.2134111 - 0.2134. Berapakah i dibulatkan menjadi lima desimal?
+0.00001
+Misalkan -23*g = -11 - 104. Misalkan -720501 = 4*x - 2*c + 559495, 0 = -g*x - 2*c - 1600004. Bulatkan x ke paling dekat satu ratus ribu.
+-300000
+Misalkan d = -311 + 953. Misalkan -d = -f + 678. Bulatkan f ke paling dekat 100.
+1300
+Misalkan o = -260.5058 + 0.1058. Misalkan b = o + 224. Bulatkan b ke paling dekat sepuluh.
+-40
+Misalkan n = -2*n - 0*n. Misalkan 2*z - 9 + 3 = n. Misalkan c - 5*c + 19799984 = -z*f, f + 2*c = -6600008. Berapakah f dibulatkan menjadi paling dekat 1000000?
+-7000000
+Misalkan k = 6589443 - 6589428.100033. Misalkan c = -14.9 + k. Berapakah c dibulatkan menjadi lima desimal?
+-0.00003
+Misalkan q = 15.1916 + -15.3. Misalkan y = q + 0.0747. Bulatkan y ke 3 desimal.
+-0.034
+Misalkan a = -716455 + 484455. Bulatkan a ke paling dekat satu ratus ribu.
+-200000
+Misalkan x = -5.59623 + 2771.86623. Misalkan t = -2741 + x. Misalkan f = t - 25. Bulatkan f ke 1 desimal.
+0.3
+Misalkan w = 2226.53 - 550.82. Misalkan n = w + -1668. Berapakah n dibulatkan menjadi bilangan terdekat?
+8
+Misalkan l(i) = -1308*i + 12 + 1299*i - 2 - 11*i**2 - 26501*i**3. Misalkan s be l(-10). Berapakah s dibulatkan menjadi paling dekat satu juta?
+27000000
+Misalkan x = -0.38 - 91.62. Misalkan s = -91.9878 - x. Bulatkan s ke tiga desimal.
+0.012
+Misalkan m = -92.1 - -84. Misalkan u = -8.10018 - m. Berapakah u dibulatkan menjadi tiga desimal?
+0
+Misalkan f = -7258 + 7223.81. Bulatkan f ke 0 desimal.
+-34
+Misalkan i = -19 + 21. Misalkan -2*q - q = 3*g + 3, i*g = -6. Misalkan 4*s = -3*j - 195, -q*s - 137 = 2*j + 3*s. Bulatkan j ke paling dekat sepuluh.
+-60
+Misalkan t = 2878 - 2884.068. Bulatkan t ke 1 desimal.
+-6.1
+Misalkan -27*i - 2*u = -24*i - 15999002, -u + 26665001 = 5*i. Bulatkan i ke paling dekat 100000.
+5300000
+Misalkan h = 181 - 168. Misalkan -39*t + 1133600 = -h*t. Berapakah t dibulatkan menjadi paling dekat sepuluh ribu?
+40000
+Misalkan c = -271.33 - -229.3. Berapakah c dibulatkan menjadi bilangan terdekat?
+-42
+Misalkan m = 77 + -72. Misalkan m*s + 110000 = -0*s. Bulatkan s ke paling dekat 1000.
+-22000
+Misalkan g = 50192.9 - 48163. Bulatkan g ke paling dekat 10.
+2030
+Misalkan k = -2263678 - -3440740. Misalkan k = -8*t + 4201062. Berapakah t dibulatkan menjadi paling dekat 100000?
+400000
+Misalkan f = -189.66 + 189. Misalkan y = f - -0.116. Berapakah y dibulatkan menjadi 2 desimal?
+-0.54
+Misalkan q = 3065616.7000069 - 3065620. Misalkan a = 23.7 - 27. Misalkan y = a - q. Bulatkan y ke 6 desimal.
+-0.000007
+Misalkan j = -104 + 103.85. Misalkan f = j - 0.031. Bulatkan f ke 2 desimal.
+-0.18
+Misalkan x = 9 - -850. Misalkan z = 858.999339 - x. Bulatkan z ke 4 desimal.
+-0.0007
+Misalkan v = -40.593 + 40.8. Misalkan l = -0.19277 + v. Bulatkan l ke 3 desimal.
+0.014
+Misalkan -5*s + 15 = -45. Misalkan 10*o + 4*v = s*o + 11500004, -v = -3*o - 17250001. Bulatkan o ke paling dekat 1000000.
+-6000000
+Misalkan g = 20 - -25. Misalkan n = -407940.280034 - -407895.28. Misalkan p = n + g. Bulatkan p ke 5 desimal.
+-0.00003
+Misalkan b(g) = 831*g**3 - 35*g**2 - 31*g + 11. Misalkan v be b(13). Bulatkan v ke paling dekat 100000.
+1800000
+Misalkan v = 3135 + -1030.5. Bulatkan v ke paling dekat 10.
+2100
+Misalkan y be -3*(2 + (-14)/6). Misalkan a (p) menjadi turunan ke-kedua dari 10000*p**3/3 - 29*p. Misalkan h be a(y). Bulatkan h ke paling dekat satu ribu.
+20000
+Misalkan r be 10/(-6)*(-18 + 15). Misalkan j be 4 + (-43449565)/(-25) + 2/r. Misalkan -5*c - 527987 = -j. Bulatkan c ke paling dekat sepuluh ribu.
+240000
+Misalkan w = -122546 + 185549. Misalkan 3*b - 4*x + x - 37803 = 0, 5*b - 3*x = w. Berapakah b dibulatkan menjadi paling dekat 10000?
+10000
+Misalkan y = -8265795 + 8265795.27000038. Misalkan u = 0.274 + -0.004. Misalkan k = u - y. Berapakah k dibulatkan menjadi tujuh desimal?
+-0.0000004
+Misalkan t be (83 + 15)*(-4 - 8/1). Berapakah t dibulatkan menjadi paling dekat 1000?
+-1000
+Misalkan v(x) = -12*x**3 + 25*x**2 - x - 8. Misalkan p be v(-11). Misalkan k be (p/(-6))/((-24)/432). Berapakah k dibulatkan menjadi paling dekat 10000?
+60000
+Misalkan u = 442.888145 - 426.8882. Misalkan w = 10 + 6. Misalkan b = u - w. Bulatkan b ke lima desimal.
+-0.00006
+Misalkan s = 0.134395385 + 850.869734615. Misalkan k = -851 + s. Berapakah k dibulatkan menjadi 4 desimal?
+0.0041
+Misalkan v = 5226820.0502 - 5226397. Misalkan b = v + -423. Berapakah b dibulatkan menjadi dua desimal?
+0.05
+Misalkan o = 71.702 - 0.402. Misalkan p = o + -73. Bulatkan p ke bilangan terdekat.
+-2
+Misalkan c be (1/(-3))/((-9)/(-81)). Misalkan v be (-120)/(-6*c/(-12300)). Bulatkan v ke paling dekat sepuluh ribu.
+80000
+Misalkan i = 535.29 - 533. Misalkan n = -0.11 - i. Misalkan c = 2.39999962 + n. Berapakah c dibulatkan menjadi tujuh desimal?
+-0.0000004
+Misalkan w = -5515.755 - -5581. Misalkan g = 1.455 + w. Berapakah g dibulatkan menjadi bilangan terdekat?
+67
+Misalkan q = 4.34764457 - -98.12110593. Misalkan h = 142.46875042 - q. Misalkan z = -40 + h. Bulatkan z ke 7 desimal.
+-0.0000001
+Misalkan x(l) = 916 - 44236*l. Misalkan q be x(-19). Berapakah q dibulatkan menjadi paling dekat 100000?
+800000
+Misalkan 20*b - 351585 + 15249585 = 7*b. Berapakah b dibulatkan menjadi paling dekat sepuluh ribu?
+-1150000
+Misalkan w = 0.0447 + -0.0001. Misalkan k = w - 0.0445526. Bulatkan k ke lima desimal.
+0.00005
+Misalkan k be 2*-1 - (-183093 - 1/(11/99)). Bulatkan k ke paling dekat satu ribu.
+183000
+Misalkan 0 = 2*a + 2*a - 3*h, 4*a + h = 0. Misalkan 166*m - 167*m - 16800 = a. Berapakah m dibulatkan menjadi paling dekat satu ribu?
+-17000
+Misalkan t = -5393.7 - -5393.699976641. Bulatkan t ke 7 desimal.
+-0.0000234
+Misalkan a = 9 + -2. Misalkan q(h) = -16 - 16811*h - 14057*h - 30718*h + 13874*h. Misalkan m be q(a). Berapakah m dibulatkan menjadi paling dekat sepuluh ribu?
+-330000
+Misalkan v = 118.26 + 2.74. Misalkan g = -124.09 + v. Berapakah g dibulatkan menjadi 1 desimal?
+-3.1
+Misalkan n be (3000 + 10 + -5 + -5)*8794. Berapakah n dibulatkan menjadi paling dekat satu juta?
+26000000
+Misalkan l = 328.797 + -329. Misalkan u = 361500.6 + -361500.8029843. Misalkan v = l - u. Berapakah v dibulatkan menjadi enam desimal?
+-0.000016
+Misalkan r = -0.88208998 + 0.882. Bulatkan r ke 5 desimal.
+-0.00009
+Misalkan c = 1719804.98410498 + -1719805. Misalkan r = -0.0159 - c. Berapakah r dibulatkan menjadi 6 desimal?
+-0.000005
+Misalkan f = -2578 - -2590.23. Misalkan k = f + -12. Misalkan n = k + -0.01. Berapakah n dibulatkan menjadi satu desimal?
+0.2
+Misalkan h = 172007545.001124 - 172007011. Misalkan b = -534 + h. Berapakah b dibulatkan menjadi empat desimal?
+0.0011
+Misalkan u = -18315 + 18302.9481. Misalkan t = -0.0589 - u. Misalkan g = 12 - t. Berapakah g dibulatkan menjadi tiga desimal?
+0.007
+Misalkan g = 1189 + -1667. Misalkan j = 477.99661 + g. Berapakah j dibulatkan menjadi 3 desimal?
+-0.003
+Misalkan h = -58.001111 - -23.001177. Misalkan f = 75 + -110. Misalkan l = h - f. Bulatkan l ke lima desimal.
+0.00007
+Misalkan o = -332272 - -330622.89. Misalkan g = o + 1656. Berapakah g dibulatkan menjadi 1 desimal?
+6.9
+Misalkan s = 2929466 - 1585166. Berapakah s dibulatkan menjadi paling dekat 10000?
+1340000
+Misalkan g = -0.75563629 - -0.7556. Berapakah g dibulatkan menjadi lima desimal?
+-0.00004
+Misalkan q = -6273476793.580074 + 6273469721. Misalkan s = 7073.31 + q. Misalkan g = 0.73 - s. Berapakah g dibulatkan menjadi 5 desimal?
+0.00007
+Misalkan q = -6810 - -6744.94. Misalkan i = q + 70. Misalkan s = i - 4.8. Bulatkan s ke 2 desimal.
+0.14
+Misalkan i = -88150076 + 88150075.62938281. Misalkan y = -0.3706 - i. Bulatkan y ke 6 desimal.
+0.000017
+Misalkan h = 1749.999994202 - 1750. Berapakah h dibulatkan menjadi enam desimal?
+-0.000006
+Misalkan g = -0.143 + 0.0705. Misalkan i = g + 0.064. Bulatkan i ke dua desimal.
+-0.01
+Misalkan 0*t + k - 1706298 = t, -5118894 = 3*t + k. Misalkan a = -1195298 - t. Bulatkan a ke paling dekat satu ratus ribu.
+500000
+Misalkan w = -0.1017 + 443.1017. Misalkan t = -445.79 + w. Bulatkan t ke 1 desimal.
+-2.8
+Misalkan g = 1214 - 409. Misalkan z = g - 805.00000743. Bulatkan z ke enam desimal.
+-0.000007
+Misalkan y = 659631897 - 456511897. Bulatkan y ke paling dekat 1000000.
+203000000
+Misalkan m = -241.1 + 224. Misalkan z = m + 17.1011. Berapakah z dibulatkan menjadi 3 desimal?
+0.001
+Misalkan x = 457.9421 - 458. Misalkan v = x + -10.0021. Berapakah v dibulatkan menjadi nol desimal?
+-10
+Misalkan z = -6369.92893 + 6370. Berapakah z dibulatkan menjadi tiga desimal?
+0.071
+Misalkan s be 1928000*((-135)/(-10) + -6). Misalkan -222*b + 219*b - s = 0. Berapakah b dibulatkan menjadi paling dekat 100000?
+-4800000
+Misalkan s(h) = -8*h - 9. Misalkan k be s(-2). Misalkan q(w) = -17*w**2 + 5*w + 12. Misalkan b be q(k). Bulatkan b ke paling dekat sepuluh.
+-790
+Misalkan r(c) = -851746*c - 81. Misalkan w be r(-18). Misalkan -5*a = -w + 37081347. Berapakah a dibulatkan menjadi paling dekat satu juta?
+-4000000
+Misalkan o = 3.7 - -3.3. Misalkan g = 6.65 - o. Misalkan d = 0.3499983 + g. Berapakah d dibulatkan menjadi enam desimal?
+-0.000002
+Misalkan v = -0.0368 + 0.3758. Misalkan r = -0.33900147 + v. Bulatkan r ke tujuh desimal.
+-0.0000015
+Misalkan p = -1855.752 - -1856. Bulatkan p ke 0 desimal.
+0
+Misalkan d be -8 + 3 - (30/(-4))/(1/628). Berapakah d dibulatkan menjadi paling dekat satu ratus?
+4700
+Misalkan -6*i + 78 = 66. Misalkan -467997 = -2*w - 2*w - 3*f, 0 = 2*w + i*f - 233998. Bulatkan w ke paling dekat 10000.
+120000
+Misalkan v = 1160.13 - 1153. Misalkan h = v - 7.1898. Bulatkan h ke 2 desimal.
+-0.06
+Misalkan l = 1684.8 + -1514. Misalkan b = -157 + l. Berapakah b dibulatkan menjadi paling dekat 10?
+10
+Misalkan q = 325.8 - 325.800011362. Berapakah q dibulatkan menjadi 7 desimal?
+-0.0000114
+Misalkan f = -72941885636 + 72942078584.719979. Misalkan w = f - 192949. Misalkan k = w + 0.28. Bulatkan k ke lima desimal.
+-0.00002
+Misalkan y = 0.178 - 83.178. Misalkan h = -36 - y. Misalkan m = h + -47.00001. Bulatkan m ke 6 desimal.
+-0.00001
+Misalkan n = -196.73088 + 255.827665. Misalkan z = n + -8.096155. Misalkan w = z - 51. Bulatkan w ke 4 desimal.
+0.0006
+Misalkan v = 3602.2845 - 3603. Berapakah v dibulatkan menjadi 1 desimal?
+-0.7
+Misalkan k = 20 - 20.36. Misalkan u = k - 1.84. Misalkan h = -1.5 - u. Berapakah h dibulatkan menjadi satu desimal?
+0.7
+Misalkan a = 2.08 + -1.993. Misalkan x = -0.09082 + a. Berapakah x dibulatkan menjadi empat desimal?
+-0.0038
+Misalkan c = 14.6 + -106.6. Misalkan k = 91.9998764 + c. Bulatkan k ke 5 desimal.
+-0.00012
+Misalkan u (c) menjadi turunan ke-ketiga dari 13*c**4/12 + 89*c**3/6 + 74*c**2. Misalkan q be u(-17). Bulatkan q ke paling dekat 10.
+-350
+Misalkan u(k) = 8 - 47*k. Misalkan v be u(-4). Misalkan r = v - 298. Misalkan h = r + 167. Bulatkan h ke paling dekat 10.
+70
+Misalkan t be 40218/(-4)*(-40)/30. Misalkan g = t - 5306. Berapakah g dibulatkan menjadi paling dekat 1000?
+8000
+Misalkan m = -54115378.16079 + 53176848.461. Misalkan r = -938525 - m. Misalkan k = r - 4.7. Bulatkan k ke empat desimal.
+-0.0002
+Misalkan a(c) = c**3 + 4*c**2 + 3*c - 6. Misalkan j be a(-7). Misalkan 0 = 5*r + 68 + 247. Misalkan d = j - r. Berapakah d dibulatkan menjadi paling dekat 10?
+-110
+Misalkan r be (-14)/105 + 259229927/15 + 5. Berapakah r dibulatkan menjadi paling dekat satu ratus ribu?
+17300000
+Misalkan u = -28179.577 + 28179.488000908. Misalkan g = u - -0.089. Bulatkan g ke 7 desimal.
+0.0000009
+Misalkan w = -50 - -44. Misalkan h be (w/(1/1))/((-18)/45). Misalkan -10*z + h*z - 740 = 0. Berapakah z dibulatkan menjadi paling dekat sepuluh?
+150
+Misalkan 20058400 = 160*i + 66408800. Berapakah i dibulatkan menjadi paling dekat 1000?
+-290000
+Misalkan z = 535 - -14. Misalkan v = z + -549.000000662. Bulatkan v ke tujuh desimal.
+-0.0000007
+Misalkan x = 47309534 + -48811617.9959. Misalkan j = 1501986 + x. Misalkan g = 98 + j. Bulatkan g ke 3 desimal.
+0.004
+Misalkan r = -46.07 + 47. Misalkan x = -0.93083 + r. Berapakah x dibulatkan menjadi 4 desimal?
+-0.0008
+Misalkan f = 704.99996851 - 705. Bulatkan f ke 6 desimal.
+-0.000031
+Misalkan u = 1188 - 1190.956. Berapakah u dibulatkan menjadi bilangan terdekat?
+-3
+Misalkan i = 20.86 - -0.54. Misalkan m = -21.3999956 + i. Berapakah m dibulatkan menjadi tujuh desimal?
+0.0000044
+Misalkan w = -2411.35 - -2318. Bulatkan w ke paling dekat 10.
+-90
+Misalkan v = 2270.00001364 + -2270. Berapakah v dibulatkan menjadi lima desimal?
+0.00001
+Misalkan a (h) menjadi turunan ke-pertama dari -1905*h**2 - 50*h + 20. Misalkan i be a(-5). Bulatkan i ke paling dekat 1000.
+19000
+Misalkan w = -16610.916 + 16655. Misalkan x = 65 - 109. Misalkan c = w + x. Bulatkan c ke 2 desimal.
+0.08
+Misalkan d = 1322.90176 - 1323. Berapakah d dibulatkan menjadi tiga desimal?
+-0.098
+Misalkan d = 4775.0992 + -4776. Bulatkan d ke satu desimal.
+-0.9
+Misalkan q = -5864.7 - -5622. Bulatkan q ke paling dekat sepuluh.
+-240
+Misalkan s = -0.071344 - 31.957656. Bulatkan s ke 1 desimal.
+-32
+Misalkan g = 4107344 + -10115344. Berapakah g dibulatkan menjadi paling dekat 1000000?
+-6000000
+Misalkan b = 467.07 - 465. Misalkan r = 7.74 - b. Misalkan v = -0.53 - r. Berapakah v dibulatkan menjadi nol desimal?
+-6
+Misalkan z = 3.301 - 3.32978. Berapakah z dibulatkan menjadi 3 desimal?
+-0.029
+Misalkan w = -16.87 + -0.43. Misalkan a = -17.30000106 - w. Bulatkan a ke 6 desimal.
+-0.000001
+Misalkan z = -0.8 + 49.8. Misalkan j = 48.58 - z. Misalkan g = j - -0.375. Berapakah g dibulatkan menjadi 2 desimal?
+-0.05
+Misalkan r = -327.768 + 99.8796. Misalkan y = r - 0.2116. Misalkan g = y + 219. Bulatkan g ke bilangan terdekat.
+-9
+Misalkan -8*n + 11*n + 23541354 = 0. Misalkan j = 16067118 + n. Bulatkan j ke paling dekat 1000000.
+8000000
+Misalkan d = -16052 + 16051.89469. Bulatkan d ke 3 desimal.
+-0.105
+Misalkan p = -803.7 + 803.7000025864. Bulatkan p ke 7 desimal.
+0.0000026
+Misalkan s = 44.572 - 45. Misalkan o = s + 0.172. Bulatkan o ke satu desimal.
+-0.3
+Misalkan 0*o + 2*o = 34. Misalkan 24*l = o*l - 76090000. Bulatkan l ke paling dekat 1000000.
+-11000000
+Misalkan i = 213.9572 + 0.0428. Misalkan f = 213.524 - i. Berapakah f dibulatkan menjadi 1 desimal?
+-0.5
+Misalkan l = -7492 - 9648. Berapakah l dibulatkan menjadi paling dekat satu ribu?
+-17000
+Misalkan f(z) = 6 - 1250*z. Misalkan v be f(3). Misalkan c be (v - -5)/((-1)/606). Misalkan a = c - 1225834. Bulatkan a ke paling dekat satu ratus ribu.
+1000000
+Misalkan i = -0.2255 + 0.22528126. Bulatkan i ke enam desimal.
+-0.000219
+Misalkan z = 1.6 - -13.79. Misalkan b = z + -15. Misalkan a = -0.09 - b. Bulatkan a ke satu desimal.
+-0.5
+Misalkan h = 857.25 - 801. Bulatkan h ke paling dekat sepuluh.
+60
+Misalkan f = -15 - -15.07. Misalkan n = 12736 - 12736.07041. Misalkan m = f + n. Berapakah m dibulatkan menjadi empat desimal?
+-0.0004
+Misalkan b be (-2)/9 - 678604290/945. Berapakah b dibulatkan menjadi paling dekat 100000?
+-700000
+Misalkan 2*a - 2 - 2 = 0. Misalkan a*l + 161205 = -d, 4*l - l + 5*d + 241825 = 0. Berapakah l dibulatkan menjadi paling dekat satu ribu?
+-81000
+Misalkan 60*z = 70*z + 2052800. Bulatkan z ke paling dekat satu ribu.
+-205000
+Misalkan u be (-2)/4*(8 - -12 - 6). Misalkan o(t) = 2698*t**3 + 6*t**2 - 13*t + 29. Misalkan w be o(u). Berapakah w dibulatkan menjadi paling dekat 100000?
+-900000
+Misalkan z = 3398 - 3397.99998014. Bulatkan z ke 5 desimal.
+0.00002
+Misalkan u = -18.484 + 18.4. Misalkan k = u + 0.0839973. Berapakah k dibulatkan menjadi enam desimal?
+-0.000003
+Misalkan z = 0.6237 + 0.0193. Misalkan h = z + -0.09. Bulatkan h ke satu desimal.
+0.6
+Misalkan u = -1277.253 + 1261.252815. Misalkan z = 16.31 - 0.31. Misalkan f = u + z. Berapakah f dibulatkan menjadi lima desimal?
+-0.00019
+Misalkan h be (3360/(-45))/(2/(-28002)). Misalkan i = h + 8754592. Bulatkan i ke paling dekat satu juta.
+10000000
+Misalkan l = 39269087801.865009 + -46907395018.8650273. Misalkan k = -7638307566 - l. Misalkan q = k - -349. Berapakah q dibulatkan menjadi enam desimal?
+0.000018
+Misalkan q be (11830/(-39))/(-13)*824700. Berapakah q dibulatkan menjadi paling dekat 1000000?
+19000000
+Misalkan k = 0.9377 - 0.945487. Bulatkan k ke empat desimal.
+-0.0078
+Misalkan q = 1060649882.19999826 + -1060649669.2. Misalkan f = 213 - q. Bulatkan f ke 7 desimal.
+0.0000017
+Misalkan y be (-15)/(-25) - 379973/5. Misalkan f be 1*2/(-1) + y. Misalkan v be 30/75 - (f/(-5))/(-2). Bulatkan v ke paling dekat satu ribu.
+8000
+Misalkan w = -0.17 + -8.22. Misalkan r = 62.9 - 55.3. Misalkan n = r + w. Bulatkan n ke satu desimal.
+-0.8
+Misalkan a = -23103895 + 40633895. Berapakah a dibulatkan menjadi paling dekat 1000000?
+18000000
+Misalkan z(a) = -a**3 + 8*a**2 - 17*a + 15. Misalkan x be z(5). Misalkan -x*g + 4231 - 1721 = 0. Berapakah g dibulatkan menjadi paling dekat 10?
+500
+Misalkan h = -172.517 - -172. Misalkan c = 2.2564 - -19.3266. Misalkan u = h - c. Bulatkan u ke nol desimal.
+-22
+Misalkan j(u) = -u**2 - 14*u + 15. Misalkan i be j(-14). Misalkan 4*f = -5*b - f - i, f + 3 = -5*b. Misalkan -2*c - 137 - 43 = b. Bulatkan c ke paling dekat 10.
+-90
+Misalkan d = -4469377599.9999671 + 4469377889. Misalkan n = d - 289. Berapakah n dibulatkan menjadi 5 desimal?
+0.00003
+Misalkan 7*h = 10*h - 96978. Misalkan a = h + -51726. Bulatkan a ke paling dekat 10000.
+-20000
+Misalkan c = 13036807010.9999031 + -13036806211. Misalkan a = -800 + c. Bulatkan a ke 5 desimal.
+-0.0001
+Misalkan j = 83838 + -41348. Bulatkan j ke paling dekat satu ribu.
+42000
+Misalkan -62 + 17 = -9*u. Misalkan 0 = u*i + 5*g - 27520, -5*g = 5*i - 2*g - 27512. Bulatkan i ke paling dekat 10000.
+10000
+Misalkan x = 502 + -290. Misalkan j = x - 212.00000101. Bulatkan j ke 7 desimal.
+-0.000001
+Misalkan m = 73763248.4815 + -73745667. Misalkan i = 17689.481569 - m. Misalkan q = i + -108. Berapakah q dibulatkan menjadi lima desimal?
+0.00007
+Misalkan p be 6/(-3 - -8 - 4). Misalkan 213113 = p*q - 386887. Berapakah q dibulatkan menjadi paling dekat satu juta?
+0
+Misalkan q = 200 - 382. Misalkan a = q + 192.9. Berapakah a dibulatkan menjadi bilangan terdekat?
+11
+Misalkan t(i) = i**3 + 25*i**2 + 50*i + 30. Misalkan u(l) = -8*l**2 - 3*l + 3. Misalkan f be u(-2). Misalkan a be t(f). Bulatkan a ke paling dekat sepuluh.
+-60
+Misalkan -5*q = -m - 0*m - 12, 3*q + m - 12 = 0. Misalkan g be -2954 + q + (-5 - -1) + 5. Berapakah g dibulatkan menjadi paling dekat satu ratus?
+-3000
+Misalkan b = -10.333457 + 10.347. Bulatkan b ke tiga desimal.
+0.014
+Misalkan 0 = -79*o + 80*o - 2. Misalkan r + 34209 = 3*t + 4*r, -4*t + o*r = -45594. Berapakah t dibulatkan menjadi paling dekat sepuluh ribu?
+10000
+Misalkan a = 64.22 - 64.2193538. Bulatkan a ke lima desimal.
+0.00065
+Misalkan j = -833.7 - 210.3. Misalkan l = j - -1052.99. Berapakah l dibulatkan menjadi nol desimal?
+9
+Misalkan w = 48.918 - 49. Misalkan v = 0.02 + w. Misalkan g = v + 0.06199876. Bulatkan g ke 7 desimal.
+-0.0000012
+Misalkan o = 4.294 + -4.2754. Bulatkan o ke 3 desimal.
+0.019
+Misalkan l = -66717.80577 + -30756414144.19423. Misalkan c = 30756480614.99999774 + l. Misalkan q = -247 - c. Bulatkan q ke 7 desimal.
+0.0000023
+Misalkan u = 823.7 - 823.88884. Bulatkan u ke 2 desimal.
+-0.19
+Misalkan q = 0.54572 + -0.532. Misalkan v = 0.0185 - q. Bulatkan v ke 3 desimal.
+0.005
+Misalkan 0 = -433*f + 425*f - 960. Berapakah f dibulatkan menjadi paling dekat 10?
+-120
+Misalkan l(t) = -10 - t**2 - 6*t + 5*t**2 - 5*t**2. Misalkan x be l(-4). Misalkan r be -1240003*(x + (2 - 1)) - 3. Bulatkan r ke paling dekat satu ratus ribu.
+1200000
+Misalkan m = 12.434 + -12.43406091. Berapakah m dibulatkan menjadi 5 desimal?
+-0.00006
+Misalkan -8*b + 33 = 3*b. Misalkan -5*c = 2*j + 6800020, -b*c = -j + 2*c - 3399980. Bulatkan j ke paling dekat 1000000.
+-3000000
+Misalkan c = 1859094 + -1858951.8089. Misalkan m = c - 0.0111. Misalkan n = m + -141. Bulatkan n ke satu desimal.
+1.2
+Misalkan a = 25269 + -25268.99964014. Bulatkan a ke 6 desimal.
+0.00036
+Misalkan d = 3387.3 + -3387.3000013809. Berapakah d dibulatkan menjadi 7 desimal?
+-0.0000014
+Misalkan b = 0.10744 + -0.02855. Berapakah b dibulatkan menjadi 2 desimal?
+0.08
+Misalkan -3*u = 10*u - 77129. Misalkan 3*m - u = 4*m - c, 4*m + 23729 = 3*c. Berapakah m dibulatkan menjadi paling dekat satu ribu?
+-6000
+Misalkan a = 28 - 69. Misalkan z = a - -44. Misalkan -6*d + z*d + 6900000 = 0. Berapakah d dibulatkan menjadi paling dekat 1000000?
+2000000
+Misalkan w(f) = f**2 + 4*f - 8. Misalkan r be w(-6). Misalkan r*b - 16*k = -12*k + 448, 3*b - 354 = -3*k. Berapakah b dibulatkan menjadi paling dekat sepuluh?
+120
+Misalkan 6*h + 6*h + 143196 = 7782396. Bulatkan h ke paling dekat 100000.
+600000
+Misalkan w = 62767800.1999695 - 62767781. Misalkan g = -19.2 + w. Berapakah g dibulatkan menjadi 6 desimal?
+-0.000031
+Misalkan d be (-118)/(2*(-4)/14 + (-18)/(-7)). Berapakah d dibulatkan menjadi paling dekat satu ratus?
+-100
+Misalkan z = -865 + 890.68. Misalkan t = 6.4 + -7.58. Misalkan a = z + t. Bulatkan a ke nol desimal.
+25
+Misalkan q = 19.1 - 18.33. Misalkan h = 46.77 - q. Misalkan g = -45.32 + h. Bulatkan g ke satu desimal.
+0.7
+Misalkan l = 197.65143 + -197.6. Bulatkan l ke dua desimal.
+0.05
+Misalkan c = -89.91 - -88. Misalkan u = c - -1.90999659. Berapakah u dibulatkan menjadi enam desimal?
+-0.000003
+Misalkan j(y) = -y**3 - 4*y**2 + 3*y + 10. Misalkan s be j(-5). Misalkan s = 24*n - 23*n. Misalkan f = n + 25. Berapakah f dibulatkan menjadi paling dekat 10?
+50
+Misalkan o = 2.4535 + -1.954. Misalkan g = o + -0.411. Bulatkan g ke 3 desimal.
+0.089
+Misalkan 0 = -9*c + 10*c - 11760000. Misalkan -14*o = -21*o + c. Bulatkan o ke paling dekat 1000000.
+2000000
+Misalkan v = 0.01 - 0.71. Misalkan g = v - -0.738. Misalkan x = -1.912 - g. Bulatkan x ke 1 desimal.
+-2
+Misalkan q = -51 + 75. Misalkan k = 25.1 - q. Misalkan i = -0.6 - k. Berapakah i dibulatkan menjadi bilangan terdekat?
+-2
+Misalkan u = -0.460242005870768868 - -2801480246.860240615870768868. Misalkan y = -2801480230 + u. Misalkan r = -16.4 + y. Bulatkan r ke tujuh desimal.
+-0.0000014
+Misalkan z = 0.477191303 + -0.4772. Bulatkan z ke 7 desimal.
+-0.0000087
+Misalkan o = 0.006 + 21.094. Misalkan t = o - 21.1000112. Berapakah t dibulatkan menjadi lima desimal?
+-0.00001
+Misalkan n = -46 + 22. Misalkan h = 24.0000003 + n. Bulatkan h ke enam desimal.
+0
+Misalkan g = 86 + -71.2. Misalkan j = 14.8000917 - g. Bulatkan j ke lima desimal.
+0.00009
+Misalkan x be 7 + (-8032 - (-22)/(-2)). Bulatkan x ke paling dekat satu ribu.
+-8000
+Misalkan m = 104991 - 105197.903. Misalkan j = m - -207. Bulatkan j ke dua desimal.
+0.1
+Misalkan z = -42289 + 66863. Bulatkan z ke paling dekat satu ribu.
+25000
+Misalkan w = -42 - -44. Misalkan d = 1.5 - w. Misalkan y = 0.5069 + d. Berapakah y dibulatkan menjadi 3 desimal?
+0.007
+Misalkan m = -1201027.7999975 - -1201007.8. Misalkan r = -19.87 + -0.13. Misalkan a = r - m. Bulatkan a ke 6 desimal.
+-0.000003
+Misalkan y = 96.15 - 95.95924. Misalkan d = 0.34 - 0.53. Misalkan t = y + d. Berapakah t dibulatkan menjadi 4 desimal?
+0.0008
+Misalkan 0 = 132*b - 108*b - 120984. Berapakah b dibulatkan menjadi paling dekat satu ratus?
+5000
+Misalkan t(p) = -129*p**3 + 12*p**2 - 9*p - 90. Misalkan q be t(-5). Bulatkan q ke paling dekat 100.
+16400
+Misalkan o = -5231.8 + 3947. Berapakah o dibulatkan menjadi paling dekat sepuluh?
+-1280
+Misalkan s = 1148 + -1148.000003358. Berapakah s dibulatkan menjadi 7 desimal?
+-0.0000034
+Misalkan u = 8.5 - -2.5. Misalkan n = -6.177 - -17.18. Misalkan l = u - n. Bulatkan l ke 3 desimal.
+-0.003
+Misalkan y be (-346239944)/32*4 + -7. Berapakah y dibulatkan menjadi paling dekat satu juta?
+-43000000
+Misalkan p = -1181 - -1181.000001008. Berapakah p dibulatkan menjadi tujuh desimal?
+0.000001
+Misalkan y = 3444 - 3442.013. Misalkan k = 9.931 - y. Misalkan z = k - 8. Bulatkan z ke dua desimal.
+-0.06
+Misalkan w(i) = 83 - 14859*i. Misalkan r be w(1). Bulatkan r ke paling dekat 1000.
+-15000
+Misalkan o = -44 - -6. Misalkan y = -1982446 - -1982407.999968. Misalkan b = y - o. Berapakah b dibulatkan menjadi lima desimal?
+-0.00003
+Misalkan -10 = 5*f, 3*a - a - 5*f + 4 = 0. Misalkan j(i) = -170263*i**3 - 5*i**2 - 10*i - 34. Misalkan y be j(a). Bulatkan y ke paling dekat satu juta.
+58000000
+Misalkan b = 0.1992 + -1.0662. Misalkan q = b - 347.133. Misalkan o = q - -349.59. Bulatkan o ke satu desimal.
+1.6
+Misalkan o = 1705.999992478 + -1706. Bulatkan o ke tujuh desimal.
+-0.0000075
+Misalkan k = -6.47 - -6.5226. Misalkan z = k - -2.6174. Bulatkan z ke bilangan terdekat.
+3
+Misalkan u = -42 + 41.94. Misalkan b = 26.94 - u. Misalkan y = b - 28.06. Berapakah y dibulatkan menjadi satu desimal?
+-1.1
+Misalkan k = -450.8754 + 451. Misalkan y = -5.1946 + k. Berapakah y dibulatkan menjadi bilangan terdekat?
+-5
+Misalkan m = 40.67 + -40.68174. Bulatkan m ke dua desimal.
+-0.01
+Misalkan j = 177 + -176.08. Misalkan p = j - 0.9758. Bulatkan p ke dua desimal.
+-0.06
+Misalkan z = 11322 + -11243.91. Berapakah z dibulatkan menjadi nol desimal?
+78
+Misalkan a = -154128 - 89912. Bulatkan a ke paling dekat 10000.
+-240000
+Misalkan a (w) menjadi turunan ke-kedua dari 5*w**3/6 + 5*w**2 + 3*w. Misalkan m be a(-2). Misalkan m = 5*o - 8*o - 1380. Bulatkan o ke paling dekat 100.
+-500
+Misalkan k be 2 - 53683 - (-138 - -137). Berapakah k dibulatkan menjadi paling dekat satu ribu?
+-54000
+Misalkan z = 3771.8 + -3249. Berapakah z dibulatkan menjadi paling dekat satu ratus?
+500
+Misalkan i = 42241.000022443 - 42241. Bulatkan i ke 7 desimal.
+0.0000224
+Misalkan l = 58452.99976349 - 58453. Bulatkan l ke lima desimal.
+-0.00024
+Misalkan 54 - 12 = 7*b. Misalkan q + 2*y - b = -2*q, 5*q - 35 = 5*y. Misalkan -q*g - 113917 = 38083. Berapakah g dibulatkan menjadi paling dekat sepuluh ribu?
+-40000
+Misalkan m = 0.66 + 34.94. Misalkan l = m + -35.759. Bulatkan l ke satu desimal.
+-0.2
+Misalkan l = 4105.6 + -3675. Berapakah l dibulatkan menjadi paling dekat 10?
+430
+Misalkan c be (0 + -1274)*(-2)/(-4). Misalkan r be (6/15)/((-19)/95). Misalkan o be (r + 7 + -2)*1 - c. Bulatkan o ke paling dekat 100.
+600
+Misalkan m = -223.4 - -19.4. Misalkan s = m + 186.65. Misalkan b = s + 0.15. Berapakah b dibulatkan menjadi 0 desimal?
+-17
+Misalkan l = 834.95615 - 835. Berapakah l dibulatkan menjadi 2 desimal?
+-0.04
+Misalkan m = -885.999991086 + 886. Berapakah m dibulatkan menjadi 6 desimal?
+0.000009
+Misalkan r = -0.096371 + 0.0963. Bulatkan r ke lima desimal.
+-0.00007
+Misalkan n = 0.122 + -1.742. Misalkan o = n - -4.1. Bulatkan o ke bilangan terdekat.
+2
+Misalkan j be 3/9*(-4)/(4/(-129)). Misalkan f = 36 - j. Misalkan c be (-12)/f + -2 - 839984/56. Berapakah c dibulatkan menjadi paling dekat sepuluh ribu?
+-20000
+Misalkan k = -194 + 197. Misalkan -210009 = -l - 0*l + k*g, 9 = -3*g. Bulatkan l ke paling dekat 100000.
+200000
+Misalkan n = 346.2 + -349.329. Berapakah n dibulatkan menjadi 0 desimal?
+-3
+Misalkan r = 5.38 - 0.38. Misalkan p = r + -10.8. Misalkan g = 12.8 - p. Bulatkan g ke nol desimal.
+19
+Misalkan r = 4.55 + -4.5500017505. Berapakah r dibulatkan menjadi tujuh desimal?
+-0.0000018
+Misalkan i = -226 - -226.034. Misalkan b = -0.033875 + i. Berapakah b dibulatkan menjadi 5 desimal?
+0.00013
+Misalkan -14*w - 192800000 = -22*w. Berapakah w dibulatkan menjadi paling dekat satu juta?
+24000000
+Misalkan g = 3247.52 - 3189. Misalkan d = -13.84 + g. Misalkan b = 44 - d. Bulatkan b ke satu desimal.
+-0.7
+Misalkan a = -22600 - -22501.19. Misalkan z = -0.19 + a. Misalkan t = -97.54 - z. Berapakah t dibulatkan menjadi satu desimal?
+1.5
+Misalkan q = 13.660019306 - -571.3399801. Misalkan f = q - 585. Bulatkan f ke 7 desimal.
+-0.0000006
+Misalkan 2*p = -2*p - 12. Misalkan g(w) = -1557777*w**2 + w - 4. Misalkan k be g(p). Bulatkan k ke paling dekat satu juta.
+-14000000
+Misalkan 22*j + 306222 = -125735 - 1510423. Berapakah j dibulatkan menjadi paling dekat 10000?
+-90000
+Misalkan x = 1926863506.80000258 + -1926863491. Misalkan z = x + -15.8. Bulatkan z ke tujuh desimal.
+0.0000026
+Misalkan m = -40.7 + 40.69999897. Berapakah m dibulatkan menjadi enam desimal?
+-0.000001
+Misalkan 28 = 4*k + 5*t - 12, -16 = -4*t. Misalkan 3*f - 3*y + 1028015 = f, -4*y = k*f + 2569980. Berapakah f dibulatkan menjadi paling dekat 10000?
+-510000
+Misalkan n(p) = 121482*p - 72. Misalkan -2*v = -2*a + 18, -a + 25 = 3*v - 8*v. Misalkan t be n(v). Berapakah t dibulatkan menjadi paling dekat sepuluh ribu?
+-490000
+Misalkan u = 4832.02358 + -4832. Bulatkan u ke dua desimal.
+0.02
+Misalkan -4*w = 46 - 10. Misalkan s be 2162/w - 12/(-54). Misalkan x = -359 - s. Berapakah x dibulatkan menjadi paling dekat 10?
+-120
+Misalkan u = -4190.999995912 - -4191. Bulatkan u ke tujuh desimal.
+0.0000041
+Misalkan l = 30 - 36.3. Misalkan a = 6.30000514 + l. Bulatkan a ke enam desimal.
+0.000005
+Misalkan l = -1041868 + 1041073.963. Misalkan v = l + 795. Bulatkan v ke 1 desimal.
+1
+Misalkan y = 58 + -57. Misalkan o = 0.9999296 - y. Bulatkan o ke lima desimal.
+-0.00007
+Misalkan u(n) = 81*n + 9. Misalkan i be u(-1). Misalkan f be (-849606)/16 + (-27)/i. Bulatkan f ke paling dekat sepuluh ribu.
+-50000
+Misalkan g = -76980675789 + 76980675789.051479561139. Misalkan j = g - 210.051480791139. Misalkan t = -210 - j. Berapakah t dibulatkan menjadi tujuh desimal?
+0.0000012
+Misalkan w = 43457.9999974397 + -43458. Bulatkan w ke tujuh desimal.
+-0.0000026
+Misalkan a = 1854 - 1854.799. Berapakah a dibulatkan menjadi 1 desimal?
+-0.8
+Misalkan f = 1132.00000403 + -1132. Berapakah f dibulatkan menjadi tujuh desimal?
+0.000004
+Misalkan -253390 = -137*i + 6389740. Bulatkan i ke paling dekat 10000.
+50000
+Misalkan z = 482926 + -1186946. Misalkan s = -704020.2500059 - z. Misalkan t = 0.25 + s. Bulatkan t ke 6 desimal.
+-0.000006
+Misalkan h = 217.8 + -360. Bulatkan h ke paling dekat sepuluh.
+-140
+Misalkan h = 20.614 + -387.974. Berapakah h dibulatkan menjadi bilangan terdekat?
+-367
+Misalkan w = -136.552053 - -6781.438273. Misalkan o = w + -6645. Misalkan k = o - -0.112. Bulatkan k ke empat desimal.
+-0.0018
+Misalkan m = 33786 + -57466. Berapakah m dibulatkan menjadi paling dekat satu ribu?
+-24000
+Misalkan l = 2463.23 + -2387. Bulatkan l ke bilangan terdekat.
+76
+Misalkan x = -1448 - -918.3. Bulatkan x ke paling dekat satu ratus.
+-500
+Misalkan w(b) = b**3 + b**2 - 2*b - 2. Misalkan f be w(-1). Misalkan 5*y - 3*p + 2023 = 0, f*p = p + 4. Berapakah y dibulatkan menjadi paling dekat sepuluh?
+-410
+Misalkan y(g) = g**3 + 3*g**2 - 4*g + 7. Misalkan c be y(-4). Misalkan c*n - 11192 = 8. Berapakah n dibulatkan menjadi paling dekat 1000?
+2000
+Misalkan v = -8 - -15. Misalkan t = 19 - v. Misalkan q be (-10)/(-3)*(t + 2988). Bulatkan q ke paling dekat satu ratus ribu.
+0
+Misalkan g = 210 + -210. Misalkan g = -4*r + 1923969 - 8923969. Berapakah r dibulatkan menjadi paling dekat satu ratus ribu?
+-1800000
+Misalkan k = -8.13 - -0.13. Misalkan u = -7.89 - k. Misalkan i = -2.09 - u. Berapakah i dibulatkan menjadi nol desimal?
+-2
+Misalkan c = -1448 + 1461.61. Misalkan f = -13.610001511 + c. Bulatkan f ke tujuh desimal.
+-0.0000015
+Misalkan g = -0.05596933213 - 703586.94338066787. Misalkan x = -703563 - g. Misalkan o = x - 24. Berapakah o dibulatkan menjadi empat desimal?
+-0.0007
+Misalkan f = -4880.5 + 4198. Berapakah f dibulatkan menjadi paling dekat 100?
+-700
+Misalkan 3*u = -n - 1792197, -361617 = -3*u - 2*n - 2153811. Berapakah u dibulatkan menjadi paling dekat 100000?
+-600000
+Misalkan t = -2447899 - -4478899. Berapakah t dibulatkan menjadi paling dekat satu juta?
+2000000
+Misalkan f = -224995 + 115852. Misalkan 5*n = n + 5323428. Misalkan d = f - n. Berapakah d dibulatkan menjadi paling dekat satu ratus ribu?
+-1400000
+Misalkan z = -1859.12 - -1840. Bulatkan z ke paling dekat 10.
+-20
+Misalkan 13*k = -239168 - 903272. Bulatkan k ke paling dekat sepuluh ribu.
+-90000
+Misalkan g = -3.9568255353 + -167.0431724547. Misalkan i = -171 - g. Bulatkan i ke tujuh desimal.
+-0.000002
+Misalkan g = 36406.985291 - 36407. Berapakah g dibulatkan menjadi empat desimal?
+-0.0147
+Misalkan l = 76.74911 + -76.52311245. Misalkan u = -0.226 + l. Berapakah u dibulatkan menjadi 7 desimal?
+-0.0000025
+Misalkan x = -85.4 + 53.3. Misalkan l = x + 15.7. Misalkan f = 6.8 + l. Bulatkan f ke bilangan terdekat.
+-10
+Misalkan c = -22 - -28. Misalkan p(g) = -4 - 18 + c + 4377*g. Misalkan i be p(8). Berapakah i dibulatkan menjadi paling dekat 10000?
+40000
+Misalkan q = -1317 - -1911. Misalkan m = -859 + q. Bulatkan m ke paling dekat 10.
+-270
+Misalkan t = 893.7 + -893.63167. Misalkan u = t + 19.83667. Misalkan q = u - 20. Bulatkan q ke 2 desimal.
+-0.1
+Misalkan l = 822 - 1415. Misalkan h = l - -404. Misalkan w = h - -188.999843. Berapakah w dibulatkan menjadi 5 desimal?
+-0.00016
+Misalkan g = 2413 + 733. Misalkan m(b) = 1629*b - 1. Misalkan v be m(3). Misalkan q = g - v. Berapakah q dibulatkan menjadi paling dekat satu ratus?
+-1700
+Misalkan l(z) = -6*z - 21. Misalkan y be l(-19). Misalkan -10800000 = -y*a + 90*a. Bulatkan a ke paling dekat 1000000.
+4000000
+Misalkan p = -67300.231 + -83.769. Misalkan y = p + 67383.44147. Misalkan l = -0.56 - y. Berapakah l dibulatkan menjadi empat desimal?
+-0.0015
+Misalkan t = 29.1 + -29.10001103. Bulatkan t ke tujuh desimal.
+-0.000011
+Misalkan f = 618 - 363. Misalkan k = -128 + f. Misalkan x = k + -127.274. Bulatkan x ke dua desimal.
+-0.27
+Misalkan i(k) = -70496*k**2 - 15*k + 14. Misalkan h be i(2). Berapakah h dibulatkan menjadi paling dekat 100000?
+-300000
+Misalkan z = 3.0069034 + -3.007. Bulatkan z ke lima desimal.
+-0.0001
+Misalkan o = 4634661 + -4634659.000391. Misalkan u = o + -2. Bulatkan u ke 5 desimal.
+-0.00039
+Misalkan j = 611 - 610.993428. Berapakah j dibulatkan menjadi 4 desimal?
+0.0066
+Misalkan v = -2.88 - -3.3. Misalkan t = -5.42 + v. Misalkan o = -5.0000013 - t. Berapakah o dibulatkan menjadi enam desimal?
+-0.000001
+Misalkan p = -960.7 - -1003. Berapakah p dibulatkan menjadi paling dekat 10?
+40
+Misalkan b = -1073458 + 1616058. Berapakah b dibulatkan menjadi paling dekat 100000?
+500000
+Misalkan k(p) = -2*p**3 + 37*p**2 - 43*p + 6. Misalkan c be k(16). Bulatkan c ke paling dekat satu ribu.
+1000
+Misalkan i = -40039270 - -19539270. Bulatkan i ke paling dekat satu juta.
+-21000000
+Misalkan f = -1632552 + 1632462.9839. Misalkan p = -89 - f. Bulatkan p ke 3 desimal.
+0.016
+Misalkan q = -162 - -167. Misalkan 4*b + 465707 - 155703 = -q*n, -3*b - 124003 = 2*n. Berapakah n dibulatkan menjadi paling dekat sepuluh ribu?
+-60000
+Misalkan 3*d + 262689 = -2*j, 40 = -5*d + 25. Bulatkan j ke paling dekat satu ribu.
+-131000
+Misalkan u = -2.0318 - -4.1095. Berapakah u dibulatkan menjadi satu desimal?
+2.1
+Misalkan p = 3035 - 3034.99999508. Bulatkan p ke enam desimal.
+0.000005
+Misalkan d = 435 + -1082. Misalkan s = -643.21 - d. Berapakah s dibulatkan menjadi satu desimal?
+3.8
+Misalkan b be 21/21*(-1 + 0). Misalkan k be 749997 + -6*b/2. Berapakah k dibulatkan menjadi paling dekat satu ratus ribu?
+800000
+Misalkan f = 15275.7 - 14586. Bulatkan f ke paling dekat satu ratus.
+700
+Misalkan a = 152.076 + -152. Misalkan g = a - 0.075998933. Bulatkan g ke 7 desimal.
+0.0000011
+Misalkan p = -6.25 - -4.6. Misalkan h = 3.47718 - 5.12815. Misalkan b = h - p. Berapakah b dibulatkan menjadi 4 desimal?
+-0.001
+Misalkan 0 = -3*z - 5*n + 64530000, 3*z + 6*n = 11*n + 64530000. Berapakah z dibulatkan menjadi paling dekat satu juta?
+22000000
+Misalkan u = 0.06288 + -0.052521. Berapakah u dibulatkan menjadi tiga desimal?
+0.01
+Misalkan o = -0.853 - 0.067. Misalkan r = -1.77 - o. Berapakah r dibulatkan menjadi satu desimal?
+-0.9
+Misalkan f = -1.4438 - -1.63. Misalkan g = 0.577 - f. Misalkan w = g + -0.39. Berapakah w dibulatkan menjadi tiga desimal?
+0.001
+Misalkan c = 0.1026514 + -0.1029. Berapakah c dibulatkan menjadi empat desimal?
+-0.0002
+Misalkan f = 1316.2 - -128.7. Bulatkan f ke paling dekat sepuluh.
+1440
+Misalkan b be (-21)/35 - (-186)/10. Misalkan t = -158 - -292. Misalkan n = t + b. Bulatkan n ke paling dekat sepuluh.
+150
+Misalkan j be -2 + 2 - (-2)/(-4)*-8. Misalkan 1 = -j*r + 13, -4*s + r = -30159997. Berapakah s dibulatkan menjadi paling dekat satu juta?
+8000000
+Misalkan -3*q - 30*r + 28*r = -26357990, 5*q = 4*r + 43930020. Bulatkan q ke paling dekat 1000000.
+9000000
+Misalkan m be 1 + 7/(-6) + 97615/42. Misalkan -5*c - 5*r - 4054 = -164, 3*c + 5*r = -m. Bulatkan c ke paling dekat satu ratus.
+-800
+Misalkan q be (21250/(-17))/((6/(-124))/(1526 + -2)). Bulatkan q ke paling dekat 1000000.
+39000000
+Misalkan -4*o + 7 + 1 = 0. Misalkan 0 = -o*g - 4*g - 296074476. Misalkan l = g + 27945746. Berapakah l dibulatkan menjadi paling dekat 1000000?
+-21000000
+Misalkan y = -35 - -41. Misalkan -3*b + 5*p + 24 = 0, 0 = 3*b - 3*p + 4*p - y. Misalkan -8*c = -b*c - 1000. Bulatkan c ke paling dekat satu ratus.
+200
+Misalkan h = -0.32 - -0.42. Misalkan s = 0.15 + h. Misalkan f = s - 0.25044. Berapakah f dibulatkan menjadi empat desimal?
+-0.0004
+Misalkan g = 2485 - 1679. Misalkan x = g + -79306. Berapakah x dibulatkan menjadi paling dekat 10000?
+-80000
+Misalkan m(h) = -601*h**3 + 6*h**2 + 29*h + 182. Misalkan y be m(-6). Berapakah y dibulatkan menjadi paling dekat 10000?
+130000
+Misalkan 7*i - 8*i + 41800 = 0. Misalkan -w + i = w. Bulatkan w ke paling dekat sepuluh ribu.
+20000
+Misalkan a = 4912.8 - 4912.771967. Berapakah a dibulatkan menjadi 4 desimal?
+0.028
+Misalkan h = 229 - 223. Misalkan 64816 + 1184 = -h*p. Bulatkan p ke paling dekat sepuluh ribu.
+-10000
+Misalkan r = -866107 + 863821.135. Misalkan v = -2266 - r. Misalkan k = -20 + v. Berapakah k dibulatkan menjadi 2 desimal?
+-0.14
+Misalkan p = 23008 + -10602. Misalkan r = 12382.00064 - p. Misalkan c = r + 24. Berapakah c dibulatkan menjadi empat desimal?
+0.0006
+Misalkan y = 151 - 88. Misalkan j = 94 - y. Misalkan i = j + -30.81. Bulatkan i ke satu desimal.
+0.2
+Misalkan t = 0.038 - 0.068. Misalkan z = 0.14 + t. Berapakah z dibulatkan menjadi 0 desimal?
+0
+Misalkan c = 67 - 88. Misalkan j = c - -20.99999605. Bulatkan j ke 7 desimal.
+-0.000004
+Misalkan l(b) = b + b - 3*b - 4 + 3*b. Misalkan y be l(-1). Misalkan g be (50*40/y)/((-1)/(-31800)). Berapakah g dibulatkan menjadi paling dekat satu juta?
+-11000000
+Misalkan w be ((-9)/(-6))/(6/16). Misalkan -w*p + 0*y - 646856 = -3*y, -p + 4*y = 161727. Misalkan u = p + 7711. Bulatkan u ke paling dekat sepuluh ribu.
+-150000
+Misalkan q = -10493504.6 - -10494626.60617. Misalkan u = -1122 + q. Berapakah u dibulatkan menjadi empat desimal?
+0.0062
+Misalkan m = -9 - -11.4. Misalkan y = 25.4 - m. Misalkan g = -22.9999986 + y. Bulatkan g ke 6 desimal.
+0.000001
+Misalkan n(d) = 144502*d - 4. Misalkan a = -31 + 33. Misalkan i be n(a). Bulatkan i ke paling dekat 10000.
+290000
+Misalkan p = 6606 + -6604.8898. Bulatkan p ke dua desimal.
+1.11
+Misalkan d = -18.56073 + -15.43922. Misalkan r = 34 + d. Berapakah r dibulatkan menjadi 6 desimal?
+0.00005
+Misalkan a = 4.1891798 + -4.1928. Berapakah a dibulatkan menjadi 5 desimal?
+-0.00362
+Misalkan g = 833027190872.000001059 + -833027190243. Misalkan w = g - 629. Bulatkan w ke 7 desimal.
+0.0000011
+Misalkan m be (88/660)/((-8)/10) - 17678398/12. Berapakah m dibulatkan menjadi paling dekat sepuluh ribu?
+-1470000
+Misalkan g = 0.95 + -0.05. Misalkan m = -694 - -694. Misalkan b = m - g. Bulatkan b ke nol desimal.
+-1
+Misalkan r = -2.7168 + 2.735291. Bulatkan r ke empat desimal.
+0.0185
+Misalkan y = 1316879 - 867007. Misalkan c = y + -192872. Bulatkan c ke paling dekat 10000.
+260000
+Misalkan q = -53.30205287 - 556.69802733. Misalkan v = q - -610. Bulatkan v ke lima desimal.
+-0.00008
+Misalkan i = 1.07 + 10.03. Misalkan t = i + -64.1. Misalkan r = t + 53.000086. Berapakah r dibulatkan menjadi 5 desimal?
+0.00009
+Misalkan t = 0.1065 - 15.7144. Misalkan k = t - -15.23789875. Misalkan r = 0.37 + k. Berapakah r dibulatkan menjadi tujuh desimal?
+-0.0000013
+Misalkan q = -2782905 + 6374686. Misalkan 8*i + q + 5280219 = 0. Bulatkan i ke paling dekat satu ratus ribu.
+-1100000
+Misalkan r = 671 + -572.2. Misalkan n = r + -46.5. Bulatkan n ke paling dekat 10.
+50
+Misalkan p = -2177 + 2141.24. Berapakah p dibulatkan menjadi paling dekat sepuluh?
+-40
+Misalkan v = -9008359.9 - -9008357.15000222. Misalkan z = 2.75 + v. Bulatkan z ke enam desimal.
+0.000002
+Misalkan a = -961.8 - 12.2. Misalkan d = 513 + a. Misalkan t = d - -463.21. Berapakah t dibulatkan menjadi 1 desimal?
+2.2
+Misalkan s = 0.9303 - 8.4693. Bulatkan s ke bilangan terdekat.
+-8
+Misalkan b be (-17)/((-51)/72) + (-4)/2. Misalkan c be 38 + 1 - (-22 + b). Bulatkan c ke paling dekat sepuluh.
+40
+Misalkan -3*l + 1289941 + 2190059 = 0. Misalkan l = 2*h - 7*h. Berapakah h dibulatkan menjadi paling dekat satu ratus ribu?
+-200000
+Misalkan o = -0.1014 + -1145.8986. Misalkan k = -1145.9998542 - o. Berapakah k dibulatkan menjadi lima desimal?
+0.00015
+Misalkan v = 0.27 + 4.73. Misalkan r = -5.05 + v. Misalkan a = r - -5.85. Bulatkan a ke bilangan terdekat.
+6
+Misalkan s = -6.1429 - -0.2589. Berapakah s dibulatkan menjadi nol desimal?
+-6
+Misalkan w = -166690867237 + 166690838406.69000028. Misalkan l = 28830.25 + w. Misalkan k = -0.06 - l. Berapakah k dibulatkan menjadi tujuh desimal?
+-0.0000003
+Misalkan u = 3572.9999994768 + -3573. Bulatkan u ke 7 desimal.
+-0.0000005
+Misalkan w = -20.9 - 2.2. Misalkan k = 23.09933 + w. Bulatkan k ke 4 desimal.
+-0.0007
+Misalkan r = -33.15 - -28. Misalkan y = r + 5. Misalkan w = 0.1486 + y. Bulatkan w ke 3 desimal.
+-0.001
+Misalkan x(l) = -1306*l**3 + 51*l**2 - 32*l + 51. Misalkan u be x(19). Berapakah u dibulatkan menjadi paling dekat satu juta?
+-9000000
+Misalkan t = -1 + -5.4. Misalkan h = 7.0002807 + -0.6002137. Misalkan x = h + t. Bulatkan x ke lima desimal.
+0.00007
+Misalkan y = 17939313.1 + -17939310.30000058. Misalkan j = -17 + 19.8. Misalkan r = y - j. Bulatkan r ke tujuh desimal.
+-0.0000006
+Misalkan o = -1.3 + -66.7. Misalkan z = -11 - o. Misalkan d = -57.0066 + z. Berapakah d dibulatkan menjadi 3 desimal?
+-0.007
+Misalkan t = -6500816 - -6500814.0700181. Misalkan c = t + 1.93. Bulatkan c ke enam desimal.
+0.000018
+Misalkan c = -6162 - 5657. Bulatkan c ke paling dekat 1000.
+-12000
+Misalkan c = -70 + 109. Misalkan 4*v - 7 = -c. Misalkan z = v - -28. Berapakah z dibulatkan menjadi paling dekat 100?
+0
+Misalkan w = -117.4 + 117.8. Misalkan j = 1.05 + -0.745. Misalkan k = j - w. Bulatkan k ke 2 desimal.
+-0.1
+Misalkan g = 112137549.5000747 + -112137566. Misalkan w = g - -16.5. Bulatkan w ke lima desimal.
+0.00007
+Misalkan m = 0.764 + -0.64. Misalkan t = m - -0.636. Berapakah t dibulatkan menjadi 1 desimal?
+0.8
+Misalkan b = -23 - -22. Misalkan v be 252 - (-2 + b - -2). Misalkan 5*z - 3*o = 835, -3*z - 2*o + 754 = v. Berapakah z dibulatkan menjadi paling dekat sepuluh?
+170
+Misalkan s = 1129504 - 1127691.8556. Misalkan b = -1651.14599 + s. Misalkan g = 161 - b. Bulatkan g ke 4 desimal.
+0.0016
+Misalkan l = -457849.89438826 - -457855.948. Misalkan c = 0.05361654 - l. Misalkan s = 6 + c. Bulatkan s ke enam desimal.
+0.000005
+Misalkan o = 387 + 573. Misalkan z be (-2)/4 + 26/4. Misalkan z*f = 7*f + o. Berapakah f dibulatkan menjadi paling dekat 100?
+-1000
+Misalkan k(a) = 84724*a + 336. Misalkan q be k(-14). Berapakah q dibulatkan menjadi paling dekat satu ratus ribu?
+-1200000
+Misalkan f = -219.1967 - 0.2033. Misalkan n = f - -233. Bulatkan n ke 0 desimal.
+14
+Misalkan l(o) = 885*o**2 + 27*o - 26. Misalkan i be l(-23). Misalkan f = i - 1051518. Bulatkan f ke paling dekat sepuluh ribu.
+-580000
+Misalkan t be 335/(-65) + 5 - 4069840/(-52). Misalkan -i - 3*f = -67012, 3*f - 55746 - t = -2*i. Bulatkan i ke paling dekat sepuluh ribu.
+70000
+Misalkan t = -45.26 - -186.34. Berapakah t dibulatkan menjadi 0 desimal?
+141
+Misalkan n = -7856 - -7855.9994911. Berapakah n dibulatkan menjadi lima desimal?
+-0.00051
+Misalkan c = 6502 + -1902. Misalkan t be 42/(-1)*c/120. Berapakah t dibulatkan menjadi paling dekat satu ribu?
+-2000
+Misalkan p = -217.496 - -0.496. Misalkan v = p + 217.00036. Bulatkan v ke empat desimal.
+0.0004
+Misalkan 5*m = 4*m + 44. Misalkan -39*y - 585000 = -m*y. Berapakah y dibulatkan menjadi paling dekat sepuluh ribu?
+120000
+Misalkan g = 2850.00067 - 2850. Bulatkan g ke 3 desimal.
+0.001
+Misalkan x = 1992.000002827 - 1992. Bulatkan x ke 7 desimal.
+0.0000028
+Misalkan q = -18.9340969 + 18.9541. Misalkan z = 0.02 - q. Bulatkan z ke lima desimal.
+0
+Misalkan 423 = 28*t - 25*t. Misalkan f be 102*3/(-12)*2. Misalkan v = f + t. Bulatkan v ke paling dekat 10.
+90
+Misalkan h = 34.6 - 34.599999451. Berapakah h dibulatkan menjadi enam desimal?
+0.000001
+Misalkan h = -11 - -14.6. Misalkan a = h + -2.85. Misalkan z = -0.32 + a. Berapakah z dibulatkan menjadi 1 desimal?
+0.4
+Misalkan 4*l - 59112 - 90888 = 0. Misalkan n(h) = -h**2 - 16*h + 61. Misalkan o be n(3). Misalkan z be l/(o/(-1824)*3). Bulatkan z ke paling dekat satu juta.
+-6000000
+Misalkan n = 359 + -324. Misalkan j = -53.6975 + 18.7011. Misalkan w = j + n. Berapakah w dibulatkan menjadi 3 desimal?
+0.004
+Misalkan p = 3445654364.36283743 + -3445654343. Misalkan s = p + -0.36284273. Misalkan n = -21 + s. Berapakah n dibulatkan menjadi 6 desimal?
+-0.000005
+Misalkan l = -25.575 - -48.614. Misalkan v = -0.039 + l. Misalkan o = v + -22.99999974. Berapakah o dibulatkan menjadi tujuh desimal?
+0.0000003
+Misalkan s = 17.363646 - 16.9336. Misalkan a = -57 + 57.43. Misalkan t = a - s. Berapakah t dibulatkan menjadi 6 desimal?
+-0.000046
+Misalkan v = -6.3 - -6.106. Misalkan f = v - 0.006. Berapakah f dibulatkan menjadi paling dekat 10?
+0
+Misalkan d = -0.12448 + 23.72048. Berapakah d dibulatkan menjadi 1 desimal?
+23.6
+Misalkan m = -181 + 180.995. Misalkan i = m + 0.00499796. Berapakah i dibulatkan menjadi tujuh desimal?
+-0.000002
+Misalkan l = 6.8664 + 1.6966. Misalkan g = l - -0.037. Bulatkan g ke paling dekat 10.
+10
+Misalkan o(z) = -2104*z**2 + 74*z - 510. Misalkan m be o(91). Berapakah m dibulatkan menjadi paling dekat satu juta?
+-17000000
+Misalkan f = 23687.980302 + -23688. Bulatkan f ke 4 desimal.
+-0.0197
+Misalkan i = -194584.6 + 194584.0359613. Misalkan a = i + 0.564. Berapakah a dibulatkan menjadi lima desimal?
+-0.00004
+Misalkan 5*c - 110 = -6*c. Misalkan g(b) = 25401*b**3 - 15*b**2 + 52*b - 20. Misalkan u be g(c). Berapakah u dibulatkan menjadi paling dekat satu juta?
+25000000
+Misalkan i be 12/(-2) - 7243 - 1. Misalkan u = i + 12320. Berapakah u dibulatkan menjadi paling dekat satu ribu?
+5000
+Misalkan t = 478 + -637.5. Misalkan y = t - -153. Bulatkan y ke paling dekat sepuluh.
+-10
+Misalkan f = 6.252685041 + -601.252732841. Misalkan x = -595 - f. Bulatkan x ke lima desimal.
+0.00005
+Misalkan j(m) = 8854*m**3 - 12 - 6*m + 42 + 19*m**2 - 3217*m**3. Misalkan y be j(17). Bulatkan y ke paling dekat satu juta.
+28000000
+Misalkan w = -3504.9999994176 + 3505. Bulatkan w ke tujuh desimal.
+0.0000006
+Misalkan -6 = -3*u - 3. Misalkan m be 5*(-2)/(-5) - u. Misalkan 4*d - m = -3*l - 21, 3*d = 3*l - 15. Bulatkan l ke tiga desimal.
+0
+Misalkan 0 = -11*i + 16*i - 100. Misalkan -i*y = -15*y - 2825. Misalkan -d - y + 85 = 0. Berapakah d dibulatkan menjadi paling dekat 100?
+-500
+Misalkan l = -210 + 209.826. Misalkan w = l - -0.16701. Berapakah w dibulatkan menjadi tiga desimal?
+-0.007
+Misalkan h = -135824.294365 + 135824. Misalkan p = h + 0.295. Berapakah p dibulatkan menjadi 4 desimal?
+0.0006
+Misalkan r = -203 - -202.872. Misalkan l = 0.1 - 0.106. Misalkan p = l - r. Berapakah p dibulatkan menjadi 2 desimal?
+0.12
+Misalkan b = -0.48 - -0.331. Misalkan t = -0.1218 - b. Bulatkan t ke 3 desimal.
+0.027
+Misalkan s = -3.5 + -0.5. Misalkan i = -4.7 - s. Misalkan l = i - -0.7000024. Berapakah l dibulatkan menjadi 6 desimal?
+0.000002
+Misalkan w = 2.5961633 + -194.5951533. Misalkan t = -191.093 + -0.907. Misalkan o = w - t. Berapakah o dibulatkan menjadi empat desimal?
+0.001
+Misalkan u = 263212 + -263211.9430515. Misalkan c = u - 0.057. Berapakah c dibulatkan menjadi 5 desimal?
+-0.00005
+Misalkan s = -5177 + 5177.00019614. Berapakah s dibulatkan menjadi enam desimal?
+0.000196
+Misalkan s = 33.05 + -33.07978. Berapakah s dibulatkan menjadi tiga desimal?
+-0.03
+Misalkan v = -2746.008364 + 2746. Berapakah v dibulatkan menjadi 3 desimal?
+-0.008
+Misalkan 4*x - 430 = 5*a + 158, 3*a + x = -363. Misalkan 22*v = -9*v - 124. Misalkan j = v + a. Bulatkan j ke paling dekat sepuluh.
+-120
+Misalkan j = -86.0177 - -86. Misalkan y = 0.017463 + j. Bulatkan y ke lima desimal.
+-0.00024
+Misalkan n = 404.8 - 404.7998777. Bulatkan n ke empat desimal.
+0.0001
+Misalkan -6*w + 4*w + 4 = 2*p, -2*p - 16 = -3*w. Misalkan -z - 2 = 3*z + 2*b, -w*b - 20 = 0. Bulatkan z ke paling dekat sepuluh.
+0
+Misalkan l = -16797.3257 + 16798. Bulatkan l ke satu desimal.
+0.7
+Misalkan l = -172.279 + 0.279. Misalkan v = -172.0000105 - l. Berapakah v dibulatkan menjadi lima desimal?
+-0.00001
+Misalkan k(i) = 11*i + 2. Misalkan p be k(1). Misalkan r = p - 8. Misalkan c - y - 21599998 = 4*c, -10 = -r*y. Bulatkan c ke paling dekat 1000000.
+-7000000
+Misalkan h = 3.53 - -38.47. Misalkan q = 8770.21 - 8812. Misalkan n = q + h. Bulatkan n ke 2 desimal.
+0.21
+Misalkan q = -141.991 - 71102.009. Misalkan r = q + 71216.9996. Misalkan j = r - -27. Berapakah j dibulatkan menjadi empat desimal?
+-0.0004
+Misalkan 5*c = -2*n - 35, -4*c - 42 = 3*n + 28. Misalkan h be -225*12*(150 + n). Berapakah h dibulatkan menjadi paling dekat sepuluh ribu?
+-320000
+Misalkan l = -0.1088 + 0.1084488. Berapakah l dibulatkan menjadi lima desimal?
+-0.00035
+Misalkan l(u) = 2*u - 19206*u**2 - 161255*u**2 + 21080*u**2. Misalkan a be l(-1). Misalkan o = 38383 + a. Berapakah o dibulatkan menjadi paling dekat 10000?
+-120000
+Misalkan s = -234.18397 + 234.2. Misalkan g = s + -0.016. Bulatkan g ke lima desimal.
+0.00003
+Misalkan z = 189 - 221. Misalkan w = z + -1.6. Berapakah w dibulatkan menjadi bilangan terdekat?
+-34
+Misalkan n be 1/(-8) - (-6779040029)/232. Berapakah n dibulatkan menjadi paling dekat satu juta?
+29000000
+Misalkan u = 0.5202725 - 0.519. Berapakah u dibulatkan menjadi 5 desimal?
+0.00127
+Misalkan a = -22.8 + 23.71. Misalkan p = -420879 - -420878.089939. Misalkan k = a + p. Bulatkan k ke lima desimal.
+-0.00006
+Misalkan r = 10340 + -10365.9775. Misalkan v = 26 + r. Bulatkan v ke 3 desimal.
+0.023
+Misalkan z(d) = -126542*d**2 + 22*d + 4. Misalkan 333*g - 36 = 335*g. Misalkan u be z(g). Bulatkan u ke paling dekat 1000000.
+-41000000
+Misalkan t = -0.142 - -2.242. Misalkan z = 32502 + -32504.1027. Misalkan w = z + t. Berapakah w dibulatkan menjadi 3 desimal?
+-0.003
+Misalkan t = 74.7152 + -76.9652186. Misalkan z = t + 2.25. Bulatkan z ke enam desimal.
+-0.000019
+Misalkan u = 0.40729 + -0.465. Berapakah u dibulatkan menjadi dua desimal?
+-0.06
+Misalkan w = 16.6 + -13.679. Berapakah w dibulatkan menjadi 1 desimal?
+2.9
+Misalkan -4*w - 4*i + 156 = 0, 0*w + 4*w = -2*i + 162. Misalkan 0 = w*h - 45*h + 17700000. Berapakah h dibulatkan menjadi paling dekat satu juta?
+6000000
+Misalkan 54*b = 41*b + 65. Misalkan -7*j - 35090 = -4*j - 2*o, b*j + 5*o + 58525 = 0. Berapakah j dibulatkan menjadi paling dekat 1000?
+-12000
+Misalkan -u - 15 = 2*u + 3*q, -13 = 4*u - 3*q. Misalkan d be (-5*35/(-28))/(2/8). Misalkan m be (-44800)/u*6*d. Bulatkan m ke paling dekat satu ratus ribu.
+1700000
+Misalkan q = -11734 - -14248.5. Berapakah q dibulatkan menjadi paling dekat sepuluh?
+2510
+Misalkan -6*i = -3*y - 10*i + 4400419, y - 1466828 = 3*i. Misalkan q = y + -997813. Berapakah q dibulatkan menjadi paling dekat 100000?
+500000

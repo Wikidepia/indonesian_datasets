@@ -1,0 +1,666 @@
+Sederhanakan -2439*v**3 - 7*v**2 + 320*v**3 + 7*v**2.
+-2119*v**3
+Sederhanakan 9*u + 5*u + 6*u + 19*u + 10*u - 33*u.
+16*u
+Sederhanakan 102*y**2 - 4081*y**3 - 102*y**2.
+-4081*y**3
+Sederhanakan -315224 - 2*p**2 + 315224.
+-2*p**2
+Sederhanakan 3*g**3 + 52565013*g - 2*g**2 + 2*g**2 - 52565007*g.
+3*g**3 + 6*g
+Sederhanakan 39*d - 1328 + 1328 - 117*d.
+-78*d
+Sederhanakan 68 + 66 + 11*r - 220 + 86.
+11*r
+Sederhanakan 10*o - 4*o + 480 + 2*o**3 - 4*o.
+2*o**3 + 2*o + 480
+Sederhanakan -170*j + 60*j + 54*j + 15*j**2 + 60*j.
+15*j**2 + 4*j
+Sederhanakan -70*o**3 + 108*o**2 + 89*o**2 - 290*o**2 + 93*o**2.
+-70*o**3
+Sederhanakan -21*a - 7*a**2 + 3*a**2 + 157*a - 136*a.
+-4*a**2
+Sederhanakan 65196*t**2 + 3414*t**2 + 2 - 2.
+68610*t**2
+Sederhanakan -102*a + 13*a - 54*a.
+-143*a
+Sederhanakan -818 - 3*b + 4*b**2 + 818 - 4*b**2 + b**2.
+b**2 - 3*b
+Sederhanakan 1887*x - 5783 + 5783 - 1882*x.
+5*x
+Sederhanakan 7*x - 19*x + 3*x - 141*x**2 + 7*x.
+-141*x**2 - 2*x
+Sederhanakan k - 1841*k**3 + 2*k + 156*k**3 - 6*k.
+-1685*k**3 - 3*k
+Sederhanakan 78693*v - 39344*v - 39349*v + v**3.
+v**3
+Sederhanakan -28729996*r**3 + r + 28730021*r**3 - r.
+25*r**3
+Sederhanakan 69*n - 29*n + 37*n.
+77*n
+Sederhanakan -241*v**2 - 225*v**2 + 495*v**2.
+29*v**2
+Sederhanakan 184*n**3 - 63*n**3 - 53*n**3 - 58*n**3.
+10*n**3
+Sederhanakan -5*c - 3*c + c + 197 - c + 7*c.
+197 - c
+Sederhanakan -39*c**3 - 85*c**3 - 87*c**3 + 1 + 209*c**3 - 1.
+-2*c**3
+Sederhanakan -498*b**3 + 263*b**3 + 229*b**3.
+-6*b**3
+Sederhanakan 6369*u**2 + 5469*u**2 - 1032*u**2.
+10806*u**2
+Sederhanakan -75*o**3 + 30*o**3 - 2*o**2 + 45*o**3 + 36*o**3.
+36*o**3 - 2*o**2
+Sederhanakan -132*t**3 - 7 + 12 - 5 - 2.
+-132*t**3 - 2
+Sederhanakan 28*x - 51*x + 39*x + 5.
+16*x + 5
+Sederhanakan 3*l + 2*l + 427 + 0*l - 12*l.
+427 - 7*l
+Sederhanakan 10*k + 5*k + 8*k + 9*k - 41*k.
+-9*k
+Sederhanakan -13 - 15 + 28*s**2 + 11*s**2 + 28.
+39*s**2
+Sederhanakan 109*v + 100*v - 181*v.
+28*v
+Sederhanakan 0 + 190*r**3 - 10*r**3 + 2 + 3*r**2.
+180*r**3 + 3*r**2 + 2
+Sederhanakan 538*f**2 - 23*f - 782*f**2 + 23*f.
+-244*f**2
+Sederhanakan 15407268 - 15407268 - 5*o**2.
+-5*o**2
+Sederhanakan -25 + 36 + 19*x + 351.
+19*x + 362
+Sederhanakan -5193*y + 0*y**3 + 551*y - y**3.
+-y**3 - 4642*y
+Sederhanakan -r**2 - 19836*r + r**2 + 39716*r - 16*r**3 - 19880*r.
+-16*r**3
+Sederhanakan -300*g**3 + 239*g**3 + 797*g**3.
+736*g**3
+Sederhanakan 73 - 44 - 29 + 117*h**2.
+117*h**2
+Sederhanakan -167*n**3 + 749*n**3 + 2002*n**3 - 44*n**3 - 155*n**3.
+2385*n**3
+Sederhanakan -18*z + 8*z**2 - 6*z - 13*z - 3*z**2 + 60*z.
+5*z**2 + 23*z
+Sederhanakan -2*m + 27*m - 8*m - 7*m.
+10*m
+Sederhanakan 1706*k**2 - 571*k**2 - 569*k**2 - 563*k**2.
+3*k**2
+Sederhanakan -10010 + 10010 - b**3 - b**2 + 15*b**3 + b**3.
+15*b**3 - b**2
+Sederhanakan 24*o**2 + 112*o**2 - 659*o**2 - 751*o**2.
+-1274*o**2
+Sederhanakan -1892 + 106*u**3 - 208*u**3 + 106*u**3 + 1892.
+4*u**3
+Sederhanakan 8*p - 8*p - 324*p**3 + 0*p.
+-324*p**3
+Sederhanakan -11*d + d - 22*d - 18*d - 10 + 2.
+-50*d - 8
+Sederhanakan -261*v + 96*v - 6 + 161*v.
+-4*v - 6
+Sederhanakan -76*c**3 - 15*c**3 + 17*c - 377*c - 9*c**3.
+-100*c**3 - 360*c
+Sederhanakan 259*k - 1028*k - k**2 + 263*k + 249*k + 257*k.
+-k**2
+Sederhanakan 744*n**3 + 984*n**3 - 2180*n**3.
+-452*n**3
+Sederhanakan -296*y**3 - 331*y**3 + 594*y**3.
+-33*y**3
+Sederhanakan 14316 + 12*b - 6*b - 14301 - 7*b.
+15 - b
+Sederhanakan -24 - 7*i + 29 - 5.
+-7*i
+Sederhanakan 442*a + 416*a - 829*a.
+29*a
+Sederhanakan 21662*f**2 - 43403*f**2 + 21661*f**2.
+-80*f**2
+Sederhanakan 2376887 - 2376887 + 125*w**2.
+125*w**2
+Sederhanakan 24*g - 2*g - 9*g - 4*g - 2*g + 6*g.
+13*g
+Sederhanakan 370*u + 4*u**2 - 5*u**2 + 371*u - 742*u.
+-u**2 - u
+Sederhanakan -4732330 + 6*h + 4732330.
+6*h
+Sederhanakan -t**3 - 46672*t**2 + 93343*t**2 - 46671*t**2.
+-t**3
+Sederhanakan -19185 - 23*m + 19185.
+-23*m
+Sederhanakan 70*q + 2*q**2 - 35*q + 30*q.
+2*q**2 + 65*q
+Sederhanakan 680 + 106*p**2 - 338 - p - 8*p**2 - 342.
+98*p**2 - p
+Sederhanakan 1192 - 1192 + 4231*h + 3320*h.
+7551*h
+Sederhanakan a**3 + a**3 + 17 + 11.
+2*a**3 + 28
+Sederhanakan -41142*z**2 + 123424*z**2 - 41135*z**2 - 41143*z**2.
+4*z**2
+Sederhanakan -8913*x + 8913*x + 33 + 9*x**2.
+9*x**2 + 33
+Sederhanakan -29*n + 2*n**2 + 34*n - 8*n**2 + 13*n**2.
+7*n**2 + 5*n
+Sederhanakan -98114*h**2 + 64*h**3 + 98114*h**2.
+64*h**3
+Sederhanakan -44*k + 26*k - 3*k + 2*k**2.
+2*k**2 - 21*k
+Sederhanakan 37*u - 26*u + 40*u - 7*u + 28*u.
+72*u
+Sederhanakan -55*v - 54*v - 4 - 60*v - 1 + 168*v.
+-v - 5
+Sederhanakan 174787 + l - 524357 + 174788 + 174782.
+l
+Sederhanakan 94*i + 91*i - 91*i - 85*i.
+9*i
+Sederhanakan -1384618*m + 1384618*m + 37*m**3.
+37*m**3
+Sederhanakan 504*z**2 - 57*z + 505*z**2 - 1011*z**2.
+-2*z**2 - 57*z
+Sederhanakan 9*m + 258883 - 258883.
+9*m
+Sederhanakan -4 + 5 - 23 + 19 + 247*t - 248*t.
+-t - 3
+Sederhanakan -1713131 + 1713131 - 7*i**2.
+-7*i**2
+Sederhanakan 13*m**3 - 65 - 19 - 8 - 11*m**3 + 2.
+2*m**3 - 90
+Sederhanakan 15 + 5*f - 32*f**2 - 4*f + 53 + 0*f.
+-32*f**2 + f + 68
+Sederhanakan 131*y + 367*y - 21*y + 24*y.
+501*y
+Sederhanakan -130*h - 197*h - 123*h - 422*h.
+-872*h
+Sederhanakan -27*p**2 - 26*p**2 + 137*p**2 - 98*p**2.
+-14*p**2
+Sederhanakan 251 + 4*l - 552 + 0*l - 417.
+4*l - 718
+Sederhanakan 2 + 26*t + 66*t**3 + 34*t - 60*t - 3.
+66*t**3 - 1
+Sederhanakan -5020*h**3 - 4979*h**3 + 9983*h**3.
+-16*h**3
+Sederhanakan 15 + 238 + 18 - 2*j + 16 - 287.
+-2*j
+Sederhanakan -36054*v**3 + 36056*v**3 + 1334657 - 1334657.
+2*v**3
+Sederhanakan -9887*j - 358*j**2 + 9887*j.
+-358*j**2
+Sederhanakan -5339*p + 66*p**2 + 10676*p - 5337*p.
+66*p**2
+Sederhanakan 0*b - 5*b + 4 + 10*b + 5*b - 8.
+10*b - 4
+Sederhanakan -3219*c + 7426*c + 5177*c + c**2 + c**2.
+2*c**2 + 9384*c
+Sederhanakan -4 - 492227*i + 492193*i + 6.
+2 - 34*i
+Sederhanakan 67*g**3 - 11*g**3 - 35*g**3.
+21*g**3
+Sederhanakan 82962*p**2 - 41469*p**2 - 41484*p**2.
+9*p**2
+Sederhanakan 26*o**3 - 3*o**3 - 2*o**2 + 2*o**2 + 70*o**3.
+93*o**3
+Sederhanakan 611*z**2 - 173*z**2 + 490*z**2.
+928*z**2
+Sederhanakan 31 - 17*l + 38*l - 31 + 2*l**2.
+2*l**2 + 21*l
+Sederhanakan 226910*g + 32*g**2 - 226910*g.
+32*g**2
+Sederhanakan -785 - 16*n + 779 - 17*n.
+-33*n - 6
+Sederhanakan 5*u**3 - 73029*u - 3*u**3 + 73029*u - 3*u**3.
+-u**3
+Sederhanakan -22 - 2*d + 0*d + 0 + d - 85.
+-d - 107
+Sederhanakan 9107 - 9106 - 28*d - 21*d.
+1 - 49*d
+Sederhanakan -160 + v + 329 - 169 + 14*v - 14*v - 2*v.
+-v
+Sederhanakan 86*o**3 + 163*o**3 + 16*o**3 + 180*o**3.
+445*o**3
+Sederhanakan -5518970*m + 2*m**3 + 5518970*m.
+2*m**3
+Sederhanakan -412*h**2 - 2*h**3 + 14*h**3 + 412*h**2.
+12*h**3
+Sederhanakan 94*u**2 - 80*u**2 - 64*u**2.
+-50*u**2
+Sederhanakan 86 - 24*d**2 - d + d - 43 - 35.
+8 - 24*d**2
+Sederhanakan 12117*h + 12164*h - 24258*h.
+23*h
+Sederhanakan -6*l + 12*l - 3*l + 10 + 10*l.
+13*l + 10
+Sederhanakan -782*g**3 - 595*g**3 - 1109*g**3 + 485*g**3 + 308*g**3.
+-1693*g**3
+Sederhanakan 1926*b + 5540*b + 9233*b - 1642*b.
+15057*b
+Sederhanakan 15*q**2 - 141*q**2 - 14*q**2 - 55*q**2.
+-195*q**2
+Sederhanakan 1 - 4 + 3 + 2067*t.
+2067*t
+Sederhanakan 1 + 1241*v**2 - 599*v**2 - 1 - 641*v**2.
+v**2
+Sederhanakan 0*r - 68*r - 17*r - 54*r.
+-139*r
+Sederhanakan 571547*t**2 + 6*t**3 - 5*t**3 - 571555*t**2.
+t**3 - 8*t**2
+Sederhanakan b**2 - 62*b**3 - b**2 + 31*b**3 - 59*b**3.
+-90*b**3
+Sederhanakan 396 - 22*s - 396 + 16*s.
+-6*s
+Sederhanakan 255*f - 7*f**2 - 6753 - 255*f + 6753.
+-7*f**2
+Sederhanakan 453 + 17*f - 9*f + 452 + 453 - 1358.
+8*f
+Sederhanakan -21*q - 37*q + 16*q - 41*q.
+-83*q
+Sederhanakan 18892*u**2 + 7070*u**2 + 26510*u**2 + 1797*u**2.
+54269*u**2
+Sederhanakan -21*o - 99*o**3 + 269*o**3 - 173*o**3 + 21*o.
+-3*o**3
+Sederhanakan -30 - q**2 - 20 - 2*q**2 - 2*q**2 + 50.
+-5*q**2
+Sederhanakan -37*o**3 - 6224*o**2 - 6219*o**2 + 12443*o**2.
+-37*o**3
+Sederhanakan -7605*o - 1 + 735*o + 1.
+-6870*o
+Sederhanakan 27*j**3 + 5 - 2 - 51*j**3 + 35*j**3 - 3.
+11*j**3
+Sederhanakan -14*l + 10 + 11*l - 12 - 5*l.
+-8*l - 2
+Sederhanakan -529*d**3 - 519*d**3 + 1059*d**3.
+11*d**3
+Sederhanakan -46*d**2 - 74*d**2 - 22 - 17.
+-120*d**2 - 39
+Sederhanakan -23*q - 17*q + 54*q - 3 - 16*q.
+-2*q - 3
+Sederhanakan 4411*w**2 - 2193*w**2 - 2196*w**2.
+22*w**2
+Sederhanakan 5 - 1 - 4 - 686*q**3 + 650*q**3.
+-36*q**3
+Sederhanakan 37*f**3 - 56*f**3 + 220 - 221.
+-19*f**3 - 1
+Sederhanakan 3 + 2 - 11 + 535*n + 5.
+535*n - 1
+Sederhanakan 155*w + 741*w + 473*w + 977*w.
+2346*w
+Sederhanakan -19*j + 13*j + 62*j**2 - 71*j**2 + 6*j.
+-9*j**2
+Sederhanakan 3 - 3 + 407*m - 405*m.
+2*m
+Sederhanakan 292*a**3 + a - 305*a**3 + 0*a + 0*a.
+-13*a**3 + a
+Sederhanakan 5*f**2 + 18*f**2 + 8*f + 11*f**2 - 3*f**2.
+31*f**2 + 8*f
+Sederhanakan -76147 + 16*s**2 + 76147.
+16*s**2
+Sederhanakan 5*y + 650 - 17*y + 11*y.
+650 - y
+Sederhanakan -112 + 42*v + 728 - 11*v.
+31*v + 616
+Sederhanakan 5*l**2 + l**2 - 17 - l + 46.
+6*l**2 - l + 29
+Sederhanakan 307*z**2 - 224 + 224 - 3499*z**2.
+-3192*z**2
+Sederhanakan -595*l + 1186*l - 592*l + 39 - 39.
+-l
+Sederhanakan -756*a**2 + 495*a**3 + 756*a**2.
+495*a**3
+Sederhanakan 3 - 1 - 2 + 7066*h.
+7066*h
+Sederhanakan -768*t + 768*t + 1 - 200*t**3.
+1 - 200*t**3
+Sederhanakan 65*a**2 + 71*a**2 - 270*a**2 + 66*a**2 + 66*a**2.
+-2*a**2
+Sederhanakan -196*f**3 - 248*f**3 - 204*f**3.
+-648*f**3
+Sederhanakan -21*q + 17 + 165*q**2 - 17.
+165*q**2 - 21*q
+Sederhanakan 28*q**2 + 2*q**3 - 84*q**2 - 40*q + 40*q + 31*q**2 + 27*q**2.
+2*q**3 + 2*q**2
+Sederhanakan -283*o**2 + 48*o**2 - 27*o - 415*o**2 - 22*o**2 + 3.
+-672*o**2 - 27*o + 3
+Sederhanakan -14*d**3 - 42*d**2 + 74*d - 34*d**3 - 73*d.
+-48*d**3 - 42*d**2 + d
+Sederhanakan -144 + 93*k**2 + 142 + 98*k**2 - 190*k**2.
+k**2 - 2
+Sederhanakan 28*p**2 - 2529 - 10*p + p**2 + 2529.
+29*p**2 - 10*p
+Sederhanakan 2981 - 2*u + 7299 + 4777 - u.
+15057 - 3*u
+Sederhanakan -1229*d**2 + 2449*d**2 + 0*d - 1226*d**2 + 3*d.
+-6*d**2 + 3*d
+Sederhanakan -26 + 99 - 24 - 28 + 4*p - 27.
+4*p - 6
+Sederhanakan -8 + 8 - 2252*k**2 - 3701*k**2.
+-5953*k**2
+Sederhanakan 2 + 7 - 9 - 766*m**2.
+-766*m**2
+Sederhanakan 239784*f**2 - 56816*f**2 + f - 2*f.
+182968*f**2 - f
+Sederhanakan 4*o**2 + 5169 - 2*o**2 - o**2 - 5172 + 4*o**2.
+5*o**2 - 3
+Sederhanakan -1763*n + 3536*n - 1776*n.
+-3*n
+Sederhanakan 253*p**2 - 253*p**2 - 3*p**3 - 5 + 151.
+146 - 3*p**3
+Sederhanakan -71*t + 22*t + 24*t - 3810*t**3 + 25*t + 3811*t**3.
+t**3
+Sederhanakan 0*r**3 - 6*r**3 - 32*r**3 + 11*r**3.
+-27*r**3
+Sederhanakan 158*z**2 + 1 + 775*z - 775*z.
+158*z**2 + 1
+Sederhanakan -87*i**2 - 200*i**2 + 17*i**2 - 281*i**2.
+-551*i**2
+Sederhanakan 9*m - 27*m + 13*m - 4*m.
+-9*m
+Sederhanakan 7269*i - 3639*i - 3644*i - 2.
+-14*i - 2
+Sederhanakan -2*s**3 + 18*s**3 + 88 - 8*s**3 - 9*s**3.
+88 - s**3
+Sederhanakan -2640*z**2 - 11371*z + 11371*z.
+-2640*z**2
+Sederhanakan -430*z**2 - 3318*z - 3318*z + 6636*z.
+-430*z**2
+Sederhanakan 12*o + 352224*o**2 - 6*o - 352222*o**2 - 6*o.
+2*o**2
+Sederhanakan -874*t - 1298*t - 878*t - 302*t.
+-3352*t
+Sederhanakan -24*n**3 - 69*n**2 - 6 - 44*n**3 + 6 + 67*n**3.
+-n**3 - 69*n**2
+Sederhanakan 4255*f**2 + 39 + 4245*f**2 - 8498*f**2.
+2*f**2 + 39
+Sederhanakan 2709*k**2 - 1340*k**2 - 1347*k**2.
+22*k**2
+Sederhanakan -n - 4316*n**3 + n + 4326*n**3.
+10*n**3
+Sederhanakan 316*f - 625*f + 211*f.
+-98*f
+Sederhanakan 279*h**2 - 70*h**2 - 220*h**2.
+-11*h**2
+Sederhanakan -2741 - 2745 + 8223 + 2*f**3 - 2737.
+2*f**3
+Sederhanakan 184*s - 974 - 184*s - 974 + 1948 + 5*s**3.
+5*s**3
+Sederhanakan -89*i - 83*i - 61*i.
+-233*i
+Sederhanakan -61*u - 59*u + 120*u - 23*u**2.
+-23*u**2
+Sederhanakan -117*m - 219*m - 6*m.
+-342*m
+Sederhanakan -57*j + 38734 - 18*j**3 - 38734 + 57*j.
+-18*j**3
+Sederhanakan 1963*q**2 + 23*q**3 - 1963*q**2 + 178*q**3.
+201*q**3
+Sederhanakan -8 - 86980*u**2 + 26181*u**2 + 6.
+-60799*u**2 - 2
+Sederhanakan -47*u + 134*u - 38*u - 53*u.
+-4*u
+Sederhanakan 324*c - 150*c - 2 + 76*c + 164*c.
+414*c - 2
+Sederhanakan -532*v**2 - 543*v**2 - 14*v + 1078*v**2.
+3*v**2 - 14*v
+Sederhanakan 7470*v**2 + 1990*v**2 + 1248*v**2.
+10708*v**2
+Sederhanakan 4*w**2 + 205020 - 15*w**2 - 205023.
+-11*w**2 - 3
+Sederhanakan 27707*j**2 + 1 - 27714*j**2 - 2*j - 1 + 4*j.
+-7*j**2 + 2*j
+Sederhanakan -80664 + 4*p + 80664.
+4*p
+Sederhanakan 11840*o + 5 - 2*o**3 - 11840*o.
+5 - 2*o**3
+Sederhanakan 2*a - 117 - a + 69 + 66.
+a + 18
+Sederhanakan 1136*h + 2925*h + 4492*h - 1096*h.
+7457*h
+Sederhanakan 53*u**2 - 154*u - 6*u**2 + 154*u.
+47*u**2
+Sederhanakan 70*z - 46 - 4 + 20 - 40.
+70*z - 70
+Sederhanakan -225*b**2 - 2104*b**2 - 4986*b**2.
+-7315*b**2
+Sederhanakan 2*v**2 - 2*v**3 - 4*v**2 + 245*v + 81*v + v**3.
+-v**3 - 2*v**2 + 326*v
+Sederhanakan 30*l + 3228 - 1490 - 32*l + 3168.
+4906 - 2*l
+Sederhanakan 8*c - c - 5*c + 252*c**3 - 2*c.
+252*c**3
+Sederhanakan -702*k - 700*k + 8*k**3 + 1402*k + 3*k**3.
+11*k**3
+Sederhanakan 5*o + 2 - 14*o + 4*o + 21*o.
+16*o + 2
+Sederhanakan -1400 + 696 - q**3 - 14*q**3 + 704.
+-15*q**3
+Sederhanakan -11859 + g + 8*g + 11842.
+9*g - 17
+Sederhanakan 3*q + 81*q**3 - 3*q + 399*q**3.
+480*q**3
+Sederhanakan 67 + v + 3 + 86.
+v + 156
+Sederhanakan 44649*r**3 + 29724*r**3 + 95633*r**3.
+170006*r**3
+Sederhanakan 36965 + 4*v**2 - 36965 - 2*v.
+4*v**2 - 2*v
+Sederhanakan -46*f + 27*f + 16*f - 14.
+-3*f - 14
+Sederhanakan -f - 39 + 108 - 38 - 31 + 2*f.
+f
+Sederhanakan -9*i**2 - 12*i**2 - 4*i**2 + 76*i**3 + 29*i**2.
+76*i**3 + 4*i**2
+Sederhanakan -1693*p**2 - 1686*p**2 + 5035*p**2 - 1682*p**2.
+-26*p**2
+Sederhanakan -s - s + 16*s**3 + 2*s + 162*s**3.
+178*s**3
+Sederhanakan 288*m - 9*m + 8*m.
+287*m
+Sederhanakan -80*y**2 - 77*y**2 + 239*y**2 - 82*y**2 - 182*y**3.
+-182*y**3
+Sederhanakan 19749050*a**2 - 19749050*a**2 + 30*a**3.
+30*a**3
+Sederhanakan 568 - 141*j - 282 + 144*j - 286.
+3*j
+Sederhanakan 8*k - 59*k - 3*k**2 + 9*k**2.
+6*k**2 - 51*k
+Sederhanakan -25 + 13*n + 15*n - 30*n + 25.
+-2*n
+Sederhanakan -1201 + 1201 - 4*z**3.
+-4*z**3
+Sederhanakan 2*d**3 + 2 - d**3 + 31663*d**2 - 2 - 31664*d**2.
+d**3 - d**2
+Sederhanakan 2631*m + 2545*m - 5241*m.
+-65*m
+Sederhanakan -28602 + 28602 - 3704*i.
+-3704*i
+Sederhanakan 26*a**2 + 77 + 100 - 177.
+26*a**2
+Sederhanakan -26*o + 26*o - 19*o**2 + 15*o**2.
+-4*o**2
+Sederhanakan -229101 + 3*b**3 + 229101.
+3*b**3
+Sederhanakan 28541*u + 28530*u - 57072*u.
+-u
+Sederhanakan 1055*n**3 - 553*n**3 - 496*n**3.
+6*n**3
+Sederhanakan -712 - 115*b - 706 - 224*b + 1418.
+-339*b
+Sederhanakan -131*u**3 - 2*u**2 + 86*u**3 - 72*u**3.
+-117*u**3 - 2*u**2
+Sederhanakan -10*k**3 - 13*k**3 - 104*k + 18*k**3.
+-5*k**3 - 104*k
+Sederhanakan 144*z + z**2 + 9*z**2 + 76*z.
+10*z**2 + 220*z
+Sederhanakan -2056*q**3 + 159 - 487 + 163 + 165.
+-2056*q**3
+Sederhanakan -105 + 105 + 171*s.
+171*s
+Sederhanakan 27*d**3 - 3 + 43 + 18*d**3 - 40.
+45*d**3
+Sederhanakan 3 + 25913*w**3 - 25889*w**3 - 3.
+24*w**3
+Sederhanakan -v**3 - 18*v - v**3 - 18*v - 39*v.
+-2*v**3 - 75*v
+Sederhanakan -183*j + 256*j - 73*j - j**2.
+-j**2
+Sederhanakan -7*u - 4692*u**2 + 7*u.
+-4692*u**2
+Sederhanakan 2*o**2 - o**2 + 1138*o**3 - o**2 - 1113*o**3.
+25*o**3
+Sederhanakan -26*v**3 - 2*v**3 - 53*v**3 - 85*v**3.
+-166*v**3
+Sederhanakan -1880 - 1881 + q**2 + 3761.
+q**2
+Sederhanakan 47 + 11 - 25*n**3 - 58.
+-25*n**3
+Sederhanakan -14*d + 3*d + 11 - 10*d + 4.
+15 - 21*d
+Sederhanakan 2*l - 162 + 443 + 28.
+2*l + 309
+Sederhanakan 81*h**2 + 2010*h**2 - 33144*h**2 - 311*h**2.
+-31364*h**2
+Sederhanakan -3537*n**3 + 868*n**3 - 2*n**2 - 14*n + 14*n.
+-2669*n**3 - 2*n**2
+Sederhanakan s**2 - 17 - 8 + 33 - 8.
+s**2
+Sederhanakan -7*y + 20 + 29 - y - 53 + 5*y.
+-3*y - 4
+Sederhanakan -71*u**2 + 3577*u**2 + 109*u**2.
+3615*u**2
+Sederhanakan 22*d - 12 + 18 - 7 + 1.
+22*d
+Sederhanakan 66*y**3 - 49*y**3 - 22*y**2 + 56*y**2.
+17*y**3 + 34*y**2
+Sederhanakan 479 - p + 251 - 730.
+-p
+Sederhanakan 1340 - 2*z**2 + 271*z - 1340.
+-2*z**2 + 271*z
+Sederhanakan 2*s**2 + 893276 - 893276.
+2*s**2
+Sederhanakan 8 + 0 + 19 + q - 27.
+q
+Sederhanakan -20*a**2 - 22503 + 45001 - 22498.
+-20*a**2
+Sederhanakan -3*u + 7*u - 5*u**2 - 40*u**2.
+-45*u**2 + 4*u
+Sederhanakan -61556*x**2 + 30774*x**2 + 30781*x**2.
+-x**2
+Sederhanakan -11 + 8*k**2 - 22*k**2 - k**2 + 5*k**2.
+-10*k**2 - 11
+Sederhanakan 35*x**2 - 35*x**2 + 127*x**3 - 104*x**3.
+23*x**3
+Sederhanakan -22270 + p + 22270.
+p
+Sederhanakan -44437*a**2 + 22295*a**2 + 22135*a**2.
+-7*a**2
+Sederhanakan -65*l**3 - 111*l**3 + 188*l**3.
+12*l**3
+Sederhanakan 208*b + 225*b - 582*b + 194*b + 3.
+45*b + 3
+Sederhanakan -68 + 135 - 38*v - 67.
+-38*v
+Sederhanakan -38*r**2 + 68*r**2 - 14*r**2.
+16*r**2
+Sederhanakan -1146368 + 15*o + 1146368.
+15*o
+Sederhanakan 4044*i**3 - 13869*i**3 - 10998*i**3 - 41331*i**3.
+-62154*i**3
+Sederhanakan -1919*r**3 - 1926*r**3 + 3833*r**3.
+-12*r**3
+Sederhanakan -287*h**3 - 434*h**3 - 1599*h**3.
+-2320*h**3
+Sederhanakan -49*h**3 - 33*h**3 - 108*h**3.
+-190*h**3
+Sederhanakan -62*x + 180*x - 61*x + 4 - 7 - 60*x.
+-3*x - 3
+Sederhanakan 596 - 1352*v**2 + 457 + 1350*v**2.
+1053 - 2*v**2
+Sederhanakan -642*x**3 - 82*x**3 - 234*x**3.
+-958*x**3
+Sederhanakan 25*u**2 + 58 + 5*u**2 - 2*u**2 - 58 + u.
+28*u**2 + u
+Sederhanakan -403*q**3 - 77*q + 77*q.
+-403*q**3
+Sederhanakan 3*w**3 + 2*w**3 - 12*w + 2*w**3 + 4*w**3 + 11*w.
+11*w**3 - w
+Sederhanakan 2*s**2 - 1706593 + 1706593.
+2*s**2
+Sederhanakan -772*h - 26310*h - 19257*h - 61486*h.
+-107825*h
+Sederhanakan -4*y - 111*y**2 + 0*y + y + 32*y**2.
+-79*y**2 - 3*y
+Sederhanakan 24*x - 16*x - 9*x + 17*x - 5*x.
+11*x
+Sederhanakan -12*g**2 + 180*g**2 + 176*g**2 - 23*g**2.
+321*g**2
+Sederhanakan -12*o - 4*o**2 + 8*o**2 + 11*o.
+4*o**2 - o
+Sederhanakan 7*v**3 + 2*v**3 - 10*v**3 + 5*v**3 - 16*v.
+4*v**3 - 16*v
+Sederhanakan -3*a**2 - 17 + 45 + 10*a**2 - 5*a**2 - 28.
+2*a**2
+Sederhanakan 128 - 465*o - 30 + 466*o.
+o + 98
+Sederhanakan 58*f**2 + 60 - f - 60.
+58*f**2 - f
+Sederhanakan 1495*j**3 - 291*j**3 - 301*j**3 - 301*j**3 - 294*j**3 - 301*j**3.
+7*j**3
+Sederhanakan 3*w - 1099 + 3135 - 1091 - 945.
+3*w
+Sederhanakan -18 - c**2 + 28 + 10.
+20 - c**2
+Sederhanakan 121*x**2 + 123*x**2 - 589*x**2 + 119*x**2 + 109*x**2 + 115*x**2.
+-2*x**2
+Sederhanakan 726*q - 9 - 12 - 719*q.
+7*q - 21
+Sederhanakan 52*u - 177*u + 24*u + 31*u.
+-70*u
+Sederhanakan -155432*c**2 - 155469*c**2 + 310901*c**2 + 21*c**3.
+21*c**3
+Sederhanakan -177*x**2 - 85*x**2 - 21*x**2.
+-283*x**2
+Sederhanakan -4 - 517*n - 809*n + 270*n + 4.
+-1056*n
+Sederhanakan 19*z + 12*z - 35*z - 85*z**2.
+-85*z**2 - 4*z
+Sederhanakan -122 - 8*w + 72 + 50 + 4*w.
+-4*w
+Sederhanakan 945*h - 945*h + 73*h**2.
+73*h**2
+Sederhanakan 3*t - 20*t - 5*t - 5.
+-22*t - 5
+Sederhanakan 57809*r**3 + 57803*r**3 - 115609*r**3.
+3*r**3
+Sederhanakan -8*z - 6*z**2 - 12*z - 23*z + 38*z.
+-6*z**2 - 5*z
+Sederhanakan -17851 + 71383 - 17846 - 17841 - 17845 + 15*x.
+15*x
+Sederhanakan -10*h**2 - 9*h + 5*h**2 - 3*h - 23*h**2.
+-28*h**2 - 12*h
+Sederhanakan 7*y**2 + 611*y - 2*y**2 - 620*y - 6*y**2.
+-y**2 - 9*y
+Sederhanakan 1214*n - 2430*n + 1223*n.
+7*n
+Sederhanakan 46 + 30 - 16 + j - 3*j.
+60 - 2*j
+Sederhanakan 250*t - 4*t**2 + 2*t**2 + 184*t + 3.
+-2*t**2 + 434*t + 3
+Sederhanakan -2*v + 45573871433 - 45573871433.
+-2*v
+Sederhanakan -14*x**3 + 30*x**2 + x**2 + 24*x**2 - 26*x**3.
+-40*x**3 + 55*x**2
+Sederhanakan 17*a + 44*a**2 - 33*a**2 + 82*a**2 + 31*a**2 - 18*a.
+124*a**2 - a
+Sederhanakan 10*n**2 - 2775*n - 10*n**2 + 3*n**3 + 2775*n.
+3*n**3
+Sederhanakan 26426 - 683*k - 26426.
+-683*k
+Sederhanakan -4 - 4*j - 8 - 6 + 21 - 3.
+-4*j
+Sederhanakan 62244 - c - 31147 - 31095.
+2 - c
+Sederhanakan 158008*q - 2 + 2.
+158008*q
+Sederhanakan -10 + 12*r - 16*r - r + 7*r.
+2*r - 10
+Sederhanakan -f**3 + 28*f + 14*f**3 - 5*f**3 - 28*f.
+8*f**3

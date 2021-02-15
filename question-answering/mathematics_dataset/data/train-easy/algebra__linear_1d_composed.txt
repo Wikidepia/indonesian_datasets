@@ -1,0 +1,666 @@
+Misalkan -24 = -5*m - 4. Selesaikan 0 = m*x - 11 - 1 untuk x.
+3
+Misalkan v be (-2)/(-2) - 2*-1. Misalkan c (i) menjadi turunan ke-pertama dari -i**4/4 + i**3 + i**2/2 - 3. Misalkan a be c(3). Selesaikan 6 = -v*d - a untuk d.
+-3
+Misalkan 0 = -0*d + 2*d - 10. Misalkan -d*f + 6*f = 0. Selesaikan -3*c + 9 = -f untuk c.
+3
+Misalkan a (y) menjadi turunan ke-pertama dari -y**2 - 5*y + 1. Misalkan d be a(-5). Misalkan -g - 5 = g - b, -d*g + 3*b = 15. Selesaikan 4*i - 4 = -g untuk i.
+1
+Misalkan w be 1/(-1) - (-7 - -2). Misalkan i(f) = -5 - 1 - f + w. Misalkan s be i(-5). Selesaikan -3*m + s = -2*m untuk m.
+3
+Misalkan b be 30/(-10) - (-8 + 0). Selesaikan -4*x = x + b untuk x.
+-1
+Misalkan h be (2 - 0) + (-15)/(-3). Selesaikan h*z - 3*z - 4 = 0 untuk z.
+1
+Misalkan -2*r = -4 - 0. Selesaikan -r*z = -4*z - 6 untuk z.
+-3
+Misalkan r be 22/4 - 13/26. Selesaikan -19 + 4 = -r*w untuk w.
+3
+Misalkan 3 = 4*h - 5. Misalkan c = 1 + h. Selesaikan c*f + 1 + 5 = 0 untuk f.
+-2
+Misalkan r(f) = -f**3 - 14*f**2 + f - 13. Misalkan v be r(-14). Misalkan q be 9/v - (-7)/3. Selesaikan 4*y = 6 + q untuk y.
+2
+Misalkan r = -6 + 13. Misalkan 5*k = r*k + 8. Misalkan m be 4 + -2 - (-14 + k). Selesaikan x + 3*x = -m untuk x.
+-5
+Misalkan z(o) = 3*o**2 + o - 1. Misalkan p be z(-2). Misalkan i = p - 7. Selesaikan -i*f + 10 = -0*f untuk f.
+5
+Misalkan 0*g + 2 = g. Misalkan -4*l = -g*x - 0*x - 38, 4*x = 4. Selesaikan 5 = -3*u - l untuk u.
+-5
+Misalkan i(r) = r - 1. Misalkan f(h) = 2*h - 2. Misalkan w(y) = -4*f(y) + 9*i(y). Misalkan l be w(1). Selesaikan -q - 4*q - 10 = l untuk q.
+-2
+Misalkan y be (2 - 8/3)*-3. Misalkan d = 8 - 11. Misalkan n = 3 + d. Selesaikan n*q + 6 = y*q untuk q.
+3
+Misalkan d(y) = 4 - y. Misalkan n be d(6). Misalkan u be (2/4)/(n/(-120)). Misalkan -u = -l - l. Selesaikan -2*t + 5*t + l = 0 untuk t.
+-5
+Misalkan r = 27 + -24. Selesaikan -r*o - o = 12 untuk o.
+-3
+Misalkan u = 4 - 7. Misalkan i = u - -12. Selesaikan 4 - i = -c untuk c.
+5
+Misalkan 4*s - f - 93 = 0, -66 - 59 = -5*s + 3*f. Selesaikan -5*k + s = 2 untuk k.
+4
+Misalkan -7 = -6*l + 11. Selesaikan 4*i - l*i = 3 untuk i.
+3
+Misalkan -k + 2 = -p - 0, 5*p + 2*k + 17 = 0. Misalkan u = 2 - p. Selesaikan -4*y + 11 = -u untuk y.
+4
+Misalkan g(k) = 7*k**2 + k + 1. Misalkan -8 + 2 = 2*s - o, 5*s + 3*o = 7. Misalkan w be g(s). Selesaikan w*d - 2*d = -25 untuk d.
+-5
+Misalkan j(i) = -i**3 - i**2 - i + 8. Misalkan a be j(0). Selesaikan -3*l + a*l + 10 = 0 untuk l.
+-2
+Misalkan u be 1 - (3 - (-3)/(-1)). Misalkan 7*p = 6*p + u. Selesaikan p = -5*n + 26 untuk n.
+5
+Misalkan i + 2*i = 0. Selesaikan -2*r - r = i untuk r.
+0
+Misalkan -5*k + 75 = 65. Selesaikan -1 = -k*x + 9 untuk x.
+5
+Misalkan -3*t - 55 = -v, -2*v + 19 = -t + 4. Misalkan g = t - -23. Selesaikan 5*n - g = -19 untuk n.
+-3
+Misalkan r = 63 + -56. Selesaikan 0 = 2*z - r*z + 15 untuk z.
+3
+Misalkan k(v) = -5*v**3 - v**2 - v - 1. Misalkan z be k(-1). Misalkan 0 = -4*t + z*c + 12, -3*c + 2*c + 7 = 4*t. Selesaikan -t = 4*h - 10 untuk h.
+2
+Misalkan -11 = -3*m - 2. Misalkan -4*q + m*t + 3 = 0, 2*q = 6*q + 3*t + 3. Selesaikan q = -0*h + 2*h untuk h.
+0
+Misalkan a(k) = -k**3 + 11*k**2 + k - 8. Misalkan s be a(11). Misalkan g = 5 - s. Misalkan 0 = g*h - 9 + 1. Selesaikan x + h = -1 untuk x.
+-5
+Misalkan u = -15 - -14. Misalkan j = 1 - u. Selesaikan -j*c - 8 = -2 untuk c.
+-3
+Misalkan -4*i = -3*x + 3, i + i - 1 = -x. Selesaikan 4 = -2*y - i untuk y.
+-2
+Misalkan -35 = 5*g + 25. Misalkan x be (g - 0)*(-1)/2. Misalkan 2 = -h + x. Selesaikan h*m + 6 - 26 = 0 untuk m.
+5
+Misalkan w = 3 + -3. Misalkan g(z) = -z**2 + z. Misalkan r be g(w). Selesaikan r = v - 2 untuk v.
+2
+Misalkan i = 187 - 183. Selesaikan -i*c + 0*c = 12 untuk c.
+-3
+Misalkan c = -3 - -8. Misalkan r = c + -3. Misalkan l = -17 + 37. Selesaikan -r*h = 3*h + l untuk h.
+-4
+Misalkan r = -15 + 9. Misalkan f be 40/(-4)*3/r. Selesaikan -8 = -f*i + 17 untuk i.
+5
+Misalkan l (t) menjadi turunan ke-kedua dari -t**5/20 - t**4/2 - 5*t**3/6 - 2*t. Misalkan v be l(-5). Selesaikan v = 2*z - 0*z + 10 untuk z.
+-5
+Misalkan k(d) = 1 - 2*d. Misalkan m(i) = i - 1. Misalkan n(c) = k(c) + 3*m(c). Misalkan o be n(7). Selesaikan -20 = -0*u + o*u untuk u.
+-4
+Misalkan -3*v - h + 13 = 0, 2*v - 5*h + 2*h = 5. Misalkan 0 = o - v*o. Selesaikan o = -2*m - m untuk m.
+0
+Misalkan 0 = 4*c - 4 - 4. Misalkan 17 = 3*k - c*t - 1, 5*k + t = 17. Selesaikan -h - 9 = -k*h untuk h.
+3
+Misalkan 3*h + p - 3 = 2*h, 2*h - 4*p = 0. Misalkan q be h/8 + (-7)/(-4). Misalkan c be 0/q - (0 + -2). Selesaikan -c*k = k untuk k.
+0
+Misalkan d(m) = -m**2 + 7*m + 6. Misalkan s be d(8). Misalkan i(h) = -h - 1. Misalkan u be i(s). Selesaikan 4 = v + u untuk v.
+3
+Misalkan c be ((-9)/6)/((-5)/(-2) - 3). Selesaikan -4*j = -c - 13 untuk j.
+4
+Misalkan -5*i + 12 = 4*q - 3*i, -2*i - 12 = -4*q. Selesaikan -5*p = -2*p + q untuk p.
+-1
+Misalkan q(b) = b**2 - b - 2. Misalkan w be q(-3). Misalkan -8*m + w = -3*m. Selesaikan 0 = 3*l - 1 - m untuk l.
+1
+Misalkan i be (-7)/2*(0 - 2). Misalkan 2*g = g - 4*c + 25, 4*g = -5*c + 45. Selesaikan -8 - i = -g*r untuk r.
+3
+Misalkan s = 6 - 5. Misalkan p be -1*(-3)/s + 0. Selesaikan -2*j + p = 1 untuk j.
+1
+Misalkan h(x) = -x**3 - 4*x**2 - 4*x + 1. Misalkan o be h(-3). Misalkan g = o + -1. Selesaikan -3*p = -g - 3 untuk p.
+2
+Misalkan b be 5 - 1/2*-2. Misalkan q = -3 + b. Misalkan -n - 2*d - 10 = 0, -q*d = -5*n - 0*d + 15. Selesaikan -v = -n*v untuk v.
+0
+Misalkan 4*q + q = -25. Misalkan g = q + 7. Selesaikan 2*w = -g*w - 20 untuk w.
+-5
+Misalkan 4*o + 13 = -3*x - 4, -11 = -2*o + 5*x. Misalkan a be o/4*(-8 + 4). Selesaikan -h = -a*h + 4 untuk h.
+4
+Misalkan -x = -2*b + 7, -5*x = 5*b - 0 - 25. Misalkan 2*t = 2*r + 10, 5*t + r + 1 = b*t. Misalkan 0 = -0*f + f - t. Selesaikan c + f = -0*c untuk c.
+-2
+Misalkan -2*f - 2 = -6. Misalkan -f*j - g + 2*g = -8, 0 = j + 2*g + 6. Misalkan h = -1 - -1. Selesaikan h = -j*t + 3 + 5 untuk t.
+4
+Misalkan 3*t - 6 = 0, 2*z + 3*t - 1 = -3. Misalkan p = 5 + z. Selesaikan -n + p = -1 untuk n.
+2
+Misalkan c be 2 + (-7)/((-14)/12). Misalkan 0 = -3*d + 4*a - c*a - 35, a + 38 = -4*d. Misalkan k = d - -12. Selesaikan 0 = -k*u - 0*u untuk u.
+0
+Misalkan 2*f - t = -2*t - 1, 10 = -2*t. Misalkan r(k) = 2*k**2 - 34*k + 2. Misalkan v be r(17). Misalkan z = v - f. Selesaikan 4*h = -z*h untuk h.
+0
+Misalkan h(g) = -5*g**2 - 3*g - 1. Misalkan w be h(-2). Misalkan n = -6 - w. Misalkan m = 1 + n. Selesaikan 5*j - 5 = m untuk j.
+3
+Misalkan v be (-8)/14*(-28)/8. Selesaikan -n - v*n = -6 untuk n.
+2
+Misalkan -p - 11 = -2*p - 2*x, x + 5 = 3*p. Misalkan r be 84/6*(-2)/(-4). Misalkan w = r - p. Selesaikan 2*a - 6 = w untuk a.
+5
+Misalkan -24 = 12*h - 15*h. Selesaikan d + h = 3*d untuk d.
+4
+Misalkan 0 = 4*z + 3*w + 2*w - 17, 3*w = z. Selesaikan 2 = z*y - 2*y untuk y.
+2
+Misalkan x be -3*2/(-3) + -1. Misalkan -7*l + 7*l = 12*l. Misalkan 25 = -5*g + 5*r, -4*g = g - 4*r + 20. Selesaikan -i + g*i - x = l untuk i.
+-1
+Misalkan u(s) = s**3 + 5*s**2 - 7*s - 4. Misalkan b be u(-6). Misalkan h = 4 - b. Selesaikan 0*o - h*o = 4 untuk o.
+-2
+Misalkan h - 10 = 2*h + 3*v, -2*h + 2*v = 20. Misalkan p be h/15 + (-14)/(-3). Selesaikan -3*y = -p*y - 5 untuk y.
+-5
+Misalkan r = -3 + 7. Misalkan 5*a - 3*y = 24, -r*a - 3 = 4*y + y. Selesaikan a*x - 8 = 7 untuk x.
+5
+Misalkan -d + 4*o = -25, -2*o = 4*d - 4*o - 30. Misalkan -2*h - 2*h = 0, -d*k = -2*h. Misalkan j + k*j = 9. Selesaikan -2*y + 5*y = -j untuk y.
+-3
+Misalkan m = 10 + -8. Selesaikan 3*x - m = -11 untuk x.
+-3
+Misalkan -5 + 13 = -4*s. Misalkan j be -1 + s - (-15 + -3). Misalkan 2*x + 3*d - 6 = 7*x, -4*x - 2 = -d. Selesaikan 0 = -5*n - x + j untuk n.
+3
+Misalkan f = 1 + 7. Misalkan -2 = -c + 5*k - 2*k, f = 4*c - 4*k. Misalkan o = -133 + 134. Selesaikan 3*x - c - o = 0 untuk x.
+1
+Misalkan 3*z - 4*n + 6 = 0, -3*z - 2*n + 4 = -8. Misalkan 2*x = -z*x. Misalkan q = 3 + x. Selesaikan 4*h = 9 + q untuk h.
+3
+Misalkan 3*s + 5 = 4*s. Misalkan j = -17 + s. Misalkan r be ((-1)/(-3))/((-2)/j). Selesaikan -4 = -w + r*w untuk w.
+-4
+Misalkan 2*b + 20 = -4*c, 12 = -c - b - 3*b. Misalkan r be (-13)/c - 3/12. Misalkan v = 4 + -1. Selesaikan 6 = -v*k - r untuk k.
+-3
+Misalkan -5*q + 5*a - 67 + 22 = 0, 2*a - 8 = 0. Misalkan f = -2 - q. Selesaikan -u - f = -0*u untuk u.
+-3
+Misalkan -6*h = 4*l - 11*h - 27, -h + 9 = 4*l. Selesaikan u = -l*u - 4 untuk u.
+-1
+Misalkan -3*d + d - 5*b + 31 = 0, -24 = -3*d - 3*b. Selesaikan -2*v + 10 = d*v untuk v.
+2
+Misalkan o = 207 + -205. Selesaikan 0*m = o*m untuk m.
+0
+Misalkan m = -4 + 6. Selesaikan m - 5 = 3*u untuk u.
+-1
+Misalkan f be (-4)/(-16)*-10*(-8)/10. Selesaikan 8 = -0*g + f*g untuk g.
+4
+Misalkan p(x) = -3*x**2 - 3*x + 1. Misalkan s be p(2). Misalkan m = s + 20. Selesaikan -5 - m = -4*q untuk q.
+2
+Misalkan -4*a = 10 + 2. Misalkan v(u) = 1 - u. Misalkan s be v(a). Selesaikan 1 = s*d + 5 untuk d.
+-1
+Misalkan q = -4 - 4. Misalkan s = 8 + q. Selesaikan s*f + 20 = 4*f untuk f.
+5
+Misalkan h(q) = -11*q**3 - q. Misalkan t be h(-2). Misalkan z be t/12 + (-1)/(-2). Selesaikan d - z = 3*d untuk d.
+-4
+Misalkan -3*j - 17 - 10 = 0. Misalkan k(p) = -p - 10. Misalkan h be k(j). Misalkan x = 3 + h. Selesaikan -4 = -2*q + x untuk q.
+3
+Misalkan -4*w = w - 25. Misalkan 0 = 5*p - 2*o - 24, p + 5*o + 0*o - 21 = 0. Misalkan k be 5/2*p/5. Selesaikan -k*f + 2*f + w = 0 untuk f.
+5
+Misalkan c be ((-1)/(-3))/((-1)/(-9)). Misalkan h be (384/33)/2 - (-8)/44. Selesaikan -c*n = -h*n - 9 untuk n.
+-3
+Misalkan 0 = -4*a - 4*g + 72, -a - g = -2*a + 18. Misalkan t = a + -13. Misalkan -t*w = -4*w. Selesaikan -o + 5*o + 8 = w untuk o.
+-2
+Misalkan l = -152 + 154. Selesaikan -10 = -l*m + 7*m untuk m.
+-2
+Misalkan p = 17 - 62. Misalkan g = -20 - p. Selesaikan -6*a - g = -a untuk a.
+-5
+Misalkan c = -3 - -5. Misalkan -c*t - 12 = -6*t. Selesaikan 8 = t*s + s untuk s.
+2
+Misalkan y be 1*-4*1/(-2). Misalkan z be 2 - (1 + 0 - 2). Misalkan v = y + z. Selesaikan v*c - c - 16 = 0 untuk c.
+4
+Misalkan -4*o + 13 = -6*a + 7*a, -5*o + 2*a = 0. Selesaikan -4 = o*n - 14 untuk n.
+5
+Misalkan 2*n - 3*c = c - 2, -n + 4 = -c. Misalkan w(r) = -r**2 + 3*r + 7. Misalkan v be w(5). Misalkan b = 1 - v. Selesaikan n*f + 25 = b*f untuk f.
+-5
+Misalkan 3*l = m - 2, -3*l - 2 = -5*m + 8. Misalkan -m*h = -h. Misalkan 0 = -h*k - 4*k + 28. Selesaikan g = k - 3 untuk g.
+4
+Misalkan 114*o - 8 = 110*o. Misalkan p = 3*p - 2. Selesaikan 0 = -o*u - 5 + p untuk u.
+-2
+Misalkan g be ((-4)/(-3))/(3/(135/10)). Selesaikan -3 = f - g untuk f.
+3
+Misalkan 7*p = -5*p + 36. Selesaikan -j + 1 = p untuk j.
+-2
+Misalkan j = 66 - 65. Selesaikan 3*i - j = -7 untuk i.
+-2
+Misalkan i = 0 + -2. Misalkan h be 128/20 + i/5. Misalkan b = h - 1. Selesaikan 0*g + b*g = 0 untuk g.
+0
+Misalkan 0 = 4*i + 5*j - 49, i - 4*j = 4*i - 38. Misalkan y = -4 - -6. Selesaikan -y*a = -i*a untuk a.
+0
+Misalkan t(d) = -d**3 - 5*d**2 + 3. Misalkan a be t(-5). Misalkan -2*k - 9 = -2*g - 3*g, 3 = a*g - 2*k. Misalkan o = -12 - -14. Selesaikan -o*c = c - g untuk c.
+1
+Misalkan -64 = -3*v - p, 0*p + 2*p = -2*v + 40. Misalkan k = 29 - v. Selesaikan 2*h = -k - 1 untuk h.
+-4
+Misalkan -3*y = -6, 4*y + 9 + 35 = z. Misalkan -z + 16 = -4*g. Selesaikan g = 5*f - 1 untuk f.
+2
+Misalkan -2*j + 1 = 3. Misalkan s be (-36)/(-20) - j/5. Misalkan g be 0/(-7)*(-2)/s. Selesaikan g = -i - 3 + 7 untuk i.
+4
+Misalkan w(q) = 0*q**2 - q - q**3 - 2*q**2 + 4*q**2. Misalkan p be w(1). Selesaikan p = -s - s untuk s.
+0
+Misalkan t(i) = -5*i - 14. Misalkan p be t(-6). Selesaikan -5*b + p = 1 untuk b.
+3
+Misalkan 22*x = 26*x. Selesaikan 4 + x = r untuk r.
+4
+Misalkan 7*r - 3*r = 4*h, 0 = 4*h - 16. Selesaikan -j + r*j = -15 untuk j.
+-5
+Misalkan c be 4/10 + (-6)/(-10). Selesaikan c = -k + 4 untuk k.
+3
+Misalkan q be 1/(-2) + 9/6. Misalkan m(p) = 3*p - 1. Misalkan n be m(q). Misalkan 7 - 1 = n*o. Selesaikan v = -0*v - o untuk v.
+-3
+Misalkan a(q) = -q**2 + 20*q + 7. Misalkan c be a(20). Selesaikan 0 = -3*z + 2 + c untuk z.
+3
+Misalkan u be (-3 + (-45)/(-12))*4. Misalkan 0 = u*x + 3*x. Selesaikan x = -3*c + 2*c + 1 untuk c.
+1
+Misalkan -2*g = -35 + 29. Selesaikan g = -m + 5 untuk m.
+2
+Misalkan r be (-28)/7 + 3/3. Misalkan c be ((-12)/9)/(r/9). Selesaikan -a - c*a = 0 untuk a.
+0
+Misalkan 4*g = -g + 35. Misalkan -4*s = g - 3. Misalkan p be (-2*5)/(s/2). Selesaikan -5*l + p = -l untuk l.
+5
+Misalkan v(s) = -s**3 + 4*s**2 + s - 4. Misalkan a be v(4). Misalkan 0*i + i = a. Misalkan r be i/(2 - (4 + 0)). Selesaikan 5*x - x + 4 = r untuk x.
+-1
+Misalkan k be -7 - (0 + -1 + -1). Misalkan p = 7 + k. Misalkan b = -16 - -23. Selesaikan -p*u + b*u = 5 untuk u.
+1
+Misalkan s = -7 + 12. Misalkan b(v) = v**3 - 5*v**2 + 2*v - 4. Misalkan g be b(s). Selesaikan -x + g = 2*x untuk x.
+2
+Misalkan 0 = -3*p + 10 + 2. Selesaikan p = -2*r + 2 untuk r.
+-1
+Misalkan -p - 3*p = 0. Misalkan p = -6*s + 2*s. Selesaikan s = 3*o - 2*o + 5 untuk o.
+-5
+Misalkan 0*i - 8 = -h - 5*i, 8 = 4*h - 4*i. Selesaikan 5*n = 2*n - h untuk n.
+-1
+Misalkan s be 15*(72/20 + -3). Selesaikan s = -4*l - 7 untuk l.
+-4
+Misalkan r(q) = 6 - 3*q. Misalkan i be r(-7). Selesaikan -7 = -4*l - i untuk l.
+-5
+Misalkan r be 88/10 + (-2)/(-10). Misalkan -18 = 2*f + 5*n, -1 + r = -2*n. Misalkan 0 = 5*o + 2*p - 12, -f + 7 = 4*o - 2*p. Selesaikan o*t + 12 = -2*t untuk t.
+-3
+Misalkan c = 4 - 2. Misalkan m be 3/(5 - c)*2. Misalkan -5*o + o + 4 = 0. Selesaikan o = l - m untuk l.
+3
+Misalkan o be 0*(3 - 14/4). Selesaikan o = 4*x + 20 untuk x.
+-5
+Misalkan g be 1 - (1 + -2)/1. Misalkan x = -1 - -3. Misalkan -x*i = 2*i. Selesaikan 0 = -i*v - g*v - 8 untuk v.
+-4
+Misalkan f(j) = j**2 - 8*j + 8. Misalkan c = 13 + -5. Misalkan w be f(c). Selesaikan w = -2*l - 2*l untuk l.
+-2
+Misalkan w = 17 - 9. Selesaikan -w = -3*x - x untuk x.
+2
+Misalkan 5*j = t - 58, -t - t + 8 = -j. Misalkan -2*w + 4*w = -3*y + 57, -2*y + 5*w = -19. Misalkan r = y + j. Selesaikan -3 = -r*p - 8 untuk p.
+-1
+Misalkan y be (-2)/7 + 9/7. Misalkan m = 1 - y. Selesaikan m*o - 15 = -3*o untuk o.
+5
+Misalkan p(v) = -v**2 + 14*v + 2. Misalkan f be p(14). Selesaikan -8 = -0*j - f*j untuk j.
+4
+Misalkan s(z) = 17*z. Misalkan -2*r + r = -3. Misalkan -r*m + 3 = -0*m. Misalkan y be s(m). Selesaikan -3 - y = 4*w untuk w.
+-5
+Misalkan 3*x - 6 = 3. Misalkan 0 = 2*l + x*v - 2*v - 10, -3*l + 3*v = 3. Selesaikan -j - 8 = -l*j untuk j.
+4
+Misalkan v = -55 - -63. Selesaikan 0 = -2*j - 0*j - v untuk j.
+-4
+Misalkan o be (-1 - (3 + -3))*-3. Misalkan p be 28/3 - (-2)/o. Selesaikan y + y = p untuk y.
+5
+Misalkan 4 = 6*h - 4*h. Misalkan -2*o + 10 = t, -4 = 4*t + h*o - 14. Selesaikan t = -l - 0 + 1 untuk l.
+1
+Misalkan 2*f - 38 = -5*a, 2*f - 2*a = -0*a + 10. Misalkan -8*o = -11*o + 18. Misalkan n be (6/1)/(f/o). Selesaikan 3 = -p + n*p untuk p.
+1
+Misalkan j be (-108)/(-45) + 4/(-10). Misalkan -5*n + 2*o = -0*o + 9, 2 = 2*n + 2*o. Misalkan t be n + (-1*j)/(-2). Selesaikan -q - 1 = -t*q untuk q.
+-1
+Misalkan -2*o + 8 = -5*t + 2*t, t + 3*o = 12. Misalkan d = -1 + t. Misalkan p be (-2)/d + (-1 - -3). Selesaikan 12 = p*i + 32 untuk i.
+-5
+Misalkan -5*b = 2*v + 36, -b - 3 = -3*v + 2*v. Misalkan t = -4 - b. Misalkan -t - 3 = -5*c. Selesaikan -4*m = c - 13 untuk m.
+3
+Misalkan r = -11 + 8. Misalkan b(l) = -l**3 - 3*l**2 - 2*l - 3. Misalkan k be b(r). Misalkan -k*t = -33 - 6. Selesaikan 3*j + 1 = t untuk j.
+4
+Misalkan f be (-3)/3*(-1 + 8). Misalkan a be 1/3 - (-215)/(-15). Misalkan g = f - a. Selesaikan 2*k = 1 + g untuk k.
+4
+Misalkan o be 5/(-25) + 22/10. Selesaikan 4*p + 10 = o untuk p.
+-2
+Misalkan u = -4 - -4. Misalkan -b + 3*b = u. Selesaikan c = -b*c untuk c.
+0
+Misalkan 0 = w - 4. Selesaikan 2*m - w = 6 untuk m.
+5
+Misalkan 0 = 3*d + 3*b - 21, -5*d - 8*b + 12*b + 8 = 0. Selesaikan 22 - 2 = d*g untuk g.
+5
+Misalkan w(n) = -n**3 + 6*n**2 - 3*n - 6. Misalkan q be w(5). Selesaikan -5*l + q = -3*l untuk l.
+2
+Misalkan 0 = -y - 0*y. Misalkan 5*u - 3*z - 7 = 88, 4*u + 3*z - 76 = y. Selesaikan 4*r = u - 3 untuk r.
+4
+Misalkan i(q) = 35 - 2*q. Misalkan g be i(13). Selesaikan 2*j + j = g untuk j.
+3
+Misalkan -2*v - 9 = -a - 26, -4*v - 2*a + 14 = 0. Misalkan -2*z - v = -0*z. Misalkan h be (-1)/((-1)/(-1 - z)). Selesaikan 0 = -h*d - 4 untuk d.
+-2
+Misalkan z be (-18)/(-8) + 2/(-8). Misalkan g = 4 - 1. Selesaikan k + g = -z*k untuk k.
+-1
+Misalkan r = -4 + 6. Misalkan h = 74 + -72. Selesaikan -h = -r*s + 6 untuk s.
+4
+Misalkan n be ((-12)/(-5))/(6/20). Selesaikan 0 - n = 4*z untuk z.
+-2
+Misalkan 3*f - 32 = -f. Misalkan 0 = -3*j - 5*x + 4 + 15, -5*j = -x + 15. Misalkan t = 0 - j. Selesaikan f = -t*y + 4*y untuk y.
+4
+Misalkan z = -47 + 70. Misalkan r = -18 + z. Selesaikan -1 - r = 2*u untuk u.
+-3
+Misalkan o = 4 - 0. Misalkan o*d - 21 = d. Misalkan p be (d/(-2))/((-1)/2). Selesaikan 2*y = -p - 1 untuk y.
+-4
+Misalkan o = -22 - -23. Selesaikan -3 = a - o untuk a.
+-2
+Misalkan 0*j + 8 = 4*j. Misalkan x + 2*x - 6 = 0. Misalkan d be x/(-2*4/(-8)). Selesaikan j*p = -d*p + 16 untuk p.
+4
+Misalkan j be (0/(-1))/(12/(-12)). Misalkan -16*s + 15*s + 7 = j. Selesaikan -20 = -2*w + s*w untuk w.
+-4
+Misalkan 4*u = 2*d + 1 - 11, 0 = -2*u + 4*d - 14. Misalkan y be 2 + (3 - (1 + u)). Selesaikan 0 = 4*t - y*t - 5 untuk t.
+-5
+Misalkan g (y) menjadi turunan ke-kedua dari y**3/3 + y**2/2 - 3*y. Misalkan c be g(2). Selesaikan -c*j + 0*j = -15 untuk j.
+3
+Misalkan -18 = -3*r + 9. Selesaikan 3*n = -0*n - r untuk n.
+-3
+Misalkan x = 2 - -1. Selesaikan 7 - 1 = -x*c untuk c.
+-2
+Misalkan -2*p - 3*x + 2 = -10, 5*x + 28 = 2*p. Misalkan 7*t = p*t. Selesaikan 6 = 2*n - t*n untuk n.
+3
+Misalkan b(d) = d**2 - 3*d**2 - 6*d - 3 + d**2. Misalkan u be b(-5). Selesaikan u*i + 9 = -i untuk i.
+-3
+Misalkan d be (-1)/(-1) - 2 - -4. Misalkan 0 = 4*x + 12*x. Selesaikan x*t = d*t - 3 untuk t.
+1
+Misalkan l = 11 + -7. Misalkan -4*b + 5*s = -34, -4*s + l = -b - 9*s. Misalkan k be (-94)/(-14) - b/(-21). Selesaikan -h + 2 = k untuk h.
+-5
+Misalkan m = -13 - -18. Misalkan 2 = m*c - 3*k + 1, 0 = -c - 2*k + 8. Misalkan -3*v - c + 14 = 0. Selesaikan -v*q + 10 = q untuk q.
+2
+Misalkan h = 92 - 55. Misalkan 0 = 5*w + h - 157. Misalkan p(t) = -t**2 + 7*t - 2. Misalkan y be p(6). Selesaikan y*c + 8 = w untuk c.
+4
+Misalkan y = 8 - 6. Misalkan y = -2*w + 32. Misalkan t be (-44)/(-33)*(5/2 + -1). Selesaikan 0 = -r - t*r - w untuk r.
+-5
+Misalkan -33 = -2*a - 9. Misalkan p + 3*h = 4*p + 12, -h + a = -3*p. Misalkan c = 5 + p. Selesaikan -5*q - c = 4 untuk q.
+-1
+Misalkan 0 = -x + 2*d - 3 - 2, -d = -3*x - 15. Misalkan j = x + 4. Misalkan v = j - -3. Selesaikan v*s - 6*s + 4 = 0 untuk s.
+1
+Misalkan u = 51 - 46. Selesaikan -16 = u*d - d untuk d.
+-4
+Misalkan b be (-72)/(-16)*2/3. Selesaikan -3*l + b = -6*l untuk l.
+-1
+Misalkan 0 = 4*x - 28 - 20. Misalkan 0*s + 3*s = x. Selesaikan -7*l + 3*l + s = 0 untuk l.
+1
+Misalkan x = 0 - -2. Selesaikan 2*o + x - 10 = 0 untuk o.
+4
+Misalkan -11 = 4*u - 79. Misalkan b = u - 12. Selesaikan 0 = b*g - 24 + 4 untuk g.
+4
+Misalkan x(h) = -7*h - 3. Misalkan j be x(-2). Misalkan k = j + 3. Selesaikan -4 = -2*w - k untuk w.
+-5
+Misalkan f = 7 + -13. Misalkan v = f + 12. Misalkan j = 10 - 5. Selesaikan j*x - 2*x - v = 0 untuk x.
+2
+Misalkan l be 4/16 + 82/(-8). Misalkan m be (-3)/((-1)/(l/(-6))). Misalkan v(j) = j - 1. Misalkan k be v(m). Selesaikan -t = t - k untuk t.
+2
+Misalkan s - 16 = -3*a - 0*s, 2*a = -5*s + 2. Selesaikan 2*g + a = 2 untuk g.
+-2
+Misalkan y be ((-50)/(-15))/((-1)/3). Misalkan r = 16 + y. Selesaikan k = r*k - 20 untuk k.
+4
+Misalkan b(d) = 2 - 2*d. Misalkan q = 27 - 27. Misalkan z be b(q). Selesaikan -4*r = -z + 22 untuk r.
+-5
+Misalkan 3*s = -s. Misalkan o = -7 + 9. Misalkan z be (-10)/(-3)*3/o. Selesaikan s*b = -z*b untuk b.
+0
+Misalkan 4*k = -3*d - 94, -3*k - 63 = d + d. Misalkan w = d - -47. Selesaikan -5*v - 8 = w untuk v.
+-5
+Misalkan h(c) = -c**3 + 10*c**2 + 9*c + 11. Misalkan a be h(11). Misalkan j be (-6)/(-18) - a/3. Selesaikan -2*w + 0*w = j untuk w.
+-2
+Misalkan 4 = -p + 10. Selesaikan 5*g - p + 1 = 0 untuk g.
+1
+Misalkan t(i) = 2*i - 2. Misalkan l be t(2). Misalkan f be (l/(-3))/(10/(-15)). Selesaikan h - f = 3 untuk h.
+4
+Misalkan t + 0*t - 4 = 0. Selesaikan 5*k + 6 + t = 0 untuk k.
+-2
+Misalkan u(r) = -r**2 - 7*r - 1. Misalkan i be u(-3). Misalkan l = -3 + i. Misalkan g be (12/l)/((-1)/(-2)). Selesaikan v = -g*v untuk v.
+0
+Misalkan o = 0 - 2. Misalkan p be (-12)/9*(-3)/o. Misalkan h(t) = -t**2 - 4*t - 2. Misalkan j be h(p). Selesaikan j*v = 3*v + 5 untuk v.
+-5
+Misalkan -7*x = -6*x - 6. Misalkan 2*m - x = m. Selesaikan 0 = b + 2*b - m untuk b.
+2
+Misalkan d(m) = m**3 - m**2 - 5*m + 2. Misalkan 11 = 5*j + 2*n, 5*j - 4*j + 5*n + 7 = 0. Misalkan k be d(j). Selesaikan 0 = 2*t - 11 + k untuk t.
+3
+Misalkan 0 = i + 4*i. Misalkan -2*z + 4 = u - 2, i = u - 2. Selesaikan 0 = -z*g + 3*g untuk g.
+0
+Misalkan o(h) = h**3 + 5*h**2 + 4*h + 4. Misalkan -v - 13 = 4*m + 3, -2*v - 5 = -m. Misalkan a be o(v). Selesaikan -b - a = -0 untuk b.
+-4
+Misalkan u be (-1 - -1)*(-14 - -13). Selesaikan -4*c = -u*c - 8 untuk c.
+2
+Misalkan 2 + 2 = a. Misalkan 5 = a*d - 7. Misalkan -4*b + 0*f = -3*f, -d*b + 13 = f. Selesaikan b*t + 7 = 1 untuk t.
+-2
+Misalkan i(t) = 24 - 2*t. Misalkan s be i(8). Selesaikan -s*a = -4*a - 20 untuk a.
+5
+Misalkan z(r) = 2*r**2 + r - 11. Misalkan n(g) = 6 - g**2. Misalkan i(y) = -5*n(y) - 3*z(y). Misalkan m be i(-3). Selesaikan 0 = m*h - h - 10 untuk h.
+5
+Misalkan u(j) = -j. Misalkan p be u(-3). Misalkan r be (6/(-9))/(1/p). Misalkan l be 4 - (-3)/6*r. Selesaikan 6 - l = c untuk c.
+3
+Misalkan t = -4 + 7. Misalkan -k + 8 = t*k. Misalkan -4*h - 2 = -v - 5, k*h + 1 = v. Selesaikan -h*q + 20 = 2*q untuk q.
+5
+Misalkan 3*z = -15, -4*y + 2*y - 4*z - 18 = 0. Misalkan r(j) = -j**2 - 3*j + 4. Misalkan w be r(-3). Selesaikan 0 = w*g + 7 + y untuk g.
+-2
+Misalkan l = -10 - -12. Selesaikan -l*h - 3 = -11 untuk h.
+4
+Misalkan b = 10 + -9. Selesaikan 3*t + 2 = -b untuk t.
+-1
+Misalkan x(b) = 2*b**2 - 4*b + 2. Misalkan l be x(1). Selesaikan 2*v + 2 = -l*v untuk v.
+-1
+Misalkan c be (-2 + -3 + 5)/1. Selesaikan c = -3*y + 3 + 3 untuk y.
+2
+Misalkan j(c) = -c - 2. Misalkan f be j(3). Misalkan q(g) = g**3 + 4*g**2 - 6*g - 3. Misalkan b be q(f). Misalkan o = 2 + 3. Selesaikan -o*v - b = -4*v untuk v.
+-2
+Misalkan 2*v - 2*c - 14 = -c, 5*c + 28 = 3*v. Selesaikan -3*x = -9 - v untuk x.
+5
+Misalkan -5*u = -3*u - 6. Misalkan 4 = -d + u*d. Misalkan j be 2/4*(4 + 0). Selesaikan -j*f - d = -f untuk f.
+-2
+Misalkan 0 = 5*v - 57 + 37. Selesaikan v = -0*j - 2*j untuk j.
+-2
+Misalkan s be -4*(-2 + (-15)/(-12)). Selesaikan 3*a = -15 + s untuk a.
+-4
+Misalkan 5*k = 3*o + 62, -2*k = k + o - 40. Misalkan 3*y - 2*c - 19 = 0, -52 = -3*y - 3*c - k. Selesaikan 2*x - 5*x + y = 0 untuk x.
+3
+Misalkan l = -1 - -3. Misalkan o be 2/3 + l/(-3). Misalkan k(c) = c + 20. Misalkan f be k(o). Selesaikan 4*r + 0*r = -f untuk r.
+-5
+Misalkan 0 = 3*v - 2*v - 3. Misalkan -i = s, -v*i - 12 = -s - 0*s. Misalkan a be (s + (-1 - 1))*2. Selesaikan a*w + 4 = -0 untuk w.
+-2
+Misalkan y = 41 + -26. Selesaikan 0*q = -5*q - y untuk q.
+-3
+Misalkan -22*y = -21*y. Selesaikan y = -8*i + 2*i untuk i.
+0
+Misalkan t be 20*1 + 0 + -2. Misalkan 3*a - t = 9. Misalkan a + 9 = 3*y. Selesaikan y*k = k - 25 untuk k.
+-5
+Misalkan q(i) = -i - 1. Misalkan n(x) = x**2 + 9*x + 3. Misalkan k be n(-8). Misalkan t be q(k). Selesaikan -f = -t*f untuk f.
+0
+Misalkan y(g) = 2*g + 10. Misalkan i be y(-5). Selesaikan i*w = -3*w untuk w.
+0
+Misalkan a be (-39)/104 - 105/(-24). Selesaikan a*r = 2*r + 6 untuk r.
+3
+Misalkan s be (-1)/3 - 20/(-15). Selesaikan s = 2*f + 5 untuk f.
+-2
+Misalkan z be 4/4 + 1 - 2. Misalkan z = -6*t + 2*t + 24. Selesaikan 0 = -5*f + 4 + t untuk f.
+2
+Misalkan p be ((-24)/(-10) + 2)*-5. Misalkan l = 42 + p. Selesaikan 0 = -b - 4*b - l untuk b.
+-4
+Misalkan 3*o - 54 = 4*f, -5*f + 9*o - 4*o - 70 = 0. Misalkan s = -10 - f. Selesaikan s = -4*p + 3*p untuk p.
+-2
+Misalkan t = 68 - 62. Selesaikan t*n - 4*n = -6 untuk n.
+-3
+Misalkan c(f) = 62*f**3 + f**2 - 2*f + 1. Misalkan g be c(1). Misalkan v - 81 = -5*k, -4*k + 2*v + g = -0*v. Selesaikan 3*p + p = k untuk p.
+4
+Misalkan i be (2/(-9) + (-968)/99)*-2. Selesaikan 2*h = 7*h + i untuk h.
+-4
+Misalkan g be 1*(6 - 3) + 1. Misalkan 0 = 2*b + 1 - 3. Misalkan o be (-2)/b*1 - -3. Selesaikan 0 = -g*v + 3 + o untuk v.
+1
+Misalkan b be (-3)/((-3)/(-14)*1). Misalkan y = 18 + b. Selesaikan y*o + 21 = 1 untuk o.
+-5
+Misalkan p + 5*b + 28 = 5*p, 5*b = -p - 18. Misalkan u = -17 - -20. Misalkan 3 = -3*k - u*a, 0 = p*k - 6*k + 5*a + 41. Selesaikan 2*c - 6*c = k untuk c.
+-1
+Misalkan s be (-155)/(-55) + 4/22. Selesaikan -s = h + 2*h untuk h.
+-1
+Misalkan v(q) = q**2 + 3*q + 2. Misalkan u be v(-3). Misalkan f = -756 + 759. Selesaikan -f = -o - u*o untuk o.
+1
+Misalkan q be 1 + 2*4/(-8) + 3. Selesaikan 8 = q*u - 4 untuk u.
+4
+Misalkan 28 = 3*h + 4. Selesaikan -2*u = 2*u + h untuk u.
+-2
+Misalkan j(y) = 6*y - 2. Misalkan x be j(4). Misalkan v be -9*7/(-28) + (-1)/4. Selesaikan -x + v = 5*p untuk p.
+-4
+Misalkan w(j) = 5 - j. Misalkan k be w(5). Misalkan k = 5*n + 2*z + 13, z = -3*n - z - 7. Misalkan l = n + 3. Selesaikan l = -2*b - 5 - 1 untuk b.
+-3
+Misalkan -4*d + 2*n + 24 = -d, -5*d = -3*n - 40. Selesaikan -d = t + 3*t untuk t.
+-2
+Misalkan d be -2 - (1 + -4 + 2). Misalkan a = 1 + d. Selesaikan a*y = -5*y - 20 untuk y.
+-4
+Misalkan q be (1/(-2))/((-4)/(-16)). Misalkan y(m) = m**3 - 3*m - 3. Misalkan r be y(q). Misalkan f be 3/r*5*-1. Selesaikan 0 = f*t + 3 - 9 untuk t.
+2
+Misalkan 0 = 2*z - 5*z. Selesaikan 3*t + 1 + 2 = z untuk t.
+-1
+Misalkan o be (-6)/((7 - 2) + -3). Misalkan c be (o/6)/(2/(-12)). Selesaikan 10 = -c*s + 5*s untuk s.
+5
+Misalkan m(l) = 3*l - 9. Misalkan r be m(4). Selesaikan 1 = -d - r untuk d.
+-4
+Misalkan -2*a + a + 3 = 0. Misalkan g(s) = 5 - s. Misalkan o be g(a). Selesaikan -k = o*k untuk k.
+0
+Misalkan a be (-26)/(-10) - (-2)/5. Misalkan 2*b - 25 = -a*b. Misalkan g = 97 - 85. Selesaikan -g = b*h - h untuk h.
+-3
+Misalkan -5*x = -8*x. Misalkan 7 = 3*s - 4*o, x*s - 2 = 2*s + 4*o. Selesaikan -r - 2 = s untuk r.
+-3
+Misalkan t be (0 + -3)/(-3)*-4. Misalkan a = 7 + t. Selesaikan 11 - a = 2*y untuk y.
+4
+Misalkan i(z) = z**2 - 4*z. Misalkan r be i(5). Misalkan b(m) = 2*m**3 + 5*m**2 - 2*m - 5. Misalkan q be b(-2). Selesaikan q*o = -2*o - r untuk o.
+-1
+Misalkan r be 18/12*(0 - -2). Misalkan n(q) = q - 2. Misalkan w be n(r). Selesaikan w - 3 = x untuk x.
+-2
+Misalkan z(k) = 1 - k. Misalkan m be z(-3). Misalkan 0 = -3*b + m*b. Selesaikan 4*q - 4 + 0 = b untuk q.
+1
+Misalkan c(u) = u - 1. Misalkan r be c(4). Misalkan i = -40 + 43. Selesaikan 0 - r = i*g untuk g.
+-1
+Misalkan o be 1 - (-4 + (-6)/(-3)). Misalkan x(c) = -c**2 - 9*c + 2. Misalkan p be x(-8). Selesaikan -5 - p = o*r untuk r.
+-5
+Misalkan 10 = -4*h + 5*q + 31, -2*h = -2*q - 10. Selesaikan 0 = h*g - g - 3 untuk g.
+1
+Misalkan x = 35 - 28. Selesaikan -8 = -3*d + x untuk d.
+5
+Misalkan q(r) = -r**2 + 4*r + 1. Misalkan y be q(3). Misalkan b(u) = u**2 - 19*u - 2. Misalkan w be b(19). Misalkan h = w + y. Selesaikan h*s + 6 = -4 untuk s.
+-5
+Misalkan w be 4 + (-3 - (-12)/3)*-2. Selesaikan 0 = w*a + a - 6 untuk a.
+2
+Misalkan 2*i - 3*i = -4. Selesaikan 0*v + i = -2*v untuk v.
+-2
+Misalkan k (f) menjadi turunan ke-pertama dari -f**4 + f**2 + 1. Misalkan t be k(-2). Misalkan -4*g - 8 = -t. Selesaikan -2*s + g*s - 15 = 0 untuk s.
+5
+Misalkan z = -199 - -201. Selesaikan 0 = 2*f - 0*f + z untuk f.
+-1
+Misalkan a(i) = 3*i**2 - 8. Misalkan m be a(4). Misalkan w be -6*(3 - m/12). Selesaikan w*f = 3*f untuk f.
+0
+Misalkan 3*f - 2 = u - 3, 4*u = 5*f + 4. Misalkan l be 5*-3*1/(-3). Misalkan l*q - 15 = -5*i, 24 = i + 4*i - 4*q. Selesaikan -i = -s - f*s untuk s.
+4
+Misalkan m = 12 - 7. Misalkan s(u) = u**3 - 2*u**2 - 3*u + 3. Misalkan o be s(2). Misalkan l be (-6 - o)/(1 - 2). Selesaikan 8 = -l*w + m*w untuk w.
+4
+Misalkan a be (13/4)/((-2)/(-8)). Misalkan -3*z + 5*o = -19, 0*o = -5*z - o + a. Selesaikan 0 = -z*t - 2*t + 10 untuk t.
+2
+Misalkan -3 = -4*f - 11. Misalkan o = -4 + f. Misalkan l = o + 6. Selesaikan 2*c = -l*c - 4 untuk c.
+-2
+Misalkan o = -20 + 17. Misalkan h be (3 - 3 - o) + 1. Misalkan 16 = r + r. Selesaikan -r = 4*u + h untuk u.
+-3
+Misalkan p(l) = -l - 6. Misalkan c be p(-7). Misalkan r be (c + -2 + 2)*1. Misalkan i be r/(-1) - (4 - 5). Selesaikan i*s - 4*s = 0 untuk s.
+0
+Misalkan -6 + 18 = 3*v. Selesaikan 9 - 1 = -v*n untuk n.
+-2
+Misalkan -4*d + 2 + 6 = 0. Misalkan a = 205 + -202. Selesaikan -d*i + a*i = 4 untuk i.
+4
+Misalkan b = 2 - -1. Selesaikan v = -b*v + 20 untuk v.
+5
+Misalkan z be 0 + -1 + 0/(-4) - -1. Selesaikan 0 = -z*m - 3*m untuk m.
+0
+Misalkan a(c) = -2*c. Misalkan h be a(-3). Misalkan -4*o + 30 = -h. Selesaikan 0 = 2*q + q - o untuk q.
+3
+Misalkan 12 = w + 5*q, -5*q + 4 = 4*w - 14. Misalkan 9 = -3*u, -2*t + 3 = w*u + 1. Selesaikan -t*h + 9*h = 0 untuk h.
+0
+Misalkan 3*m - 45 = -0*m. Misalkan t = m - 13. Selesaikan -k + t*k = 5 untuk k.
+5
+Misalkan -58 = -3*c - g, 2*c = -g + 18 + 19. Misalkan x be 8/3*9/6. Selesaikan x + c = 5*d untuk d.
+5
+Misalkan 1 = 2*u - 5. Misalkan -w = -5, -w - u = -5*t + t. Selesaikan 4*i - t = 10 untuk i.
+3
+Misalkan -2 = 5*j - r, 2*r = 5*j - 2*r + 8. Selesaikan j*n - 8 = -2*n untuk n.
+4
+Misalkan v(p) = p**3 - 4*p**2 - 9*p - 7. Misalkan z be v(6). Selesaikan 4*c - 5 - z = 0 untuk c.
+4
+Misalkan w(i) = i + 9. Misalkan y(o) = -o - 1. Misalkan d be y(6). Misalkan g be w(d). Selesaikan 0 = -z + g untuk z.
+2
+Misalkan p(i) = i**3 + i**2 - i + 4. Misalkan v be p(0). Misalkan u(x) = -x**2 + 9*x - 10. Misalkan w be u(7). Misalkan q = v - w. Selesaikan q*f = -f untuk f.
+0
+Misalkan 2*v + v - 15 = 3*d, -3*d = -v - 5. Misalkan j = -10 + v. Selesaikan -9 = 3*g - j*g untuk g.
+-3
+Misalkan k = 9 + -3. Misalkan b be (-1)/(-2 - k/(-4)). Misalkan t(f) = -f - 5. Misalkan c be t(-12). Selesaikan 3 = -b*g + c untuk g.
+2
+Misalkan -31 = -5*p + 29. Misalkan v be ((-16)/10 - -1)/(8/(-40)). Selesaikan -7*a + p = -v*a untuk a.
+3
+Misalkan a be (0 - 6)*27/(-18). Selesaikan a = -4*c - 3 untuk c.
+-3
+Misalkan j be 30/4 - 2/4. Selesaikan -3*u = -j + 22 untuk u.
+-5
+Misalkan 0 = -u + 1 - 0, -u = h + 3. Misalkan b be (-7)/(-2) - h/(-8). Selesaikan 1 = -2*s - b untuk s.
+-2
+Misalkan v = 12 - 8. Misalkan a be 7*(2 - 24/21). Misalkan -2 = v*t - a. Selesaikan -2*z - t = -z untuk z.
+-1
+Misalkan w(g) = g**3 + g**2 - g + 4. Misalkan y be w(0). Misalkan f + 1 = y. Selesaikan f*u - 2 - 4 = 0 untuk u.
+2
+Misalkan 2*c - 15 + 5 = 0. Selesaikan -d = -c + 6 untuk d.
+-1
+Misalkan z be 4/(-10) - 760/(-25). Misalkan m(j) = -10*j**3 + j**2 - 1. Misalkan i be m(-1). Selesaikan -4*n - i = -z untuk n.
+5
+Misalkan p(f) = f**2 - 5*f - 9. Misalkan w be p(7). Misalkan w*b - 5*r = 4*b - 5, -3*b - 5*r + 5 = 0. Selesaikan b*t = -t - 2 untuk t.
+-2
+Misalkan l(y) = y**3 + 6*y**2 + y + 6. Misalkan x be l(-6). Misalkan 3*m - 4*m + 3 = x. Selesaikan 0 = -r - m*r + 20 untuk r.
+5
+Misalkan n = 8 - 3. Misalkan -5*f + n + 10 = 0. Misalkan 2*d + 3*d - p - 33 = 0, 0 = p + f. Selesaikan -2*b + d + 0 = 0 untuk b.
+3
+Misalkan 2*r + 2*r = 2*d + 52, -30 = -3*r - 3*d. Misalkan b be 2/(1 + (-4)/r). Selesaikan 2 = -f - b untuk f.
+-5
+Misalkan i be 2/7 + 38/14. Misalkan -r = -2, 4*c - 14 = -0*c - 5*r. Selesaikan a = -c + i untuk a.
+2
+Misalkan 4*u - 14 = -a, -2*a + 6*a + u + 19 = 0. Misalkan g = a - -10. Misalkan -4*k + 20 = 0, 4 = 5*h + g*k - 16. Selesaikan 0*t - t - 4 = h untuk t.
+-4
+Misalkan f = 18 + 1. Misalkan 2*k - 5*y + f = -k, -4*y + 28 = 4*k. Misalkan x be (-5 + k)/3*0. Selesaikan -3*w = -x*w + 12 untuk w.
+-4
+Misalkan -2*s = m - 4, -3*m - s + 2 = 2*m. Misalkan -a = -g - m*a + 6, -3*g = -4*a - 17. Selesaikan 3*f - g*f = 0 untuk f.
+0
+Misalkan 2*f - 4 = 4*f + 4*h, -f + h + 4 = 0. Selesaikan 7*v = f*v untuk v.
+0
+Misalkan p be (-3)/15 - (-726)/30. Selesaikan 5*i - p = -9 untuk i.
+3
+Misalkan y be -3*(-1)/6*30. Selesaikan -5*o = -0*o - y untuk o.
+3
+Misalkan 7*v = 4*v + 45. Selesaikan 4*s - v = s untuk s.
+5
+Misalkan b be 5*(4 - 0)/(-4). Misalkan c = -1 - b. Selesaikan 3*p = c*p untuk p.
+0
+Misalkan v(n) = -n**3 + 3*n**2 - 2*n + 2. Misalkan j be v(2). Selesaikan j*z + 20 = 6*z untuk z.
+5
+Misalkan k = 6 - 4. Misalkan 11*b - 8*b = 2*o + 11, -3*o + 26 = 4*b. Selesaikan k*n + 3 = b untuk n.
+1
+Misalkan -c + 0*l + 3*l = -4, 4 = c - l. Selesaikan c*i - 12 = -0*i untuk i.
+3
+Misalkan q be (10/(-45))/(4/(-18)). Selesaikan -q = 2*u - 5 untuk u.
+2
+Misalkan 39 - 15 = 2*j. Misalkan p(u) = 2*u. Misalkan t be p(6). Misalkan t = n + 3*n. Selesaikan 0 = -n*l - 0*l - j untuk l.
+-4
+Misalkan s = -15 + 30. Selesaikan -4*h = h + s untuk h.
+-3
+Misalkan k be (-12)/(-2)*(-15)/(-18). Selesaikan -10 = -0*x - k*x untuk x.
+2
+Misalkan g(b) = b**2 - 7*b - 1. Misalkan v be g(8). Misalkan x be 6/(0 + -2) + v. Selesaikan x*u = u untuk u.
+0
+Misalkan a = 11 + -6. Selesaikan 4 = -a*w - 16 untuk w.
+-4
+Misalkan -y = -5*y + 8. Selesaikan y + 2 = -j untuk j.
+-4
+Misalkan k(y) = y**3 + 5*y**2 + y - 5. Misalkan l be k(-4). Misalkan -5*x + 3*n = -7, 4*n - 3 = -3*x + l. Selesaikan -x*q + 4 - 2 = 0 untuk q.
+1
+Misalkan b(n) = 2*n - 45. Misalkan y be b(23). Selesaikan p - y = -6 untuk p.
+-5
+Misalkan t(c) = c + 2. Misalkan f be t(0). Selesaikan -3*p - 25 = f*p untuk p.
+-5
+Misalkan r = -3 - -7. Misalkan 0 = 4*b - 17 - 19. Selesaikan r*z = b - 1 untuk z.
+2
+Misalkan m(d) = d + 1. Misalkan o be m(1). Misalkan 5*x - o*j + j = 36, x - 3*j + 4 = 0. Selesaikan -3*g + 4 = -x untuk g.
+4
+Misalkan o be (-1)/(-3) + (-224)/(-21). Selesaikan o + 5 = -4*a untuk a.
+-4
+Misalkan g = 8 - 3. Misalkan 2*a + 18 = 2*j, -2*j + 3*a + 33 = 2*j. Misalkan d be (-1*j)/(6/(-3)). Selesaikan -13 + d = -g*w untuk w.
+2
+Misalkan y be 111/21 + (-6)/21. Misalkan -2*d = 3*d + 30. Misalkan t(s) = s + 9. Misalkan c be t(d). Selesaikan -c*w + 10 = -y untuk w.
+5
+Misalkan 23 + 27 = 5*q. Selesaikan q = -0*m + 2*m untuk m.
+5
+Misalkan u(z) = 5 - z. Misalkan y = -5 - -9. Misalkan t = 2*t - y. Misalkan v be u(t). Selesaikan -2*x + 7 = -v untuk x.
+4
+Misalkan 0 = -3*f + 9*f. Selesaikan -q - q + 10 = f untuk q.
+5
+Misalkan w be 1*-1 + (-6)/(-2 + 1). Misalkan -5 = h - 4*p - 26, -16 = 4*p. Selesaikan 5*v = w + h untuk v.
+2
+Misalkan b = -14 + 7. Misalkan l(y) = y**3 + 7*y**2 - y - 5. Misalkan k be l(b). Selesaikan k*p - 1 + 7 = 0 untuk p.
+-3
+Misalkan -2*t - 4*h - 24 = 0, 4*h + 12 = -2*t + 3*h. Misalkan v be t*(9/(-12))/1. Selesaikan 4 = v*j + 13 untuk j.
+-3
+Misalkan 26 + 14 = 4*o. Selesaikan 9*d = 4*d + o untuk d.
+2
+Misalkan f(x) = 2*x - 1. Misalkan m be f(1). Misalkan n(y) = -1 - m - y + 2*y - 2. Misalkan z be n(6). Selesaikan h + z = -h untuk h.
+-1
+Misalkan u = -15 - -20. Selesaikan u*j = -0*j - 5 untuk j.
+-1
+Misalkan o be 3/(-2)*(-8)/6. Misalkan -o*b - 12 = -6*b. Misalkan 2*w = -b*w. Selesaikan 25 = -w*z - 5*z untuk z.
+-5
+Misalkan 9 + 11 = 4*v. Misalkan h = 33 - 30. Selesaikan o = -v + h untuk o.
+-2

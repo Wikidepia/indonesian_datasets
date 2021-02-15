@@ -1,0 +1,666 @@
+Misalkan 0 = 27*p + 12*p - 189891. Berapa digit ribu dari p?
+4
+Misalkan b(g) = 28*g - 75. Berapa digit unit dari b(19)?
+7
+Misalkan u(s) = 135*s - 4 - 155*s - 9. Berapa digit ribuan dari u(-6)?
+0
+Misalkan -5*k = 25, -5*w + 3640 = -4*k + 520. Berapa digit unit dari w?
+0
+Misalkan -4*x + h - 61 = -223, -5*h = x - 30. Misalkan 5*u - u = -x. Berapa digit unit dari (-344)/u - (-6)/10?
+5
+Misalkan g be 11/(-33) - (31/(-3) - -2). Misalkan j = g - -22. Berapa digit ribuan dari j?
+3
+Misalkan -5*g = -25, 5*g = -4*o + 2*g + 43. Misalkan z + 444 = o*z. Berapa digit ribuan dari z?
+7
+Misalkan h(o) = 11*o**2 - 16*o + 77. Misalkan z(v) = 4*v**2 - 5*v + 26. Misalkan t(q) = -6*h(q) + 17*z(q). Berapa digit unit dari t(-9)?
+3
+Misalkan l(t) = -7*t - 5. Misalkan w(s) = 1 - 27*s. Misalkan k be w(-1). Misalkan 4*i + k = 8. Berapa digit unit dari l(i)?
+0
+Misalkan n be (-850)/14 + 10/(-35). Misalkan h = 97 + n. Berapa digit ribuan dari 601/9 + 8/h?
+6
+Misalkan g(o) = 8*o + 64. Berapa digit ratusan dari g(16)?
+1
+Misalkan v be (-5 + 8)/(3/3). Misalkan 4*h = -2*n + 120, v*h + 58 = -3*n + 250. Berapa digit unit dari n?
+8
+Misalkan 70 = -8*a + a. Berapa digit unit dari (-1)/(-1)*(13 - a)?
+3
+Misalkan d = 10 - 8. Misalkan -50 = -7*i + d*i. Misalkan q = i + 6. Berapa digit ribuan dari q?
+1
+Misalkan 3*a + 159 = 663. Misalkan b = 24 + a. Berapa digit unit dari b?
+2
+Misalkan i(h) = h**2 - 27*h + 9. Misalkan j be i(20). Misalkan b = 211 + j. Berapa digit ribuan dari b?
+8
+Misalkan 8*w = 3*w. Misalkan 0 = -l - w*l + 18. Misalkan 5*m - 72 = l. Berapa digit unit dari m?
+8
+Misalkan 57 = x - 6. Misalkan p = 159 - x. Berapa digit ribuan dari p?
+9
+Misalkan a be (4 + -11)*1 + -4. Misalkan t(q) = q**2 + 12*q + 19. Misalkan u be t(a). Misalkan 0 = -11*k + u*k + 6. Berapa digit unit dari k?
+2
+Misalkan -4*f + 690 = 2*g - 1390, -2*f + 4*g + 1040 = 0. Berapa digit ratusan dari f?
+5
+Misalkan m = -560 - -768. Berapa digit ribuan dari m?
+0
+Misalkan o = -5 + 19. Misalkan 2*r - o = 62. Berapa digit ribuan dari r?
+3
+Misalkan o = -27 + 53. Misalkan 5*k = -2*y + 138, -4*y - o - 62 = -4*k. Berapa digit unit dari k?
+6
+Misalkan 6 = 5*v - 19. Misalkan -5*l - 5*i + 665 = -0*i, 0 = v*l - 3*i - 681. Berapa digit ratusan dari l?
+1
+Misalkan l = 13 + -13. Misalkan -16*k + 21*k - 180 = l. Berapa digit unit dari k?
+6
+Misalkan 3*q + q = -5*x - 4345, -x = 5. Misalkan r be (4/(-6))/((-6)/q). Berapa digit unit dari r/16*(-6)/5?
+9
+Misalkan x(y) = -6*y**3 + 7*y**2 - 7*y - 4. Misalkan q(j) = -12*j**3 + 15*j**2 - 15*j - 9. Misalkan w(o) = -6*q(o) + 13*x(o). Berapa digit unit dari w(-2)?
+6
+Misalkan 0 = 2*s + 5*z - 6040, -15038 = -s - 4*s + 3*z. Berapa digit ribu dari s?
+3
+Misalkan m = 44 + -37. Misalkan -5*u = -m*u + 114. Berapa digit ribuan dari u?
+5
+Berapa digit ribuan dari 50 + -48 - ((-1 - 120) + -1)?
+2
+Berapa digit ratusan dari (0 - -295) + 14/(28/(-6))?
+2
+Misalkan o(d) = d**3 + 6*d**2 + 8*d + 4. Misalkan u be o(-7). Misalkan m = 373 + u. Berapa digit ribuan dari m?
+7
+Misalkan g = -24 + 26. Misalkan 0 = -8*q + g*q + 252. Berapa digit unit dari q?
+2
+Misalkan -3*c + 4*v = -2598, 5*c - 3*v - 6626 = -2296. Berapa digit ratusan dari c?
+8
+Misalkan 2*v + 2 = -5*t + 9, -4*v = 3*t - 7. Berapa digit unit dari (-394)/(-6) - t - (-2)/6?
+5
+Misalkan w = 3971 + -2346. Berapa digit ratusan dari w?
+6
+Misalkan v(o) = -o**3 - 3*o**2 + 2*o - 3. Misalkan m be v(-4). Misalkan -m*i = -0*i. Misalkan -2*r + i*r + 26 = 0. Berapa digit unit dari r?
+3
+Misalkan c be (-6 + -69)*(-4)/(-3). Misalkan k = 178 + c. Berapa digit unit dari k/4 - (-2)/4?
+0
+Misalkan -5*m = -43 + 8. Misalkan -m*n = -3*n - 72. Misalkan j(k) = 3*k + 2. Berapa digit unit dari j(n)?
+6
+Misalkan -3*d = -3*t + 15, 4*d = t - 2*t - 15. Misalkan r be (14 + -15)/(2/d). Misalkan -4*m - 4*s + 197 = -19, -111 = -r*m - 5*s. Berapa digit unit dari m?
+3
+Misalkan -4*v = -2*d - 8, 4*d - 6*v = -2*v. Misalkan u(l) = l**3 + l - 6. Berapa digit unit dari u(d)?
+2
+Misalkan 10*g - 4*g = 324. Misalkan z be g/36 - (-95)/2. Misalkan j = -10 + z. Berapa digit ribuan dari j?
+3
+Misalkan 5*u = c + 10834, -479 = 2*u - 2*c - 4819. Berapa digit ribuan dari u?
+6
+Misalkan -12 = 6*t + 84. Misalkan a = 24 - t. Berapa digit unit dari a?
+0
+Misalkan 0*g = 5*g - 705. Misalkan i = -5 + g. Berapa digit ribuan dari i?
+3
+Misalkan l(t) = -t**3 - 2*t**2 + t - 12. Misalkan g be l(-4). Misalkan z(p) = -p**3 + 20*p**2 - 54*p - 16. Berapa digit ribuan dari z(g)?
+4
+Misalkan 2*p - 1 = 2*n - 333, 5*n - 4*p = 834. Berapa digit ratusan dari n?
+1
+Misalkan b = -353 - -2389. Berapa digit ribu dari b?
+2
+Misalkan q = 1657 + -551. Berapa digit ratusan dari q?
+1
+Misalkan d(b) = 21*b - 79. Berapa digit ratusan dari d(48)?
+9
+Misalkan y = -17 + -15. Misalkan s = y - -40. Misalkan -392 = -5*k + s. Berapa digit unit dari k?
+0
+Misalkan v(t) = -132*t - 29. Berapa digit unit dari v(-5)?
+1
+Berapa digit ribuan dari 108/(-10)*(-700)/105?
+7
+Misalkan 2*m - 3*m + 1075 = 3*i, 0 = -3*m + 3. Berapa digit ratusan dari i?
+3
+Misalkan 8*k - 4*k = 0. Misalkan 3*q + r - 129 = k, -3*q - 2*q + 215 = 3*r. Berapa digit unit dari q?
+3
+Misalkan i(y) = 60*y - 10. Misalkan k be i(-4). Misalkan s = -103 - k. Berapa digit ratusan dari s?
+1
+Misalkan -5*u = -4*x - 4361, -2*u + x = -2364 + 619. Berapa digit ribuan dari u?
+7
+Misalkan j(z) = -214*z - 148. Berapa digit ribuan dari j(-9)?
+7
+Misalkan 2*q + 2*q - 8 = 0. Misalkan w(x) = x**3 + 1 + 2 - q*x**3 + 2*x**3 - 3*x. Berapa digit unit dari w(3)?
+1
+Berapa digit ratusan dari 19024/29 - 2/(-4)*0?
+6
+Misalkan k(g) = -16*g - 13. Misalkan 0 = c + 5. Berapa digit ribuan dari k(c)?
+6
+Misalkan 0 = 4*i + 3*j - 175, 4*j - 218 = -3*i - 2*i. Misalkan 2*f = 3*f - i. Berapa digit ribuan dari f?
+4
+Misalkan l(j) = -j**2 + j. Misalkan q(k) = -2*k**3 + 7*k + 6. Misalkan c(t) = 2*l(t) + q(t). Berapa digit unit dari c(-5)?
+1
+Berapa digit ribuan dari ((-13968)/(-32))/(1/4)?
+4
+Berapa digit ratusan dari (-290464)/(-76) - -9 - 6/(-57)?
+8
+Misalkan i(y) = y**3 - 6*y**2 - 9*y + 17. Misalkan m be i(7). Misalkan -m*f + 93 = -0*f. Berapa digit ribuan dari f?
+3
+Misalkan w be (-1)/3*(-5)/((-5)/(-537)). Misalkan p = w + -88. Berapa digit ribuan dari p?
+9
+Misalkan 2 - 12 = 2*d, 0 = -2*u + 2*d + 60. Misalkan 3*k - u = -10. Berapa digit unit dari k?
+5
+Misalkan t be 10/3*(-12)/(-10). Misalkan t*l = 9*l + 15. Misalkan y(d) = -2*d**3 - 2*d**2 + 2*d + 4. Berapa digit ribuan dari y(l)?
+3
+Misalkan d(y) = 4*y - 30. Misalkan x be d(0). Berapa digit ribuan dari 123*2*(-5)/x?
+4
+Misalkan k(l) = 2*l**2 + 4*l - 11. Misalkan r(i) = i - 16. Misalkan d be r(6). Berapa digit ratusan dari k(d)?
+1
+Misalkan v = 43 - 17. Misalkan l = 26 - v. Misalkan l = 5*j + k - 150, -2*k - 2*k = 0. Berapa digit ribuan dari j?
+3
+Misalkan x = 33 - 12. Misalkan c be (7/(-21))/(3/(-18)). Misalkan k = c + x. Berapa digit unit dari k?
+3
+Misalkan o(v) = 221 - 36*v. Berapa digit ribuan dari o(-27)?
+9
+Misalkan -o - o - 4*g + 522 = 0, 1023 = 4*o + g. Misalkan -f + 3*b = -61, 4*f + 0*f - o = b. Misalkan 0 = 4*k - f + 20. Berapa digit unit dari k?
+1
+Berapa digit ratusan dari 18300/16 - (4 - (-102)/(-24))?
+1
+Misalkan v = -1711 - -5097. Berapa digit ribuan dari v?
+8
+Misalkan p be 245/28*-2*2. Berapa digit ribuan dari 8 + -6 - 0/2 - p?
+3
+Misalkan 4 + 2 = 6*v. Berapa digit unit dari 4/(-1) - -12*v?
+8
+Misalkan h = 3 - -14. Misalkan -3*g = -25 - h. Misalkan j = g + 6. Berapa digit unit dari j?
+0
+Misalkan x(a) = a**2 + 14*a + 40. Misalkan j(o) = -o**3 + o**2 + o - 17. Misalkan p be j(0). Berapa digit ribuan dari x(p)?
+9
+Misalkan h be 35/(-3) + 3/(-9). Misalkan g = -6 - h. Misalkan w(f) = f**3 - 4*f**2 - 7*f - 3. Berapa digit unit dari w(g)?
+7
+Misalkan r(s) = s**3 - 3*s**2 + 2*s - 6. Misalkan f be r(3). Misalkan 106*x - 102*x - 404 = f. Berapa digit unit dari x?
+1
+Misalkan 0 = -m + 599 + 233. Berapa digit unit dari m?
+2
+Misalkan r be (4/(-5))/((-178)/90 - -2). Berapa digit ribuan dari ((-48)/r)/((-2)/(-72))?
+4
+Misalkan m(v) = -v**3 - 15*v**2 - 13*v + 19. Misalkan o be 0/((-3 - 3)/(-3)). Misalkan k be ((-42)/(-3) + o)/(-1). Berapa digit unit dari m(k)?
+5
+Misalkan y = 89 - 57. Misalkan c = 4*l - 601, -2*l + 3*c + 261 = -y. Berapa digit ribuan dari l?
+5
+Misalkan u (c) menjadi turunan ke-pertama dari c**4/4 + 3*c**3 + 2*c**2 - 6*c + 2. Misalkan n be u(-5). Misalkan 10*p - 12*p = -n. Berapa digit ribuan dari p?
+3
+Misalkan 2*a - 4 = -0. Berapa digit ribuan dari (a - 4)*1 + 75?
+7
+Misalkan w(j) = -2*j - 10. Misalkan -25 = 4*r - 5. Misalkan v be w(r). Misalkan l = 18 - v. Berapa digit ribuan dari l?
+1
+Misalkan p(y) = 4*y**3 - 3*y**2 + y + 2. Misalkan t be p(2). Misalkan m = t + -24. Berapa digit unit dari (m - -4) + -1 + 12?
+5
+Misalkan l(d) = -254*d - 308. Berapa digit unit dari l(-19)?
+8
+Misalkan k(i) = 4*i**3 - 4*i**2 + 4*i - 9. Misalkan s be k(4). Misalkan a = s + -121. Berapa digit ribuan dari a?
+7
+Misalkan 3*a + 8 = -25. Berapa digit ratusan dari 2*1 - a/(33/441)?
+1
+Misalkan u = -10 - -25. Misalkan j - u - 16 = 0. Misalkan t = -15 + j. Berapa digit ribuan dari t?
+1
+Misalkan m be (0 - (2 + 0))*-1. Misalkan i + 127 = m*i. Misalkan 3*p - 2*t - i = -0*p, 5*p + 5*t = 170. Berapa digit unit dari p?
+9
+Misalkan -1022 = -2*j + 5*a + 8, 3*a = -j + 515. Berapa digit ribuan dari j?
+1
+Misalkan h(m) = -2*m - 10. Misalkan f be h(-7). Misalkan 0*q = -f*q + 64. Berapa digit unit dari q?
+6
+Misalkan h be (-18)/15*35/14. Berapa digit ratusan dari 36*(-54)/(-12)*(-2)/h?
+1
+Misalkan 28046 = 16*u + 21*u. Berapa digit ribuan dari u?
+5
+Misalkan -2 = -5*m - 2*t, -3*m - 3*t + 3 = -5*m. Misalkan 5*k + 0*k + 1950 = m. Berapa digit unit dari k/(-3)*(-16)/(-40)?
+2
+Misalkan x = -56 + 71. Berapa digit ribuan dari (4 + 55/x)*12?
+9
+Misalkan 0 = -0*u - u + 3. Misalkan -3*b + 15 = -u*r - 0*r, -5*r + 10 = 2*b. Misalkan -b*h + 21 = -59. Berapa digit unit dari h?
+6
+Misalkan -p + 165 = -87. Misalkan p = -36*g + 39*g. Berapa digit ribuan dari g?
+8
+Misalkan w(k) = 80*k - 340. Berapa digit ribu dari w(23)?
+1
+Misalkan j = -8 - 174. Misalkan r = -112 - j. Berapa digit unit dari r?
+0
+Berapa digit unit dari ((-6881)/(-14))/(5/20)?
+6
+Misalkan -a + 3*a - 4 = 0. Misalkan -a*u = -8 - 4. Berapa digit ribuan dari 228/(-8)*(-4)/u?
+1
+Berapa digit ribuan dari 4 + 1/2 + 91605/62?
+8
+Misalkan o = -4 + 8. Misalkan 0 = -2*g - 3*s + 6, -2*g + s + s = o. Misalkan g = 4*c - 25 - 71. Berapa digit unit dari c?
+4
+Misalkan z be ((-5)/2)/((-1)/4). Misalkan o = 439 - 834. Berapa digit ribuan dari 1/2 - o/z?
+4
+Berapa digit ratusan dari (-30 - 82)*((-58)/4 + 0)?
+6
+Misalkan z(u) = 12*u + 7. Misalkan p(n) = n**2 + 2*n + 7. Misalkan l be p(0). Berapa digit unit dari z(l)?
+1
+Misalkan 9*u - 4998 + 1299 = 0. Misalkan u = 2*g + g - 3*m, 4*m = 20. Berapa digit ratusan dari g?
+1
+Misalkan v = 2 - -61. Misalkan 15 = -4*i + v. Berapa digit unit dari 3/3 + i - 2?
+1
+Misalkan o(y) = -11*y**3 - y**2 + 2*y - 4. Misalkan t be o(-3). Misalkan x = t - 179. Berapa digit ribuan dari x?
+9
+Misalkan w be ((-30)/(-45))/(2/36). Misalkan -4*a + w = -4*b, -21 = -5*a + 2*b + 6. Berapa digit unit dari a?
+7
+Misalkan j(l) = 5*l**3 + l**2 + 2*l. Misalkan s be j(-3). Misalkan k = s + 71. Misalkan y = k + 92. Berapa digit unit dari y?
+1
+Misalkan s(y) = y**3 - 11*y**2 + 12*y - 14. Misalkan j be s(10). Misalkan r(n) = 5*n**2 + 24 + j*n - 16*n - 4*n**2. Berapa digit unit dari r(12)?
+8
+Misalkan q(x) = -x**3 + 13*x**2 - 12*x - 50. Misalkan z(c) = -c - 1. Misalkan f(n) = -q(n) + 5*z(n). Berapa digit unit dari f(13)?
+6
+Misalkan b = -71 - -121. Berapa digit ribuan dari b?
+5
+Misalkan 5*z = -4*c + 4241, 3*c + 4*z + 2088 = 5*c. Berapa digit ribu dari c?
+1
+Misalkan s(o) = 3*o + 5. Misalkan l(z) = z**2 + z + 16. Misalkan n be l(0). Misalkan g = n - 11. Berapa digit unit dari s(g)?
+0
+Misalkan g = -16 + 82. Berapa digit unit dari g?
+6
+Misalkan 8*b - 13*b = 2*p - 16, 5*p = -b + 17. Misalkan p*q = 6*q - 315. Berapa digit unit dari q?
+5
+Misalkan z(t) = t**3 - 19*t**2 + 9*t - 1. Berapa digit ribuan dari z(19)?
+7
+Misalkan n(p) = 18*p**2 + 8*p - 10. Misalkan i be n(-5). Berapa digit ribuan dari i/18 - (-1)/(27/(-6))?
+2
+Misalkan 6*v + 2*v - 4672 = 0. Misalkan r = v - 338. Berapa digit unit dari r?
+6
+Berapa digit ribuan dari (-549)/(-12)*(-24)/(-18)?
+6
+Misalkan 8 = 14*j - 10*j. Misalkan j*q - 3*r = 37, -4*q + 4*r + 70 = 2*r. Misalkan s = 87 - q. Berapa digit unit dari s?
+0
+Misalkan x = -7 + 12. Misalkan -3*r - 4*h = -8*r + 398, -x*h - 400 = -5*r. Berapa digit ribuan dari r?
+7
+Berapa digit unit dari (-11)/(495/(-6)) + (-34672)/(-60)?
+8
+Misalkan c be (-4 - -20)*(-15)/(-20). Misalkan -2*r = 4*d - c, 0*d = 4*r + d - 17. Berapa digit unit dari r?
+4
+Misalkan f = -131 - -2737. Berapa digit ribu dari f?
+2
+Misalkan c(f) = f**3 - 2*f**2 - 2*f. Misalkan j be c(3). Misalkan 3*v - 240 = j*d, 2*v + d - 2*d = 160. Berapa digit unit dari v?
+0
+Misalkan 0 = -2*b - 3 - 13. Misalkan r = -8 - b. Misalkan r = 5*p + 5*n, -6*n = p - 3*n + 10. Berapa digit unit dari p?
+5
+Misalkan t = 565 - 324. Berapa digit ribuan dari t?
+4
+Berapa digit ratusan dari (-84720)/(-90) - 3*(-1)/(-9)?
+9
+Berapa digit ribuan dari 222810/(-525)*(1 - 11)?
+4
+Misalkan m(f) = -19*f - 27. Misalkan k(h) = -19*h - 28. Misalkan y(t) = 4*k(t) - 3*m(t). Berapa digit ratusan dari y(-13)?
+2
+Misalkan j(u) = u**2 + 4*u + 2. Misalkan a be j(-10). Misalkan q = a - 33. Misalkan l = q - 10. Berapa digit ribuan dari l?
+1
+Misalkan q (k) menjadi turunan ke-pertama dari 4*k**2 + 16*k - 26. Berapa digit ribuan dari q(14)?
+2
+Misalkan 0 = -86*p + 83*p + 12954. Berapa digit unit dari p?
+8
+Misalkan t (z) menjadi turunan ke-ketiga dari -z**6/120 - z**5/15 + 3*z**4/8 + 5*z**3/6 - 10*z**2. Misalkan r be -5 + -1*2 + 1. Berapa digit ribuan dari t(r)?
+2
+Misalkan 5*r + 30240 = 40*r. Berapa digit unit dari r?
+4
+Misalkan u(g) = g**3 - 6*g**2 + g + 9. Misalkan y be u(5). Misalkan t(m) = -m**3 - 12*m**2 - 15*m + 4. Berapa digit unit dari t(y)?
+8
+Misalkan h be (12/8)/(9/12). Misalkan -77 = -h*d + 47. Berapa digit ribuan dari d?
+6
+Misalkan o = 1290 + -544. Berapa digit ratusan dari o?
+7
+Misalkan n(v) = -863*v**3 - 2*v + 862*v**3 + 9*v**2 - 5 + 20. Berapa digit ribuan dari n(6)?
+1
+Misalkan 57 = 4*i - 3. Berapa digit ribuan dari 1065/i - (0 - 0)?
+7
+Misalkan h(s) = -3*s + s**2 + 4 - 3*s**2 + 2 + 5*s**2. Berapa digit ribuan dari h(6)?
+9
+Misalkan 7*o - 130 = 108. Misalkan -l - 3*u + o = 0, 3*l + 5*u + 0*u = 102. Berapa digit unit dari l?
+4
+Misalkan r = 2 + 14. Misalkan 4*u = -r - 4. Misalkan q(h) = 2*h**2 + 4*h - 11. Berapa digit ribuan dari q(u)?
+1
+Berapa digit unit dari (678 + -1)*(1 - 0)?
+7
+Misalkan -t - 1 = x - 10, 5*x = 2*t + 45. Misalkan -x*m = -3*m - 288. Berapa digit ribuan dari m?
+4
+Misalkan i(z) = z**2. Misalkan d = 10 - 16. Misalkan o(x) = -5*x**2 - 8*x - 1. Misalkan w(m) = d*i(m) - o(m). Berapa digit unit dari w(8)?
+1
+Misalkan t be ((-6)/15)/(5/(-50)). Misalkan w = -4 + t. Berapa digit unit dari 2 - (w/1 - 0)?
+2
+Misalkan o = -4 - -6. Misalkan a(l) = -4*l - 5. Misalkan i be a(-14). Misalkan -o*f + i = f. Berapa digit unit dari f?
+7
+Misalkan d = -386 - -861. Berapa digit ribuan dari d?
+7
+Misalkan j(v) = 61 - 2*v. Misalkan f(o) = 121 - 4*o. Misalkan w(s) = -4*f(s) + 9*j(s). Berapa digit unit dari w(12)?
+1
+Misalkan -1 + 14 = 4*l - g, -10 = -l - 2*g. Misalkan t be ((-33)/(-12))/11 - (-23)/4. Misalkan -l*f + t = -3*f. Berapa digit unit dari f?
+6
+Misalkan s(i) = 67*i + 17. Misalkan v be s(4). Misalkan u = v - 149. Berapa digit ratusan dari u?
+1
+Misalkan h (f) menjadi turunan ke-ketiga dari -5*f**4/24 + 82*f**3/3 - 9*f**2. Berapa digit unit dari h(0)?
+4
+Misalkan -134 = -3*j + 130. Misalkan s be (-9)/(-18) - 9/(-2). Misalkan -j = -2*m - 5*i + 2*i, -s*m + 186 = -i. Berapa digit ribuan dari m?
+3
+Misalkan d(h) = 4*h**2 - h. Misalkan z be d(1). Misalkan 2*b = -z*b - 2*f + 117, -5*b - f = -121. Berapa digit unit dari b?
+5
+Berapa digit ratusan dari (-1116)/(-12)*(-33)/(-9)?
+3
+Misalkan 2*n + 0*d - 18 = 4*d, 3*d = 5*n - 45. Misalkan a (i) menjadi turunan ke-ketiga dari -i**5/60 + i**4/2 + i**3/6 + 9*i**2. Berapa digit ribuan dari a(n)?
+2
+Misalkan -5*g = -s - 11, 2*s - s - 7 = -g. Misalkan m(q) = 5*q**2 + 12*q + 9. Berapa digit unit dari m(s)?
+7
+Misalkan a(u) = -14*u - 72. Misalkan f be a(-11). Misalkan -2*y + 0*y = n + 6, -74 = 4*n - 2*y. Misalkan x = f + n. Berapa digit ribuan dari x?
+6
+Misalkan g(i) = i + 13. Misalkan c be g(-9). Misalkan -c*n + 52 = -2*t, 2*t + 60 = 4*n - 2*t. Berapa digit ribuan dari n?
+1
+Misalkan x be 0 + 0/(-2) + 2. Misalkan q = -4*n + 112, -3*n + 39 = x*q - 50. Misalkan z = n - 4. Berapa digit ribuan dari z?
+2
+Misalkan l = -278 - -716. Berapa digit ribuan dari -1*l/(-4)*6/9?
+7
+Misalkan p(m) = 5*m**3 - 7*m**2 + 9*m - 7. Misalkan y(k) = 11*k**3 - 15*k**2 + 19*k - 14. Misalkan i(c) = 9*p(c) - 4*y(c). Berapa digit unit dari i(5)?
+8
+Misalkan s(h) = 12*h**2 + h + 1. Berapa digit ribuan dari s(5)?
+0
+Misalkan -3*d - 37 = -3*g + 122, d - 147 = -3*g. Misalkan -k + 10 + g = 0. Berapa digit unit dari k?
+0
+Misalkan -t + 4598 = -3*x, -383 = -x - 4*t - 1920. Berapa digit ribuan dari x/(-27) + (-8)/(-36)?
+5
+Misalkan g be 3/(-4 - 55/(-10)). Misalkan g*b = -b + 75. Berapa digit unit dari b?
+5
+Misalkan m(w) = -w**3 + 6*w**2 + 2*w - 3. Misalkan j be m(6). Misalkan h = j + -5. Misalkan 5*b - h*a - 45 = 0, b = 4*a - 2*a + 3. Berapa digit unit dari b?
+3
+Berapa digit unit dari (28 + -30)/(2/(-30))?
+0
+Misalkan n be 36/(-45) - (-118)/10. Misalkan l(p) = -p**2 + 14*p - 1. Misalkan w be l(n). Misalkan w = -4*a + 136. Berapa digit ribuan dari a?
+2
+Misalkan y(i) = -i**3 + 6*i**2 + 8*i + 52. Berapa digit unit dari y(-5)?
+7
+Misalkan -2*i = -2*t + 6, -2*t - 12 = -4*t + 4*i. Misalkan p(a) = -2*a - 3 + 5*a + t*a + 2*a. Berapa digit unit dari p(3)?
+2
+Misalkan 329 = r + 2*n, 4*r - 1316 = 92*n - 93*n. Berapa digit unit dari r?
+9
+Misalkan -2*k - 10 = 5*q + 2*k, -5*q = -5*k - 35. Berapa digit unit dari 6*(q + (-376)/(-12))?
+0
+Berapa digit ribuan dari (-5 - -86) + (-3)/(-3)?
+8
+Misalkan -25*c = -8084 - 7541. Berapa digit unit dari c?
+5
+Berapa digit ribuan dari (-8)/((-32)/1892) - 5?
+6
+Misalkan d be (41/(-2))/((-11)/(-132)). Misalkan i = d + 415. Berapa digit ratusan dari i?
+1
+Misalkan l = 59 - 56. Berapa digit ribuan dari 153 - (-2 + (-3)/l)?
+5
+Misalkan a be (4/(-6))/((-18)/81). Misalkan -a*d - 37 = -49. Berapa digit unit dari d?
+4
+Misalkan 0 = -3*b, -6*b - 145 = -5*z - 3*b. Misalkan z*g - 35 = 28*g. Berapa digit unit dari g?
+5
+Misalkan 0 = 14*k - 19*k + 35. Misalkan -k*a - 4 = -18. Misalkan 6*o = a*o + 280. Berapa digit ribuan dari o?
+7
+Misalkan 30 = 2*i + 2*v, -i - 4*v + v + 17 = 0. Misalkan u = 9 + -5. Misalkan d = i - u. Berapa digit unit dari d?
+0
+Misalkan t be -18 + 0 - 84/(-28). Berapa digit unit dari 6/4*(-11 - t)?
+6
+Misalkan -c + 2*g - 4428 = -5*c, -5*c - 2*g + 5536 = 0. Berapa digit ratusan dari c?
+1
+Misalkan t(n) = -8*n**2 + 3*n + 2. Misalkan s be t(2). Berapa digit unit dari 2*-1*564/s?
+7
+Misalkan s(d) = -d**3 - 2*d**2 - 4*d - 7. Misalkan x(j) = 2*j - 3. Misalkan r be x(0). Berapa digit unit dari s(r)?
+4
+Misalkan 2*b = -2*a - 8, 3*b + 44 = 3*a + 2*a. Misalkan -3*l + 2*l = -3*u - 22, 3*u - 73 = -4*l. Misalkan w = l + b. Berapa digit unit dari w?
+1
+Misalkan 4*z - g = -4*g + 24, 5*g = z + 17. Misalkan i(l) = 2 + l**2 + 0*l**2 - 1 - l. Berapa digit unit dari i(z)?
+7
+Misalkan n(y) = -18*y**3 - 16*y**2 - y - 28. Misalkan m be n(-11). Berapa digit ratusan dari ((-4)/10)/((-27)/m)?
+3
+Misalkan p(q) = -q**2 + 10*q + 8. Misalkan 2*h - 7 = 3. Misalkan -2*r = -9 - h. Berapa digit ribuan dari p(r)?
+2
+Misalkan u(t) = t + 7. Misalkan x(n) = n. Misalkan r(m) = -u(m) + 2*x(m). Misalkan w be r(11). Berapa digit unit dari w/12 + 78/9?
+9
+Misalkan 8*d = 13*d - 675. Berapa digit unit dari d?
+5
+Misalkan i(g) = 17*g - 4. Misalkan y be i(2). Misalkan l be 64/y + 10/(-75). Berapa digit ribuan dari 61/1 - (l - 0)?
+5
+Misalkan d = -174 + 179. Misalkan -40 = 2*s - 4*c, 3*s = 2*s - 3*c. Misalkan r = d - s. Berapa digit ribuan dari r?
+1
+Misalkan -4*b = -3*b - 2*n, 0 = -b + 3*n - 1. Misalkan c = -60 - -66. Misalkan 0 = 5*x + 3*f - 215, -c*x + 172 = -2*x - b*f. Berapa digit ribuan dari x?
+4
+Berapa digit ribuan dari 6 + -3 - (1 - -29)*-13?
+9
+Berapa digit ratusan dari (-16 - -25)*3/((-27)/(-1380))?
+3
+Misalkan k be 259/14 - (-1)/(-2). Misalkan 0 = -23*q + k*q + 120. Berapa digit unit dari q?
+4
+Berapa digit ribuan dari 470 + 3 - (-7)/((-7)/2)?
+7
+Misalkan h = -214 + 392. Misalkan h = 10*u - 582. Berapa digit unit dari u?
+6
+Misalkan 4*o - 8 = 3*x, -2*x + 5*o - 41 = -6*x. Misalkan 0 = -5*a - 2*p + 1008, 0 = -x*a + 4*p - p + 788. Misalkan -2*j = -6*j + a. Berapa digit unit dari j?
+0
+Misalkan r = 2827 + -1712. Berapa digit ribu dari r?
+1
+Berapa digit ratusan dari (10 + 130)/10*53/2?
+3
+Misalkan i (w) menjadi turunan ke-ketiga dari w**5/60 + w**4/8 - 4*w**3/3 + 22*w**2. Berapa digit ratusan dari i(-13)?
+1
+Misalkan 4*o + 1 = 9. Misalkan v(s) = 2 - s. Misalkan x be v(o). Misalkan x = 38*c - 35*c - 138. Berapa digit ribuan dari c?
+4
+Misalkan 5*j + 7 = 2*t, 2*t - 5 + 4 = -j. Misalkan c be t + 1 + -5 + 72. Misalkan g = c + -13. Berapa digit unit dari g?
+6
+Misalkan 2*k + 8 = 4*z, 4*z - k + 0*k = 8. Misalkan -12*b = -8*b + 5*c - 628, z*c = 3*b - 494. Berapa digit ratusan dari b?
+1
+Misalkan -43*g = -22*g - 124593. Berapa digit ribuan dari g?
+3
+Misalkan 10*f - 9*f = 5, 2*t - 5*f = 2219. Berapa digit ribu dari t?
+1
+Misalkan k(a) = -15*a - 31. Misalkan u be k(-7). Misalkan -2*o + 158 = -u. Berapa digit ratusan dari o?
+1
+Misalkan 94*z - 62801 = 355875. Berapa digit unit dari z?
+4
+Misalkan 0*n - 4*n = -840. Misalkan o be 0 + n/(15/3). Misalkan 0 = -j + 2*j + 2*w - o, -j + 45 = -w. Berapa digit ribuan dari j?
+4
+Berapa digit unit dari 5/(4 - 3) - -216?
+1
+Misalkan u(n) = -n**2 + 4*n - 5. Misalkan y be u(5). Misalkan p be (6/y)/((-6)/90). Misalkan s = p - 3. Berapa digit unit dari s?
+6
+Misalkan r(b) = -b**3 + 5*b**2 - 3*b - 2. Misalkan k be r(5). Misalkan w = -12 - k. Misalkan i = w - -10. Berapa digit ribuan dari i?
+1
+Misalkan a(r) = 127*r - 56. Berapa digit ratusan dari a(7)?
+8
+Misalkan 0 = -4*q - 5*p + 15, 2 = 3*q + 3*p - 7. Misalkan -k = -q*k. Berapa digit ribuan dari -2 - k - (-11 + -6)?
+1
+Misalkan d(b) = -b**3 - 4*b**2 - 5*b - 6. Misalkan f be d(-4). Misalkan i = f - 16. Berapa digit unit dari i/(-8) - 69/(-12)?
+6
+Misalkan z(w) = 12*w - 22. Misalkan b be z(14). Misalkan r = b - 40. Berapa digit ribuan dari r?
+0
+Misalkan p(c) = -c**3 + 4*c**2 - 3*c + 1. Misalkan x be p(3). Misalkan m be x + (-2 - 3/(-1)). Misalkan m*f - 59 = -11. Berapa digit ribuan dari f?
+2
+Misalkan r(d) = 3*d. Misalkan b be r(5). Misalkan q = -15 + b. Misalkan q = -m - 3*i + 20, m = 3*m + 2*i - 28. Berapa digit unit dari m?
+1
+Misalkan 0 = -33*l + 96712 + 836. Berapa digit ratusan dari l?
+9
+Misalkan d(w) = 2*w + 120. Misalkan 0 = -15*a + 5*a. Misalkan f be d(a). Misalkan o = f + -76. Berapa digit unit dari o?
+4
+Misalkan -2*w = 2*k - 14, 5*w - 3*k = -5*k + 20. Misalkan -w*x + 0*g + 63 = 5*g, 5*g = -5. Berapa digit unit dari x?
+4
+Misalkan k(d) = 18*d**3 + d**2 + 15*d - 7. Berapa digit ribuan dari k(5)?
+4
+Misalkan 45*l = 38*l + 511. Berapa digit unit dari l?
+3
+Misalkan c = -334 - -780. Berapa digit ratusan dari c?
+4
+Misalkan p(v) = 2*v**2 - 4*v. Misalkan n be p(3). Misalkan j be (-54)/7 - n/21. Misalkan l(k) = k**2 + 7*k + 7. Berapa digit ribuan dari l(j)?
+1
+Misalkan o(m) = -m**3 + m**2 + 3*m + 2. Berapa digit ratusan dari o(-5)?
+1
+Misalkan s(h) = 2*h**2 - 2*h - 10. Misalkan p be s(0). Misalkan b = p - -248. Berapa digit unit dari b?
+8
+Misalkan f(a) = -a**3 - 5*a**2 + 3*a + 6. Misalkan i be f(-4). Misalkan v = 24 + i. Misalkan 1 = v*y - 77. Berapa digit ribuan dari y?
+3
+Misalkan h(w) = -4*w - 28. Misalkan i be h(-12). Misalkan -i + 155 = 5*o. Berapa digit unit dari o?
+7
+Misalkan o = 93 + -52. Misalkan a = 26 + o. Berapa digit unit dari a?
+7
+Misalkan d = 750 + -193. Berapa digit ribuan dari d?
+5
+Misalkan -9 = 2*i - 3*i. Misalkan v (b) menjadi turunan ke-ketiga dari b**4/8 - b**3/2 + 4*b**2. Berapa digit unit dari v(i)?
+4
+Misalkan n(r) = 5*r + 2. Misalkan -4*u + 17 = -5*d + 4, 0 = 2*u + 6. Misalkan w be (1 - -4)*(6 + d). Berapa digit unit dari n(w)?
+7
+Misalkan 4*x - 2*x - 2 = 0. Berapa digit unit dari 22 + (x + -2 - 0)?
+1
+Misalkan 3*k + 3 = 0, 3*g + 3*k - 7*k = 1168. Berapa digit ratusan dari g?
+3
+Misalkan r be -25 - (-16)/4 - 3. Berapa digit unit dari (-156)/r*24/1?
+6
+Misalkan n(a) = 69*a + 54. Berapa digit ratusan dari n(7)?
+5
+Berapa digit ribu dari (120/(-18) - -6) + (-4496)/(-3)?
+1
+Misalkan 432*y = 438*y - 7404. Berapa digit unit dari y?
+4
+Misalkan 3*l - d - 6 = 0, 20 = 3*l + 2*l - 5*d. Misalkan h be l*(7 + -3)/2. Misalkan -7*n = -h*n - 105. Berapa digit ribuan dari n?
+2
+Misalkan b(y) = 13*y - 8. Misalkan a be b(1). Misalkan -a*d = 2*r - 1070, -d - 4*d = -r - 1070. Berapa digit ratusan dari d?
+2
+Misalkan m(k) = 6*k - 38. Misalkan l = 28 - 15. Berapa digit unit dari m(l)?
+0
+Misalkan -z + 8 = -9. Misalkan m = -14 + z. Berapa digit unit dari m?
+3
+Misalkan j(c) = -4*c - 4. Misalkan m be j(-2). Misalkan -a + 3 = -2*h + 58, m*a = 4*h - 108. Misalkan 127 + h = 5*f. Berapa digit unit dari f?
+1
+Misalkan d = -2 - 4. Misalkan m be d/4*1364/(-33). Misalkan -2*k = -4 - m. Berapa digit unit dari k?
+3
+Misalkan h = 249 - 123. Berapa digit unit dari h?
+6
+Misalkan -u + 303 = 53. Misalkan 46 = b - 5*v - 8, 3*v = 4*b - u. Berapa digit ribuan dari b?
+6
+Berapa digit unit dari 3225/8 - (50/16 + -3)?
+3
+Misalkan i = 358 + -154. Misalkan 4*h - 3*h = 4*m + 36, -4*h = -4*m - i. Berapa digit ribuan dari h?
+5
+Misalkan w(c) = -c**3 + 10*c**2 + c - 2. Misalkan i be w(10). Misalkan i*k - 394 = 166. Berapa digit unit dari k?
+0
+Misalkan k be 15/2 + 0 + 4/(-8). Misalkan 0*q - k*q = -693. Berapa digit unit dari q?
+9
+Misalkan k = 39 + -34. Misalkan 3*a + 2*a - 860 = -k*n, 0 = 4*n + 2*a - 678. Berapa digit ribuan dari n?
+6
+Misalkan i be (-1 + 2)/(-3*(-1)/(-477)). Berapa digit ribuan dari (i/33 - -5) + (-2865)/(-33)?
+8
+Misalkan n(l) = l**2 - 11*l - 4. Misalkan s be n(13). Misalkan m = 27 - s. Misalkan m*h - 166 = 4*p - 21, -4*h + 4*p + 116 = 0. Berapa digit ribuan dari h?
+2
+Misalkan m(v) = v - 7*v**2 + 38*v**2 + 0*v. Berapa digit ribuan dari m(1)?
+3
+Misalkan 3*d = -a + 2692, 2*d + a + 4492 = 7*d. Berapa digit ribuan dari d?
+9
+Misalkan 0 = -2*u - m + 19, 0 = -5*u + 2*m - 11 + 63. Misalkan u = 4*v - 122. Misalkan 0 = 2*o - v - 11. Berapa digit unit dari o?
+2
+Misalkan -3*m + 0*m = 30. Misalkan q = m - -43. Berapa digit unit dari q?
+3
+Misalkan r(h) = h**3 - 3*h**2 + 2*h - 2. Misalkan g be r(2). Misalkan 3*x + 48 = -x. Berapa digit unit dari g/((x/4)/3)?
+2
+Misalkan p = -245 + 443. Berapa digit unit dari p?
+8
+Misalkan u(i) = -i**3 - 8*i**2 - 10*i - 5. Misalkan h = -14 + 7. Misalkan s be u(h). Misalkan -4*o + s = -3*o. Berapa digit ribuan dari o?
+1
+Misalkan u + 4*t = 18, 0*u + t - 18 = -u. Misalkan w = u + 32. Berapa digit unit dari w?
+0
+Misalkan a(c) = 11 - c. Misalkan s(u) = 22 - u. Misalkan d(q) = -5*a(q) + 2*s(q). Berapa digit unit dari d(11)?
+2
+Misalkan 3*c = 4*h - c - 36, 2*c = -h - 6. Misalkan a be (2 - 10/h)*-14. Misalkan s = a + 3. Berapa digit unit dari s?
+0
+Misalkan k = 5543 + -3881. Berapa digit ribu dari k?
+1
+Misalkan k = -265 + 139. Misalkan j = 229 + k. Berapa digit unit dari j?
+3
+Misalkan d(s) = s**2 + 5*s + 175. Misalkan 4*j + 5*u + 5 = 0, 5*j = 3*u - 2*u + 1. Berapa digit ribuan dari d(j)?
+7
+Misalkan z(q) = -205*q - 259. Berapa digit ratusan dari z(-14)?
+6
+Misalkan -5*g = -7*g + 4. Misalkan g*j - j = 5. Berapa digit ribuan dari j/(15/(-6)) + 23?
+2
+Misalkan 0 = p + 3*p. Misalkan p = 2*f + 2*f. Berapa digit unit dari -1 + f - (19 + -30)?
+0
+Misalkan 5*y = 3*v - 70 + 2235, 0 = -5*y + 2*v + 2170. Berapa digit unit dari y?
+6
+Misalkan 2 = 4*y - 4*m + 3*m, -5*m = -5*y + 10. Misalkan 3*f - 4*z - 164 = y, -z + 117 = 2*f + 4*z. Berapa digit unit dari f?
+6
+Misalkan -5*y - 4*h = 72, 0*y + 5*h = y + 26. Misalkan k be -12*(-3 + y/(-6)). Misalkan 0 = -k*g + 4 + 8. Berapa digit unit dari g?
+3
+Misalkan b be 0 - ((-3)/2)/((-8)/(-16)). Misalkan b*i + 410 = 8*i. Berapa digit unit dari i?
+2
+Misalkan c(x) = -2*x**3 + 6*x**2 - x + 1. Misalkan i be c(3). Misalkan v(j) = 2 - 49*j. Berapa digit unit dari v(i)?
+0
+Misalkan h(o) = o**2 - 3*o - 8. Misalkan j be h(-3). Misalkan 3*s - 5*c = -13, -c + 4*c = 4*s + j. Berapa digit unit dari (-315)/(-9) - s/1?
+6
+Misalkan s(o) = o**2 - 5*o - 57. Berapa digit ribuan dari s(26)?
+8
+Misalkan 23 - 3 = 4*p. Misalkan y = p - -37. Misalkan t = y - 17. Berapa digit unit dari t?
+5
+Misalkan s + i = 86, -5*s - i + 4*i + 462 = 0. Berapa digit unit dari s?
+0
+Berapa digit ratusan dari 54*((-30)/(-16))/(6/8)?
+1
+Misalkan b = 16 + -4. Misalkan -p + b = 3*p. Misalkan v = p + 8. Berapa digit ribuan dari v?
+1
+Misalkan 11*y - 12*y = -5. Misalkan y*b = 58 + 127. Berapa digit ribuan dari b?
+3
+Misalkan -1107*g + 7924 = -1103*g. Berapa digit ribuan dari g?
+8
+Misalkan b(r) = 7*r - 2. Misalkan q be b(1). Misalkan x(s) = -2 + 11 + 23*s - 55*s + 31*s. Berapa digit unit dari x(q)?
+4
+Misalkan w = 7*w + 6. Berapa digit unit dari (0 + 7)*(-9)/w?
+3
+Misalkan c = -932 - -2098. Berapa digit ribu dari c?
+1
+Misalkan v(y) = -3*y**3 - y - 2. Misalkan z be v(-3). Misalkan -z - 26 = 3*w. Misalkan c = 65 + w. Berapa digit unit dari c?
+9
+Misalkan z (f) menjadi turunan ke-pertama dari 16*f - 4 - 1/2*f**2. Berapa digit unit dari z(10)?
+6
+Berapa digit unit dari 9/30 - (-133476)/280?
+7
+Misalkan c(q) = -5*q**3 - q. Misalkan d be c(-4). Misalkan -n - 233 = -3*t, -t - 3*t + d = -4*n. Berapa digit ribuan dari t?
+7
+Misalkan o be ((-5)/20 - (-10)/8) + 11. Misalkan -2*b - 3*b = -3*t - 231, -4*t = -o. Berapa digit unit dari b?
+8
+Misalkan j = -15 + 19. Misalkan -12 = -4*g + j. Misalkan 42 = -2*c + g*c + 2*s, -38 = -2*c - 3*s. Berapa digit unit dari c?
+5
+Misalkan n(h) = -h - 23. Misalkan f be n(-5). Misalkan o = f - -20. Misalkan 8*j - 3*j = -g + 329, -2*j + o*g + 122 = 0. Berapa digit unit dari j?
+5
+Berapa digit unit dari 86 + -1 + (-12)/(-3)?
+9
+Misalkan b = 1749 - 734. Berapa digit ribu dari b?
+1
+Misalkan z = -301 - -1414. Berapa digit ribu dari z?
+1
+Misalkan 0 = 4*f - 59*f + 46145. Berapa digit ratusan dari f?
+8
+Misalkan t (c) menjadi turunan ke-pertama dari c**4/4 + 4*c - 5. Misalkan w be t(0). Misalkan -w*o - 32 = -2*l, o = -o. Berapa digit unit dari l?
+6
+Misalkan -635 - 1165 = -3*q. Misalkan -q = 2*s - 10*s. Berapa digit ribuan dari s?
+7
+Misalkan -2*y + 3*a = -38, 33 = 3*y - 5*a - 24. Misalkan -13*l = -y*l + 1356. Berapa digit ratusan dari l?
+2
+Misalkan b = 36 + -37. Misalkan p be (1/3)/(b/(-12)). Berapa digit unit dari 2 + 3*p/2?
+8
+Misalkan 5*z - 1 = -6. Misalkan j = 2 - z. Misalkan 113 = 4*y + c, -y + 5*c - j*c = -17. Berapa digit unit dari y?
+7
+Misalkan t(c) = 8*c**3 - 5*c**2 - 20*c + 57. Berapa digit ribuan dari t(7)?
+1
+Misalkan q(m) = 20*m**2 - 37*m - 116. Berapa digit ribu dari q(-11)?
+2
+Misalkan z = -122 + -62. Misalkan p = 467 + z. Berapa digit ribuan dari p?
+8
+Misalkan 5*f = -2*h + 787 + 47, -3*h + 2*f + 1270 = 0. Berapa digit unit dari h?
+2
+Misalkan n(p) = -p - 1. Misalkan w = -7 + 8. Misalkan o be n(w). Berapa digit unit dari 0 - (o - -1)*10?
+0
+Misalkan -53290 = 65*c - 304125. Berapa digit ratusan dari c?
+8
+Misalkan -2 = -4*v + 2*v. Misalkan -d = -0 - v, -3*a - 4*d + 259 = 0. Misalkan 2*u + a = 7*u. Berapa digit ribuan dari u?
+1
+Misalkan -5*o = -3*b - 13, 0 = 2*b - 4*o + 5*o. Berapa digit ribuan dari ((-42)/(-5) - 2)/(b/(-5))?
+3
+Misalkan s be 14/(-49) + (-1143)/(-7). Misalkan 0*p - p - 1 = 0, -2*b + 17 = -p. Misalkan -b = 4*n, -s - 3 = -5*h - 2*n. Berapa digit unit dari h?
+4
+Misalkan p = 38 - 36. Misalkan -p*t - 4*c = 3*t - 336, 0 = 4*t - 4*c - 276. Berapa digit unit dari t?
+8
+Misalkan -i = -4*d + 2807, -3*i + 3305 = 3*d + 1196. Berapa digit unit dari d?
+2
+Misalkan q = 764 - 1140. Misalkan 2*d = -2*y - 90, -y - 17 - 24 = -3*d. Berapa digit ribuan dari 8/y - q/11?
+3
+Misalkan y(t) = 2*t**2 + 8*t + 5. Misalkan s be y(6). Misalkan 3*x - s - 1 = 0. Misalkan -x + 3 = -v. Berapa digit ribuan dari v?
+3
+Misalkan z(o) = o**3 + 8*o**2 - 14*o - 5. Misalkan f be z(-9). Berapa digit ribuan dari (-66)/(-5)*f/12?
+4
+Misalkan -b + 7*f = 4*f + 26, 2*b = 5*f - 48. Berapa digit ribuan dari ((-12)/b)/(-4 - 423/(-105))?
+3
+Misalkan -114*f + 118*f - 344 = 0. Berapa digit unit dari f?
+6
+Berapa digit unit dari ((-15)/18)/((-1)/(-26))*-12?
+0

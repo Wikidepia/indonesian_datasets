@@ -1,0 +1,666 @@
+Misalkan h = 15251 - 8490. Apakah h prima?
+True
+Misalkan u be (-1)/2*(19 + -29). Misalkan -7*m + 70 = -u*m. Misalkan -32*n + m*n = 4629. Apakah n bilangan prima?
+True
+Misalkan d = -879 - -882. Misalkan 5*s = -0*s. Misalkan -d*g + 0*g + 294 = -3*u, s = -2*g + 3*u + 197. Apakah g prima?
+True
+Misalkan 0 = -141*t + 145*t - 4. Apakah 0/2 - (-19810 - t) prima?
+False
+Misalkan -4*c + 0*c + 110 = d, 3*c - 76 = -4*d. Misalkan -c*a - 3489 = -145645. Apakah a komposit?
+False
+Misalkan j(n) = 8*n**2 + 4*n - 1. Misalkan b be j(1). Misalkan -11*a = b*a - 221342. Apakah a komposit?
+False
+Misalkan g = 75 - 71. Misalkan g*n - 1617 = -109. Apakah n bilangan komposit?
+True
+Misalkan w = -712099 - -1427072. Apakah w bilangan prima?
+False
+Misalkan m(q) = -3*q**2 + 0*q**2 - 12 + 3 + 0*q**2 - 25*q. Misalkan r be m(-15). Misalkan u = -108 - r. Apakah u bilangan komposit?
+True
+Misalkan f(h) = 17*h**2 - 36*h + 107. Misalkan x(m) = 25*m**2 - 54*m + 160. Misalkan r(a) = 8*f(a) - 5*x(a). Apakah r(9) bilangan prima?
+False
+Misalkan -4*r - 68*x = -69*x - 369440, 92343 = r + 4*x. Apakah r prima?
+False
+Misalkan p(f) = -2*f - 9. Misalkan x be p(-7). Misalkan 0*h - 2450 = -x*h. Misalkan 41 + h = 3*l. Apakah l bilangan komposit?
+True
+Misalkan n be (4 + (-44)/8)/(9/2388). Misalkan s = 264 + n. Misalkan p = s + 357. Apakah p bilangan komposit?
+False
+Misalkan d(z) = -z**2 - 6*z - 1. Misalkan y be d(-4). Apakah (13074 - 1)/(y/7) bilangan prima?
+False
+Misalkan 50*x - 87*x = -1073. Misalkan y(n) = 25*n**2 - n + 1. Misalkan p be y(1). Misalkan -732 = -x*g + p*g. Apakah g komposit?
+True
+Misalkan -108*z + 3*u - 1805677 = -113*z, 4*u - 361115 = -z. Apakah z bilangan komposit?
+True
+Misalkan a(s) = -s**3 - 8*s**2 - 2*s - 13. Misalkan i be a(-8). Misalkan 0 = i*w + 74 - 2252. Misalkan k = -57 + w. Apakah k bilangan prima?
+False
+Misalkan w = 133 - 130. Misalkan w*t = 2527 + 800. Apakah t komposit?
+False
+Misalkan j be (16/24)/((-4)/(-30)). Misalkan j*d - d = -40. Apakah 6/d - 98/(-5) bilangan komposit?
+False
+Misalkan 4*q - 9*q - 230 = 0. Misalkan v = 44 + q. Apakah 26/(5/(-355)*v) prima?
+False
+Misalkan -2*m + 2624859 = 5*k, 270*k - 5*m = 268*k + 1049903. Apakah k komposit?
+False
+Misalkan 2*u - g = -699, -3*g = 8 + 1. Misalkan x = -160 - u. Apakah x bilangan komposit?
+False
+Misalkan 4*i - 5*p - 30 = 0, 10 + 16 = 4*i - 3*p. Misalkan s(a) = -29*a + 2 - 3 - 1 + i. Apakah s(-8) bilangan komposit?
+True
+Misalkan j(h) = h**3 - h**2 - 2*h + 2. Misalkan b be j(2). Misalkan l + 39 = b*n, -n + 3*l = -16 - 11. Misalkan x = n - -427. Apakah x bilangan komposit?
+True
+Misalkan q(i) = 37*i - 229. Misalkan u be q(6). Misalkan c(p) = -13*p**3 - 11*p**2 - 13*p - 22. Apakah c(u) bilangan komposit?
+False
+Misalkan a = -5519 - -10178. Misalkan a = 14*y - 3559. Apakah y bilangan prima?
+True
+Misalkan 1060 - 10780 = -10*m. Misalkan c = m - -5405. Apakah c komposit?
+True
+Misalkan t(v) = -v. Misalkan m(l) = -41*l - 9. Misalkan i(c) = m(c) - 3*t(c). Misalkan 19*n = -3*z + 16*n - 42, 2*z - n = -25. Apakah i(z) bilangan komposit?
+True
+Misalkan -3*i + 5*a = -0*a - 207087, 0 = 4*i + 2*a - 276090. Misalkan 23*k + i = 260545. Apakah k bilangan komposit?
+True
+Misalkan -1960 = 5*s + 1460. Misalkan h(z) = -1267*z**3 + 2*z**2 + z - 3. Misalkan l be h(1). Misalkan f = s - l. Apakah f bilangan prima?
+False
+Misalkan 0 = -5*a - 36 + 46. Misalkan -1469 = -5*u + m, -u + 3*m - 574 = -3*u. Misalkan -a*w + u = -w. Apakah w komposit?
+False
+Misalkan l (f) menjadi turunan ke-kedua dari -305*f**3/6 + 11*f**2/2 + 600*f. Misalkan -11 = 3*x + 7. Apakah l(x) bilangan prima?
+False
+Misalkan m(i) = 24 - 1861*i. Misalkan l(s) = 1861*s - 23. Misalkan u(t) = -6*l(t) - 5*m(t). Misalkan v be u(-10). Misalkan -11*y - 3789 + v = 0. Apakah y prima?
+False
+Misalkan t (u) menjadi turunan ke-ketiga dari -u**6/120 - u**5/10 + u**4/24 + u**3 + 9*u**2. Misalkan g be t(-4). Apakah (-1554)/4*(-5)/g*-4 prima?
+False
+Misalkan -3*p = -p - 4*u - 805158, -4*u + 1610328 = 4*p. Apakah p bilangan prima?
+True
+Misalkan w(j) = 303*j + 97. Misalkan d be w(5). Misalkan l = -47 + d. Apakah l prima?
+False
+Misalkan 2*k - 23*k = 147. Apakah (-5)/((-35)/k) - -2684 prima?
+True
+Misalkan l = 53 + -52. Misalkan v be 1709/6 - l/(-24)*4. Misalkan 5*x = -2*g + 100, 3*g + 2*g - v = 5*x. Apakah g komposit?
+True
+Misalkan q = 704 - 705. Apakah 8/(-1 + q) + 12783 + 0 komposit?
+True
+Misalkan f(w) = w**3 - 46*w**2 + 27*w - 68. Misalkan v be f(38). Apakah (v/4)/(3/(-6)) prima?
+True
+Misalkan -88*x + 47307 = -1333325. Apakah x prima?
+False
+Misalkan 184*d - 946846 = 146*d. Apakah d bilangan prima?
+True
+Misalkan 2*i - 8 = -5*m, -16*i + m = -15*i - 4. Misalkan -2*u + 2126 = 2*y - 1826, u - 1985 = -i*y. Apakah u bilangan komposit?
+False
+Misalkan v(z) = 37*z**3 + z**2 - 12*z - 19. Misalkan a(g) = -36*g**3 - g**2 + 12*g + 21. Misalkan i(d) = -6*a(d) - 7*v(d). Apakah i(-5) bilangan prima?
+True
+Misalkan p be (7/3)/(20/60). Misalkan r(i) = -7*i - 2 + 6*i**2 + p*i**2 - i**3 - 13 - i**2. Apakah r(6) prima?
+False
+Misalkan -33*q - 62 = -35*q. Misalkan o = 47 - q. Misalkan -20*g + o*g + 1228 = 0. Apakah g prima?
+True
+Misalkan s be 334/22 - (-28)/(-154). Misalkan 15923 + 19342 = s*z. Apakah z bilangan prima?
+True
+Misalkan 3*k = -x - 4, -7*x - 2*k = -4*x - 2. Misalkan a be -3 - (x/(-3))/((-2)/(-21)). Apakah ((3 - 3) + a)*(-153)/(-12) bilangan prima?
+False
+Misalkan c = 9600 + -6222. Misalkan s = c + -1429. Apakah s bilangan prima?
+True
+Misalkan k be (2/(-10)*16)/(36/(-1890)). Apakah (-1)/4 + 187698/k komposit?
+False
+Misalkan -25*s + 4902581 = -2107644. Apakah s bilangan komposit?
+False
+Misalkan 0 = -v + 1 + 20. Misalkan t = -17 + v. Misalkan 762 = 2*i + t*i. Apakah i prima?
+True
+Misalkan k = -165 + 228. Misalkan w = 196 - k. Apakah w prima?
+False
+Misalkan s = 49271 - 25230. Apakah s bilangan prima?
+False
+Misalkan -4*f = i - 25005, -10*f - 100034 = -4*i - 12*f. Misalkan v = i + -8046. Apakah v bilangan prima?
+True
+Misalkan -2*q = 3*n + 28, 8*q = n + 3*q - 2. Apakah 760 + (-6 - (n - -5)) bilangan prima?
+True
+Misalkan q(x) = x**3 - 2*x**2 - x - 2. Misalkan p be q(2). Misalkan v = 2215 + -2217. Apakah 2/((p/148*v)/2) bilangan prima?
+False
+Misalkan -d - d + 10 = 0. Misalkan -3*t + 3*x + 2610 = 0, 0 = 4*t + 4*x - 0*x - 3488. Misalkan t + 184 = d*h. Apakah h prima?
+True
+Misalkan h(n) = -n**3 + 7*n**2 - 13*n + 4. Misalkan o be h(4). Misalkan o = -3*z - 2*z + 3385. Apakah z komposit?
+False
+Misalkan -4*m - 5455 + 198049 = -82458. Apakah m bilangan komposit?
+True
+Misalkan c (a) menjadi turunan ke-pertama dari 3*a**2/2 + 76*a + 14. Misalkan d be c(0). Misalkan -5*g = -15, 2*w - 108 - d = -2*g. Apakah w komposit?
+False
+Misalkan r(u) = -u**3 + 6*u + 139649. Apakah r(0) prima?
+False
+Misalkan 176 - 1622 = -3*j. Misalkan f(p) = p**3 + 6*p**2 + 4*p - 2. Misalkan m be f(-5). Misalkan m*s - j = 1891. Apakah s bilangan komposit?
+True
+Misalkan q(s) = 5*s**3 - 110*s**2 - 83*s + 43. Apakah q(26) bilangan komposit?
+True
+Misalkan -y - 18 = -20. Misalkan y*u - 3*d = 41, 0*u = 3*u - 2*d - 59. Misalkan 0 = u*o - 17*o - 1174. Apakah o bilangan prima?
+True
+Misalkan d(h) = 7228*h - 1175. Apakah d(6) prima?
+True
+Misalkan 5*p = -5*l + 20, 4*l + 3*p - 11 = 9. Misalkan 4*h = -3*i + l*i - 36985, i - 7418 = 5*h. Apakah i bilangan prima?
+True
+Misalkan u(f) = f. Misalkan o(s) = 353*s**2 + 23*s + 15. Misalkan l(h) = o(h) - 2*u(h). Apakah l(-5) bilangan komposit?
+True
+Misalkan 5*z + f - 1580 = 0, -z = -f - 4*f - 342. Misalkan -3*w - 3*q = -1908, -w - 4*q = -304 - z. Apakah w prima?
+True
+Misalkan b = 217169 - 110742. Apakah b bilangan komposit?
+False
+Misalkan u(r) = 143*r + 13. Misalkan g = 287 - 285. Apakah u(g) komposit?
+True
+Misalkan a(p) = 54*p - 38. Misalkan 22*d = 24*d - 32. Misalkan r be a(d). Misalkan y = -419 + r. Apakah y bilangan komposit?
+True
+Misalkan p(i) = 393*i - 7972. Apakah p(101) komposit?
+False
+Apakah (-4)/(-44) + 9 + (-30973623)/(-11) prima?
+True
+Apakah (987028/(-20))/(29/(-145)) bilangan komposit?
+True
+Apakah 101/404 - 283926/(-8) prima?
+True
+Misalkan k be (-9)/12 + 58420/(-16) + -2. Misalkan u = 7589 + k. Misalkan -p = -6*p + u. Apakah p bilangan komposit?
+False
+Misalkan 2*c + 3*g - 71938 = 62129, -2*g + 6 = 0. Apakah c prima?
+False
+Misalkan o (r) menjadi turunan ke-kedua dari 35*r**3/2 - 17*r**2/2 - 5*r. Misalkan 2*u - 2*c = 2, -4*u - 5*c = -7 - 42. Apakah o(u) prima?
+True
+Misalkan -31 = -3*r + 2*h + 2*h, r + 5*h = -15. Misalkan r*f - 4*m = 2723, 4*f - 1078 = 2*f - 4*m. Apakah f komposit?
+True
+Misalkan -35*x - 27*x + 993883 = -51*x. Apakah x bilangan komposit?
+False
+Misalkan t = 15 + -29. Misalkan k = t - -14. Misalkan p - 345 = -0*n - 4*n, p + 2*n - 343 = k. Apakah p komposit?
+True
+Misalkan x(a) = -106734*a - 989. Apakah x(-2) komposit?
+False
+Misalkan 4*h - 4*g - 3 = h, -8 = -h - g. Misalkan l - 3*l - 2*m + 6024 = 0, l + h*m - 3016 = 0. Apakah l bilangan komposit?
+False
+Misalkan w(p) = 13 - 14 - p - 16 - p. Misalkan s be w(6). Misalkan q = 702 + s. Apakah q bilangan prima?
+True
+Apakah 9 + 2 + 66887 - -13 prima?
+False
+Misalkan o = 21429 - -169952. Apakah o bilangan komposit?
+True
+Misalkan 3*t = 6*o - 2*o + 42, -t = -3*o - 19. Misalkan 84486 = t*u + 8276. Apakah u komposit?
+False
+Misalkan l(d) = 7*d**2 + 12*d + 43. Misalkan p be l(-5). Misalkan a = 28 - 23. Misalkan r = a + p. Apakah r komposit?
+False
+Misalkan 17*n - 112 = -11*n. Misalkan 40*m - 44*m = 4, n*c + 4*m - 9640 = 0. Apakah c komposit?
+False
+Misalkan -4*h - 12 = -7*h. Misalkan 2*i - m - 676 = 71, -m + 1479 = h*i. Apakah (-1 + 3/2)*(i + 11) komposit?
+False
+Misalkan h = -234322 - -1411709. Apakah h komposit?
+False
+Misalkan i(j) = 2170*j**2 - j - 2. Misalkan z be i(2). Misalkan m - 4913 - z = -2*l, 27181 = 2*m + l. Apakah m bilangan komposit?
+False
+Misalkan 2*k + 1769 = 3*k. Misalkan 821 + k = 5*f. Misalkan 461 = z - f. Apakah z komposit?
+True
+Misalkan f(x) = -97*x**2 - 32*x + 4. Misalkan h(u) = -96*u**2 - 33*u + 3. Misalkan n(v) = 5*f(v) - 6*h(v). Apakah n(6) komposit?
+True
+Misalkan n = -183 - -183. Misalkan u (v) menjadi turunan ke-pertama dari v**3/3 + 3*v**2/2 + 91*v + 5. Apakah u(n) komposit?
+True
+Misalkan -5*a + 1712 = -3*w, a = 3*w - 2*a + 1722. Misalkan s = 140 - w. Apakah s prima?
+True
+Misalkan c(f) = 3 + 531*f + 8*f**2 + 537*f - 1067*f - f**3. Misalkan 4*d = -2 - 22. Apakah c(d) prima?
+False
+Misalkan h = -121442 + 322333. Apakah h bilangan prima?
+True
+Misalkan q(b) = 63*b**2 + 12*b**3 + 63*b**2 + 71*b**2 + 10 - 204*b**2 + 2*b. Misalkan g = -0*g - 4, 4*u + 5*g = 0. Apakah q(u) bilangan prima?
+False
+Misalkan n - 10*n = -22*n + 798902. Apakah n bilangan prima?
+False
+Apakah 82016 - (-1)/(-6 + 88/12 - 1) prima?
+False
+Misalkan n(a) = -222*a. Misalkan h be n(-5). Misalkan t = -363 + h. Misalkan r = t - 114. Apakah r komposit?
+True
+Misalkan b be (806/(-93))/26 - (94/6 - 0). Misalkan f(p) = 0*p**3 - 25 + 8*p - 7*p**2 - p**3 - 7*p**2. Apakah f(b) prima?
+True
+Misalkan 9 = 12*s - 663. Misalkan 0 = s*u - 58*u + 6274. Apakah u bilangan prima?
+True
+Misalkan c(z) = 409*z + 208121. Apakah c(0) prima?
+True
+Misalkan j be -7 + 16/4 + 253. Misalkan q = 381 - j. Apakah q bilangan prima?
+True
+Misalkan -3*z + 1 = 4, 0 = 3*n + 2*z - 34. Apakah (1 + n/(-8))*(-66856)/4 prima?
+False
+Misalkan 2726 = 6*f - 15088. Misalkan z = f + -1085. Misalkan 11*y - 5*y - z = 0. Apakah y prima?
+False
+Misalkan 0 = 2*n - 4*n + 6. Misalkan -128*h + 86 = -42. Apakah (-1 + -421)/(h - n) bilangan komposit?
+False
+Misalkan 2*x - 4193 = 4675. Misalkan 0*h - 2*h + 4449 = l, -2*h + x = -4*l. Misalkan -12 = 4*a - 0*a, -3*y + h = 4*a. Apakah y komposit?
+True
+Misalkan w = -110 + 113. Apakah w/15 + ((-5214)/(-5) - 1) prima?
+False
+Misalkan b = -179 - -184. Misalkan 7718 = b*z - 4092. Apakah z bilangan prima?
+False
+Misalkan d be (6 + (-5828)/16)*-40. Misalkan f = d + -3411. Apakah f bilangan prima?
+False
+Misalkan -12 - 13 = 5*d. Misalkan a(k) = -6*k - 16. Misalkan h be a(d). Apakah 10994/h + 38/14 + -3 bilangan prima?
+False
+Apakah (-25578224)/(-3100) - (-2)/(-50) komposit?
+True
+Misalkan y = -129 - -125. Apakah (y/(-8))/((-2)/(-37844)) bilangan komposit?
+False
+Misalkan -18*x - 44049 - 415520 = -29*x. Apakah x bilangan komposit?
+True
+Misalkan j(t) = 115*t - 2335*t - 330*t + 1021*t - 4989*t + 19. Apakah j(-1) bilangan prima?
+False
+Misalkan -851*t + 3*w = -850*t - 285752, -5*t = -4*w - 1428749. Apakah t bilangan prima?
+True
+Misalkan o = -161 - -167. Misalkan 0 = -o*r + 4392 + 17418. Apakah r prima?
+False
+Misalkan i = -60 + 60. Misalkan 2*p = -d + 11 - 1, i = -4*d - 2*p + 16. Apakah 0 - (-3845)/(3 + d) komposit?
+False
+Misalkan c(v) = 22 + 30 - 15*v + 40. Apakah c(-18) bilangan komposit?
+True
+Misalkan j = -58 + 63. Misalkan -2*i + 2702 = -j*u - 0*u, u = 4. Apakah i prima?
+True
+Misalkan 32*h - 2696344 = -24*h. Apakah h bilangan prima?
+False
+Misalkan -210457 = -3*p + 2*h, 3*h - 5 = 4*h. Misalkan p = 5*x + 4*j, -33*x = -28*x + 2*j - 70147. Apakah x prima?
+True
+Misalkan 29*z + 15 = 26*z. Misalkan v(g) = -5*g**2 + 9 - 7*g**2 + 0*g**2 - 31*g**3 + 9*g**2 + 18*g. Apakah v(z) prima?
+True
+Misalkan a be (918/(-72))/(1 - 10471/10468). Misalkan 0 = 41*u - a - 117174. Apakah u bilangan komposit?
+False
+Misalkan 0 = -v + 4*h, -3*h + 54 = -4*v + 2. Misalkan u(x) = 115 - 418*x. Apakah u(v) bilangan komposit?
+False
+Misalkan v = -25302 + 46594. Misalkan -74*j = -70*j - v. Apakah j prima?
+True
+Misalkan z(g) = g**3 + 12*g**2 - 30*g - 23. Misalkan n be z(-14). Misalkan -23*p + 20*p + 36593 = n*s, -5*p = -2*s + 14662. Apakah s prima?
+True
+Misalkan 30 = 6*x - 0*x. Misalkan -20 = 5*i, 3*b - x*i + 23784 = 66197. Apakah b prima?
+False
+Misalkan o(b) = 1315 - 578*b. Apakah o(-12) prima?
+False
+Misalkan g(w) = -w**2 - 19*w + 2. Misalkan n be g(-19). Misalkan -n*s - 184 + 966 = i, 5*s - 1955 = -i. Apakah s bilangan prima?
+False
+Misalkan 26*t = 165*t - 11281379. Apakah t bilangan prima?
+False
+Apakah (-45)/(-189)*-7*(-1 + -81632) bilangan komposit?
+True
+Misalkan i(x) = -62*x + 74*x - 11 + 5*x**2 - x**2 + 9*x**3. Apakah i(6) bilangan prima?
+False
+Misalkan -c = -4*h + 7 - 8, -4*h - 16 = 4*c. Apakah ((-1)/(-2))/(h + (-19797)/(-19794)) komposit?
+False
+Misalkan 0 = 8*s + 32806 - 8110. Misalkan b = 8966 + s. Apakah b bilangan prima?
+True
+Misalkan b(h) = 33*h**2 + 90*h - 345. Apakah b(4) prima?
+False
+Misalkan p(x) = x**3 - 47*x**2 + 9*x + 47. Apakah p(64) bilangan komposit?
+True
+Misalkan j = 18990 - -15737. Misalkan r = j - 1246. Apakah r prima?
+False
+Misalkan f(b) = 10373*b + 1341. Apakah f(10) komposit?
+False
+Misalkan x + 3*z = 7*z + 3178, x - 3154 = -4*z. Misalkan 3*r - x = -2*r + q, -r - q + 632 = 0. Apakah r prima?
+False
+Misalkan k = 35 - 35. Misalkan 9*c - c = k. Misalkan c = -5*r + 3*m + 2579, 2*r + m = -r + 1553. Apakah r prima?
+False
+Misalkan z(l) = -l**3 - 10*l**2 - 23*l + 6. Misalkan d be z(-6). Misalkan o = 969 + 1436. Misalkan d = -9*h + 988 + o. Apakah h prima?
+False
+Misalkan v(u) = 3018*u**2 + 75*u - 242. Apakah v(-7) prima?
+False
+Misalkan p(k) = 4*k - 3. Misalkan y be p(0). Apakah (20/12)/(y/(-2853)) komposit?
+True
+Misalkan 6*t = 13*t - 28. Misalkan 928 = t*h - 580. Apakah h prima?
+False
+Apakah 1/3 + 79208816/1398 prima?
+True
+Misalkan -3915 = -2*s - 5*m, 0*s - 5*m - 7755 = -4*s. Misalkan d = 3308 - s. Apakah d komposit?
+True
+Misalkan 5*l - 11723 = -8*z + 4*z, -l = 5. Misalkan -u = -z + 438. Misalkan i = u - 166. Apakah i bilangan komposit?
+False
+Misalkan t = -98 - -1213. Apakah t prima?
+False
+Misalkan s = 2637 + 2214. Misalkan -5*g + 2*q + 12075 = 0, -g - g + s = -5*q. Apakah g prima?
+False
+Misalkan p = 2964 - 675. Misalkan x = 3230 - p. Apakah x bilangan prima?
+True
+Misalkan a be (390/(-105))/13 + 4722/14. Misalkan -324*k - 2613 = -a*k. Apakah k bilangan komposit?
+True
+Misalkan y(g) = 316*g**2 + 29*g - 240. Misalkan u be y(7). Misalkan i = -4808 + u. Apakah i bilangan komposit?
+False
+Misalkan -44 = -47*j + 43*j. Misalkan -j + 31 = u - 4*c, 4*u - c - 20 = 0. Misalkan -y = 2*z - z - 2999, -u*y = 2*z - 11988. Apakah y bilangan prima?
+False
+Misalkan -217*q = -298*q + 26765559. Apakah q komposit?
+False
+Misalkan -2*d = 5*n - 112, 8*n = 3*n + 10. Misalkan x(u) = 221 - 221*u. Misalkan k(p) = 22 - 22*p. Misalkan h(q) = d*k(q) - 5*x(q). Apakah h(-4) prima?
+False
+Misalkan t = -204618 - -292505. Apakah t bilangan komposit?
+False
+Misalkan 1 = -3*s - 2. Misalkan -36 = -5*r + l - 16, 5*l = 3*r - 12. Apakah (3 + -4 + s)/(r/(-2722)) bilangan komposit?
+False
+Misalkan -562147 = -5*n + 2*z, z = -26*n + 28*n - 224859. Apakah n komposit?
+False
+Misalkan m = -9 + 9. Misalkan 0 = u - 4 - m. Misalkan -5*a - u*h = -3375, 5*a - 1368 = 3*a + 2*h. Apakah a bilangan prima?
+False
+Misalkan k = 18292 + 5258. Misalkan a = k + -16391. Apakah a bilangan prima?
+True
+Misalkan -5*d - 6*d = -22. Misalkan f(a) = 17 - 7*a - d*a**2 + 13*a + 0*a**2 - 3*a**2 + a**3. Apakah f(8) bilangan komposit?
+False
+Apakah (1 - (11 - 12))*112821/6 prima?
+True
+Misalkan h be ((-2)/6)/(5/(-645)). Misalkan i = 54 - h. Misalkan i*k - 13*k = -1382. Apakah k prima?
+True
+Misalkan m(y) = 2*y**3 + 97*y**2 + 207*y - 25. Apakah m(-38) komposit?
+False
+Misalkan -165366 = -42*n + 24*n. Misalkan 14*s = -5*k + 10*s + n, 0 = -4*k - 3*s + 7349. Apakah k bilangan komposit?
+True
+Misalkan y be 32517/((-2 - 2)/(-4)). Misalkan -9*c + y = -1368. Misalkan 6*d = 3*d + c. Apakah d komposit?
+True
+Apakah 617912/4 + 6 + 15/5 bilangan komposit?
+False
+Misalkan -34 = 5*i - 3*y + 3, -i + y - 9 = 0. Misalkan r be (-733)/i*1 + (-2)/(-5). Misalkan -3*m - 304 = -2*p, p + m - r = -0*m. Apakah p bilangan prima?
+True
+Misalkan q = -658395 + 1211264. Apakah q bilangan prima?
+False
+Misalkan t(g) = 3*g**2 - 3*g - 4. Misalkan a be t(4). Misalkan n = -7516 - -7507. Misalkan q = n + a. Apakah q prima?
+True
+Misalkan 8*a - 30993 = 7*a. Misalkan c = -18502 + a. Misalkan c = 3*t - 1582. Apakah t bilangan prima?
+True
+Misalkan l(s) = s**3 + 7*s**2 - 8*s + 3. Misalkan j be l(-8). Misalkan 2*m + 21 - 7 = 2*z, m = -4*z + j. Misalkan 174 - 3728 = -z*d. Apakah d prima?
+True
+Apakah (-35)/(-42) + 22236085/102 - (-4)/3 komposit?
+False
+Misalkan b = -1318921 + 2194080. Apakah b bilangan prima?
+False
+Apakah (51/8 - 6)*-8 + 49562 prima?
+True
+Misalkan -5*j - 1 = 3*q - 56, 65 = 5*j + 5*q. Misalkan 2237 = j*u - 3915. Apakah u bilangan komposit?
+False
+Misalkan -5*j - 2*o = -43, -4*j + 41 = 4*o - 9*o. Misalkan r = 1035 + -1035. Misalkan j*c - 6*c - 1011 = r. Apakah c prima?
+True
+Misalkan -3*u + 3*t + 12 = 0, t - 6 = -2*t. Misalkan -15*d + 684 = -u*d. Misalkan 7*f = 9*f - d. Apakah f bilangan komposit?
+True
+Misalkan 2*d - 8 + 4 = 3*s, 0 = 2*d - 4. Misalkan s = 7*t - 13*t + 12. Misalkan t*f + 3*b = -3*f + 5843, -b = 4. Apakah f prima?
+True
+Misalkan u = -50 - -51. Misalkan v be u - (1 + -4)*1. Misalkan v*i - 602 = -c + 3341, 0 = -2*c + 6. Apakah i prima?
+False
+Misalkan x - 392 = -4*y, x + 4*y + 368 = 2*x. Misalkan t = x - -3967. Misalkan z = 6286 - t. Apakah z bilangan prima?
+False
+Misalkan x(t) = 2179*t**2 + 503*t + 8605. Apakah x(-18) komposit?
+True
+Misalkan -6*h + 22 = -14. Misalkan 5*b - h = -1, 5*b + 25 = 5*v. Apakah (-22046)/(-12) - 1/v bilangan komposit?
+True
+Misalkan 2*i - p = 4, 0*i - i = 2*p - 2. Misalkan 2*l + 25 = 5*f, 5*l + 5*f + i + 8 = 0. Apakah 691*((l - -1) + 5) bilangan komposit?
+False
+Misalkan z = 364745 - 181284. Apakah z prima?
+True
+Misalkan -4*z = 150 - 402. Misalkan a be 2/9 + 4 + (-77)/z. Misalkan 0*r = a*r - 255. Apakah r prima?
+False
+Misalkan r = -159 - -152. Misalkan a(x) = -30*x**3 - 5*x**2 - 12*x + 4. Apakah a(r) bilangan komposit?
+False
+Misalkan w(d) = -66881*d - 95. Misalkan n(u) = -16721*u - 24. Misalkan k(f) = -9*n(f) + 2*w(f). Apakah k(1) bilangan prima?
+False
+Misalkan g(t) = -2*t**3 - 2*t**2 + t - 1. Misalkan m be g(-2). Misalkan 36*a + 29708 = 43*a. Misalkan m*f - a = f. Apakah f bilangan komposit?
+False
+Misalkan w(n) = 977*n**2 + 10*n - 32. Misalkan l(o) = 179 - 22*o. Misalkan x be l(8). Apakah w(x) bilangan komposit?
+True
+Apakah (-3 - -180221 - 4)/(8 - 6) prima?
+True
+Misalkan m(c) = 851*c**2 + 28*c + 106. Apakah m(-25) prima?
+True
+Misalkan -6*b - 25 = -49. Apakah 12812/(b - 2)*1/2 bilangan komposit?
+False
+Misalkan 0 = -4*d + 12, b - 9 + 6 = -d. Misalkan -27*h + 31077 = -b*h. Apakah h prima?
+True
+Misalkan 3*l + k - 14 = -4*k, 2 = -3*l - k. Misalkan s = 319 + -313. Apakah l*((-13839)/s)/7 bilangan prima?
+True
+Misalkan f(x) = 65*x**2 - 59*x + 15. Misalkan c be f(-27). Misalkan -72*m = -75*m + c. Apakah m bilangan komposit?
+True
+Misalkan 0 = 763*u - 769*u + 238818. Apakah u bilangan komposit?
+True
+Misalkan -85*b + 9*b = -427956. Apakah b komposit?
+True
+Misalkan 4 = -g, -i = i + 3*g - 4. Misalkan i*f - 1564 = 33308. Apakah f bilangan prima?
+False
+Misalkan o(k) = 118516*k - 139. Apakah o(3) komposit?
+True
+Misalkan 366*o - 330*o - 586836 = 0. Apakah o bilangan prima?
+True
+Misalkan 55*v + 34294721 = 369*v - 196480521. Apakah v bilangan prima?
+True
+Misalkan j = 344203 - 218522. Apakah j bilangan prima?
+False
+Misalkan f be 2/3 - (-3)/(45/1880). Misalkan -76*d + 73*d + f = 0. Misalkan h = d - -13. Apakah h prima?
+False
+Misalkan 0 = -4*u - 4*w + 428544, -2*u + 19*w + 214270 = 23*w. Apakah u bilangan prima?
+True
+Misalkan 5*p - 40 = -4*m, 0 = 3*p - 5*p + 3*m - 7. Misalkan -2*b - 4*q - 530 = 0, b = p*b + 5*q + 790. Apakah b/(-2)*(-6)/(-9) prima?
+False
+Misalkan f be ((-2)/(-2) - 1)/(-8 + 11). Misalkan f = 3*d + 1 - 7. Misalkan -d*c + 1316 = -30. Apakah c bilangan prima?
+True
+Misalkan 52 - 72 = -5*d. Apakah ((-6)/d)/(3/(-5706)*9) bilangan prima?
+True
+Misalkan l(m) = 491*m + 100. Misalkan d be l(7). Misalkan y = 8398 - d. Apakah y bilangan komposit?
+False
+Misalkan q(y) = -233*y - 3. Misalkan l(f) = 233*f + 2. Misalkan o(p) = -2*l(p) - 3*q(p). Misalkan d be (7/14)/((-1)/(-4)). Apakah o(d) komposit?
+True
+Misalkan a(c) = 28*c**2 - 16*c - 2. Misalkan y be a(-10). Misalkan x = 3395 + y. Apakah x prima?
+True
+Misalkan r = -825 + -110. Misalkan d = -1628 - -3248. Misalkan g = d + r. Apakah g bilangan komposit?
+True
+Misalkan 11*m + 28 = 4*m. Apakah 10/m*(1 + (-64828)/20) komposit?
+False
+Misalkan -10*t - 3 + 123 = 0. Misalkan d be 20/t + (-4)/(-6)*-1. Misalkan -3*b - i = -0*b - 5155, i - d = 0. Apakah b komposit?
+True
+Misalkan -4*h + 150882 = 2*v - 526392, v + 4*h - 338641 = 0. Apakah v komposit?
+True
+Misalkan i = 42363 + 27004. Apakah i komposit?
+True
+Misalkan 91*k = 17*k - 61*k + 68413545. Apakah k bilangan prima?
+False
+Misalkan h(x) = -30*x - 6. Misalkan m be h(-1). Misalkan -8*g = -16 - m. Misalkan g*w + 16 + 9 = 0, -r + 1236 = 5*w. Apakah r prima?
+False
+Misalkan -2*n - 868 = d - 3225, -d + 3 = 0. Misalkan 0 = y + 4*i - n, -5*i - 5985 = -5*y - 0*i. Misalkan y = -5*w + 3228. Apakah w komposit?
+True
+Misalkan f(h) = 20766*h**2 + 141*h + 420. Apakah f(-3) komposit?
+True
+Misalkan f = -7006 + 4540. Misalkan q = -374 - -4133. Misalkan m = f + q. Apakah m prima?
+False
+Misalkan s(j) = -1924*j - 1117. Apakah s(-12) bilangan prima?
+False
+Misalkan -5*u - 3*j - 119105 = j, -10 = 2*j. Apakah u/(-1) + 396/(-66) prima?
+False
+Apakah 1/(((-1)/(3/(-2)))/(2156808/36)) bilangan prima?
+True
+Misalkan -5*w + 6*w - 5950 = -5*x, 3*w = -5*x + 5940. Misalkan v = 443 + -161. Misalkan i = v + x. Apakah i bilangan komposit?
+True
+Misalkan f(t) = -3*t - 14. Misalkan q be f(5). Misalkan d = -29 - q. Apakah d - (1 + -772*1) prima?
+False
+Misalkan 4*y = 3*f - 31, -2*y - 28 = -5*f + 5. Misalkan -5 = -b - 0*b, -2*b + 25 = f*x. Misalkan x*i - 11*i + 14536 = 0. Apakah i bilangan prima?
+False
+Misalkan o be (-26)/(-4) - (-2)/(-4). Misalkan 5*y - 61795 = -5*q, -2*y = 5*q + 10181 - 71979. Apakah ((-2)/o)/((-8)/q) komposit?
+True
+Misalkan 2*f + 2*f - 12684 = 0. Misalkan d = -4166 - -2988. Misalkan j = f + d. Apakah j bilangan komposit?
+False
+Misalkan -63*q + 1825784 + 1677583 = 0. Apakah q bilangan komposit?
+False
+Misalkan -3900 = -13*v + 14833. Misalkan 15*c = 4*c + v. Misalkan c + 3880 = 3*o. Apakah o bilangan komposit?
+True
+Misalkan -48*p + 822294 + 443343 = 261045. Apakah p bilangan komposit?
+False
+Misalkan m be (-78)/12 + 6/(-4). Misalkan p(g) = -3*g - 6. Misalkan l be p(m). Apakah (5325/l - 3) + 1/6 komposit?
+False
+Misalkan g(w) = 96 - 16*w. Misalkan n be g(6). Misalkan n = 21*m - 468772 - 128951. Apakah m bilangan prima?
+True
+Misalkan q = 900275 - 409506. Apakah q bilangan prima?
+True
+Misalkan r(j) = -8 - 8*j**2 + 5 - j**3 - 2*j + j + 0. Misalkan q be r(-8). Misalkan -3*l + q + 1214 = 4*y, -1520 = -5*y - 5*l. Apakah y prima?
+True
+Misalkan j + j - 2*u + 2 = 0, 4*j = 2*u + 4. Misalkan 5*y + 2*a - 7091 = 2*y, -j*a + 12 = 0. Apakah y komposit?
+True
+Misalkan 537 = -i - 279. Misalkan -2*o - 148 = -2*f, -312 = 5*o - f + 54. Misalkan v = o - i. Apakah v komposit?
+False
+Misalkan z(v) = 12809*v**3 - 11*v**2 - 23*v + 69. Apakah z(4) bilangan prima?
+False
+Misalkan l - 553 = -158. Misalkan 65418 = -389*g + l*g. Apakah g prima?
+True
+Misalkan g be 76/14 - 18/42. Misalkan 26 = g*m - 3*p, 3*m - 7 = p + 7. Misalkan m*f + 136 = 4*z, 2*z = -z - 4*f + 81. Apakah z bilangan prima?
+True
+Misalkan h(a) = -a**2 - 3*a + 12. Misalkan f be h(-5). Misalkan -f*g = -6*g + 116. Apakah (22 - 26) + g*7 prima?
+True
+Misalkan b(w) = 13 - 53*w. Misalkan l (t) menjadi turunan ke-pertama dari -t**3/3 - t**2/2 + 14*t - 18. Misalkan c be l(4). Apakah b(c) komposit?
+False
+Misalkan 2*o + 4 = 0, 0 = 4*f + 3*o - 14777 - 95373. Apakah f bilangan komposit?
+False
+Misalkan 0 = -2*f + 4, -3*f = 9*y - 7*y + 1942. Misalkan g = 3647 - y. Apakah g bilangan prima?
+True
+Apakah (865686/36 - 13)*6 bilangan prima?
+True
+Misalkan -4*t - 4*n + 17316 = 0, -2*t + 2*n + 6905 + 1749 = 0. Misalkan -4*w + 3*y = -t, -417 = -3*w - 4*y + 2829. Apakah w bilangan komposit?
+True
+Misalkan 4*c - 4*l = -5*l + 46, -2*c + 18 = -2*l. Misalkan 12*d = c*d + 379. Apakah d prima?
+True
+Misalkan g(v) = -61*v**3 + 10*v**2 + 8*v + 10. Misalkan w be g(-7). Misalkan 0 = 12*u - w - 1037. Misalkan -u - 10963 = -10*y. Apakah y bilangan komposit?
+False
+Misalkan q(f) = 2*f**3 - 83*f**2 + 43*f - 79. Misalkan d be q(41). Misalkan 2*k = m - 2849, -d*m + 7*k = 10*k - 8592. Apakah m bilangan komposit?
+True
+Misalkan 2*f - 5*d - 28 = 0, 5*f - 38 = -4*d - 1. Apakah ((-40)/12 - -3) + 56604/f bilangan komposit?
+True
+Misalkan v be -8 + (-791)/(-14)*2298. Misalkan 0 = -4*g + v - 50505. Apakah g bilangan prima?
+False
+Misalkan g(x) = x**2 + 5*x + 9. Misalkan z be g(-3). Misalkan 4*p + 3 = z*l + 34, 3*p - 5*l = 37. Apakah 1/p*14*94 prima?
+False
+Misalkan n be (64/160)/((-2)/(-250)). Misalkan a = 849 - n. Apakah a bilangan prima?
+False
+Misalkan x be 500/130 + 2/13. Misalkan -2*s = -x*s - 48. Apakah (-4)/s - (-3)/((-72)/(-8948)) bilangan komposit?
+False
+Misalkan q be 286/33 + -9 - (-1)/3. Misalkan q = -4*c + 4 - 0, 5*r - c - 11664 = 0. Apakah r komposit?
+False
+Misalkan p(l) = 3695 - 618*l. Apakah p(-31) bilangan komposit?
+False
+Misalkan -b = 5*s - 195742 - 11326, 5*s - 207082 = 6*b. Apakah s prima?
+False
+Misalkan t(b) = 34 - 122*b**2. Misalkan y be t(-5). Misalkan j = -1215 - y. Apakah j komposit?
+False
+Apakah 7 + (-360)/52 + (17738624/(-52))/(-8) prima?
+True
+Misalkan 119*y - 755429 = 52*y + 30*y. Apakah y bilangan prima?
+False
+Misalkan o(w) = 70*w - 412. Misalkan i be o(38). Misalkan d = -1599 + i. Apakah d prima?
+False
+Misalkan k(z) = 15*z + 3*z**2 - 2*z**2 - 5*z**3 - 3*z**3 + 23 + 11*z**2 + 2*z. Apakah k(-8) bilangan prima?
+True
+Misalkan 0 = 2*m - 4*i + 6*i - 18632, 2*i + 46545 = 5*m. Apakah m komposit?
+False
+Misalkan -5*m - 46 = -6. Misalkan n(u) = -2 - u**3 + 8*u + 63*u**2 - 71*u**2 - 14*u. Apakah n(m) komposit?
+True
+Misalkan 2*r = 4*a - 3*a - 17, 5*r - 3*a = -45. Misalkan v be (r/(-8))/((-3)/(12/(-1))). Misalkan 0 = s + v*s - 636. Apakah s komposit?
+True
+Misalkan o + 18 - 27 = 0. Misalkan x(u) = u**2 - 17*u - 34. Misalkan k be x(o). Misalkan l = 615 + k. Apakah l bilangan komposit?
+False
+Misalkan -279*d = -287*d. Misalkan 15*h - 80259 - 4326 = d. Apakah h komposit?
+False
+Misalkan 72*n - 55*n - 2125561 = 0. Apakah n bilangan komposit?
+True
+Misalkan 2*m = 2*b - 24756, 4*b - 3*m - 49507 = -0*b. Misalkan i = b + -7386. Apakah i komposit?
+False
+Misalkan 5*v = -2*a + 3564, 0*v + 8848 = 5*a - 3*v. Misalkan g = -799 + a. Misalkan 3*p + g = 4*p. Apakah p bilangan komposit?
+True
+Misalkan b(d) = 17 - d. Misalkan c(l) = 20 - l. Misalkan h be c(11). Misalkan p be b(h). Misalkan 0 = -p*k + 2*k + 3012. Apakah k bilangan prima?
+False
+Misalkan j = -26 + 28. Misalkan 0 = -2*f + 5*r + 253, -j*f - 4*r = -0*r - 244. Misalkan -f = -4*y - 0*y. Apakah y bilangan prima?
+True
+Misalkan l = 43 + -31. Misalkan -5*p + 85 + 8775 = 0. Apakah (p/(-6))/((-8)/l) bilangan prima?
+True
+Misalkan -2*u - 5*g + 753935 = 0, 4*u + 2*g - 2265936 + 758106 = 0. Apakah u bilangan komposit?
+True
+Misalkan 28028 + 20365 = 3*t - 3*x, 5*t - 80631 = -x. Apakah t bilangan komposit?
+False
+Misalkan a(l) = 6*l - 21. Misalkan k be a(5). Misalkan v be (-4)/(-12) - (-8439)/k. Misalkan v = 2*o + x, x = -x. Apakah o prima?
+False
+Misalkan 0 = -3*n + 7 - 4. Misalkan l be 3*(-1)/(n + 0)*-1. Apakah l/6 - (2665/(-2))/5 bilangan komposit?
+True
+Misalkan 39*d + 14193 + 15197 = 49*d. Apakah d prima?
+True
+Misalkan f(u) = -u**2 - 1. Misalkan h(s) = s**3 + 9*s**2 - 13*s - 24. Misalkan c(b) = -4*f(b) + h(b). Apakah c(11) prima?
+True
+Misalkan o(h) = 2*h**2 - 9*h - 9*h + 10*h**2 - 10 + 35. Apakah o(16) bilangan komposit?
+True
+Misalkan i = -97 + 91. Misalkan j be 8/i*((-51)/(-6) + -4). Apakah 890*-3*1/j prima?
+False
+Misalkan p = -24 + 27. Misalkan 10 = u + 5*f - 28, -14 = -p*u + 5*f. Misalkan u*w - 1460 = 3*w. Apakah w prima?
+False
+Misalkan -5*n = 25, 0 = 5*a + 21*n - 20*n - 486080. Apakah a bilangan komposit?
+True
+Misalkan 79*z - 56*z - 299483 = 0. Apakah z bilangan komposit?
+True
+Misalkan u = 130326 - -30233. Apakah u komposit?
+True
+Misalkan 4*y - 114*n - 802558 = -116*n, 2*n - 2 = 0. Apakah y komposit?
+False
+Misalkan c be -1 - (-4)/(-5 - -6). Misalkan c*m - 6*m + 12822 = 0. Apakah m komposit?
+True
+Misalkan g(x) = -2*x**2 - x - 1. Misalkan o = -51 + 48. Misalkan h be g(o). Apakah 4/h - (-1530)/8 bilangan prima?
+True
+Misalkan q(y) = -2557*y**3 - y**2 + 4*y - 4. Misalkan b be q(1). Misalkan a = 4195 + b. Apakah a bilangan komposit?
+False
+Misalkan u = -233 + 134. Misalkan i be (-456)/(5 - 9) - -11. Misalkan q = u + i. Apakah q komposit?
+True
+Misalkan -146 = -10*p - 226. Apakah -8 - (-12225)/(13 + p) bilangan komposit?
+False
+Misalkan 1149 = -3*j + 111. Misalkan -4*x - 569 = -5*x. Misalkan g = x + j. Apakah g komposit?
+False
+Misalkan k be (25/(-2))/(-5)*(-4)/(-5). Misalkan 0 = k*t - 12 - 30. Misalkan a(h) = 10*h**2 - 38*h - 9. Apakah a(t) bilangan komposit?
+True
+Misalkan s be (-3 + -18744)*((-72)/(-27) + -4). Misalkan -2836 + s = 5*n - 3*g, 3*n + 5*g - 13330 = 0. Apakah n bilangan komposit?
+True
+Misalkan 79*w - 5353120 = -81*w. Apakah w bilangan komposit?
+False
+Misalkan 70*s - 1197828 + 58718 = 0. Apakah s bilangan komposit?
+False
+Misalkan j(k) = 2519*k**3 + 11*k**2 - 6*k - 1. Apakah j(3) bilangan prima?
+False
+Misalkan m = 4301 - -9842. Apakah m/(-6)*-1*(7 - 1) prima?
+True
+Misalkan 2*p - 11730 = -b + p, -5*p - 46884 = -4*b. Misalkan -2*f - b = 2*t - 6*t, -2924 = -t - f. Apakah t bilangan prima?
+False
+Misalkan z = 7692 + -13127. Misalkan j be 1/3 + (-40)/(-15). Apakah 3/1*j/((-45)/z) bilangan prima?
+True
+Misalkan h = 358664 - 233857. Apakah h bilangan prima?
+False
+Misalkan -y = -2*d - 2643, -d - 2*y = -2*d - 1329. Apakah (d*(-5 - -7))/((-2)/7) komposit?
+True
+Misalkan 5*l - 3*l - 19 = -5*g, l - 14 = -4*g. Misalkan 25921 + 20604 = 5*y. Misalkan l*r + 1339 = y. Apakah r prima?
+False
+Misalkan -2*w - 229925 = -755043. Apakah w prima?
+False
+Misalkan 5*d - m - 4893 = -0*m, 0 = -3*d - 5*m + 2919. Misalkan 0*b - 3*b = -3*k - d, -5 = -b. Misalkan n = k - -968. Apakah n bilangan prima?
+True
+Misalkan a = -232841 - -432415. Apakah a bilangan komposit?
+True
+Misalkan 69*i - 1903726 = 3835487. Apakah i prima?
+True
+Misalkan -4*d + 671476 = 4*y, -3*d - 167837 = -6*y + 5*y. Apakah y komposit?
+False
+Misalkan k(o) = 2*o**3 - 29*o**2 - 6*o - 9. Misalkan c(f) = -f**2 - 6*f + 27. Misalkan m be c(-7). Apakah k(m) bilangan komposit?
+False
+Misalkan -q + 4*b + 9 = 0, 2*q + 3*b + 13 = 4*q. Misalkan 4*x + 3 = -q. Apakah 873/((-6)/x) + (-4 - -6) komposit?
+False
+Misalkan k(x) = -3*x**2 - 12*x - 6. Misalkan f be k(-4). Apakah 4/3 - 5434/f prima?
+True
+Misalkan d = 66 - 63. Misalkan w be (-3)/18*d*-58. Misalkan w*s = 36*s - 11599. Apakah s bilangan prima?
+True
+Misalkan j = 712 - 346. Misalkan m = j + 8833. Apakah m bilangan komposit?
+False
+Misalkan j(q) = -2867*q - 96. Apakah j(-7) komposit?
+False
+Misalkan i = -325 - -136. Misalkan b = -699 - i. Misalkan f = b - -929. Apakah f bilangan komposit?
+False
+Misalkan -6*s + 229 - 109 = 0. Misalkan -158 = -s*d + 42. Apakah d bilangan prima?
+False
+Misalkan 5*r = -4*m + 28593, -r + 4194 = -m - 1530. Misalkan y = -118 + r. Apakah y bilangan komposit?
+True
+Misalkan j = 24781 + 30952. Apakah j bilangan prima?
+True
+Misalkan r = 9697 + 4354. Apakah r bilangan prima?
+True
+Misalkan 10 - 20 = -5*z. Misalkan 963 = z*x - 249. Misalkan 0 = -h + 7 + x. Apakah h bilangan prima?
+True
+Misalkan y(u) = -12594*u - 107. Misalkan b be y(3). Misalkan x = b + 58011. Apakah x komposit?
+True
+Misalkan k(x) = 1935*x**2 - 10*x - 408. Apakah k(-11) komposit?
+False
+Misalkan a(d) = d**3 - 30*d**2 + 506*d + 169. Apakah a(70) komposit?
+False
+Misalkan f(c) = -c**3 - 15*c**2 - 16*c - 25. Misalkan v be f(-14). Misalkan 3*k - 38082 = -5*t, -v*k = -t - 0*k + 7620. Apakah t bilangan komposit?
+True
+Misalkan -2*y + 27 = 3*i, -5*y + 2*i + 74 = 3*i. Misalkan r = -444 + 458. Misalkan -r*a = -y*a + 1973. Apakah a prima?
+True
+Misalkan n be (-3 - (-1 - 1))*(-4 - -1). Misalkan 2*x - 1467 - 1437 = 2*u, -n*u + 5801 = 4*x. Apakah x prima?
+True
+Misalkan -6*q - 54 = -78. Misalkan 4778 + 2610 = q*b. Apakah b prima?
+True

@@ -1,0 +1,666 @@
+Apa suku ke n dari 84, 88, 92, 96?
+4*n + 80
+Apa suku ke f dari 5, 41, 65, 71, 53, 5, -79?
+-f**3 + 43*f - 37
+Apa suku ke w dari -45, -92, -139, -186, -233?
+2 - 47*w
+Apa suku ke h dari -526, -1046, -1580, -2134, -2714, -3326, -3976?
+-h**3 - h**2 - 510*h - 14
+Apa suku ke x dari -1, 4, 15, 32, 55?
+3*x**2 - 4*x
+Apa suku ke f dari 10695, 10693, 10689, 10683, 10675, 10665, 10653?
+-f**2 + f + 10695
+Apa suku ke d dari 265, 525, 785, 1045, 1305?
+260*d + 5
+Apa suku ke d dari -280, -282, -284, -286?
+-2*d - 278
+Apa suku ke z dari -24, -30, -36, -42, -48?
+-6*z - 18
+Apa suku ke y dari 22, 88, 202, 370, 598, 892?
+y**3 + 18*y**2 + 5*y - 2
+Apa suku ke d dari 29, 85, 157, 227, 277, 289, 245, 127?
+-3*d**3 + 26*d**2 - d + 7
+Apa suku ke h dari -64, -61, -56, -49?
+h**2 - 65
+Apa suku ke v dari -237, -954, -2149, -3822, -5973, -8602, -11709?
+2 - 239*v**2
+Apa suku ke h dari -31, -76, -137, -220, -331, -476, -661, -892?
+-h**3 - 2*h**2 - 32*h + 4
+Apa suku ke r dari 8835, 17672, 26509, 35346, 44183, 53020?
+8837*r - 2
+Apa suku ke o dari 18, 40, 76, 132, 214?
+o**3 + o**2 + 12*o + 4
+Apa suku ke n dari 58, 249, 576, 1045, 1662, 2433, 3364, 4461?
+n**3 + 62*n**2 - 2*n - 3
+Apa suku ke o dari 34, 25, 14, 1, -14, -31?
+-o**2 - 6*o + 41
+Apa suku ke h dari -43, -70, -97?
+-27*h - 16
+Apa suku ke d dari -20, -135, -250, -365, -480?
+95 - 115*d
+Apa suku ke n dari -116, -242, -368, -494?
+10 - 126*n
+Apa suku ke l dari -39, -41, -51, -75, -119, -189, -291, -431?
+-l**3 + 2*l**2 - l - 39
+Apa suku ke z dari 62, 63, 66, 71?
+z**2 - 2*z + 63
+Apa suku ke p dari -2499, -2513, -2535, -2565, -2603, -2649, -2703?
+-4*p**2 - 2*p - 2493
+Apa suku ke d dari 205, 417, 629?
+212*d - 7
+Apa suku ke o dari 18, 2, -36, -108, -226, -402, -648?
+-2*o**3 + o**2 - 5*o + 24
+Apa suku ke x dari 178, 349, 506, 643, 754?
+-x**3 - x**2 + 181*x - 1
+Apa suku ke o dari 13, 123, 425, 1015, 1989, 3443, 5473?
+16*o**3 - 2*o - 1
+Apa suku ke z dari -23, -31, -53, -95, -163, -263, -401, -583?
+-z**3 - z**2 + 2*z - 23
+Apa suku ke k dari 1651, 1635, 1609, 1573, 1527, 1471?
+-5*k**2 - k + 1657
+Apa suku ke q dari 6, -1, -30, -93, -202, -369, -606, -925?
+-2*q**3 + q**2 + 4*q + 3
+Apa suku ke q dari 41, 169, 381, 677, 1057, 1521, 2069?
+42*q**2 + 2*q - 3
+Apa suku ke i dari -9, -37, -89, -177, -313, -509, -777?
+-2*i**3 - 14*i + 7
+Apa suku ke a dari -7, -6, -7, -16, -39, -82?
+-a**3 + 5*a**2 - 7*a - 4
+Apa suku ke s dari -11, -12, -11, -8, -3, 4, 13?
+s**2 - 4*s - 8
+Apa suku ke a dari -314, -631, -948, -1265, -1582, -1899?
+3 - 317*a
+Apa suku ke p dari -121, -127, -129, -121, -97, -51, 23, 131?
+p**3 - 4*p**2 - p - 117
+Apa suku ke p dari -206, -417, -628, -839?
+5 - 211*p
+Apa suku ke v dari 1370, 1374, 1378?
+4*v + 1366
+Apa suku ke j dari -243, -487, -731, -975?
+1 - 244*j
+Apa suku ke w dari 15, 177, 623, 1497, 2943, 5105?
+24*w**3 - 2*w**2 - 7
+Apa suku ke n dari 234, 231, 226, 219, 210, 199?
+235 - n**2
+Apa suku ke c dari -102, -106, -102, -84, -46, 18, 114, 248?
+c**3 - 2*c**2 - 5*c - 96
+Apa suku ke y dari 81, 172, 277, 402, 553?
+y**3 + y**2 + 81*y - 2
+Apa suku ke t dari 419, 1665, 3753, 6689, 10479, 15129?
+t**3 + 415*t**2 - 6*t + 9
+Apa suku ke l dari 115, 107, 95, 79, 59?
+-2*l**2 - 2*l + 119
+Apa suku ke q dari 176, 180, 182, 182, 180, 176?
+-q**2 + 7*q + 170
+Apa suku ke d dari 300, 299, 300, 303, 308?
+d**2 - 4*d + 303
+Apa suku ke u dari 132, 138, 162, 216, 312, 462?
+2*u**3 - 3*u**2 + u + 132
+Apa suku ke n dari -31, 30, 101, 188, 297?
+n**3 - n**2 + 57*n - 88
+Apa suku ke m dari 217, 233, 265, 319, 401, 517, 673?
+m**3 + 2*m**2 + 3*m + 211
+Apa suku ke j dari 62, 67, 76, 89?
+2*j**2 - j + 61
+Apa suku ke p dari 44, 102, 196, 332, 516, 754, 1052?
+p**3 + 12*p**2 + 15*p + 16
+Apa suku ke j dari 77, 78, 79?
+j + 76
+Apa suku ke c dari 325, 276, 225, 172, 117, 60?
+-c**2 - 46*c + 372
+Apa suku ke l dari -6, -4, 4, 18, 38, 64, 96?
+3*l**2 - 7*l - 2
+Apa suku ke t dari 18, 2, -30, -84, -166?
+-t**3 - 2*t**2 - 3*t + 24
+Apa suku ke v dari -1, -2, -5, -10, -17, -26?
+-v**2 + 2*v - 2
+Apa suku ke z dari -3457, -3455, -3453, -3451, -3449?
+2*z - 3459
+Apa suku ke y dari 620, 1261, 1902, 2543, 3184, 3825?
+641*y - 21
+Apa suku ke b dari -2735, -2755, -2785, -2831, -2899, -2995?
+-b**3 + b**2 - 16*b - 2719
+Apa suku ke q dari 1, 21, 59, 115?
+9*q**2 - 7*q - 1
+Apa suku ke o dari 609, 593, 559, 501, 413, 289, 123, -91?
+-o**3 - 3*o**2 + 613
+Apa suku ke x dari -3159, -6317, -9475?
+-3158*x - 1
+Apa suku ke l dari 247, 230, 205, 172, 131, 82?
+-4*l**2 - 5*l + 256
+Apa suku ke x dari 10104, 20208, 30312?
+10104*x
+Apa suku ke t dari 436, 870, 1304, 1738, 2172?
+434*t + 2
+Apa suku ke m dari -7, -25, -41, -55, -67?
+m**2 - 21*m + 13
+Apa suku ke y dari -384, -423, -488, -579, -696, -839, -1008?
+-13*y**2 - 371
+Apa suku ke k dari -10, 6, 32, 68?
+5*k**2 + k - 16
+Apa suku ke c dari 61, 67, 87, 127, 193?
+c**3 + c**2 - 4*c + 63
+Apa suku ke v dari 476, 516, 556, 596, 636?
+40*v + 436
+Apa suku ke t dari -28, -2, 52, 146, 292, 502, 788, 1162?
+2*t**3 + 2*t**2 + 6*t - 38
+Apa suku ke z dari 78, 105, 132?
+27*z + 51
+Apa suku ke p dari 113, 115, 117, 119, 121?
+2*p + 111
+Apa suku ke d dari 455, 457, 461, 467?
+d**2 - d + 455
+Apa suku ke q dari 4221, 8441, 12661?
+4220*q + 1
+Apa suku ke o dari -231, -924, -2079, -3696, -5775, -8316, -11319?
+-231*o**2
+Apa suku ke u dari -631, -1264, -1897, -2530, -3163, -3796?
+2 - 633*u
+Apa suku ke r dari 81, 168, 255?
+87*r - 6
+Apa suku ke l dari 58, 124, 202, 292?
+6*l**2 + 48*l + 4
+Apa suku ke f dari -79, -169, -259, -349?
+11 - 90*f
+Apa suku ke c dari 2, -5, -24, -61, -122, -213?
+3 - c**3
+Apa suku ke a dari -79, -152, -225, -298?
+-73*a - 6
+Apa suku ke y dari 18, 42, 102, 216, 402, 678?
+3*y**3 + 3*y + 12
+Apa suku ke i dari 4, -50, -104, -158?
+58 - 54*i
+Apa suku ke x dari 99, 190, 279, 366, 451?
+-x**2 + 94*x + 6
+Apa suku ke p dari 69, 69, 71, 75, 81?
+p**2 - 3*p + 71
+Apa suku ke f dari 89, 85, 81?
+93 - 4*f
+Apa suku ke b dari 279, 545, 783, 987, 1151?
+-b**3 - 8*b**2 + 297*b - 9
+Apa suku ke p dari 125, 250, 375, 500?
+125*p
+Apa suku ke c dari 438, 437, 436?
+439 - c
+Apa suku ke j dari -980, -978, -966, -938, -888?
+j**3 - j**2 - 2*j - 978
+Apa suku ke b dari -223, -242, -275, -328, -407, -518?
+-b**3 - b**2 - 9*b - 212
+Apa suku ke s dari 24, 114, 270, 498, 804, 1194, 1674, 2250?
+s**3 + 27*s**2 + 2*s - 6
+Apa suku ke p dari 151, 302, 453?
+151*p
+Apa suku ke q dari 11, -11, -47, -97, -161, -239, -331?
+-7*q**2 - q + 19
+Apa suku ke v dari 2693, 2695, 2697?
+2*v + 2691
+Apa suku ke m dari 141, 98, 55, 12, -31, -74?
+184 - 43*m
+Apa suku ke n dari 1022, 2043, 3062, 4079, 5094?
+-n**2 + 1024*n - 1
+Apa suku ke u dari -206, -231, -270, -329, -414?
+-u**3 - u**2 - 15*u - 189
+Apa suku ke z dari 17, 21, 25, 29, 33?
+4*z + 13
+Apa suku ke z dari -11, -8, -5?
+3*z - 14
+Apa suku ke u dari -17, -30, -51, -80, -117, -162, -215?
+-4*u**2 - u - 12
+Apa suku ke j dari 4876, 4889, 4904, 4921, 4940, 4961?
+j**2 + 10*j + 4865
+Apa suku ke n dari -12, -23, -34?
+-11*n - 1
+Apa suku ke g dari -28, -26, -22, -16?
+g**2 - g - 28
+Apa suku ke x dari 87, 177, 267?
+90*x - 3
+Apa suku ke o dari 418, 834, 1250, 1666, 2082, 2498?
+416*o + 2
+Apa suku ke c dari -98, -289, -608, -1055, -1630, -2333?
+-64*c**2 + c - 35
+Apa suku ke l dari 14, 56, 126, 224?
+14*l**2
+Apa suku ke w dari -199, -197, -185, -157, -107, -29, 83?
+w**3 - w**2 - 2*w - 197
+Apa suku ke u dari 73, 89, 103, 115?
+-u**2 + 19*u + 55
+Apa suku ke i dari -1431, -1430, -1429, -1428, -1427, -1426?
+i - 1432
+Apa suku ke w dari -113, -104, -99, -98?
+-2*w**2 + 15*w - 126
+Apa suku ke t dari 926, 3730, 8414, 14984, 23446, 33806, 46070, 60244?
+t**3 + 934*t**2 - 5*t - 4
+Apa suku ke k dari -1610, -1611, -1614, -1619, -1626?
+-k**2 + 2*k - 1611
+Apa suku ke s dari 1213, 2421, 3629, 4837?
+1208*s + 5
+Apa suku ke j dari -2288, -2287, -2286, -2285, -2284?
+j - 2289
+Apa suku ke k dari 427, 420, 409, 394, 375, 352?
+-2*k**2 - k + 430
+Apa suku ke z dari -150, -159, -168?
+-9*z - 141
+Apa suku ke k dari 46, 28, -10, -74, -170, -304?
+-k**3 - 4*k**2 + k + 50
+Apa suku ke r dari -10212, -20426, -30640, -40854, -51068?
+2 - 10214*r
+Apa suku ke g dari -97, -160, -223, -286, -349?
+-63*g - 34
+Apa suku ke d dari -135, -132, -129, -126, -123, -120?
+3*d - 138
+Apa suku ke r dari -20, -10, 8, 34?
+4*r**2 - 2*r - 22
+Apa suku ke f dari -7, -11, -15?
+-4*f - 3
+Apa suku ke k dari 28, 40, 64, 106, 172, 268, 400, 574?
+k**3 + 5*k + 22
+Apa suku ke x dari 21, 2, -29, -72, -127, -194?
+-6*x**2 - x + 28
+Apa suku ke h dari 1086, 1084, 1082, 1080, 1078?
+1088 - 2*h
+Apa suku ke p dari 101, 402, 903, 1604, 2505?
+100*p**2 + p
+Apa suku ke y dari 2559, 5117, 7675, 10233?
+2558*y + 1
+Apa suku ke t dari 127, 254, 381, 508?
+127*t
+Apa suku ke z dari -120, -212, -304, -396, -488, -580?
+-92*z - 28
+Apa suku ke u dari 12, 100, 338, 804, 1576, 2732, 4350?
+13*u**3 - 3*u**2 + 6*u - 4
+Apa suku ke w dari -8, -13, -28, -59, -112, -193?
+-w**3 + w**2 - w - 7
+Apa suku ke c dari -893, -893, -891, -887?
+c**2 - 3*c - 891
+Apa suku ke j dari 86, 155, 224?
+69*j + 17
+Apa suku ke b dari 33, 106, 299, 672, 1285?
+10*b**3 + 3*b + 20
+Apa suku ke c dari 170, 171, 174, 179, 186, 195?
+c**2 - 2*c + 171
+Apa suku ke w dari -266, -262, -248, -218, -166, -86, 28, 182?
+w**3 - w**2 - 266
+Apa suku ke z dari -35, -62, -89, -116, -143, -170?
+-27*z - 8
+Apa suku ke r dari -451, -903, -1357, -1813?
+-r**2 - 449*r - 1
+Apa suku ke g dari 13, 62, 143, 256, 401, 578?
+16*g**2 + g - 4
+Apa suku ke p dari -35, -118, -259, -458, -715, -1030, -1403?
+-29*p**2 + 4*p - 10
+Apa suku ke p dari -1144, -1145, -1146, -1147?
+-p - 1143
+Apa suku ke j dari -29, -50, -57, -44, -5, 66, 175, 328?
+j**3 + j**2 - 31*j
+Apa suku ke h dari -1045, -1044, -1043, -1042, -1041, -1040?
+h - 1046
+Apa suku ke x dari 61, 68, 77, 88, 101, 116?
+x**2 + 4*x + 56
+Apa suku ke l dari 94, 186, 278?
+92*l + 2
+Apa suku ke a dari 51, 87, 105, 99, 63, -9, -123, -285?
+-a**3 - 3*a**2 + 52*a + 3
+Apa suku ke m dari 809, 808, 807, 806, 805, 804?
+810 - m
+Apa suku ke l dari 79, 302, 685, 1234, 1955, 2854, 3937, 5210?
+l**3 + 74*l**2 - 6*l + 10
+Apa suku ke q dari 133, 118, 97, 70, 37, -2, -47?
+-3*q**2 - 6*q + 142
+Apa suku ke o dari 414, 833, 1252, 1671, 2090, 2509?
+419*o - 5
+Apa suku ke o dari 1251, 2501, 3751, 5001, 6251?
+1250*o + 1
+Apa suku ke s dari 14, 37, 34, -1, -74, -191, -358?
+-s**3 - 7*s**2 + 51*s - 29
+Apa suku ke a dari -196, -468, -742, -1018?
+-a**2 - 269*a + 74
+Apa suku ke i dari 4, 2, 0, -2, -4, -6?
+6 - 2*i
+Apa suku ke z dari -10, -15, -24, -37, -54, -75?
+-2*z**2 + z - 9
+Apa suku ke m dari -457, -460, -463, -466?
+-3*m - 454
+Apa suku ke i dari -2723, -5447, -8171, -10895, -13619?
+1 - 2724*i
+Apa suku ke b dari -169, -171, -173?
+-2*b - 167
+Apa suku ke f dari 43, 84, 123, 160, 195, 228?
+-f**2 + 44*f
+Apa suku ke k dari 61, 60, 59, 58, 57, 56?
+62 - k
+Apa suku ke j dari -127, -217, -307, -397?
+-90*j - 37
+Apa suku ke o dari -100, -105, -122, -157, -216?
+-o**3 + 2*o - 101
+Apa suku ke h dari -147, -135, -115, -87, -51, -7?
+4*h**2 - 151
+Apa suku ke d dari 167, 199, 231, 263?
+32*d + 135
+Apa suku ke q dari -812, -1633, -2452, -3269, -4084?
+q**2 - 824*q + 11
+Apa suku ke g dari 181, 188, 199, 214, 233, 256?
+2*g**2 + g + 178
+Apa suku ke m dari -5, -9, -13?
+-4*m - 1
+Apa suku ke c dari 24, 45, 54, 45, 12?
+-c**3 + 28*c - 3
+Apa suku ke b dari -58, -59, -60, -61?
+-b - 57
+Apa suku ke l dari 57, 122, 193, 270, 353, 442, 537?
+3*l**2 + 56*l - 2
+Apa suku ke t dari 137, 141, 157, 191, 249, 337, 461?
+t**3 - 3*t + 139
+Apa suku ke f dari -215, -208, -201, -194, -187?
+7*f - 222
+Apa suku ke j dari -858, -6825, -23026, -54579, -106602, -184213?
+-853*j**3 + j**2 + j - 7
+Apa suku ke d dari -4519, -9037, -13555, -18073, -22591?
+-4518*d - 1
+Apa suku ke b dari -3350, -6699, -10048, -13397?
+-3349*b - 1
+Apa suku ke v dari 93, 109, 127, 147, 169, 193?
+v**2 + 13*v + 79
+Apa suku ke d dari -1, -33, -115, -271, -525, -901, -1423, -2115?
+-4*d**3 - d**2 - d + 5
+Apa suku ke l dari -29, -100, -217, -380?
+-23*l**2 - 2*l - 4
+Apa suku ke u dari -18, 5, 44, 99, 170, 257?
+8*u**2 - u - 25
+Apa suku ke t dari -3966, -3969, -3974, -3981, -3990, -4001?
+-t**2 - 3965
+Apa suku ke u dari 25, 18, 7, -8, -27?
+-2*u**2 - u + 28
+Apa suku ke c dari -833, -838, -847, -860, -877, -898?
+-2*c**2 + c - 832
+Apa suku ke c dari 175, 377, 575, 769?
+-2*c**2 + 208*c - 31
+Apa suku ke g dari -213, -214, -215?
+-g - 212
+Apa suku ke q dari -122, -266, -410, -554, -698, -842?
+22 - 144*q
+Apa suku ke r dari -162, -148, -134?
+14*r - 176
+Apa suku ke t dari 13285, 13286, 13287, 13288, 13289?
+t + 13284
+Apa suku ke r dari -269, -271, -273, -275, -277?
+-2*r - 267
+Apa suku ke z dari -1156, -1162, -1180, -1216, -1276, -1366, -1492, -1660?
+-z**3 + z - 1156
+Apa suku ke x dari -233, -242, -249, -248, -233, -198, -137?
+x**3 - 5*x**2 - x - 228
+Apa suku ke s dari -116, -107, -96, -83, -68?
+s**2 + 6*s - 123
+Apa suku ke v dari 68, 127, 178, 215, 232, 223?
+-v**3 + 2*v**2 + 60*v + 7
+Apa suku ke h dari 12, 169, 604, 1455, 2860, 4957, 7884?
+23*h**3 + h**2 - 7*h - 5
+Apa suku ke k dari 180, 140, 90, 24, -64, -180, -330?
+-k**3 + k**2 - 36*k + 216
+Apa suku ke r dari 23, 28, 35, 44, 55, 68, 83?
+r**2 + 2*r + 20
+Apa suku ke x dari 8, 20, 32?
+12*x - 4
+Apa suku ke c dari -223, -486, -747, -1006?
+c**2 - 266*c + 42
+Apa suku ke v dari 12, 35, 58, 81, 104?
+23*v - 11
+Apa suku ke q dari -35, -73, -115, -161, -211, -265, -323?
+-2*q**2 - 32*q - 1
+Apa suku ke f dari 234, 237, 242, 249, 258, 269, 282?
+f**2 + 233
+Apa suku ke v dari -62, -124, -186?
+-62*v
+Apa suku ke d dari -34, -67, -94, -115, -130, -139, -142?
+3*d**2 - 42*d + 5
+Apa suku ke v dari 367, 736, 1105, 1474?
+369*v - 2
+Apa suku ke p dari 61, 64, 67, 70?
+3*p + 58
+Apa suku ke w dari -7, -18, -37, -64, -99, -142, -193?
+-4*w**2 + w - 4
+Apa suku ke x dari -15, -27, -39, -51, -63?
+-12*x - 3
+Apa suku ke y dari -32, -40, -68, -128, -232, -392?
+-2*y**3 + 2*y**2 - 32
+Apa suku ke d dari 15, 25, 39, 57, 79?
+2*d**2 + 4*d + 9
+Apa suku ke y dari 7, 19, 35, 55, 79, 107, 139?
+2*y**2 + 6*y - 1
+Apa suku ke s dari 453, 1825, 4113, 7317?
+458*s**2 - 2*s - 3
+Apa suku ke f dari 42, 77, 112, 147, 182?
+35*f + 7
+Apa suku ke f dari 771, 760, 749, 738?
+782 - 11*f
+Apa suku ke t dari -108, -131, -154?
+-23*t - 85
+Apa suku ke m dari 46, 151, 310, 523, 790?
+27*m**2 + 24*m - 5
+Apa suku ke n dari -16, -2, 12, 26?
+14*n - 30
+Apa suku ke m dari -27, -32, -33, -30, -23, -12, 3?
+2*m**2 - 11*m - 18
+Apa suku ke w dari 1430, 1432, 1436, 1442, 1450, 1460?
+w**2 - w + 1430
+Apa suku ke t dari -95, -192, -291, -392, -495, -600?
+-t**2 - 94*t
+Apa suku ke s dari 79, 86, 105, 142, 203, 294, 421?
+s**3 + 78
+Apa suku ke j dari 41, 33, 13, -25, -87, -179?
+-j**3 - j + 43
+Apa suku ke w dari 2429, 4860, 7291, 9722, 12153?
+2431*w - 2
+Apa suku ke x dari 19, 37, 69, 115, 175?
+7*x**2 - 3*x + 15
+Apa suku ke m dari -151, -301, -451, -601, -751, -901?
+-150*m - 1
+Apa suku ke j dari 744, 764, 790, 816, 836?
+-j**3 + 9*j**2 + 736
+Apa suku ke l dari -36, -170, -400, -726, -1148, -1666?
+-48*l**2 + 10*l + 2
+Apa suku ke c dari 4138, 8289, 12454, 16639, 20850?
+c**3 + c**2 + 4141*c - 5
+Apa suku ke w dari 317, 350, 395, 458, 545?
+w**3 + 26*w + 290
+Apa suku ke q dari 25, 28, 49, 100, 193, 340, 553, 844?
+2*q**3 - 3*q**2 - 2*q + 28
+Apa suku ke j dari 120, 112, 104, 96?
+128 - 8*j
+Apa suku ke s dari 70, 139, 206, 271?
+-s**2 + 72*s - 1
+Apa suku ke f dari 104, 191, 276, 359, 440?
+-f**2 + 90*f + 15
+Apa suku ke v dari 79, 70, 61, 52?
+88 - 9*v
+Apa suku ke u dari 1140, 2272, 3392, 4494, 5572, 6620?
+-u**3 + 1139*u + 2
+Apa suku ke d dari -4, -6, 0, 20, 60, 126, 224, 360?
+d**3 - 2*d**2 - 3*d
+Apa suku ke h dari -23, -28, -37, -50, -67, -88?
+-2*h**2 + h - 22
+Apa suku ke h dari 429, 1701, 3813, 6759, 10533, 15129, 20541, 26763?
+-h**3 + 426*h**2 + h + 3
+Apa suku ke j dari -2019, -4040, -6055, -8058, -10043, -12004, -13935, -15830?
+j**3 - 3*j**2 - 2019*j + 2
+Apa suku ke a dari -152, -108, -50, 28, 132?
+a**3 + a**2 + 34*a - 188
+Apa suku ke j dari 229, 205, 179, 151, 121?
+-j**2 - 21*j + 251
+Apa suku ke v dari 15, 42, 81, 132?
+6*v**2 + 9*v
+Apa suku ke n dari -7, -43, -105, -193, -307?
+-13*n**2 + 3*n + 3
+Apa suku ke r dari 6, 5, 26, 87, 206, 401, 690?
+3*r**3 - 7*r**2 - r + 11
+Apa suku ke g dari 12753, 25508, 38263, 51018?
+12755*g - 2
+Apa suku ke y dari -203, -205, -207, -209, -211?
+-2*y - 201
+Apa suku ke u dari 7864, 15730, 23596, 31462?
+7866*u - 2
+Apa suku ke w dari -16, -11, 6, 41, 100?
+w**3 - 2*w - 15
+Apa suku ke t dari 5753, 11512, 17271, 23030?
+5759*t - 6
+Apa suku ke q dari -208, -424, -642, -862, -1084, -1308?
+-q**2 - 213*q + 6
+Apa suku ke j dari -73, -70, -65, -58, -49, -38, -25?
+j**2 - 74
+Apa suku ke v dari -242, -483, -722, -959, -1194, -1427, -1658?
+v**2 - 244*v + 1
+Apa suku ke w dari 607, 615, 637, 679, 747?
+w**3 + w**2 - 2*w + 607
+Apa suku ke v dari 4237, 8471, 12707, 16945, 21185, 25427?
+v**2 + 4231*v + 5
+Apa suku ke j dari -65774, -65775, -65776, -65777, -65778?
+-j - 65773
+Apa suku ke a dari -33, -247, -831, -1971, -3853, -6663?
+-31*a**3 + a**2 - 3
+Apa suku ke z dari -1352, -2695, -4040, -5387?
+-z**2 - 1340*z - 11
+Apa suku ke v dari 338, 339, 340?
+v + 337
+Apa suku ke w dari -2, -27, -48, -65?
+2*w**2 - 31*w + 27
+Apa suku ke k dari 192, 391, 590?
+199*k - 7
+Apa suku ke o dari -6355, -6369, -6371, -6355, -6315?
+o**3 - 21*o - 6335
+Apa suku ke q dari -69, -92, -153, -270, -461, -744, -1137, -1658?
+-3*q**3 - q**2 + q - 66
+Apa suku ke g dari -215, -219, -225, -233, -243, -255?
+-g**2 - g - 213
+Apa suku ke h dari 925, 927, 929, 931, 933, 935?
+2*h + 923
+Apa suku ke b dari -51, -77, -119, -177, -251?
+-8*b**2 - 2*b - 41
+Apa suku ke u dari -19, -16, -13, -10, -7?
+3*u - 22
+Apa suku ke s dari 122, 117, 112, 107, 102, 97?
+127 - 5*s
+Apa suku ke h dari -91, -169, -233, -277, -295, -281, -229?
+h**3 + h**2 - 88*h - 5
+Apa suku ke c dari -7, -13, -19, -25?
+-6*c - 1
+Apa suku ke z dari 33, 44, 55, 66?
+11*z + 22
+Apa suku ke f dari -30, -53, -92, -153, -242, -365, -528, -737?
+-f**3 - 2*f**2 - 10*f - 17
+Apa suku ke u dari -515, -514, -513, -512?
+u - 516
+Apa suku ke z dari -252, -951, -2122, -3771, -5904, -8527, -11646?
+-z**3 - 230*z**2 - 2*z - 19
+Apa suku ke v dari -281, -284, -289, -296, -305, -316?
+-v**2 - 280
+Apa suku ke m dari 15633, 15632, 15631, 15630, 15629?
+15634 - m
+Apa suku ke m dari 1571, 6276, 14117, 25094, 39207, 56456?
+1568*m**2 + m + 2
+Apa suku ke g dari 270, 276, 286, 300, 318, 340, 366?
+2*g**2 + 268
+Apa suku ke u dari -1658, -1656, -1652, -1646, -1638, -1628?
+u**2 - u - 1658
+Apa suku ke i dari 44, 121, 254, 449, 712, 1049, 1466?
+i**3 + 22*i**2 + 4*i + 17
+Apa suku ke i dari -38, -59, -80, -101, -122, -143?
+-21*i - 17
+Apa suku ke c dari -72, -150, -216, -264, -288?
+c**3 - 85*c + 12
+Apa suku ke v dari -11, -39, -71, -101, -123, -131, -119, -81?
+v**3 - 8*v**2 - 11*v + 7
+Apa suku ke p dari -449, -450, -451, -452, -453?
+-p - 448
+Apa suku ke l dari -17, -12, -5, 4?
+l**2 + 2*l - 20
+Apa suku ke x dari -26, -134, -424, -986, -1910, -3286, -5204, -7754?
+-15*x**3 - x**2 - 10
+Apa suku ke r dari 32, 98, 204, 344, 512, 702, 908, 1124?
+-r**3 + 26*r**2 - 5*r + 12
+Apa suku ke q dari -61, -137, -283, -535, -929, -1501, -2287, -3323?
+-6*q**3 + q**2 - 37*q - 19
+Apa suku ke m dari 195, 351, 507, 663, 819?
+156*m + 39
+Apa suku ke t dari 53, 92, 149, 218, 293?
+-t**3 + 15*t**2 + t + 38
+Apa suku ke n dari 9, 1, -7, -15, -23, -31?
+17 - 8*n
+Apa suku ke i dari -51, -165, -369, -675, -1095, -1641, -2325?
+-2*i**3 - 33*i**2 - i - 15
+Apa suku ke r dari 517, 532, 561, 610, 685?
+r**3 + r**2 + 5*r + 510
+Apa suku ke p dari -306, -320, -336, -354?
+-p**2 - 11*p - 294
+Apa suku ke a dari 1048, 1036, 1010, 964, 892?
+-a**3 - a**2 - 2*a + 1052
+Apa suku ke d dari -25, -16, 17, 86, 203, 380, 629?
+2*d**3 - 5*d - 22
+Apa suku ke s dari -420, -422, -424, -426, -428, -430?
+-2*s - 418
+Apa suku ke d dari 55, 107, 145, 163, 155, 115?
+-d**3 - d**2 + 62*d - 5
+Apa suku ke k dari 228, 458, 688, 918?
+230*k - 2
+Apa suku ke j dari 4, -12, -28, -38, -36, -16?
+j**3 - 6*j**2 - 5*j + 14
+Apa suku ke x dari -41, -34, -1, 70, 191?
+2*x**3 + x**2 - 10*x - 34
+Apa suku ke s dari 28, 28, 24, 16, 4?
+-2*s**2 + 6*s + 24
+Apa suku ke o dari -7, -51, -167, -391, -759, -1307?
+-6*o**3 - 2*o + 1
+Apa suku ke a dari 743, 1489, 2235, 2981, 3727, 4473?
+746*a - 3
+Apa suku ke b dari 80, 151, 220, 287, 352, 415, 476?
+-b**2 + 74*b + 7
+Apa suku ke s dari -212, -405, -582, -737, -864, -957, -1010, -1017?
+s**3 + 2*s**2 - 206*s - 9
+Apa suku ke o dari -527, -1045, -1563, -2081, -2599, -3117?
+-518*o - 9
+Apa suku ke g dari -437, -439, -443, -449, -457?
+-g**2 + g - 437
+Apa suku ke j dari 302, 601, 900?
+299*j + 3
+Apa suku ke m dari -6111, -6114, -6117, -6120, -6123, -6126?
+-3*m - 6108
+Apa suku ke z dari 318, 315, 298, 261, 198, 103, -30?
+-z**3 - z**2 + 7*z + 313
+Apa suku ke m dari -32, -57, -82, -107?
+-25*m - 7
+Apa suku ke s dari -1, -14, -27, -40, -53, -66?
+12 - 13*s
+Apa suku ke p dari -621, -1242, -1863?
+-621*p
+Apa suku ke x dari 317, 311, 293, 257, 197, 107, -19?
+-x**3 + x + 317
+Apa suku ke f dari 126, 123, 116, 105, 90, 71?
+-2*f**2 + 3*f + 125
+Apa suku ke t dari -373, -1554, -3515, -6250, -9753?
+t**3 - 396*t**2 + 22
+Apa suku ke b dari 93, 100, 109, 120, 133, 148, 165?
+b**2 + 4*b + 88
+Apa suku ke q dari -4953, -9903, -14853, -19803, -24753, -29703?
+-4950*q - 3
+Apa suku ke s dari 406, 405, 402, 397, 390?
+-s**2 + 2*s + 405
+Apa suku ke i dari -8, -13, -20, -29, -40?
+-i**2 - 2*i - 5
+Apa suku ke b dari -11, -18, -29, -44?
+-2*b**2 - b - 8
+Apa suku ke n dari 28194, 28195, 28196?
+n + 28193
+Apa suku ke u dari 40, 174, 390, 682, 1044?
+-u**3 + 47*u**2 - 6
+Apa suku ke i dari -19, -52, -101, -166, -247, -344, -457?
+-8*i**2 - 9*i - 2
+Apa suku ke l dari 5, 69, 177, 329, 525, 765, 1049?
+22*l**2 - 2*l - 15
+Apa suku ke t dari 225, 224, 227, 234?
+2*t**2 - 7*t + 230
+Apa suku ke b dari -3580, -3582, -3584, -3586, -3588, -3590?
+-2*b - 3578
+Apa suku ke k dari -45, -78, -109, -138, -165?
+k**2 - 36*k - 10
+Apa suku ke s dari -229, -221, -203, -169, -113, -29, 89?
+s**3 - s**2 + 4*s - 233
+Apa suku ke l dari 1202, 1214, 1250, 1322, 1442?
+2*l**3 - 2*l + 1202

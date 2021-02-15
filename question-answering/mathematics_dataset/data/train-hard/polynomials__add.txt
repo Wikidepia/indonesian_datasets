@@ -1,0 +1,666 @@
+Misalkan h(s) = 42 - 630*s. Misalkan y(k) = -20. Hitung h(z) + 2*y(z).
+2 - 630*z
+Misalkan q(p) = -204*p**2 - 27. Misalkan h = 5425 + -5429. Misalkan k(b) = 29*b**2 + 4. Hitung h*q(o) - 27*k(o).
+33*o**2
+Misalkan v (y) menjadi turunan ke-pertama dari -y**3/3 - y**2/2 + 3*y + 6903. Misalkan x(d) = 3*d**2 + 2*d - 8. Berapakah -11*v(t) - 4*x(t)?
+-t**2 + 3*t - 1
+Misalkan v(l) = 19*l + 32. Misalkan h(y) = 30*y + 66. Beri 2*h(q) - 5*v(q).
+-35*q - 28
+Misalkan m(u) = 7 - 16*u. Misalkan c(o) = 11308 + 11321 - 22630 + o. Hitung -6*c(b) - m(b).
+10*b - 1
+Misalkan g(z) = -40*z**2 - 9*z - 22. Misalkan j(y) = -9*y**2 - 2*y - 5. Misalkan h(r) = -2*g(r) + 9*j(r). Misalkan d(q) = 6*q**2 - 7. Tentukan -d(n) - 3*h(n).
+10 - 3*n**2
+Misalkan y(c) = -2*c**3 + 15*c**2 + 8*c + 454. Misalkan q(a) = 3*a**2 + 2*a - 1. Tentukan 5*q(s) - y(s).
+2*s**3 + 2*s - 459
+Misalkan d(a) = -a**3 + a**2 + 3*a - 1. Misalkan u(o) = 29593*o**2 - 59182*o**2 + 29590*o**2 + o. Tentukan 2*d(f) - 6*u(f).
+-2*f**3 - 4*f**2 - 2
+Misalkan g (z) menjadi turunan ke-ketiga dari 7*z**3/6 + 882*z**2. Misalkan q(c) = c - 20. Misalkan 3*u + 4*w - 20 = 13, -u + w = -11. Beri u*g(j) + 4*q(j).
+4*j - 3
+Misalkan l(g) = -5*g**2 + 2*g - 3. Misalkan p(f) = 5*f**2 - 2*f + 4. Misalkan 0 = -x + 277 + 31. Misalkan k = x - 305. Beri k*p(j) + 4*l(j).
+-5*j**2 + 2*j
+Misalkan x(h) = 17 - 3016*h. Misalkan c(g) = 1005*g - 5. Tentukan 7*c(v) + 2*x(v).
+1003*v - 1
+Misalkan h = -2, 12*t - 8*t - h = 42. Misalkan -14*f = -t*f - 20. Misalkan i(w) = -38*w**3 + 14*w. Misalkan p(m) = -13*m**3 + 5*m. Berapakah f*i(l) - 14*p(l)?
+-8*l**3
+Misalkan o(q) = 4*q**3 + 10*q**2 + q. Misalkan x(d) = -6*d**3 - 8*d**2 - d. Berapakah -3*o(m) - 4*x(m)?
+12*m**3 + 2*m**2 + m
+Misalkan h(j) = 115*j**2 - 8*j. Misalkan n(f) = -77*f**2 + 5*f. Misalkan -3*g - 32*y + 36*y - 43 = 0, 4*g - 2*y = -34. Beri g*h(l) - 8*n(l).
+41*l**2
+Misalkan d(q) = 207904*q**2 - 224*q - 224. Misalkan w(o) = 2772*o**2 - 3*o - 3. Berapakah 3*d(n) - 224*w(n)?
+2784*n**2
+Misalkan w (b) menjadi turunan ke-pertama dari -14*b**2 - 4*b + 3144. Misalkan z(q) = q + 1. Berapakah -w(r) - 4*z(r)?
+24*r
+Misalkan n(u) = 2*u**3 - 5*u**2 - 6*u + 4. Misalkan p(h) = 7*h**3 + 5*h + 2*h**3 - 5*h**3 + 11*h**2 - 3 - 7*h**2 - 6*h**3. Berapakah 5*n(x) + 6*p(x)?
+-2*x**3 - x**2 + 2
+Misalkan g (q) menjadi turunan ke-kedua dari 5*q**4/12 - 19*q**3/6 + 814*q. Misalkan c(p) = -4*p**2 + 18*p. Berapakah -6*c(h) - 5*g(h)?
+-h**2 - 13*h
+Misalkan b(i) = 13*i**3 - 9*i**2 - 1564*i - 9. Misalkan v(k) = -4*k**3 + 2*k**2 + 391*k + 2. Beri -2*b(a) - 9*v(a).
+10*a**3 - 391*a
+Misalkan h(i) = 9*i**2 + 39. Misalkan n(b) = -2*b**2 - 8. Misalkan u = -467 + 472. Misalkan -a = 2*a + 4*g + 5, 0 = -3*a - 2*g + u. Beri a*h(o) + 24*n(o).
+3 - 3*o**2
+Misalkan u(g) = 24*g**2 + 49*g + 3. Misalkan x(z) = z**2 + 3*z + 1. Beri -u(m) + 13*x(m).
+-11*m**2 - 10*m + 10
+Misalkan f(a) = -4*a**2 - 6 + 3 - 74*a**3 + 17*a**3 + a**2 - 14*a**3. Misalkan b(g) = -g**3 + g**2 + 1. Tentukan 3*b(t) + f(t).
+-74*t**3
+Misalkan r(j) = -j**2 + j. Misalkan s be (100/(-125) - 3/(-10))*-12. Misalkan v(p) = 97 - 5*p + 0*p**2 - 35 + 3*p**3 + s*p**2 - 64. Berapakah -5*r(l) - v(l)?
+-3*l**3 - l**2 + 2
+Misalkan t(y) = 3*y + 3. Misalkan g(l) = 12*l + l + 1 + 12. Misalkan k = 6 - 4. Misalkan 5*m + 4 = 4*d, 9*m - 28 = 13*m + 4. Berapakah d*t(p) + k*g(p)?
+-p - 1
+Misalkan k(a) = -2*a**2 - 5. Misalkan d(v) = -7*v**2 - 4*v - 50. Beri -d(c) + 4*k(c).
+-c**2 + 4*c + 30
+Misalkan h(w) = 4*w**3 + 18*w**2 + 7*w + 5. Misalkan b(d) = 13*d**3 + 56*d**2 + 22*d + 17. Berapakah 2*b(g) - 7*h(g)?
+-2*g**3 - 14*g**2 - 5*g - 1
+Misalkan g(n) = n**3 + 3*n - 2. Misalkan q(z) = 177*z**3 - z**2 - 6*z + 4. Beri -4*g(r) - 2*q(r).
+-358*r**3 + 2*r**2
+Misalkan q(c) = c**3 - 37*c**2 + 102*c - 11. Misalkan s be q(34). Misalkan r(u) = -8*u**3 - 2*u - 3. Misalkan o(k) = -23*k**3 - 6*k - 9. Hitung s*r(a) + 4*o(a).
+-4*a**3 - 2*a - 3
+Misalkan h(k) = 30*k. Misalkan v(z) = -1. Misalkan y = 5302 + -5304. Tentukan y*v(l) - h(l).
+2 - 30*l
+Misalkan z(d) = -10*d**3 - 2*d**2 + 44*d - 57. Misalkan q(f) = 36*f**3 + 7*f**2 - 131*f + 173. Berapakah -2*q(x) - 7*z(x)?
+-2*x**3 - 46*x + 53
+Misalkan j(m) = -319*m - 88. Misalkan -5*z - 3*n = -19, 4*n - 2*n - 2 = 2*z. Misalkan s(v) = -z - 3 - 208*v + 219*v + 8. Tentukan 3*j(t) + 88*s(t).
+11*t
+Misalkan c(a) = 3*a - 1. Misalkan q(y) = 437*y + 4. Beri -10*c(u) - 2*q(u).
+2 - 904*u
+Misalkan d(l) = l**2 + l - 1. Misalkan z(t) = 6*t**2 + 10*t - 10. Misalkan x + 2*x + 30 = 0. Misalkan o = 153264 - 153263. Berapakah o*z(q) + x*d(q)?
+-4*q**2
+Misalkan u(j) = -4235*j**2 - 12*j. Misalkan s(p) = -25413*p**2 - 68*p. Hitung 6*s(n) - 34*u(n).
+-8488*n**2
+Misalkan o(v) = 8*v - 325. Misalkan n(i) = 326 - 9*i. Beri 5*n(c) + 6*o(c).
+3*c - 320
+Misalkan p(r) = -r**2 + r + 1. Misalkan q = -11365 - -11364. Misalkan i(z) = z**3 - 4*z**2 + 4*z + 13. Beri q*i(y) + 4*p(y).
+-y**3 - 9
+Misalkan -1 + 6 = -5*x - 40. Misalkan l(n) = 8*n**3 + 2*n**2 + 3. Misalkan g(k) = 32*k**3 + 9*k**2 + 12. Berapakah x*l(s) + 2*g(s)?
+-8*s**3 - 3
+Misalkan o(q) = -29*q**2 - 102. Misalkan m(v) = 8*v**2 + 25. Berapakah 11*m(a) + 3*o(a)?
+a**2 - 31
+Misalkan d(y) = 4119*y + 24. Misalkan s(v) = -1030*v - 5. Beri 2*d(x) + 9*s(x).
+3 - 1032*x
+Misalkan f(a) = 2 - 4*a. Misalkan b(p) = 5*p - 2. Misalkan -1883*n = -1884*n + 2. Tentukan n*b(q) + 3*f(q).
+2 - 2*q
+Misalkan g(o) = -19. Misalkan w(r) = r + 82. Misalkan u(v) = 4*g(v) + w(v). Misalkan t(c) = c + 6. Berapakah 3*t(l) - 4*u(l)?
+-l - 6
+Misalkan u(y) = -136*y - 7. Misalkan k(f) = 1773*f + 90. Berapakah 2*k(h) + 27*u(h)?
+-126*h - 9
+Misalkan d(n) = -32*n**3 - 5*n**2 - 5*n - 5. Misalkan p(f) = 1665*f**3 + 259*f**2 + 259*f + 259. Misalkan r be 6/2 + (22/3 + -6)*-6. Beri r*p(u) - 259*d(u).
+-37*u**3
+Misalkan f (v) menjadi turunan ke-ketiga dari v**4/8 - 7*v**3/6 + 3*v**2 + 31*v. Misalkan x = -66 + 63. Misalkan k(h) = 3 - 2*h. Tentukan x*f(p) - 5*k(p).
+p + 6
+Misalkan p(h) = 5635*h**2 - 12740*h - 3185. Misalkan y(q) = -2*q**2 + 4*q + 1. Hitung 6*p(j) + 19110*y(j).
+-4410*j**2
+Misalkan m(s) = -7. Misalkan c(r) = r**2 + 6*r - 11. Misalkan d(g) = -2*g**2 - 11*g + 20. Misalkan q(b) = -11*c(b) - 6*d(b). Tentukan m(z) + 2*q(z).
+2*z**2 - 5
+Misalkan d(p) = -7*p - 2915. Misalkan z(b) = b + 25. Beri d(h) + 6*z(h).
+-h - 2765
+Misalkan 212 = -71*u + 18*u. Misalkan w(a) = -6*a - 5. Misalkan g(l) = 7*l + 5. Hitung u*w(r) - 3*g(r).
+3*r + 5
+Misalkan o(a) = 3*a**2 + 2*a - 6. Misalkan q(m) = m**2 + 2*m - 7. Beri -4*o(r) + 3*q(r).
+-9*r**2 - 2*r + 3
+Misalkan w(g) = g**2 + 6. Misalkan i(n) = -n**2 - n + 4. Misalkan u be i(-4). Misalkan h be u/10 + 319/55. Misalkan r(a) = -1. Tentukan h*r(o) + w(o).
+o**2 + 1
+Misalkan s(h) = -806*h**2 - 8*h - 4. Misalkan p(c) = -176500*c**2 - 1750*c - 875. Berapakah -4*p(v) + 875*s(v)?
+750*v**2
+Misalkan i (l) menjadi turunan ke-pertama dari -l**2 - 9*l + 4. Misalkan w(v) = -1. Misalkan -q - 5*k + 2*k - 2 = 0, -5*q - 2*k = 23. Tentukan q*w(u) + i(u).
+-2*u - 4
+Misalkan z(k) = k + 3. Misalkan h(s) = 3*s**2 - 7*s. Misalkan u be h(-4). Misalkan c(y) = -82 - 79 - u + 232 - y. Berapakah -3*c(j) - 5*z(j)?
+-2*j
+Misalkan d(z) = z**2 + 8*z. Misalkan y(x) = x. Misalkan o be 83*(-1 - -3)*-2. Misalkan v be (-34)/119 - (o/7)/(-2). Hitung v*y(k) + 3*d(k).
+3*k**2
+Misalkan x(c) = -368*c**3 + 5*c**2 - 3*c - 18. Misalkan i(t) = t**3 - t**2 + t + 3. Tentukan -6*i(r) - x(r).
+362*r**3 + r**2 - 3*r
+Misalkan o(p) = 3*p + 2. Misalkan f(u) = -10*u. Misalkan b(t) = 1 - 28*t. Misalkan d(r) = b(r) - 3*f(r). Berapakah -5*d(s) + 3*o(s)?
+1 - s
+Misalkan u(s) = 43*s - 102. Misalkan j(n) = 402 - 172*n. Tentukan -2*j(x) - 9*u(x).
+114 - 43*x
+Misalkan x(z) = -3*z**2 - 40*z + 2. Misalkan v(t) = 4*t**2 + 55*t. Beri 4*v(i) + 5*x(i).
+i**2 + 20*i + 10
+Misalkan q(y) = y + 14. Misalkan s(f) = -f - 36. Tentukan 2*q(n) - s(n).
+3*n + 64
+Misalkan p(l) = 3*l**3 - 4*l**2 - 343*l - 13. Misalkan n(t) = 2*t**3 - 2*t**2 - 158*t - 7. Berapakah 5*n(x) - 3*p(x)?
+x**3 + 2*x**2 + 239*x + 4
+Misalkan t (g) menjadi turunan ke-ketiga dari -7*g**4/24 + 3*g**3/2 + 99*g**2 + 53*g + 3. Misalkan v(s) = -1 + 5 + 4 - 6*s. Beri 4*t(m) - 5*v(m).
+2*m - 4
+Misalkan v(h) = 98*h**3 - 16*h**2 + 5*h. Misalkan m(t) = 199*t**3 - 30*t**2 + 9*t. Berapakah -5*m(c) + 9*v(c)?
+-113*c**3 + 6*c**2
+Misalkan j(t) = -10*t**3 + 30*t**2 + 28*t - 42. Misalkan k(y) = -y**3 + 3*y**2 + 2*y - 3. Berapakah -2*j(w) + 28*k(w)?
+-8*w**3 + 24*w**2
+Misalkan o (b) menjadi turunan ke-ketiga dari 25*b**4/24 - 2*b**2 - 837. Misalkan y(m) = 1349*m. Berapakah 323*o(x) - 6*y(x)?
+-19*x
+Misalkan k(x) = -2918*x - 4. Misalkan c(t) = 1 - 8*t. Tentukan 5*c(m) + k(m).
+1 - 2958*m
+Misalkan d(g) = -2*g**2 + 98*g - 12. Misalkan m(z) = -8*z**2 + 392*z - 54. Beri 9*d(i) - 2*m(i).
+-2*i**2 + 98*i
+Misalkan u(p) = 253*p. Misalkan z be (((-16905)/(-42))/35)/(1/(-4)*2). Misalkan n(x) = -23*x. Hitung z*n(c) - 2*u(c).
+23*c
+Misalkan d(r) = -r**2 + 8*r - 1. Misalkan f(v) = -32*v**2 + 2*v + 4. Misalkan q(c) = 53*c**2 - 3*c - 7. Misalkan o(y) = -5*f(y) - 3*q(y). Beri -d(j) - 3*o(j).
+-2*j**2 - 5*j - 2
+Misalkan t (o) menjadi turunan ke-kedua dari -o**4/3 + o**3/3 - 7*o**2/2 - 5*o + 2. Misalkan r(n) = 4*n**2 - 449 + 450 - 3*n**2. Tentukan -6*r(w) - t(w).
+-2*w**2 - 2*w + 1
+Misalkan p(g) = -1. Misalkan u(o) = o + 26. Misalkan 0 = 4*b + 22*b + 598. Misalkan i be u(b). Misalkan h(z) = 4 - z - 4 - 3. Tentukan i*h(a) - 7*p(a).
+-3*a - 2
+Misalkan h(m) = 435*m + 2775. Misalkan c(a) = -24*a - 5. Tentukan 18*c(j) + h(j).
+3*j + 2685
+Misalkan z(v) = -5*v**2 + 2*v + 8. Misalkan l(j) = j**2 + 1. Misalkan y(h) = -4*l(h) + z(h). Misalkan d(p) = 10*p**2 - 3*p - 5. Hitung 4*d(i) + 5*y(i).
+-5*i**2 - 2*i
+Misalkan r(j) = 2*j**3 - 3*j. Misalkan p = 18508 + -18511. Misalkan -2*i + 2 + 2 = d, 5*d + 3*i = -8. Misalkan m(g) = -2*g**3 + 4*g. Tentukan d*r(f) + p*m(f).
+-2*f**3
+Misalkan h (p) menjadi turunan ke-pertama dari 0*p**2 + 6*p - 4/3*p**3 + 40. Misalkan a(r) = 11 - 7*r**2. Berapakah -6*a(i) + 11*h(i)?
+-2*i**2
+Misalkan x(r) = 6*r + 7. Misalkan y(b) = 2*b - 177 + 553 - 168 + 29*b - 172. Berapakah 11*x(j) - 2*y(j)?
+4*j + 5
+Misalkan b(a) = 83*a**3 - 9*a**2 - 4*a + 2. Misalkan y(v) = -582*v**3 + 63*v**2 + 29*v - 15. Hitung -15*b(q) - 2*y(q).
+-81*q**3 + 9*q**2 + 2*q
+Misalkan p(i) = 2 - 2*i. Misalkan x = -7818 - -7818. Misalkan q (g) menjadi turunan ke-kedua dari x - 18*g - 1/2*g**2 + 1/6*g**3. Beri -3*p(h) - 4*q(h).
+2*h - 2
+Misalkan x(z) = 25*z**3 - 3529*z - 11. Misalkan b(l) = -9*l**3 + 1176*l + 4. Beri 11*b(o) + 4*x(o).
+o**3 - 1180*o
+Misalkan l(r) = 2*r**2 + 36*r - 345. Misalkan b(j) = 115 - 13*j. Berapakah 11*b(p) + 4*l(p)?
+8*p**2 + p - 115
+Misalkan a(b) = 11*b - 543. Misalkan t(j) = 19*j - 1088. Hitung -5*a(r) + 3*t(r).
+2*r - 549
+Misalkan u(i) = -24*i**2 + 6*i - 57. Misalkan f(l) = -15*l**2 + 4*l - 58. Berapakah 3*f(c) - 2*u(c)?
+3*c**2 - 60
+Misalkan -26*m - 496 = 36*m. Misalkan c(g) = 1. Misalkan p(f) = 6*f**2 + 8. Tentukan m*c(h) + p(h).
+6*h**2
+Misalkan n(w) = -6*w - 41. Misalkan i(m) = 10*m + 76. Beri -6*i(l) - 11*n(l).
+6*l - 5
+Misalkan i(x) = 9*x + 8. Misalkan c(y) = -34*y - 25. Beri 6*c(o) + 21*i(o).
+18 - 15*o
+Misalkan c(f) = 279*f - 5. Misalkan k(g) = 8*g - 2. Tentukan c(w) - 4*k(w).
+247*w + 3
+Misalkan q(g) = 380*g**3 - g**2 - 6*g - 2. Misalkan p(h) = -1136*h**3 + 2*h**2 + 21*h + 7. Hitung -2*p(j) - 7*q(j).
+-388*j**3 + 3*j**2
+Misalkan i(o) = -36*o**2 + 31*o + 17. Misalkan u(n) = 32*n**2 - 36*n - 17. Berapakah -7*i(c) - 6*u(c)?
+60*c**2 - c - 17
+Misalkan d(a) = -11*a**2. Misalkan w(j) = 23*j**2. Misalkan 0 = 190*g - 192*g + 3*k + 12, 0 = 2*g + 5*k + 36. Tentukan g*w(p) - 5*d(p).
+-14*p**2
+Misalkan g(f) = -521*f - 3. Misalkan h(m) = 600*m + 3. Hitung 4*g(l) + 3*h(l).
+-284*l - 3
+Misalkan j(s) = 7*s**2 - 2*s + 4. Misalkan w (u) menjadi turunan ke-ketiga dari -u**5/60 + u**3/6 + 341*u**2 - 2*u. Tentukan j(g) - 4*w(g).
+11*g**2 - 2*g
+Misalkan t(c) = -223*c - 4. Misalkan k(m) = 189*m + 3. Berapakah -8*k(f) - 7*t(f)?
+49*f + 4
+Misalkan j(k) = -4*k - 4. Misalkan c (u) menjadi turunan ke-ketiga dari 3*u**4/8 + 7*u**3/6 + 742*u**2. Beri -4*c(v) - 7*j(v).
+-8*v
+Misalkan k(a) = 6*a**3 - 9*a**2 - 2. Misalkan -39*r = 62*r - 707. Misalkan n(j) = -3*j**3 + 4*j**2 + 1. Tentukan r*n(g) + 3*k(g).
+-3*g**3 + g**2 + 1
+Misalkan b(r) = 2*r**2 + 5*r - 6. Misalkan t(u) = -2*u**2 - 6*u + 5. Misalkan 0 = 8*n + 1174 - 1134. Hitung n*t(x) - 6*b(x).
+11 - 2*x**2
+Misalkan u(o) = 2*o. Misalkan b = 11 + -16. Misalkan i(d) = -d. Misalkan 0 = 3*l + 102 - 12. Misalkan x be 2*5/l*6. Beri b*i(f) + x*u(f).
+f
+Misalkan u(x) = -5697*x - 110. Misalkan k(v) = 8546*v + 176. Hitung -5*k(h) - 8*u(h).
+2846*h
+Misalkan w = -6201 - -6207. Misalkan s(l) = 14*l**3 - 91*l**2. Misalkan f(y) = y**3 - 6*y**2. Berapakah w*s(m) - 91*f(m)?
+-7*m**3
+Misalkan q(h) = 13051*h + 275. Misalkan l(x) = 535092*x + 11220. Berapakah 5*l(j) - 204*q(j)?
+13056*j
+Misalkan f = -1 - -6. Misalkan s(g) = 3 - 2 + 3 - f. Misalkan q be 0 + -21*(-16)/168. Misalkan m(z) = z. Hitung q*m(j) - s(j).
+2*j + 1
+Misalkan j (o) menjadi turunan ke-pertama dari 5 - 4/3*o**3 + 0*o + 0*o**2. Misalkan x(h) = -12*h**2 - 6*h**2 + 26*h**2 - 4*h**2. Tentukan 3*j(t) + 4*x(t).
+4*t**2
+Misalkan n(f) = 4190*f**2 + 28492*f - 1676. Misalkan y(h) = 17*h - 1. Hitung -n(u) + 1676*y(u).
+-4190*u**2
+Misalkan s(v) = -32*v**3 + 304*v**2 + 9*v + 2. Misalkan q(u) = 18*u**3 - 153*u**2 - 6*u - 1. Beri 7*q(m) + 4*s(m).
+-2*m**3 + 145*m**2 - 6*m + 1
+Misalkan l(x) = -1382*x**2 + x + 2. Misalkan a(f) = 2076*f**2 - f - 3. Tentukan 5*a(t) + 7*l(t).
+706*t**2 + 2*t - 1
+Misalkan m(l) = -2*l**2 - 3*l + 4. Misalkan c(o) = o**2. Misalkan 5*x - i = 0, 5*i - 61 + 83 = 3*x. Tentukan x*m(z) - 4*c(z).
+-2*z**2 + 3*z - 4
+Misalkan h(q) = 271*q**3 + 12*q**2 - 24*q + 6. Misalkan m(a) = 271*a**3 + 14*a**2 - 28*a + 7. Berapakah -7*h(c) + 6*m(c)?
+-271*c**3
+Misalkan y(r) = -2001858*r**3 - 7241*r**2 - 7241*r. Misalkan k(g) = 553*g**3 + 2*g**2 + 2*g. Hitung 21723*k(u) + 6*y(u).
+1671*u**3
+Misalkan o(n) = 49*n + 7. Misalkan 0 = 26*s - 183 - 69 + 70. Misalkan r(q) = -74*q - 10. Berapakah s*o(v) + 5*r(v)?
+-27*v - 1
+Misalkan k be (-221)/(-51) + 12/(-9). Misalkan t(z) = 22*z. Misalkan q(v) = -133*v. Hitung k*q(j) + 19*t(j).
+19*j
+Misalkan i (p) menjadi turunan ke-kedua dari 0*p**3 + 1/20*p**5 + 1/12*p**4 + 4*p + 1/2*p**2 - 17. Misalkan m(v) = 5*v**3 + 4*v**2 + 2. Beri 4*i(z) - m(z).
+2 - z**3
+Misalkan u(c) = -c**2 - 2*c + 5. Misalkan f(o) = 59*o + 67426*o**2 - 67428*o**2 + 14 - 66*o. Beri 2*f(r) - 7*u(r).
+3*r**2 - 7
+Misalkan o(k) = -2*k**2 - 3*k - 6. Misalkan q = -135 + 128. Misalkan z(l) = 18*l - 3*l + 13 + 4*l**2 - 8*l. Beri q*o(j) - 3*z(j).
+2*j**2 + 3
+Misalkan d(c) = -2*c**3 - 2*c**2 + 5*c. Misalkan v = 209 - 227. Misalkan b be (v/2)/(-3)*4/(-12). Misalkan w(m) = -m. Hitung b*d(n) - 5*w(n).
+2*n**3 + 2*n**2
+Misalkan b(s) = 4 - 21*s. Misalkan l(y) = -10 + y + 5 - 9 - 15 + 28. Hitung b(j) + 4*l(j).
+-17*j
+Misalkan d(j) = -3*j - 11. Misalkan v(f) = 11*f + 293. Hitung -2*d(b) - v(b).
+-5*b - 271
+Misalkan -5*k + 2*r = -2*r + 31, -32 = 4*k - 5*r. Misalkan q(y) = 4*y. Misalkan i(d) = 4*d. Misalkan u = -437 + 306. Misalkan c = u + 133. Beri c*q(x) + k*i(x).
+-4*x
+Misalkan z(k) = k**2 - 5. Misalkan w(t) = 276 - 8*t**2. Beri w(p) + 6*z(p).
+246 - 2*p**2
+Misalkan m(k) = 8*k**3 + k**2 - 10*k + 370. Misalkan y(n) = -27*n**3 - 3*n**2 + 33*n - 1111. Berapakah 10*m(d) + 3*y(d)?
+-d**3 + d**2 - d + 367
+Misalkan -4*y - 11 = -3*n, -4*y - 13*n = -20*n + 15. Misalkan p(s) = -13*s**2 - 2*s - 1. Misalkan q(o) = -6*o**2 - o - 1. Tentukan y*p(w) + 5*q(w).
+-4*w**2 - w - 3
+Misalkan p(w) = 399*w**2 + 95*w. Misalkan c(d) = -25*d**2 - 6*d. Misalkan -54*m + 483 = 5*a - 50*m, -2*m + 4 = 0. Tentukan a*c(f) + 6*p(f).
+19*f**2
+Misalkan k(d) = 13*d**2 - 9*d. Misalkan g(c) = 6*c**2 - 5*c. Misalkan 337*h = 296*h - 123. Hitung h*k(y) + 5*g(y).
+-9*y**2 + 2*y
+Misalkan x(d) = -12*d - 6. Misalkan m = -9543 - -9548. Misalkan i(j) = -j - 1. Tentukan m*x(p) - 30*i(p).
+-30*p
+Misalkan w = -11124 - -11113. Misalkan j(g) = -9*g**2 - 2*g - 4. Misalkan q(y) = -18*y**2 - 4*y - 7. Tentukan w*j(u) + 6*q(u).
+-9*u**2 - 2*u + 2
+Misalkan a(m) = 37*m - 31. Misalkan g(x) = 54 - 75*x. Beri -15*a(b) - 8*g(b).
+45*b + 33
+Misalkan l(g) = -189*g**2 + 3*g - 186*g**2 + 380*g**2. Misalkan 3*q + 6 = -3. Misalkan w(z) = 2*z**2 + z. Misalkan 0 = -2*n - n + 24. Beri n*w(h) + q*l(h).
+h**2 - h
+Misalkan t(r) = 37*r**3 + 4*r**2 - 3641*r + 21. Misalkan q(x) = -11*x**3 - x**2 + 1213*x - 6. Hitung 7*q(m) + 2*t(m).
+-3*m**3 + m**2 + 1209*m
+Misalkan b(l) = 616*l - 8. Misalkan g(q) = 7 - 831*q. Hitung 5*b(m) + 4*g(m).
+-244*m - 12
+Misalkan j(p) = 275*p + 16. Misalkan c(z) = 2. Tentukan 14*c(m) - 2*j(m).
+-550*m - 4
+Misalkan v(f) = 12*f**2 - 4*f + 62. Misalkan z(i) = i - 32. Tentukan -v(o) - 2*z(o).
+-12*o**2 + 2*o + 2
+Misalkan m(w) = -87*w - 4. Misalkan t(s) = 160*s + 6. Misalkan q(v) = -11*m(v) - 6*t(v). Misalkan a(b) = b - 1. Beri -6*a(h) - q(h).
+-3*h - 2
+Misalkan j(l) = 8*l**2 + l. Misalkan c(t) = -166*t**2 - 2*t - 2. Hitung c(n) + 2*j(n).
+-150*n**2 - 2
+Misalkan x(j) = -108*j**2 + 45*j - 27. Misalkan h(d) = 27*d**2 - 10*d + 6. Beri 18*h(m) + 4*x(m).
+54*m**2
+Misalkan m(j) = -15*j**2 - j + 7. Misalkan v(w) = -7*w**2 - w + 3. Misalkan z(t) = -146*t - 1455. Misalkan s be z(-10). Beri s*v(a) - 2*m(a).
+-5*a**2 - 3*a + 1
+Misalkan 0 = -j - 5, 4*b + 8 = 7*j - 3*j. Misalkan o(s) = 5*s**3 - 6*s**2 - 5*s. Misalkan h(p) = 11*p**3 - 11*p**2 - 11*p. Tentukan b*o(n) + 3*h(n).
+-2*n**3 + 9*n**2 + 2*n
+Misalkan -3*a + 5*v - 28 + 6 = 0, 5*v = 5*a + 30. Misalkan x(n) = 168*n + 49. Misalkan z(g) = 7*g + 2. Berapakah a*x(p) + 98*z(p)?
+14*p
+Misalkan f(x) = -3*x**2 + 20*x + 37. Misalkan r(p) = 3*p**2 - 15*p - 41. Berapakah 3*f(a) + 4*r(a)?
+3*a**2 - 53
+Misalkan f(b) = 78255*b**2 - 405. Misalkan h(s) = 1168*s**2 - 6. Tentukan -4*f(a) + 270*h(a).
+2340*a**2
+Misalkan w(r) = -3*r. Misalkan c(l) = 3*l + 1. Misalkan o be (-2967)/(-30) - 8/(-80). Misalkan 45 = 48*q - o. Tentukan q*w(u) + 2*c(u).
+2 - 3*u
+Misalkan b(a) = -19672*a - 24. Misalkan j(q) = -8911413*q - 10878. Hitung -1813*b(v) + 4*j(v).
+19684*v
+Misalkan z(w) = w - 1. Misalkan m = 56 + -60. Misalkan x = m + 0. Misalkan p(c) = 3*c**2 - 4*c + 4. Hitung x*z(d) - p(d).
+-3*d**2
+Misalkan a(q) = -q. Misalkan t(x) = 109*x + 65*x + 116*x - 226*x. Hitung 112*a(u) + 2*t(u).
+16*u
+Misalkan a(l) = l**2. Misalkan -2*v + 9 = y, 195*v + 2*y = 200*v. Misalkan k(q) = 44*q**2. Berapakah v*k(f) - 56*a(f)?
+32*f**2
+Misalkan t(j) = -j. Misalkan z(u) = 20194*u - 20192*u - 8 - 11. Berapakah -t(f) - z(f)?
+19 - f
+Misalkan s(w) = -2*w - 213. Misalkan a(q) = q + 433. Tentukan 4*a(c) + 9*s(c).
+-14*c - 185
+Misalkan p be -2*208/(-32) + -2. Misalkan c(x) = -23*x**3 + 6*x**2 + 7. Misalkan s(d) = 45*d**3 - 11*d**2 - 13. Hitung p*c(r) + 6*s(r).
+17*r**3 - 1
+Misalkan m(l) = 3 + 5*l**2 + 0*l**2 - 5 - 72*l + 9 + 64*l. Misalkan g be ((-14)/(-4))/((9/2)/9). Misalkan q(y) = 6*y**2 - 9*y + 8. Beri g*m(s) - 6*q(s).
+-s**2 - 2*s + 1
+Misalkan d(x) = -11*x**2 + 2*x - 1. Misalkan u(a) = -2*a**3 + 3*a - 1. Beri 2*d(y) - 2*u(y).
+4*y**3 - 22*y**2 - 2*y
+Misalkan p(a) = 796789*a**3 - 4802*a**2 + 2401. Misalkan t(h) = -664*h**3 + 4*h**2 - 2. Hitung 6*p(x) + 7203*t(x).
+-2058*x**3
+Misalkan l(f) = 4*f + 27. Misalkan -3*g + 5*r + 660 - 617 = 0, g - 11 = r. Misalkan a(m) = 9*m + 55. Beri g*a(n) - 13*l(n).
+2*n - 21
+Misalkan s(n) = 11*n**3 - 17*n**2 + 24*n - 17. Misalkan c(k) = -346*k + 657*k - 6*k**2 - 303*k + 4*k**3 - 6. Hitung 17*c(o) - 6*s(o).
+2*o**3 - 8*o
+Misalkan c(t) = -9*t - 6. Misalkan j = -5 + 5. Misalkan v(k) = 2*k + 1 - 2*k + j*k + k. Berapakah 2*c(o) + 14*v(o)?
+2 - 4*o
+Misalkan t(j) = -j - 1. Misalkan w(i) = 1 - 4*i. Misalkan k(g) = g**2 - 22*g + 121. Misalkan y be k(12). Beri y*w(u) - 3*t(u).
+4 - u
+Misalkan w(d) = 2*d + 1. Misalkan n(u) = -u**3 + 2*u**2 + 2*u - 135. Hitung n(p) + 4*w(p).
+-p**3 + 2*p**2 + 10*p - 131
+Misalkan i(x) = 22*x - 1. Misalkan z(w) = -w**2 - 644*w + 6. Beri 4*i(y) + z(y).
+-y**2 - 556*y + 2
+Misalkan m(v) = 2*v**3 + 6. Misalkan h(d) = 4*d**3 - 2 - 35*d**3 + 19*d**3 + 10*d**3 - 3. Hitung -3*h(t) - 2*m(t).
+2*t**3 + 3
+Misalkan a(r) = r**2 - 484*r. Misalkan v(l) = 2*l**2 - 1447*l. Beri -10*a(t) + 3*v(t).
+-4*t**2 + 499*t
+Misalkan 1 = -11*t + 12 + 11. Misalkan f (o) menjadi turunan ke-kedua dari o**4/3 - 2*o**3/3 + o. Misalkan l(w) = -9*w**2 + 9*w. Tentukan t*l(i) + 5*f(i).
+2*i**2 - 2*i
+Misalkan -219*d + 15*d - 7*d = 633. Misalkan o(h) = 49*h**3 - 4*h**2 + 3*h. Misalkan i(j) = 49*j**3 - 3*j**2 + 2*j. Beri d*i(u) + 2*o(u).
+-49*u**3 + u**2
+Misalkan x(g) = 2*g**3 + 8*g. Misalkan l(v) = 1893 - 172*v. Misalkan o be l(11). Misalkan s(q) = q. Beri o*x(k) - 6*s(k).
+2*k**3 + 2*k
+Misalkan x(y) = -7*y**2 + 3*y. Misalkan q = -9 - -6. Misalkan p(l) = -96 + 48*l**2 - 20*l + 96. Misalkan 18*k - 114 + 474 = 0. Berapakah k*x(r) + q*p(r)?
+-4*r**2
+Misalkan s (q) menjadi turunan ke-kedua dari -16*q - 1/2*q**3 - 1 - 5/2*q**2. Misalkan d(i) = -1. Hitung -5*d(g) + s(g).
+-3*g
+Misalkan p(j) = 4 - 361*j. Misalkan s(h) = 289*h - 3. Misalkan t(l) = -4*p(l) - 5*s(l). Misalkan c(y) = -7*y**2 - 6*y - 2. Berapakah c(u) - 2*t(u)?
+-7*u**2 - 4*u
+Misalkan f(m) = -m - 20. Misalkan n(b) = 5. Misalkan 0 = 39*q + 57 + 294. Tentukan q*n(i) - 2*f(i).
+2*i - 5
+Misalkan j(m) = -3*m - 4. Misalkan b(z) = 13*z + 17. Misalkan -5*a + 43 = -2*s, -4*s - 52*a = -56*a + 56. Tentukan s*j(f) - 2*b(f).
+f + 2
+Misalkan u(c) = -2*c**3 - c - 1. Misalkan g(k) = 266*k**3 - 3*k**2 + 2*k + 3. Hitung g(p) + 2*u(p).
+262*p**3 - 3*p**2 + 1
+Misalkan j(n) = 1291*n**2 + 4*n. Misalkan b(x) = 645*x**2 + 2*x. Beri 11*b(d) - 6*j(d).
+-651*d**2 - 2*d
+Misalkan o(i) = 7265*i**2 - 6*i. Misalkan r(u) = u**2 + u. Beri o(g) + 5*r(g).
+7270*g**2 - g
+Misalkan i(u) = -1 + 158*u**2 + 129*u**3 - 144*u**2 + 127*u**3 - 257*u**3 + 2*u. Misalkan n(q) = 3*q**3 - 28*q**2 - 5*q + 3. Tentukan -7*i(m) - 3*n(m).
+-2*m**3 - 14*m**2 + m - 2
+Misalkan v(h) = 37*h**2 + 3*h + 4. Misalkan l(r) = -75*r**2 - 7*r - 9. Misalkan 635 = -160*d - 485. Berapakah d*v(m) - 3*l(m)?
+-34*m**2 - 1
+Misalkan y(b) = 1322 - 113031*b**2. Misalkan z(t) = 8 - 685*t**2. Berapakah 4*y(q) - 661*z(q)?
+661*q**2
+Misalkan f(v) = 348*v - 96. Misalkan j(i) = i + 24. Beri f(m) + 4*j(m).
+352*m
+Misalkan k(o) = -27*o. Misalkan h (d) menjadi turunan ke-pertama dari 41*d**2 - 768. Beri 3*h(g) + 8*k(g).
+30*g
+Misalkan k(f) = -8*f - 3. Misalkan -5*h = -3*h - 10. Misalkan 208 - 222 = m + 3*d, 0 = m + 2*d + 8. Misalkan j(x) = 7*x + 2. Berapakah h*j(v) + m*k(v)?
+3*v - 2
+Misalkan u = -12866 + 12867. Misalkan a(h) = 0*h**2 + 12*h - h**3 + 12 - h**3 - 2*h**2. Misalkan l(p) = -p - 1. Hitung u*a(t) + 12*l(t).
+-2*t**3 - 2*t**2
+Misalkan v(s) = 16*s + 8. Misalkan t(n) = -5*n - 3. Misalkan -5*r - 38 = -53. Misalkan 4*b + 0 + 9 = r*m, -5*m + b = -15. Beri m*v(i) + 8*t(i).
+8*i
+Misalkan j(k) = 11*k - 11*k + 3*k**2 + 8 - 3. Misalkan c(z) = 2422 - 2414 + 2*z**2 + 3*z**2. Tentukan -5*c(r) + 8*j(r).
+-r**2
+Misalkan o(q) = -5*q**3 - 84*q**2 + 22. Misalkan f(t) = t**3 - t**2 - 1. Berapakah 6*f(h) + o(h)?
+h**3 - 90*h**2 + 16
+Misalkan d = -7822 + 7818. Misalkan j(c) = 3*c**3 + 4*c**2 + 2*c - 6. Misalkan h(q) = 6*q**3 + 9*q**2 + 4*q - 13. Beri d*h(a) + 9*j(a).
+3*a**3 + 2*a - 2
+Misalkan m(y) = 23*y**3 - 2*y**2 + 2*y. Misalkan d = 4533 + -4531. Misalkan f(u) = -2575*u**3 + 225*u**2 - 225*u. Berapakah d*f(w) + 225*m(w)?
+25*w**3
+Misalkan f(u) = 5*u**3 - 4*u**2 - 6*u + 41. Misalkan p(s) = 16*s**3 - 14*s**2 - 20*s + 124. Hitung -10*f(r) + 3*p(r).
+-2*r**3 - 2*r**2 - 38
+Misalkan -5*k + 223 = 198. Misalkan n(l) = -k*l + 3*l - 9379 + 9377. Misalkan u(i) = 2*i + 2. Beri 4*n(q) + 3*u(q).
+-2*q - 2
+Misalkan q be 10/75*5*-6. Misalkan z (k) menjadi turunan ke-kedua dari -k**3/2 + k**2 + 3*k - 28. Misalkan o(n) = 5 - 7*n. Beri q*o(m) + 10*z(m).
+-2*m
+Misalkan c(w) = -5*w**2 - 21*w + 37. Misalkan x = -2595 - -2593. Misalkan b(i) = -i**2 - 5*i + 9. Tentukan x*c(q) + 9*b(q).
+q**2 - 3*q + 7
+Misalkan m(g) = g**3 + 1165*g + 2. Misalkan l(q) = -5*q**3 - 4664*q - 9. Hitung 2*l(u) + 9*m(u).
+-u**3 + 1157*u
+Misalkan i(y) = -389*y**3 + 5*y**2 - 31*y + 5. Misalkan a(d) = 389*d**3 - 6*d**2 + 37*d - 6. Tentukan 5*a(g) + 6*i(g).
+-389*g**3 - g
+Misalkan t be ((-2)/4)/(21/203) + 24/(-144). Misalkan y(x) = -2 - 6*x + 0*x + 6*x + x. Misalkan a(i) = i - 2. Beri t*y(d) + 6*a(d).
+d - 2
+Misalkan p(a) = a + 0*a + 0*a. Misalkan j(c) = 2*c + 2065. Misalkan g(k) = -345. Misalkan s(o) = -6*g(o) - j(o). Beri p(z) + s(z).
+5 - z
+Misalkan c(x) = -2*x**3 + 2*x. Misalkan d(y) = -3*y**3 + 3*y. Misalkan -98 = -3*t + 466. Misalkan s = -185 + t. Berapakah s*d(r) - 4*c(r)?
+-r**3 + r
+Misalkan d(j) = j**2 + 2*j. Misalkan c(s) = -86*s**2 - 8*s + 6. Tentukan -c(f) - 3*d(f).
+83*f**2 + 2*f - 6
+Misalkan o(a) = -1. Misalkan b(l) = l + 6. Misalkan i(h) = 80627*h**2 - 2*h - 80627*h**2 + h**3 - 2. Misalkan y be i(0). Hitung y*b(x) - 14*o(x).
+2 - 2*x
+Misalkan b(s) = 19674*s - 10. Misalkan u(l) = 9847*l - 4. Beri 2*b(x) - 5*u(x).
+-9887*x
+Misalkan k(a) = -5*a - 5. Misalkan y(w) = 15 - w. Misalkan n = 1 - 51. Misalkan v = -34 - n. Misalkan s be y(v). Misalkan h(j) = -1. Beri s*k(g) + 5*h(g).
+5*g
+Misalkan 3*j = 5*r + 29, -6*r + j = -15*r - 1. Misalkan t (i) menjadi turunan ke-pertama dari i**2/2 + 5. Misalkan m(v) = -42*v. Beri r*m(h) - 35*t(h).
+7*h
+Misalkan b(q) = q. Misalkan k(v) = -10423*v**2 - 2*v. Tentukan 2*b(s) + k(s).
+-10423*s**2
+Misalkan n = 6796 - 6795. Misalkan u(w) = -5*w**2 - w. Misalkan m(t) = t. Beri n*u(q) + m(q).
+-5*q**2
+Misalkan m(a) = 13*a - 307. Misalkan p(k) = 13*k - 306. Hitung 6*m(d) - 5*p(d).
+13*d - 312
+Misalkan u(q) = 3*q**3 - 10. Misalkan k(r) = 9220 - 5532*r**3. Hitung 6*k(h) + 5532*u(h).
+-16596*h**3
+Misalkan c(g) = -12*g**3 + 20*g**2 - 5*g + 5. Misalkan h(p) = 13*p**3 - 23*p**2 + 5*p - 6. Berapakah -7*c(j) - 6*h(j)?
+6*j**3 - 2*j**2 + 5*j + 1
+Misalkan g(a) = -2 - 401*a**2 - 403*a**2 - 409*a**2 + 1209*a**2 + 14*a + 5. Misalkan p(t) = 2*t**2 - 7*t - 2. Hitung 4*g(j) + 7*p(j).
+-2*j**2 + 7*j - 2
+Misalkan m(f) = 861*f + 59. Misalkan u(c) = 480*c + 29. Berapakah 4*m(w) - 7*u(w)?
+84*w + 33
+Misalkan p(f) = -f**3 - f**2 - f - 1. Misalkan g(j) = -1632*j**3 - 136*j**2 - 136*j - 136. Berapakah 2*g(l) - 272*p(l)?
+-2992*l**3
+Misalkan r(z) = 644*z**3 - 4*z**2 + 4*z + 5. Misalkan h(m) = -3*m**3 + m**2 - m - 1. Berapakah -4*h(c) - r(c)?
+-632*c**3 - 1
+Misalkan j(b) = 6*b**2 + 9*b + 13. Misalkan -3*i = 2*t + 22, -4*i + 7 = 5*t + 41. Misalkan r(x) = 5*x + 15 + 3*x**2 - 33 + 25. Beri i*j(w) + 11*r(w).
+-3*w**2 + w - 1
+Misalkan j(b) = -13*b**2 + 14189*b. Misalkan q(h) = 8*h**2 - 9459*h. Hitung 5*j(l) + 8*q(l).
+-l**2 - 4727*l
+Misalkan u (x) menjadi turunan ke-ketiga dari x**4/4 + x**3/3 + 1625*x**2. Misalkan w be 18/(-14) - (-8)/28. Misalkan q(g) = g. Hitung w*u(j) + 3*q(j).
+-3*j - 2
+Misalkan v(h) = -h**2 - 49*h - 723. Misalkan m(p) = 11*p + 181. Berapakah -9*m(l) - 2*v(l)?
+2*l**2 - l - 183
+Misalkan y(q) = 3*q - 2. Misalkan -13 = -5*h - 53. Misalkan f (l) menjadi turunan ke-kedua dari -5/6*l**3 - 33*l + 0 + 3/2*l**2. Hitung h*y(x) - 5*f(x).
+x + 1
+Misalkan t(s) = 3037*s - 39. Misalkan w(i) = 17 - 1518*i. Beri -3*t(b) - 7*w(b).
+1515*b - 2
+Misalkan m (u) menjadi turunan ke-pertama dari -7*u**3/3 - 5*u**2/2 - 27*u - 1491. Misalkan y(s) = -4*s**2 - 3*s - 14. Beri -3*m(g) + 5*y(g).
+g**2 + 11
+Misalkan m(k) = -35*k**3 - k**2 + 7*k - 2. Misalkan p(q) = -17*q**3 - q**2 + 4*q - 1. Tentukan -3*m(v) + 5*p(v).
+20*v**3 - 2*v**2 - v + 1
+Misalkan k(l) = 57*l**3 + 70*l**2 + 36*l + 49. Misalkan o(f) = -14*f**3 - 18*f**2 - 8*f - 12. Beri 2*k(i) + 9*o(i).
+-12*i**3 - 22*i**2 - 10
+Misalkan x(q) = -2*q**2 + 46*q + 232. Misalkan g(p) = p**2 - 29*p - 155. Berapakah -8*g(k) - 5*x(k)?
+2*k**2 + 2*k + 80
+Misalkan c(w) = 2*w**2 + 222*w + 1451. Misalkan b be c(-104). Misalkan r(y) = 50*y**2 - 6. Misalkan j(t) = 2 - 17*t**2. Berapakah b*r(l) - 14*j(l)?
+2 - 12*l**2
+Misalkan q(w) = 86*w - 76. Misalkan f(r) = 37 - 44*r. Beri -9*f(l) - 4*q(l).
+52*l - 29
+Misalkan z(x) = x**2 + 2*x + 2. Misalkan o = 2310 + -2306. Misalkan g(k) = -k. Hitung o*g(b) + z(b).
+b**2 - 2*b + 2
+Misalkan x(w) = 7 - 496*w. Misalkan z(j) = 492*j - 10. Beri -3*x(m) - 2*z(m).
+504*m - 1
+Misalkan 8*z - 3*z + 3*r = 13, 4*r + 2 = 3*z. Misalkan f(b) = 23*b - 2. Misalkan h(g) = 2646*g - 231. Berapakah z*h(j) - 231*f(j)?
+-21*j
+Misalkan z(s) = 35*s**3 - 3*s**2 + 3*s - 5. Misalkan o be 1 + 7 + 3 + -9. Misalkan u(n) = -35*n**3 + 2*n**2 - 2*n + 4. Hitung o*z(b) + 3*u(b).
+2 - 35*b**3
+Misalkan m(a) = 44*a**3 - 17*a - 46. Misalkan u(v) = -7*v**3 + 2*v + 1. Tentukan -m(d) - 6*u(d).
+-2*d**3 + 5*d + 40
+Misalkan c(g) = -16*g**2 - 25*g + 146. Misalkan k(y) = -5*y**2 - 8*y + 46. Berapakah -4*c(t) + 13*k(t)?
+-t**2 - 4*t + 14
+Misalkan d(i) = i**2 - 9*i**3 - 3 + 8*i**3 + 2. Misalkan v(o) = o + 11*o**2 - 4*o**3 - 5 - o**2 + 3*o**2 - 7*o**2. Tentukan -10*d(n) + 2*v(n).
+2*n**3 + 2*n**2 + 2*n
+Misalkan s(d) = 4*d**2 - 22*d - 10. Misalkan 31*x - 36*x + 4*r - 92 = 0, -2*x - 5*r - 17 = 0. Misalkan m(p) = -p**2 + 7*p + 3. Hitung x*m(j) - 5*s(j).
+-4*j**2 - 2*j + 2
+Misalkan f(n) = 23*n**3 - 15*n**2 - 62*n + 3. Misalkan s(g) = -26*g**3 + 16*g**2 + 71*g - 4. Berapakah -7*f(y) - 6*s(y)?
+-5*y**3 + 9*y**2 + 8*y + 3
+Misalkan a(f) = 61*f**2 + 85*f + 61. Misalkan t(y) = 336*y**2 + 476*y + 336. Berapakah 28*a(h) - 5*t(h)?
+28*h**2 + 28
+Misalkan r(p) = -321*p**2 - 17*p + 14. Misalkan b(k) = 642*k**2 + 28*k - 23. Beri -6*b(t) - 10*r(t).
+-642*t**2 + 2*t - 2
+Misalkan u(a) = a**2 + 2*a - 11. Misalkan q = 4677 + -4681. Misalkan o(i) = i**2 + i - 6. Beri q*u(s) + 7*o(s).
+3*s**2 - s + 2
+Misalkan f(x) = 10 - 929*x. Misalkan m(c) = 13 - 1393*c. Beri 7*f(s) - 5*m(s).
+462*s + 5
+Misalkan o(m) = -7*m**2 - 80 - 79 + 152 + 8*m**2. Misalkan q(c) = 4. Misalkan s = -34 - -32. Beri s*o(n) - 5*q(n).
+-2*n**2 - 6
+Misalkan m(y) = 12*y**3 + 8*y. Misalkan k be 2 + -9*(-7)/21. Misalkan f(s) = -8*s**3 - 5*s. Hitung k*m(i) + 8*f(i).
+-4*i**3
+Misalkan h = -13374 + 13377. Misalkan f (k) menjadi turunan ke-ketiga dari k**4/24 + 3*k**3/2 + k**2. Misalkan o(g) = -3*g - 19. Hitung h*o(y) + 7*f(y).
+6 - 2*y
+Misalkan s(t) = 1 - t. Misalkan n(k) = k**2 - k - 23. Misalkan w be (7/28)/(73/292). Hitung w*n(y) + s(y).
+y**2 - 2*y - 22
+Misalkan z(q) = 96*q**2 - 96*q**2 + 3077*q - 3078*q - 5*q**3 + 1. Misalkan y(g) = 2*g**3 + g. Hitung 5*y(d) + 3*z(d).
+-5*d**3 + 2*d + 3
+Misalkan d(g) = 20 - 1724*g. Misalkan l(m) = 569*m - 6. Berapakah 5*d(o) + 16*l(o)?
+484*o + 4
+Misalkan g(u) = u - 34. Misalkan f(y) = 648*y - 205. Tentukan f(o) - 6*g(o).
+642*o - 1
+Misalkan l(s) = 273*s**3 + 2 - 503*s**3 + 233*s**3 - 9*s**2 + 2*s. Misalkan n(v) = -v**2 + v + 1. Beri -l(f) + 2*n(f).
+-3*f**3 + 7*f**2
+Misalkan o(f) = -47*f**2 + 5*f + 5. Misalkan r = 8438 - 8441. Misalkan n(b) = 23*b**2 - 3*b - 3. Tentukan r*o(c) - 5*n(c).
+26*c**2
+Misalkan z(y) = 9*y**2 + 7*y + 11. Misalkan b (s) menjadi turunan ke-pertama dari 4/3*s**3 + 109 + 5*s + 3/2*s**2. Beri 5*b(n) - 2*z(n).
+2*n**2 + n + 3
+Misalkan s(f) = 6*f**3 + 7*f**2 + 2*f + 6. Misalkan a(c) = -c**2 - 1. Misalkan t = 6379 + -6385. Berapakah t*a(h) - s(h)?
+-6*h**3 - h**2 - 2*h
+Misalkan x(g) = -36*g - 1228. Misalkan t be x(-34). Misalkan z(k) = 2*k**2 - 4. Misalkan j(r) = -r**2 - 1. Tentukan t*j(a) + z(a).
+6*a**2
+Misalkan 0 = 6*o - 12. Misalkan p(y) = -y**2 - y + 5. Misalkan z be p(o). Misalkan f(x) = -3*x + 2 + 0 - 5. Misalkan s(m) = -1. Hitung z*f(b) + 4*s(b).
+3*b - 1
+Misalkan p(d) = -d**2 - d. Misalkan -2*j - 28 = -5*l, 624*j - 2 = 622*j. Misalkan x(s) = 2*s**3 - 21*s**2 + 6*s. Beri l*p(q) + x(q).
+2*q**3 - 27*q**2
+Misalkan q(t) = 701*t - 606. Misalkan i(r) = 1668 - 2103*r. Beri -4*i(g) - 11*q(g).
+701*g - 6
+Misalkan h (m) menjadi turunan ke-kedua dari -5*m**4/12 + 5*m**3/6 + 5*m**2/2 - 401*m - 2. Misalkan r(w) = -4*w**2 + 4*w + 4. Beri -3*h(u) + 4*r(u).
+-u**2 + u + 1
+Misalkan w(x) = -47*x. Misalkan n(o) = 25 - 930*o. Beri n(m) - 20*w(m).
+10*m + 25
+Misalkan s(p) = 156*p**2 + 24*p + 24. Misalkan v(g) = -31*g**2 - 5*g - 5. Misalkan 0 = 36*y - 125 - 55. Berapakah y*s(r) + 24*v(r)?
+36*r**2
+Misalkan x(o) = -o**3 + o**2 + 1. Misalkan u(z) = -8*z**2 + 636*z**3 - 1242*z**3 - 7 + 3*z + 611*z**3. Tentukan -u(q) - 6*x(q).
+q**3 + 2*q**2 - 3*q + 1
+Misalkan h(x) = 3*x. Misalkan w(p) = 1 - 7*p. Misalkan y = -22 + -36. Misalkan f = 113 + y. Misalkan a = -60 + f. Hitung a*h(t) - 2*w(t).
+-t - 2
+Misalkan q (r) menjadi turunan ke-pertama dari -3*r**2/2 - 2*r - 5. Misalkan g(n) = 2*n + 1. Misalkan 60 - 96 = -9*p. Beri p*g(w) + 3*q(w).
+-w - 2
+Misalkan b (j) menjadi turunan ke-ketiga dari 5/24*j**4 + 285*j**2 + 0 + 0*j + 1/6*j**3 + 1/12*j**5. Misalkan c(u) = 4*u**2 + 4*u + 1. Beri 3*b(m) - 4*c(m).
+-m**2 - m - 1
+Misalkan a(d) = 4*d + 1. Misalkan 26 = 5*w + 3*v, -5*w - 9*v + 0 + 68 = 0. Misalkan x(h) = h - 1. Hitung w*a(f) - x(f).
+3*f + 2
+Misalkan g(m) = -37*m - 5. Misalkan s(j) = -87*j - 23*j + 33*j + 37*j - 9 - 34*j. Tentukan 5*g(a) - 3*s(a).
+37*a + 2
+Misalkan a(g) = 2*g - 10. Misalkan u(q) = -100*q - 21. Beri -2*a(p) + u(p).
+-104*p - 1
+Misalkan c(l) = 282 - 12*l. Misalkan w(y) = 6*y - 140. Berapakah 6*c(o) + 13*w(o)?
+6*o - 128
+Misalkan g (v) menjadi turunan ke-ketiga dari v**5/60 - 3*v**4/8 - 7*v**3/3 + v**2 - 4065. Misalkan o(k) = -3*k - 5. Hitung -3*g(d) + 8*o(d).
+-3*d**2 + 3*d + 2
+Misalkan x(k) = 7 - 410*k. Misalkan z(f) = 29 - 1643*f. Beri 17*x(u) - 4*z(u).
+3 - 398*u
+Misalkan m(n) = 96*n + 90*n + 5 + 97*n - 1 - 284*n. Misalkan f(y) = 1 - y. Berapakah -6*f(q) + 2*m(q)?
+4*q + 2
+Misalkan -33*q - 130*q + 1141 = 0. Misalkan j(w) = w**2 - 3*w - 1. Misalkan o(m) = m**2 - 4*m - 1. Tentukan q*j(p) - 5*o(p).
+2*p**2 - p - 2
+Misalkan u(d) = -4*d**2 - 4*d - 295. Misalkan h(v) = 9*v**2 + 9*v + 599. Beri -2*h(o) - 5*u(o).
+2*o**2 + 2*o + 277
+Misalkan p be (-42)/105 - 1994/(-10). Misalkan o = p - 194. Misalkan i(h) = -10*h**2 - 3*h. Misalkan g(a) = -11*a**2 - 4*a. Hitung o*g(x) - 6*i(x).
+5*x**2 - 2*x
+Misalkan x(b) = 5*b**3 - 5*b**2 + 13*b - 5. Misalkan m(r) = -7*r**3 + 8*r**2 - 15*r + 7. Beri 4*m(c) + 5*x(c).
+-3*c**3 + 7*c**2 + 5*c + 3
+Misalkan i(g) = -4*g**2 - 1223*g - 8. Misalkan c(t) = -3*t**2 - 916*t - 6. Tentukan 9*c(k) - 7*i(k).
+k**2 + 317*k + 2
+Misalkan d (q) menjadi turunan ke-pertama dari 2*q**3 - 5*q**2/2 + 21*q - 1509. Misalkan i(v) = -2*v**2 + 2*v - 7. Beri -4*d(o) - 11*i(o).
+-2*o**2 - 2*o - 7
+Misalkan i(k) = 9*k - 9. Misalkan p(w) = 18 - 19*w. Hitung -5*i(v) - 2*p(v).
+9 - 7*v
+Misalkan r(i) = 13*i + 3. Misalkan n(z) = -1759*z - 1 + 1771*z + 4 + 0. Tentukan -5*n(m) + 4*r(m).
+-8*m - 3
+Misalkan h(z) = -3188*z**2 + 7*z + 14. Misalkan a(p) = 1595*p**2 - 3*p - 6. Berapakah -14*a(m) - 6*h(m)?
+-3202*m**2
+Misalkan z (y) menjadi turunan ke-kedua dari -y**3/6 - 3*y. Misalkan f(i) = 2*i - 1. Misalkan 543*c + 2713 + 1088 = 0. Hitung c*z(a) - 2*f(a).
+3*a + 2
+Misalkan d (g) menjadi turunan ke-kedua dari 5*g**3/3 - 5*g**2 + 5*g - 42. Misalkan x(k) = 7 - 7*k. Tentukan 5*d(f) + 7*x(f).
+f - 1
+Misalkan j(a) = -3*a**3 + 64*a**2 - 28*a - 8. Misalkan y(x) = 2*x**3 - 43*x**2 + 19*x + 5. Hitung 5*j(q) + 8*y(q).
+q**3 - 24*q**2 + 12*q
+Misalkan o(g) = 18*g - 9777. Misalkan h(x) = 5*x - 3249. Berapakah -14*h(z) + 4*o(z)?
+2*z + 6378
+Misalkan 80 - 74 = -b. Misalkan c(h) = h**3 - 8*h**2 - 6*h + 6. Misalkan s(n) = n**3 - 8*n**2 - 5*n + 5. Hitung b*s(p) + 5*c(p).
+-p**3 + 8*p**2
+Misalkan f(t) = 2*t**3 + t**2 + 2*t + 1. Misalkan x(o) = -1972*o**3 - 145*o**2 - 290*o - 145. Hitung 145*f(y) + x(y).
+-1682*y**3
+Misalkan q(r) = -4*r**2 + 2*r - 5. Misalkan c(x) = 4 + 23*x + 27*x - 4*x**2 + 3 - 48*x - 13. Beri -6*c(l) + 7*q(l).
+-4*l**2 + 2*l + 1
+Misalkan o(s) = 2*s - 25. Misalkan u(y) = y - 10. Misalkan d(t) = 2*o(t) - 5*u(t). Misalkan z(k) = k + 7. Beri 2*d(f) + z(f).
+7 - f
+Misalkan y(n) = -20732290*n**2 - 23649*n + 15766. Misalkan v(h) = -7889*h**2 - 9*h + 6. Tentukan -7883*v(t) + 3*y(t).
+-7883*t**2
+Misalkan o(i) = 3 - 7*i. Misalkan v(k) = 1 - k. Misalkan q = -3328 - -3324. Beri q*v(b) + o(b).
+-3*b - 1
+Misalkan m(q) = 406*q - 6. Misalkan n(v) = 1 - 2*v. Hitung m(u) + 6*n(u).
+394*u
+Misalkan m(q) = -11*q - 30. Misalkan g(d) = d + 16. Berapakah g(t) - m(t)?
+12*t + 46
+Misalkan c(x) = 249*x**2 - 18*x - 17. Misalkan j(g) = -83*g**2 + 6*g + 6. Beri -6*c(a) - 17*j(a).
+-83*a**2 + 6*a
+Misalkan m(w) = 12*w**2 + 2*w + 2. Misalkan b(s) = 114*s - 905. Misalkan q be b(8). Misalkan n(d) = -35*d**2 - 7*d - 7. Tentukan q*m(a) + 2*n(a).
+14*a**2
+Misalkan r(v) = -121*v**3 - 4*v - 9. Misalkan q(i) = 30*i**3 + i + 2. Misalkan -f + 4 = 0, 3*z - 144*f + 145*f - 31 = 0. Beri z*q(o) + 2*r(o).
+28*o**3 + o
+Misalkan x(v) = -3*v**3 - 260*v**2 - 5*v - 5. Misalkan z(d) = -d**3 - 262*d**2 - 4*d - 4. Hitung -2*x(m) + 3*z(m).
+3*m**3 - 266*m**2 - 2*m - 2
+Misalkan h(m) = 2*m - 15. Misalkan y(j) = j - 10. Misalkan 0 = 4*x + q + 19, -212*x + 23 = -216*x + 3*q. Beri x*h(f) + 7*y(f).
+5 - 3*f
+Misalkan d = 347 + -195. Misalkan k(y) = 163*y - 3 - d*y - 1. Misalkan w(h) = 2 - 5*h. Berapakah -2*k(i) - 5*w(i)?
+3*i - 2
+Misalkan o = -1422 - -1421. Misalkan a(f) = -3*f**3 - 8*f**2 + 2*f - 2. Misalkan s(m) = -m**3 + m - 1. Beri o*a(w) + 2*s(w).
+w**3 + 8*w**2
+Misalkan i (s) menjadi turunan ke-pertama dari s**2/2 + s - 969. Misalkan k(q) = 2*q**2 + 4*q + 11. Beri -6*i(n) + k(n).
+2*n**2 - 2*n + 5
+Misalkan t(l) = 4*l**3 - 1. Misalkan g (b) menjadi turunan ke-kedua dari 1/2*b**2 - 1 - 1/4*b**5 + 46*b + 0*b**3 + 0*b**4. Berapakah -2*g(c) - 3*t(c)?
+1 - 2*c**3
+Misalkan j(b) = -14*b - 7. Misalkan s(k) = 13*k - 20. Misalkan x(v) = 8 - 4*v. Misalkan m(o) = 3*s(o) + 8*x(o). Beri 4*j(z) + 7*m(z).
+-7*z
+Misalkan k(o) = 3*o**3 - o + 2. Misalkan d(i) = -i**3 + 35*i - 2*i**2 + 2*i**2 - 1 - 34*i. Misalkan v be 4*2/(4 + 4). Beri v*k(t) + 2*d(t).
+t**3 + t
+Misalkan -2*r - 12 = r, -2*r - 20 = 2*a. Misalkan d(x) = 5*x**2 + 5*x - 2. Misalkan u(s) = 553 - 187 + 2*s**2 - 188 + 2*s - 179. Tentukan a*d(p) + 14*u(p).
+-2*p**2 - 2*p - 2
+Misalkan u(a) = -a**2 + 3*a. Misalkan i(s) = 1660*s**2 + 180*s. Hitung i(v) - 60*u(v).
+1720*v**2
+Misalkan v(s) = -7*s**3 + 3*s**2 + 22*s + 5. Misalkan p(r) = -10*r**3 + 4*r**2 + 33*r + 7. Misalkan -51*m + 103 = -254. Berapakah m*v(z) - 5*p(z)?
+z**3 + z**2 - 11*z
+Misalkan h = -3 - -2. Misalkan b = 86270 - 86266. Misalkan o(i) = -i**2 + i - 1. Misalkan p(g) = -3*g**2 + 6*g - 3. Tentukan b*o(y) + h*p(y).
+-y**2 - 2*y - 1
+Misalkan f(m) = -2*m**3 + 6*m**2 - m + 44. Misalkan v(y) = -8*y**3 + 19*y**2 - 2*y + 131. Berapakah 7*f(d) - 2*v(d)?
+2*d**3 + 4*d**2 - 3*d + 46
+Misalkan m(z) = 2*z + 8. Misalkan s(x) = -21*x - 83. Beri 22*m(w) + 2*s(w).
+2*w + 10
+Misalkan q(k) = 55*k**3 + 3*k**2 - 60*k - 5. Misalkan b(d) = -83*d**3 - 4*d**2 + 89*d + 7. Tentukan 5*b(c) + 7*q(c).
+-30*c**3 + c**2 + 25*c
+Misalkan z(t) = -117*t**2 - 4*t + 18. Misalkan q(i) = 237*i**2 + 9*i - 39. Hitung 6*q(d) + 13*z(d).
+-99*d**2 + 2*d
+Misalkan u(t) = 4. Misalkan i (l) menjadi turunan ke-pertama dari l**2/2 + 36*l - 85. Misalkan c be (71 - -1)*(-19)/(-38). Beri c*u(a) - 4*i(a).
+-4*a
+Misalkan y(q) = 11*q**2 + 56*q - 21. Misalkan b(h) = 10*h**2 + 56*h - 16. Tentukan 4*b(f) - 3*y(f).
+7*f**2 + 56*f - 1
+Misalkan n(l) = 2 - 4*l**2. Misalkan p(d) = 3*d**2 - d - 1. Misalkan w(c) = -4*c**2 - 3*c + 2. Misalkan y(x) = 3*p(x) - w(x). Beri -8*n(a) - 3*y(a).
+-7*a**2 - 1
+Misalkan p(y) = -12*y**2 + 86*y + 299. Misalkan v(f) = -14*f**2 + 108*f + 300. Tentukan -5*p(m) + 4*v(m).
+4*m**2 + 2*m - 295
+Misalkan j(m) = -556. Misalkan a(l) = l - 6. Beri -2*a(k) + j(k).
+-2*k - 544
+Misalkan o(j) = 8*j - 1. Misalkan 162*r - 157*r - 31 = d, -5*r + 1 = 4*d. Misalkan k(v) = -v. Hitung d*k(s) - o(s).
+1 - 2*s
+Misalkan q(r) = -24 - 10*r - 3*r + 27. Misalkan d(f) = 2*f - 1. Misalkan g(k) = 24*d(k) + 3*q(k). Misalkan z(j) = 4*j - 7. Beri -3*g(p) + 7*z(p).
+p - 4
+Misalkan -2*t = 4*p - 64, -4*t - 2 - 14 = 0. Misalkan b be p/2*(-2)/(-9) + -3. Misalkan u(x) = -7*x - 2. Misalkan d(v) = v. Berapakah b*u(l) - 4*d(l)?
+3*l + 2
+Misalkan y(o) = 81*o**3 + 17*o**2 - 2. Misalkan s(k) = -280*k**3 - 51*k**2 + k + 7. Berapakah 2*s(n) + 7*y(n)?
+7*n**3 + 17*n**2 + 2*n
+Misalkan v(r) = 1809*r**3 - 2*r**2 - 6*r. Misalkan x(f) = f**3 + f. Hitung v(j) + 6*x(j).
+1815*j**3 - 2*j**2
+Misalkan n(z) = -z. Misalkan d(f) = -125*f**2 - 4*f - 3. Beri -d(l) + 4*n(l).
+125*l**2 + 3
+Misalkan u(t) = -331*t**2 - 29*t - 8. Misalkan i(j) = 110*j**2 + 11*j + 3. Hitung -8*i(l) - 3*u(l).
+113*l**2 - l
+Misalkan n(u) = 17*u**3 - 6*u**2 + 72*u + 6. Misalkan b(w) = -19*w**3 + 7*w**2 - 71*w - 7. Beri -6*b(g) - 7*n(g).
+-5*g**3 - 78*g
+Misalkan g(l) = -10*l**3 - 4*l**2 + 7*l - 1. Misalkan m(t) = 180737*t + 3*t**3 + 0 + t**2 + 0 - 180739*t. Misalkan 0 = 2*r - r - 2. Beri r*g(j) + 7*m(j).
+j**3 - j**2 - 2
+Misalkan p(k) = 125 - 6*k. Misalkan j(o) = 386 - 18*o. Hitung -2*j(f) + 7*p(f).
+103 - 6*f
+Misalkan p(m) = 998*m**3 + 23*m**2 - 7*m + 6. Misalkan g(u) = -499*u**3 - 14*u**2 + 4*u - 3. Hitung -5*g(s) - 3*p(s).
+-499*s**3 + s**2 + s - 3
+Misalkan x(h) = 6 - 6*h. Misalkan n (q) menjadi turunan ke-ketiga dari 0 + q**3 - 7/24*q**4 + 0*q - 13*q**2. Berapakah 4*n(y) - 5*x(y)?
+2*y - 6
+Misalkan t (b) menjadi turunan ke-ketiga dari 0*b + 0 + 0*b**3 - 47*b**2 + 7/6*b**4. Misalkan n(d) = 4*d. Beri 44*n(s) - 6*t(s).
+8*s
+Misalkan o(s) = -1. Misalkan 0 = 28*u - 29*u + 3. Misalkan w(g) = 20159*g + 0*g**3 + 1 - 20159*g + 3*g**u. Berapakah -3*o(h) + w(h)?
+3*h**3 + 4
+Misalkan h(p) = -p**3 + p**2. Misalkan s(o) = -8*o**3 + 4*o**2 + 1. Misalkan z be 12/(-3) + (12/36)/((-3)/18). Berapakah z*h(g) + s(g)?
+-2*g**3 - 2*g**2 + 1
+Misalkan j(k) = -3*k**2 + k + 2. Misalkan b(g) = -330*g**2 - 30*g - 60. Berapakah 4*b(a) + 120*j(a)?
+-1680*a**2
+Misalkan d(f) = 460*f - 37. Misalkan k(r) = 50 - 459*r. Berapakah -4*d(i) - 3*k(i)?
+-463*i - 2
+Misalkan i(h) = -h**2 - h + 1. Misalkan o = -240 + 242. Misalkan s(g) = 5*g**2 + 11*g**2 - 20 + 20*g - g**o. Misalkan n = 44 - 64. Beri n*i(q) - s(q).
+5*q**2
+Misalkan j(l) = -5*l**3 + 11*l. Misalkan q(c) = c - 45. Misalkan p = -235 + 272. Misalkan g be q(p). Misalkan v(f) = -2*f**3 + 4*f. Tentukan g*v(m) + 3*j(m).
+m**3 + m
+Misalkan r(p) = 804*p - 1. Misalkan j(l) = 1 - 391*l. Beri 5*j(g) + 2*r(g).
+3 - 347*g
+Misalkan p = 5737 - 5870. Misalkan v(l) = -1140*l**3 + 133*l**2 - 133*l - 133. Misalkan z(i) = -43*i**3 + 5*i**2 - 5*i - 5. Berapakah p*z(q) + 5*v(q)?
+19*q**3
+Misalkan u(r) = -4*r - 13847 + 13847 - 3*r**2. Misalkan p (b) menjadi turunan ke-ketiga dari -b**5/30 - 5*b**4/24 + 2*b**2. Hitung -4*p(y) + 5*u(y).
+-7*y**2
+Misalkan m(r) = 3*r + 2. Misalkan s be (-4)/6 + -20*4/(-12). Misalkan u be (-37 + 42)*(1 - s/10). Misalkan f(i) = -2*i. Tentukan u*m(o) + 2*f(o).
+2*o + 4
+Misalkan v(y) = 24*y. Misalkan o(n) = 11 - 50459*n - 50550*n + 101093*n - 11. Misalkan -5*l = -2*l + 15. Berapakah l*o(k) + 18*v(k)?
+12*k
+Misalkan s(y) = -89*y**2 + 3*y + 42. Misalkan n(w) = -266*w**2 + 8*w + 124. Beri -5*n(c) + 14*s(c).
+84*c**2 + 2*c - 32
+Misalkan y(z) = 17*z**2 - 2*z + 11. Misalkan l(m) = -8*m**2 + m - 5. Misalkan s(o) = 166*o - 651. Misalkan g be s(4). Hitung g*l(n) + 6*y(n).
+-2*n**2 + n + 1
+Misalkan l(z) = 14*z**2 + 2*z + 4. Misalkan -3*u - 30 = 4*h, -40 + 31 = -5*h + 4*u. Misalkan b(r) = -14*r**2 - 3*r - 5. Hitung h*l(i) - 2*b(i).
+-14*i**2 - 2
+Misalkan -3 = -6*t + 9. Misalkan s(x) = x**2 - 2. Misalkan u(v) = 2*v**2 - 5. Misalkan -9 = -8*r - 49. Hitung r*s(l) + t*u(l).
+-l**2
+Misalkan h(b) = -4*b**3 - 4*b**2 + b. Misalkan k be -17 + (-234)/(-9) + -18. Misalkan p(g) = 8*g**3 + 9*g**2 - g. Tentukan k*h(d) - 4*p(d).
+4*d**3 - 5*d
+Misalkan p(v) = 9*v + 11*v + 7 + 10*v - 32*v. Misalkan o = -157 + 156. Misalkan s(q) = 1 - q. Beri o*p(h) + 4*s(h).
+-2*h - 3
+Misalkan v(d) = 8*d**2 + 54*d - 9. Misalkan o(j) = j**2 - 1. Beri -5*o(k) + v(k).
+3*k**2 + 54*k - 4
+Misalkan b(u) = -u**2 + u - 2. Misalkan v(c) = 7*c**2 + 43*c + 13. Tentukan -6*b(a) - v(a).
+-a**2 - 49*a - 1
+Misalkan x(u) = 70*u**2 - 35*u + 1255. Misalkan b(n) = 19*n**2 - 9*n + 314. Beri 11*b(s) - 3*x(s).
+-s**2 + 6*s - 311

@@ -1,0 +1,666 @@
+Urutkan 57, 46, 4 dalam urutan menurun.
+57, 46, 4
+Urutkan 3, 1, 12, -1 dalam urutan meningkat.
+-1, 1, 3, 12
+Sort 7, 2, -5, -2.
+-5, -2, 2, 7
+Urutkan -1, 5, 9, -3 dalam urutan turun.
+9, 5, -1, -3
+Taruh -2/3, -1, -0.048, 1 dalam urutan menurun.
+1, -0.048, -2/3, -1
+Urutkan -187, -3, -3.7 dalam urutan menurun.
+-3, -3.7, -187
+Sort 2, -1, 0, -8, -2/59.
+-8, -1, -2/59, 0, 2
+Taruh 56, -2, -8/7, -0.4 dalam urutan menurun.
+56, -0.4, -8/7, -2
+Urutkan -4, -2/9, 0.11 dalam urutan turun.
+0.11, -2/9, -4
+Sort 0, 12, 5.
+0, 5, 12
+Taruh -4, -270, -1 dalam urutan menurun.
+-1, -4, -270
+Taruh -1, 5, -2.43 dalam urutan meningkat.
+-2.43, -1, 5
+Taruh -1/2, 3.94, 3, -2, 2 dalam urutan menurun.
+3.94, 3, 2, -1/2, -2
+Urutkan -4, 5, 67, -3, 0 dalam urutan turun.
+67, 5, 0, -3, -4
+Urutkan -0.3, 1/4, 1/10 dalam urutan meningkat.
+-0.3, 1/10, 1/4
+Taruh 18, 5, 1, -17 dalam urutan turun.
+18, 5, 1, -17
+Taruh -7, 424, 3 dalam urutan menurun.
+424, 3, -7
+Urutkan 0, -33, 6 dalam urutan menurun.
+6, 0, -33
+Taruh 2/21, 3, -0.5 dalam urutan menurun.
+3, 2/21, -0.5
+Urutkan 1/4, -0.16, -14, -0.1, 1 dalam urutan menurun.
+1, 1/4, -0.1, -0.16, -14
+Urutkan -1, -13, -2, 2 dalam urutan turun.
+2, -1, -2, -13
+Taruh 0.1, 1/3, -2/21, -1/9 dalam urutan naik.
+-1/9, -2/21, 0.1, 1/3
+Taruh -2, -40, 5, 4 dalam urutan menurun.
+5, 4, -2, -40
+Sort -3, -2, 56, 5, 0.
+-3, -2, 0, 5, 56
+Taruh 8, 4, -937 dalam urutan turun.
+8, 4, -937
+Urutkan -22, 5/6, 0, -3, 0.04 dalam urutan turun.
+5/6, 0.04, 0, -3, -22
+Urutkan 0, 31, -361 dalam urutan turun.
+31, 0, -361
+Taruh 4, 0.1, -1, -1/2 dalam urutan turun.
+4, 0.1, -1/2, -1
+Sort -79, 19, -4.
+-79, -4, 19
+Taruh -5, -29, 24 dalam urutan turun.
+24, -5, -29
+Urutkan 8, -4, -5, -6, -33 dalam urutan turun.
+8, -4, -5, -6, -33
+Taruh 3, -1, 5, -9 dalam urutan meningkat.
+-9, -1, 3, 5
+Sort 15, -5, 4, -4, 65.
+-5, -4, 4, 15, 65
+Sort -5, 1, 2, -11.
+-11, -5, 1, 2
+Taruh -2, 44, -4 dalam urutan naik.
+-4, -2, 44
+Sort -1, -13, 0.1, 1.
+-13, -1, 0.1, 1
+Sort 55, -8, 0.2.
+-8, 0.2, 55
+Urutkan -4, 5, 35 dalam urutan menurun.
+35, 5, -4
+Taruh 3, -17/4, 2 dalam urutan meningkat.
+-17/4, 2, 3
+Sort 1/5, -5, 0.4, 169, 2/13.
+-5, 2/13, 1/5, 0.4, 169
+Urutkan 2, -2, -14 dalam urutan turun.
+2, -2, -14
+Taruh -2, -1/4, -2/7, 0.9 dalam urutan turun.
+0.9, -1/4, -2/7, -2
+Sort -5, 1148, 2.
+-5, 2, 1148
+Urutkan 4, -7, -16, -3, 5 dalam urutan turun.
+5, 4, -3, -7, -16
+Urutkan -70, -21, 0 dalam urutan menurun.
+0, -21, -70
+Sort -2, -4, 1, 15.
+-4, -2, 1, 15
+Taruh -4, -3, 111, 1 dalam urutan meningkat.
+-4, -3, 1, 111
+Sort -9, -2, 2, 3.
+-9, -2, 2, 3
+Taruh 2/13, 0.3, -1, -0.6 dalam urutan turun.
+0.3, 2/13, -0.6, -1
+Taruh -2, -3, -4, 2 dalam urutan menurun.
+2, -2, -3, -4
+Urutkan -3, 12, -4 dalam urutan turun.
+12, -3, -4
+Taruh -1.14, 3, 13 dalam urutan turun.
+13, 3, -1.14
+Taruh -12, 5, 0, -3 dalam urutan meningkat.
+-12, -3, 0, 5
+Taruh 9, -1, -5, 3 dalam urutan naik.
+-5, -1, 3, 9
+Taruh 4/9, 20/243, 3 dalam urutan naik.
+20/243, 4/9, 3
+Urutkan -3, -21, -9, -2 dalam urutan menurun.
+-2, -3, -9, -21
+Sort 1, -52, 1/2.
+-52, 1/2, 1
+Taruh 18, 4, 0 dalam urutan menurun.
+18, 4, 0
+Urutkan -3, 5, 0.1, 0.288, -1/2 dalam urutan turun.
+5, 0.288, 0.1, -1/2, -3
+Urutkan -3, -6/13, -4, 2/7, 8 dalam urutan menurun.
+8, 2/7, -6/13, -3, -4
+Taruh 0, 2, -44 dalam urutan turun.
+2, 0, -44
+Taruh 2, -26, 0 dalam urutan menurun.
+2, 0, -26
+Taruh -1, 5, -4, 2 dalam urutan menurun.
+5, 2, -1, -4
+Urutkan 10, -5, -7 dalam urutan menurun.
+10, -5, -7
+Sort -2, -14, 0.
+-14, -2, 0
+Urutkan 5, 1, 34, -1, -5 dalam urutan menurun.
+34, 5, 1, -1, -5
+Urutkan -8, 1/4, 2/11, 4, -0.06 dalam urutan menurun.
+4, 1/4, 2/11, -0.06, -8
+Urutkan -86, -2, 2, -3, -5 dalam urutan menurun.
+2, -2, -3, -5, -86
+Urutkan 1/13, 0, -0.15, 4/7 dalam urutan turun.
+4/7, 1/13, 0, -0.15
+Sort 3, 31, 5, -3.
+-3, 3, 5, 31
+Urutkan -2/15, 10, 5/4, 5 dalam urutan menurun.
+10, 5, 5/4, -2/15
+Sort 2, -3, -5, 0.1, -0.14.
+-5, -3, -0.14, 0.1, 2
+Urutkan 6, -1/10, -5, 201 dalam urutan naik.
+-5, -1/10, 6, 201
+Taruh 6, 3, 5, -1, 2 dalam urutan menurun.
+6, 5, 3, 2, -1
+Urutkan 0, -82, 4 dalam urutan naik.
+-82, 0, 4
+Taruh 1/5, -322, -1/6, -2 dalam urutan menurun.
+1/5, -1/6, -2, -322
+Urutkan -27, 0, 4, 1, -3 dalam urutan meningkat.
+-27, -3, 0, 1, 4
+Sort 0, 1, -1/6, 3, 168.
+-1/6, 0, 1, 3, 168
+Urutkan -5, 17, 2, -10 dalam urutan menurun.
+17, 2, -5, -10
+Urutkan 1, 5, 4, -8, 3 dalam urutan turun.
+5, 4, 3, 1, -8
+Urutkan 35/3, 5, 2/3, 4, 1/3 dalam urutan menurun.
+35/3, 5, 4, 2/3, 1/3
+Urutkan 9, 5, 0.01, 1/6 dalam urutan meningkat.
+0.01, 1/6, 5, 9
+Taruh 23.1, 2/5, -2/15 dalam urutan meningkat.
+-2/15, 2/5, 23.1
+Sort 5, -4, -5, -2, -3.
+-5, -4, -3, -2, 5
+Urutkan 3, 9, 3.7, 0.1 dalam urutan turun.
+9, 3.7, 3, 0.1
+Taruh 2, -3, 7, 59, 4 dalam urutan turun.
+59, 7, 4, 2, -3
+Taruh -5, 3, -20, 0, -4/3 dalam urutan naik.
+-20, -5, -4/3, 0, 3
+Taruh -4, -6, -2/17, 0.3, 0.004 dalam urutan turun.
+0.3, 0.004, -2/17, -4, -6
+Taruh -710, -3, -4 dalam urutan menurun.
+-3, -4, -710
+Taruh -0.06, 20/3, 2, 0.3, -3 dalam urutan turun.
+20/3, 2, 0.3, -0.06, -3
+Urutkan -1, 84, -0.4, -4/5 dalam urutan meningkat.
+-1, -4/5, -0.4, 84
+Sort -227, 3, -0.2.
+-227, -0.2, 3
+Urutkan 0, 1/2, -5, 20 dalam urutan menurun.
+20, 1/2, 0, -5
+Urutkan -0.1, -3, 2/5, -1, 2/27 dalam urutan meningkat.
+-3, -1, -0.1, 2/27, 2/5
+Sort 0, 2069, 5.
+0, 5, 2069
+Taruh -26, 5, -1, -5, -4 dalam urutan turun.
+5, -1, -4, -5, -26
+Taruh 5, 4, 1/7 dalam urutan menurun.
+5, 4, 1/7
+Taruh 189, -2, -1 dalam urutan menurun.
+189, -1, -2
+Taruh -2/13, -19, -0.25 dalam urutan meningkat.
+-19, -0.25, -2/13
+Urutkan 14, 0.1, -3, -0.043 dalam urutan meningkat.
+-3, -0.043, 0.1, 14
+Urutkan -2, 7, -6, 6, -1 dalam urutan naik.
+-6, -2, -1, 6, 7
+Taruh 0, -151, -2 dalam urutan naik.
+-151, -2, 0
+Urutkan 9, -7, 0, 3 dalam urutan meningkat.
+-7, 0, 3, 9
+Urutkan -25, -5, 4, -1, 0 dalam urutan menurun.
+4, 0, -1, -5, -25
+Taruh -2, -4, 2, -49, 3 dalam urutan turun.
+3, 2, -2, -4, -49
+Taruh 1, 3, 7252, -4, -2 dalam urutan naik.
+-4, -2, 1, 3, 7252
+Taruh 2/17, 5, 1946 dalam urutan meningkat.
+2/17, 5, 1946
+Taruh -10, -1, 0.3 dalam urutan meningkat.
+-10, -1, 0.3
+Urutkan -46, -4, 10, 5, -1/8 dalam urutan meningkat.
+-46, -4, -1/8, 5, 10
+Sort 0, 305, -2.
+-2, 0, 305
+Urutkan -1226, 0.4, 5/3 dalam urutan menurun.
+5/3, 0.4, -1226
+Taruh -1, -8/5, 5 dalam urutan turun.
+5, -1, -8/5
+Urutkan 3/8, 10, -0.01, 0.2 dalam urutan turun.
+10, 3/8, 0.2, -0.01
+Urutkan 2/3, 0.1, -5/3, -0.2, -8 dalam urutan naik.
+-8, -5/3, -0.2, 0.1, 2/3
+Urutkan -4, 5, 0, 2 dalam urutan meningkat.
+-4, 0, 2, 5
+Taruh 189, -5, 0 dalam urutan menurun.
+189, 0, -5
+Sort -1, -4, -224, 5.
+-224, -4, -1, 5
+Taruh 4/7, -4, -33, 0 dalam urutan turun.
+4/7, 0, -4, -33
+Sort 1, -3, -284.
+-284, -3, 1
+Taruh 1, 2, -4, -0.2 dalam urutan turun.
+2, 1, -0.2, -4
+Taruh 1, -20, -4, 0.12 dalam urutan turun.
+1, 0.12, -4, -20
+Urutkan 2, -3, 7 dalam urutan naik.
+-3, 2, 7
+Taruh -1, 0, -17, 4 dalam urutan naik.
+-17, -1, 0, 4
+Urutkan 8, 45, -3, 0, 0.4 dalam urutan menurun.
+45, 8, 0.4, 0, -3
+Urutkan -4, 3, 24, -1 dalam urutan turun.
+24, 3, -1, -4
+Urutkan 2/17, 0.5, -0.13, -3, -0.4 dalam urutan menurun.
+0.5, 2/17, -0.13, -0.4, -3
+Urutkan -5/7, 6, 2/5, 2 dalam urutan meningkat.
+-5/7, 2/5, 2, 6
+Urutkan -9, 48, 1 dalam urutan turun.
+48, 1, -9
+Taruh 8, -3, 3, 7 dalam urutan turun.
+8, 7, 3, -3
+Taruh 0.009, 0.4, -38 dalam urutan naik.
+-38, 0.009, 0.4
+Taruh -14, -5, -2, 16, 3 dalam urutan menurun.
+16, 3, -2, -5, -14
+Urutkan 167, 2, -3, -4 dalam urutan naik.
+-4, -3, 2, 167
+Taruh 2, 3, 0, -1 dalam urutan menurun.
+3, 2, 0, -1
+Urutkan 1, -381, -5, 2, 5 dalam urutan menurun.
+5, 2, 1, -5, -381
+Taruh -120, 2, 3 dalam urutan menurun.
+3, 2, -120
+Urutkan 1, -4, 2, -0.0501 dalam urutan meningkat.
+-4, -0.0501, 1, 2
+Taruh -2, -5, -1, 5 dalam urutan naik.
+-5, -2, -1, 5
+Urutkan -1/19, 0.81, -1/10, 2 dalam urutan menurun.
+2, 0.81, -1/19, -1/10
+Taruh 1, -3, -1 dalam urutan naik.
+-3, -1, 1
+Urutkan 2, -3, 5, 0 dalam urutan naik.
+-3, 0, 2, 5
+Urutkan 2, -27, -1, 5 dalam urutan menurun.
+5, 2, -1, -27
+Taruh 2/3, 0.3, 2, 46.3 dalam urutan turun.
+46.3, 2, 2/3, 0.3
+Taruh 1, 5, -244, 0 dalam urutan turun.
+5, 1, 0, -244
+Sort -62, 0, 3.
+-62, 0, 3
+Sort -1, 6, 5, -4.
+-4, -1, 5, 6
+Urutkan -12, 0, 3 dalam urutan meningkat.
+-12, 0, 3
+Taruh -1/18, -0.1, 0.03, -3 dalam urutan naik.
+-3, -0.1, -1/18, 0.03
+Urutkan 0, 0.42, 5, 3 dalam urutan turun.
+5, 3, 0.42, 0
+Taruh 0, -6, -13 dalam urutan turun.
+0, -6, -13
+Taruh -2, -939, 0 dalam urutan menurun.
+0, -2, -939
+Urutkan 5, 0.16, 1/15, -2/9, -3 dalam urutan meningkat.
+-3, -2/9, 1/15, 0.16, 5
+Taruh 52, 0.3, -2, 1, 1/5 dalam urutan turun.
+52, 1, 0.3, 1/5, -2
+Urutkan -0.4, 5, -2, -11, 0.5 dalam urutan naik.
+-11, -2, -0.4, 0.5, 5
+Taruh 1, -1, 31 dalam urutan turun.
+31, 1, -1
+Taruh -25, -4, -2 dalam urutan naik.
+-25, -4, -2
+Sort 0.1, -4, 17, -4/5.
+-4, -4/5, 0.1, 17
+Taruh -0.6, 4/5, -4, 4, 0.11 dalam urutan meningkat.
+-4, -0.6, 0.11, 4/5, 4
+Urutkan -5, -285, 18 dalam urutan meningkat.
+-285, -5, 18
+Taruh -11, 0, -1 dalam urutan menurun.
+0, -1, -11
+Taruh 8, 4, 3, -4 dalam urutan naik.
+-4, 3, 4, 8
+Urutkan -0.3, 2, 13, 3, 0.01 dalam urutan menurun.
+13, 3, 2, 0.01, -0.3
+Taruh 8, 2/9, 0.2 dalam urutan meningkat.
+0.2, 2/9, 8
+Taruh -2/3, -0.2, 461 dalam urutan menurun.
+461, -0.2, -2/3
+Taruh 41, 4, 25, -4 dalam urutan turun.
+41, 25, 4, -4
+Urutkan -45, -5, 1/4, -1/4 dalam urutan menurun.
+1/4, -1/4, -5, -45
+Taruh 32, 3, -5 dalam urutan turun.
+32, 3, -5
+Urutkan 7, 5, 9 dalam urutan menurun.
+9, 7, 5
+Urutkan 4/7, -0.1, -5, -337 dalam urutan turun.
+4/7, -0.1, -5, -337
+Taruh -7/3, 5/33, 1/6 dalam urutan menurun.
+1/6, 5/33, -7/3
+Taruh -1, -3, -2, 0, 13 dalam urutan meningkat.
+-3, -2, -1, 0, 13
+Urutkan -2/7, -0.2, 4, 1 dalam urutan menurun.
+4, 1, -0.2, -2/7
+Taruh 3, 4, 227, -1 dalam urutan menurun.
+227, 4, 3, -1
+Urutkan 1.2, -0.2, 4, 0.2 dalam urutan turun.
+4, 1.2, 0.2, -0.2
+Sort 0.1, -26, -8.8.
+-26, -8.8, 0.1
+Urutkan 1/7, 0.2, -2/365, -11 dalam urutan turun.
+0.2, 1/7, -2/365, -11
+Sort 5, 6, -29, -4.
+-29, -4, 5, 6
+Taruh 1, -2/13, -2, -87 dalam urutan meningkat.
+-87, -2, -2/13, 1
+Urutkan 4, -7, -24 dalam urutan naik.
+-24, -7, 4
+Taruh -8, -4, -1/3, -1/2 dalam urutan turun.
+-1/3, -1/2, -4, -8
+Urutkan 1, -4, 42 dalam urutan turun.
+42, 1, -4
+Urutkan 3, 0, 1, 18 dalam urutan meningkat.
+0, 1, 3, 18
+Urutkan -4/5, 4, -4.3, -6 dalam urutan naik.
+-6, -4.3, -4/5, 4
+Taruh 27, -5, 2 dalam urutan meningkat.
+-5, 2, 27
+Taruh -1, -74, 1, 3 dalam urutan naik.
+-74, -1, 1, 3
+Urutkan 4/9, -0.4, -2, -137 dalam urutan naik.
+-137, -2, -0.4, 4/9
+Urutkan 12, -85, 3, -5 dalam urutan menurun.
+12, 3, -5, -85
+Sort -52, -1, 3.
+-52, -1, 3
+Urutkan 2, -0.3, 6, 3, -69 dalam urutan meningkat.
+-69, -0.3, 2, 3, 6
+Taruh -1, 2, 33, 0 dalam urutan menurun.
+33, 2, 0, -1
+Sort -5/2, -1/4, 2/9, 1.
+-5/2, -1/4, 2/9, 1
+Urutkan 3, 1, -118 dalam urutan turun.
+3, 1, -118
+Sort 0, 4, 10, 63.
+0, 4, 10, 63
+Sort -3, -4.7, 3.4.
+-4.7, -3, 3.4
+Taruh -3, 4, 0, -98 dalam urutan menurun.
+4, 0, -3, -98
+Urutkan -1, 1, 30 dalam urutan turun.
+30, 1, -1
+Urutkan -2, -1/2, 1/3, 0.2 dalam urutan turun.
+1/3, 0.2, -1/2, -2
+Sort -5, -2/25, -457.
+-457, -5, -2/25
+Urutkan -10, 3, 5 dalam urutan menurun.
+5, 3, -10
+Taruh 6, 534, 1 dalam urutan turun.
+534, 6, 1
+Taruh 3/80, 8, -4 dalam urutan turun.
+8, 3/80, -4
+Taruh -5, 134, 5 dalam urutan menurun.
+134, 5, -5
+Urutkan 1, -5, 15 dalam urutan meningkat.
+-5, 1, 15
+Urutkan -2, 1, 2, -6.3 dalam urutan turun.
+2, 1, -2, -6.3
+Sort -2, -0.4, 6, -3, -0.5.
+-3, -2, -0.5, -0.4, 6
+Taruh 29, 7, 5 dalam urutan menurun.
+29, 7, 5
+Taruh 6, -6, -7 dalam urutan turun.
+6, -6, -7
+Taruh 6, -3/2, -5, -7/2, 2 dalam urutan menurun.
+6, 2, -3/2, -7/2, -5
+Urutkan -1, 474, 12, -5, -4 dalam urutan naik.
+-5, -4, -1, 12, 474
+Taruh -1, -3, -232, -2, 4 dalam urutan naik.
+-232, -3, -2, -1, 4
+Taruh 2, 1114/21, -3 dalam urutan menurun.
+1114/21, 2, -3
+Taruh -0.2, -4, -2, -10 dalam urutan menurun.
+-0.2, -2, -4, -10
+Taruh 2/7, -4/3, -23, -0.2 dalam urutan meningkat.
+-23, -4/3, -0.2, 2/7
+Sort -1205, -2, -1.
+-1205, -2, -1
+Sort -3, -5, -2, 9.
+-5, -3, -2, 9
+Taruh -1, -3, -5 dalam urutan menurun.
+-1, -3, -5
+Urutkan 0.2, 138, -2/17, -5 dalam urutan turun.
+138, 0.2, -2/17, -5
+Sort 8, -2, -5.
+-5, -2, 8
+Taruh 2/5, -4, 0.09, -3, -2/23 dalam urutan menurun.
+2/5, 0.09, -2/23, -3, -4
+Sort -58, 2, 5.
+-58, 2, 5
+Urutkan 11/2, -0.3, -4, 5 dalam urutan turun.
+11/2, 5, -0.3, -4
+Taruh 1/3, 1/30, -8/7 dalam urutan turun.
+1/3, 1/30, -8/7
+Urutkan 4, 1, 3, -60 dalam urutan turun.
+4, 3, 1, -60
+Sort -0.6, 2/5, 8/9, -0.2, -3.
+-3, -0.6, -0.2, 2/5, 8/9
+Urutkan 0, 1/6, -0.06, 4, -0.1 dalam urutan meningkat.
+-0.1, -0.06, 0, 1/6, 4
+Taruh -7, 0, 4, 5, 6 dalam urutan turun.
+6, 5, 4, 0, -7
+Taruh 0, 2, 94 dalam urutan menurun.
+94, 2, 0
+Taruh -4/7, 1/6, -2, -1 dalam urutan menurun.
+1/6, -4/7, -1, -2
+Sort 1, 4, 1873, 5.
+1, 4, 5, 1873
+Taruh -4, -1, 0, 0.1, 23 dalam urutan naik.
+-4, -1, 0, 0.1, 23
+Sort 6, -298, 3, 5, 1.
+-298, 1, 3, 5, 6
+Taruh 0, -4/3, -2 dalam urutan meningkat.
+-2, -4/3, 0
+Taruh 2, -30, 4, -2 dalam urutan turun.
+4, 2, -2, -30
+Urutkan 0, -1, 5, -4, 4 dalam urutan menurun.
+5, 4, 0, -1, -4
+Taruh 11, -3, 43 dalam urutan meningkat.
+-3, 11, 43
+Taruh 0.6, -3/4, 2, -5 dalam urutan turun.
+2, 0.6, -3/4, -5
+Urutkan 0.1, -1/3, -0.1 dalam urutan menurun.
+0.1, -0.1, -1/3
+Urutkan 4, 1, -3, -8 dalam urutan turun.
+4, 1, -3, -8
+Taruh -4, -3, -5 dalam urutan naik.
+-5, -4, -3
+Urutkan 4.2, -2, 2, -1 dalam urutan meningkat.
+-2, -1, 2, 4.2
+Taruh -1/11, -2/17, 2, 8/3 dalam urutan turun.
+8/3, 2, -1/11, -2/17
+Urutkan -4, -8, 2/3 dalam urutan menurun.
+2/3, -4, -8
+Sort -167, -1, 2.
+-167, -1, 2
+Sort 2, -51, -1/5.
+-51, -1/5, 2
+Taruh 3, 1, 2, -35 dalam urutan meningkat.
+-35, 1, 2, 3
+Urutkan 2, 0.198, 0 dalam urutan menurun.
+2, 0.198, 0
+Urutkan 14, 1, 7, 3, 2 dalam urutan menurun.
+14, 7, 3, 2, 1
+Taruh -2, 3, 2, -2/143 dalam urutan menurun.
+3, 2, -2/143, -2
+Urutkan 1, 2, -6, -8 dalam urutan turun.
+2, 1, -6, -8
+Taruh -1, -0.3, -1/7, -3 dalam urutan menurun.
+-1/7, -0.3, -1, -3
+Taruh 28, -4, -6 dalam urutan meningkat.
+-6, -4, 28
+Taruh -2, 0.4, 2/3 dalam urutan turun.
+2/3, 0.4, -2
+Urutkan -0.09, 6, -4, -2, -7 dalam urutan menurun.
+6, -0.09, -2, -4, -7
+Taruh 0, 2, 3, -20 dalam urutan meningkat.
+-20, 0, 2, 3
+Urutkan 0, -5, -4 dalam urutan turun.
+0, -4, -5
+Urutkan -3, -5/2, -3/911 dalam urutan naik.
+-3, -5/2, -3/911
+Taruh 0.1, 2/17, 962 dalam urutan turun.
+962, 2/17, 0.1
+Taruh 0, -4, -113, -3 dalam urutan menurun.
+0, -3, -4, -113
+Urutkan -1/11, -2, 0.19 dalam urutan naik.
+-2, -1/11, 0.19
+Urutkan 0, 5, 2 dalam urutan meningkat.
+0, 2, 5
+Urutkan -0.081, -0.5, -1 dalam urutan meningkat.
+-1, -0.5, -0.081
+Sort 0.9, 2, 0.5.
+0.5, 0.9, 2
+Urutkan -0.9, -108, 0.1 dalam urutan meningkat.
+-108, -0.9, 0.1
+Urutkan 0.6, 38/7, -3/5 dalam urutan turun.
+38/7, 0.6, -3/5
+Sort -5, -26, 1, 0.
+-26, -5, 0, 1
+Taruh -5, -223, 4 dalam urutan naik.
+-223, -5, 4
+Urutkan -2, 1, -0.8, -1/3 dalam urutan menurun.
+1, -1/3, -0.8, -2
+Taruh -2, 47, 1, 4, -5 dalam urutan meningkat.
+-5, -2, 1, 4, 47
+Urutkan 0, -0.5, 3, -2 dalam urutan naik.
+-2, -0.5, 0, 3
+Taruh 56, 5, -3 dalam urutan menurun.
+56, 5, -3
+Taruh -9, 5, -13, 0 dalam urutan menurun.
+5, 0, -9, -13
+Taruh -3, 675, 3/4 dalam urutan naik.
+-3, 3/4, 675
+Urutkan -4, 0, 243 dalam urutan turun.
+243, 0, -4
+Taruh 141, -1/6, -5 dalam urutan naik.
+-5, -1/6, 141
+Taruh 1, 5, -5, -136 dalam urutan turun.
+5, 1, -5, -136
+Taruh -3, 96, 1 dalam urutan meningkat.
+-3, 1, 96
+Taruh 6.2, 2, -3/7 dalam urutan turun.
+6.2, 2, -3/7
+Urutkan 1, -39, -1/6, 3/5 dalam urutan naik.
+-39, -1/6, 3/5, 1
+Sort 0.4, 3, -229, 5, -0.3.
+-229, -0.3, 0.4, 3, 5
+Urutkan -10, -2, -5, 54 dalam urutan turun.
+54, -2, -5, -10
+Sort 5, 8, -4, 4, -12.
+-12, -4, 4, 5, 8
+Urutkan 4, 1/7, 3, 285 dalam urutan menurun.
+285, 4, 3, 1/7
+Taruh -4, 15, 1, 4 dalam urutan turun.
+15, 4, 1, -4
+Taruh -4, -3, 4, 5, 10 dalam urutan turun.
+10, 5, 4, -3, -4
+Taruh -2/9, -15, -1/3, 48, -0.5 dalam urutan menurun.
+48, -2/9, -1/3, -0.5, -15
+Sort 12, 2/19, -2/13.
+-2/13, 2/19, 12
+Taruh -45.8, 5, -1, -1/8 dalam urutan menurun.
+5, -1/8, -1, -45.8
+Taruh 2, -169, -5 dalam urutan turun.
+2, -5, -169
+Taruh -6/7, 0.3, 3 dalam urutan menurun.
+3, 0.3, -6/7
+Urutkan 90, -3, -5, -4 dalam urutan turun.
+90, -3, -4, -5
+Urutkan 23, 0, -39, -5 dalam urutan menurun.
+23, 0, -5, -39
+Urutkan -5, -1/6, 4/3 dalam urutan menurun.
+4/3, -1/6, -5
+Taruh -0.1, 0.4, -1, 202, -0.3 dalam urutan naik.
+-1, -0.3, -0.1, 0.4, 202
+Urutkan -796, 2, -3 dalam urutan turun.
+2, -3, -796
+Sort -2, -47, 2, -5, 17.
+-47, -5, -2, 2, 17
+Taruh -0.486, -4, -3/7, 0.3 dalam urutan menurun.
+0.3, -3/7, -0.486, -4
+Urutkan -2, -21, 57 dalam urutan turun.
+57, -2, -21
+Taruh -0.13, 9, -2 dalam urutan meningkat.
+-2, -0.13, 9
+Urutkan 2, 1/21, 2/9 dalam urutan meningkat.
+1/21, 2/9, 2
+Sort -18, -17, -4.
+-18, -17, -4
+Urutkan -4, 7, 3, -7 dalam urutan turun.
+7, 3, -4, -7
+Urutkan 5, -3, -0.1, -0.02 dalam urutan meningkat.
+-3, -0.1, -0.02, 5
+Taruh -1, -2, 3, 69 dalam urutan turun.
+69, 3, -1, -2
+Taruh 129.6, 2, -0.2, 5 dalam urutan menurun.
+129.6, 5, 2, -0.2
+Taruh -1, 2, 5, -12 dalam urutan meningkat.
+-12, -1, 2, 5
+Sort -67, 0.3, -4, 35.
+-67, -4, 0.3, 35
+Taruh -0.4, 40, -1 dalam urutan menurun.
+40, -0.4, -1
+Taruh 4, 37, 1 dalam urutan turun.
+37, 4, 1
+Urutkan -5, 5, 0 dalam urutan naik.
+-5, 0, 5
+Taruh 5, -2403, 1/8 dalam urutan menurun.
+5, 1/8, -2403
+Sort -7, 1, 6, 3.
+-7, 1, 3, 6
+Taruh 0.3, -16, -2, 1/6 dalam urutan turun.
+0.3, 1/6, -2, -16
+Urutkan -3, -1, -51, 3 dalam urutan menurun.
+3, -1, -3, -51
+Taruh 1, -5, -72, -3, -4 dalam urutan naik.
+-72, -5, -4, -3, 1
+Urutkan -9, 5, -4, 895 dalam urutan menurun.
+895, 5, -4, -9
+Taruh 6, 0.52, -1/4 dalam urutan turun.
+6, 0.52, -1/4
+Taruh -1, 118, -3, -4 dalam urutan menurun.
+118, -1, -3, -4
+Urutkan -3/2, -4, 3/1486 dalam urutan meningkat.
+-4, -3/2, 3/1486
+Urutkan -0.1, -1/5, 7/8, 0.1 dalam urutan naik.
+-1/5, -0.1, 0.1, 7/8
+Sort -1654, 2/3, 3/4.
+-1654, 2/3, 3/4
+Sort -4/69, -5, -2.
+-5, -2, -4/69
+Urutkan 4/7, 1, 2/1001, -2/13 dalam urutan menurun.
+1, 4/7, 2/1001, -2/13
+Urutkan -20, 4, 141 dalam urutan turun.
+141, 4, -20
+Urutkan 0, -5, -1/13 dalam urutan naik.
+-5, -1/13, 0
+Urutkan 0.3, -1, 7, 1/12, 2/9 dalam urutan meningkat.
+-1, 1/12, 2/9, 0.3, 7
+Taruh -4, -10, 10, 1, 4 dalam urutan menurun.
+10, 4, 1, -4, -10
+Urutkan -178/7, 9, 4 dalam urutan meningkat.
+-178/7, 4, 9
+Urutkan 3, 7, -4 dalam urutan meningkat.
+-4, 3, 7
+Taruh -3, -2, -5, 3 dalam urutan turun.
+3, -2, -3, -5
+Sort 5, 4, -0.2, -0.02.
+-0.2, -0.02, 4, 5
+Urutkan 4, -2, 1, -98 dalam urutan menurun.
+4, 1, -2, -98
+Taruh -3, 5, 148 dalam urutan meningkat.
+-3, 5, 148
+Urutkan -4, -2, -1/11, 2/7 dalam urutan naik.
+-4, -2, -1/11, 2/7
+Urutkan 0.04, 2, -1/3, -1, -5 dalam urutan naik.
+-5, -1, -1/3, 0.04, 2

@@ -1,0 +1,666 @@
+Bulatkan 111417000 ke paling dekat satu ratus ribu.
+111400000
+Bulatkan -0.001826 ke 5 desimal.
+-0.00183
+Berapakah 0.000002232 dibulatkan menjadi tujuh desimal?
+0.0000022
+Bulatkan -0.001673 ke tiga desimal.
+-0.002
+Berapakah -0.003 dibulatkan menjadi empat desimal?
+-0.003
+Berapakah -2.559 dibulatkan menjadi 1 desimal?
+-2.6
+Bulatkan 527300 ke paling dekat sepuluh ribu.
+530000
+Berapakah 32092 dibulatkan menjadi paling dekat 1000?
+32000
+Bulatkan 0.010108 ke empat desimal.
+0.0101
+Bulatkan -752.67 ke paling dekat satu ratus.
+-800
+Berapakah 57308 dibulatkan menjadi paling dekat 1000?
+57000
+Bulatkan -0.006423 ke 3 desimal.
+-0.006
+Bulatkan -0.00080482 ke 6 desimal.
+-0.000805
+Bulatkan 22869100 ke paling dekat 100000.
+22900000
+Bulatkan -0.11861 ke tiga desimal.
+-0.119
+Bulatkan -1.495 ke satu desimal.
+-1.5
+Bulatkan -0.000004698 ke enam desimal.
+-0.000005
+Bulatkan 1117030 ke paling dekat satu ribu.
+1117000
+Bulatkan -1398.8 ke paling dekat satu ratus.
+-1400
+Bulatkan -79.8 ke paling dekat sepuluh.
+-80
+Bulatkan 14336000 ke paling dekat 1000000.
+14000000
+Berapakah 0.087934 dibulatkan menjadi dua desimal?
+0.09
+Berapakah -1729400 dibulatkan menjadi paling dekat 100000?
+-1700000
+Bulatkan -7910 ke paling dekat satu ratus.
+-7900
+Berapakah 45.307 dibulatkan menjadi bilangan terdekat?
+45
+Bulatkan -0.013103 ke tiga desimal.
+-0.013
+Berapakah -94.1 dibulatkan menjadi paling dekat sepuluh?
+-90
+Bulatkan -745 ke paling dekat satu ratus.
+-700
+Berapakah 140790 dibulatkan menjadi paling dekat sepuluh ribu?
+140000
+Berapakah -6207000 dibulatkan menjadi paling dekat 1000000?
+-6000000
+Berapakah -58.03 dibulatkan menjadi paling dekat 10?
+-60
+Bulatkan 0.01037 ke tiga desimal.
+0.01
+Berapakah -0.00001521 dibulatkan menjadi 5 desimal?
+-0.00002
+Bulatkan 5720 ke paling dekat satu ribu.
+6000
+Bulatkan -0.0000004008 ke tujuh desimal.
+-0.0000004
+Berapakah 0.0000675 dibulatkan menjadi enam desimal?
+0.000068
+Berapakah -6579 dibulatkan menjadi paling dekat 1000?
+-7000
+Bulatkan -276430 ke paling dekat satu ribu.
+-276000
+Bulatkan 1537.34 ke bilangan terdekat.
+1537
+Berapakah 5500 dibulatkan menjadi paling dekat satu ribu?
+6000
+Berapakah -0.0005844 dibulatkan menjadi 5 desimal?
+-0.00058
+Bulatkan -5950 ke paling dekat satu ratus.
+-6000
+Berapakah -0.00003026 dibulatkan menjadi tujuh desimal?
+-0.0000303
+Bulatkan -3.67 ke satu desimal.
+-3.7
+Berapakah 22.684 dibulatkan menjadi 0 desimal?
+23
+Bulatkan 1643000 ke paling dekat 100000.
+1600000
+Bulatkan 0.00015219 ke enam desimal.
+0.000152
+Bulatkan -10.35 ke 0 desimal.
+-10
+Berapakah -2.342 dibulatkan menjadi satu desimal?
+-2.3
+Berapakah 0.015999 dibulatkan menjadi 4 desimal?
+0.016
+Berapakah -271000 dibulatkan menjadi paling dekat satu ratus ribu?
+-300000
+Bulatkan -0.02268 ke tiga desimal.
+-0.023
+Berapakah 0.000284 dibulatkan menjadi empat desimal?
+0.0003
+Berapakah -0.4578 dibulatkan menjadi satu desimal?
+-0.5
+Berapakah 4911 dibulatkan menjadi paling dekat 100?
+4900
+Bulatkan -319 ke paling dekat 100.
+-300
+Bulatkan -9888 ke paling dekat satu ratus.
+-9900
+Bulatkan -77.61 ke paling dekat 10.
+-80
+Berapakah 221100 dibulatkan menjadi paling dekat 10000?
+220000
+Bulatkan -0.04562 ke 3 desimal.
+-0.046
+Bulatkan 1088 ke paling dekat 1000.
+1000
+Bulatkan 0.0000195129 ke tujuh desimal.
+0.0000195
+Bulatkan 0.00036711 ke 5 desimal.
+0.00037
+Bulatkan 0.0000004704 ke 7 desimal.
+0.0000005
+Bulatkan -522700 ke paling dekat sepuluh ribu.
+-520000
+Berapakah -0.00044209 dibulatkan menjadi 5 desimal?
+-0.00044
+Bulatkan 37000000 ke paling dekat satu juta.
+37000000
+Bulatkan 0.000002153 ke tujuh desimal.
+0.0000022
+Bulatkan 0.00717 ke 4 desimal.
+0.0072
+Berapakah -25.966 dibulatkan menjadi paling dekat 10?
+-30
+Berapakah -0.000082887 dibulatkan menjadi enam desimal?
+-0.000083
+Berapakah -0.2526 dibulatkan menjadi 2 desimal?
+-0.25
+Berapakah 321050 dibulatkan menjadi paling dekat sepuluh ribu?
+320000
+Bulatkan 0.0000034217 ke 7 desimal.
+0.0000034
+Bulatkan 13.6706 ke bilangan terdekat.
+14
+Bulatkan -8.25 ke 1 desimal.
+-8.3
+Bulatkan -0.0008267 ke empat desimal.
+-0.0008
+Bulatkan -35.368 ke 1 desimal.
+-35.4
+Bulatkan -7126000 ke paling dekat satu ratus ribu.
+-7100000
+Berapakah 13390 dibulatkan menjadi paling dekat satu ratus?
+13400
+Berapakah -203640 dibulatkan menjadi paling dekat 10000?
+-200000
+Bulatkan 687.21 ke paling dekat 100.
+700
+Berapakah -0.0203 dibulatkan menjadi dua desimal?
+-0.02
+Bulatkan 225060 ke paling dekat satu ratus ribu.
+200000
+Bulatkan -19966.4 ke paling dekat 1000.
+-20000
+Berapakah -86532000 dibulatkan menjadi paling dekat satu ratus ribu?
+-86500000
+Berapakah 47.8 dibulatkan menjadi paling dekat 10?
+50
+Berapakah -992.34 dibulatkan menjadi paling dekat 100?
+-1000
+Bulatkan -0.29029 ke tiga desimal.
+-0.29
+Bulatkan 3260 ke paling dekat 100.
+3300
+Berapakah -78470 dibulatkan menjadi paling dekat sepuluh ribu?
+-80000
+Bulatkan -64200 ke paling dekat satu ribu.
+-64000
+Berapakah -0.16977 dibulatkan menjadi 1 desimal?
+-0.2
+Bulatkan -46375 ke paling dekat 1000.
+-46000
+Berapakah 0.97104 dibulatkan menjadi 1 desimal?
+1
+Bulatkan 2895.9 ke paling dekat satu ratus.
+2900
+Bulatkan -3.0981 ke dua desimal.
+-3.1
+Bulatkan -0.025782 ke tiga desimal.
+-0.026
+Berapakah 579.8 dibulatkan menjadi paling dekat satu ratus?
+600
+Berapakah -1.7661 dibulatkan menjadi satu desimal?
+-1.8
+Berapakah 7827000 dibulatkan menjadi paling dekat 100000?
+7800000
+Berapakah -2.7324 dibulatkan menjadi 1 desimal?
+-2.7
+Bulatkan -894400 ke paling dekat sepuluh ribu.
+-890000
+Berapakah 0.000030082 dibulatkan menjadi 6 desimal?
+0.00003
+Bulatkan 0.000086 ke 4 desimal.
+0.0001
+Berapakah -6.2769 dibulatkan menjadi 2 desimal?
+-6.28
+Berapakah 363587 dibulatkan menjadi paling dekat sepuluh ribu?
+360000
+Berapakah 139800 dibulatkan menjadi paling dekat sepuluh ribu?
+140000
+Berapakah -4.214 dibulatkan menjadi 1 desimal?
+-4.2
+Berapakah 41.468 dibulatkan menjadi satu desimal?
+41.5
+Bulatkan -0.0000147085 ke enam desimal.
+-0.000015
+Berapakah -54.4 dibulatkan menjadi paling dekat sepuluh?
+-50
+Berapakah 0.12464 dibulatkan menjadi 2 desimal?
+0.12
+Bulatkan 2230 ke paling dekat sepuluh ribu.
+0
+Bulatkan -630.74 ke paling dekat 100.
+-600
+Berapakah -0.000000792 dibulatkan menjadi 7 desimal?
+-0.0000008
+Bulatkan -71.8 ke bilangan terdekat.
+-72
+Bulatkan 5829.68 ke paling dekat satu ribu.
+6000
+Bulatkan 0.0371 ke tiga desimal.
+0.037
+Berapakah 0.0001118 dibulatkan menjadi 4 desimal?
+0.0001
+Berapakah 0.0001511 dibulatkan menjadi 5 desimal?
+0.00015
+Berapakah -982 dibulatkan menjadi paling dekat sepuluh?
+-980
+Bulatkan -0.000082824 ke tujuh desimal.
+-0.0000828
+Berapakah -0.06403 dibulatkan menjadi 3 desimal?
+-0.064
+Bulatkan -43100 ke paling dekat satu ratus ribu.
+0
+Bulatkan 8.25 ke bilangan terdekat.
+8
+Bulatkan -86860 ke paling dekat satu ribu.
+-87000
+Berapakah -2.35872 dibulatkan menjadi dua desimal?
+-2.36
+Berapakah -0.000033422 dibulatkan menjadi 7 desimal?
+-0.0000334
+Bulatkan 0.00005365 ke lima desimal.
+0.00005
+Bulatkan 0.00001131 ke enam desimal.
+0.000011
+Bulatkan 9460000 ke paling dekat 1000000.
+9000000
+Bulatkan -210.89 ke bilangan terdekat.
+-211
+Berapakah -135.003 dibulatkan menjadi paling dekat sepuluh?
+-140
+Bulatkan -10.49 ke 1 desimal.
+-10.5
+Bulatkan 0.0000006891 ke enam desimal.
+0.000001
+Berapakah -3.93 dibulatkan menjadi 0 desimal?
+-4
+Berapakah -5.57 dibulatkan menjadi paling dekat 10?
+-10
+Berapakah 8100000 dibulatkan menjadi paling dekat satu juta?
+8000000
+Berapakah 0.0056635 dibulatkan menjadi tiga desimal?
+0.006
+Bulatkan -51360000 ke paling dekat 1000000.
+-51000000
+Berapakah 0.0017595 dibulatkan menjadi empat desimal?
+0.0018
+Bulatkan -3943000 ke paling dekat sepuluh ribu.
+-3940000
+Berapakah 5.25 dibulatkan menjadi 0 desimal?
+5
+Berapakah 0.000006821 dibulatkan menjadi enam desimal?
+0.000007
+Berapakah 5340000 dibulatkan menjadi paling dekat 1000000?
+5000000
+Berapakah 3747 dibulatkan menjadi paling dekat 100?
+3700
+Berapakah -578.6 dibulatkan menjadi paling dekat 10?
+-580
+Bulatkan -4891200 ke paling dekat 1000000.
+-5000000
+Bulatkan -0.61359 ke dua desimal.
+-0.61
+Bulatkan -0.4749 ke 1 desimal.
+-0.5
+Berapakah 0.08369 dibulatkan menjadi tiga desimal?
+0.084
+Bulatkan 25905 ke paling dekat satu ratus.
+25900
+Berapakah 0.50222 dibulatkan menjadi tiga desimal?
+0.502
+Berapakah -26.3208 dibulatkan menjadi nol desimal?
+-26
+Berapakah -0.66 dibulatkan menjadi bilangan terdekat?
+-1
+Berapakah 2050000 dibulatkan menjadi paling dekat satu juta?
+2000000
+Bulatkan 15 ke paling dekat 10.
+20
+Berapakah -411.3 dibulatkan menjadi paling dekat sepuluh?
+-410
+Bulatkan 639940 ke paling dekat 10000.
+640000
+Berapakah 5801 dibulatkan menjadi paling dekat satu ribu?
+6000
+Berapakah 0.0000029995 dibulatkan menjadi tujuh desimal?
+0.000003
+Berapakah -0.20768 dibulatkan menjadi 3 desimal?
+-0.208
+Berapakah -0.032333 dibulatkan menjadi 3 desimal?
+-0.032
+Berapakah 1881.6 dibulatkan menjadi paling dekat 10?
+1880
+Bulatkan 405.4 ke paling dekat sepuluh.
+410
+Berapakah -0.00072706 dibulatkan menjadi 4 desimal?
+-0.0007
+Berapakah -7.4355 dibulatkan menjadi 1 desimal?
+-7.4
+Bulatkan -0.0006953 ke 5 desimal.
+-0.0007
+Berapakah 0.000003075 dibulatkan menjadi 7 desimal?
+0.0000031
+Berapakah 57.296 dibulatkan menjadi satu desimal?
+57.3
+Berapakah -0.009577 dibulatkan menjadi 4 desimal?
+-0.0096
+Bulatkan -4153000 ke paling dekat satu juta.
+-4000000
+Bulatkan -93.87 ke paling dekat 10.
+-90
+Bulatkan -20090000 ke paling dekat satu juta.
+-20000000
+Bulatkan -498900 ke paling dekat 10000.
+-500000
+Berapakah -0.00003002 dibulatkan menjadi enam desimal?
+-0.00003
+Berapakah 0.0174 dibulatkan menjadi 3 desimal?
+0.017
+Bulatkan 51424000 ke paling dekat 1000000.
+51000000
+Bulatkan 22610000 ke paling dekat 100000.
+22600000
+Bulatkan 9.032 ke bilangan terdekat.
+9
+Bulatkan -0.00122128 ke lima desimal.
+-0.00122
+Bulatkan -10940000 ke paling dekat 1000000.
+-11000000
+Bulatkan -0.00050424 ke 5 desimal.
+-0.0005
+Berapakah -0.0000029098 dibulatkan menjadi tujuh desimal?
+-0.0000029
+Berapakah 2210800 dibulatkan menjadi paling dekat satu ratus ribu?
+2200000
+Bulatkan 17.1933 ke paling dekat sepuluh.
+20
+Bulatkan -0.0015158 ke 5 desimal.
+-0.00152
+Bulatkan -5483900 ke paling dekat 10000.
+-5480000
+Berapakah -0.00007895 dibulatkan menjadi 5 desimal?
+-0.00008
+Bulatkan -0.0000005552 ke 7 desimal.
+-0.0000006
+Bulatkan -17202000 ke paling dekat satu juta.
+-17000000
+Berapakah 0.05803 dibulatkan menjadi tiga desimal?
+0.058
+Berapakah 5.9744 dibulatkan menjadi 1 desimal?
+6
+Bulatkan 8826.7 ke paling dekat satu ribu.
+9000
+Bulatkan -0.6831 ke dua desimal.
+-0.68
+Berapakah -37636 dibulatkan menjadi paling dekat satu ribu?
+-38000
+Bulatkan 0.003943 ke 4 desimal.
+0.0039
+Berapakah 0.00607 dibulatkan menjadi empat desimal?
+0.0061
+Bulatkan -0.002713 ke empat desimal.
+-0.0027
+Bulatkan 6991 ke paling dekat satu ribu.
+7000
+Berapakah -0.00080228 dibulatkan menjadi lima desimal?
+-0.0008
+Berapakah -41.7 dibulatkan menjadi bilangan terdekat?
+-42
+Bulatkan 8.21 ke 1 desimal.
+8.2
+Berapakah 1478700 dibulatkan menjadi paling dekat 10000?
+1480000
+Bulatkan -222.839 ke paling dekat satu ratus.
+-200
+Berapakah -743.15 dibulatkan menjadi paling dekat sepuluh?
+-740
+Bulatkan 162910 ke paling dekat 100000.
+200000
+Bulatkan -0.0001612 ke lima desimal.
+-0.00016
+Bulatkan 18.609 ke 0 desimal.
+19
+Berapakah 240130000 dibulatkan menjadi paling dekat satu juta?
+240000000
+Berapakah -2630 dibulatkan menjadi paling dekat 1000?
+-3000
+Berapakah 0.48644 dibulatkan menjadi dua desimal?
+0.49
+Bulatkan -0.19782 ke dua desimal.
+-0.2
+Berapakah 0.0014274 dibulatkan menjadi 3 desimal?
+0.001
+Bulatkan 0.000612 ke empat desimal.
+0.0006
+Berapakah -0.000018147 dibulatkan menjadi 7 desimal?
+-0.0000181
+Berapakah -137300 dibulatkan menjadi paling dekat sepuluh ribu?
+-140000
+Berapakah 824 dibulatkan menjadi paling dekat 100?
+800
+Berapakah 1.719 dibulatkan menjadi satu desimal?
+1.7
+Bulatkan -0.17123 ke 3 desimal.
+-0.171
+Berapakah -132.16 dibulatkan menjadi 0 desimal?
+-132
+Bulatkan 328800 ke paling dekat sepuluh ribu.
+330000
+Berapakah -0.0005885 dibulatkan menjadi 4 desimal?
+-0.0006
+Bulatkan -1965.85 ke paling dekat 100.
+-2000
+Berapakah -120340000 dibulatkan menjadi paling dekat 1000000?
+-120000000
+Berapakah 0.8796 dibulatkan menjadi satu desimal?
+0.9
+Berapakah -634000 dibulatkan menjadi paling dekat 100000?
+-600000
+Bulatkan 13186000 ke paling dekat 1000000.
+13000000
+Berapakah -2858 dibulatkan menjadi paling dekat satu ratus?
+-2900
+Bulatkan 0.00095295 ke enam desimal.
+0.000953
+Berapakah -0.0097536 dibulatkan menjadi 4 desimal?
+-0.0098
+Berapakah 144020000 dibulatkan menjadi paling dekat 1000000?
+144000000
+Bulatkan -0.00005208 ke 5 desimal.
+-0.00005
+Bulatkan 146340000 ke paling dekat satu juta.
+146000000
+Bulatkan -0.004278 ke 4 desimal.
+-0.0043
+Bulatkan -5086000 ke paling dekat satu ratus ribu.
+-5100000
+Berapakah -5239.5 dibulatkan menjadi paling dekat 1000?
+-5000
+Bulatkan 542.5 ke paling dekat satu ratus.
+500
+Bulatkan 87930 ke paling dekat satu ribu.
+88000
+Bulatkan 3.474 ke 1 desimal.
+3.5
+Berapakah 541.7 dibulatkan menjadi paling dekat satu ratus?
+500
+Bulatkan 1.679 ke satu desimal.
+1.7
+Berapakah -3646000 dibulatkan menjadi paling dekat 100000?
+-3600000
+Bulatkan -2300.94 ke paling dekat satu ratus.
+-2300
+Berapakah -5312 dibulatkan menjadi paling dekat sepuluh?
+-5310
+Berapakah 0.0000042538 dibulatkan menjadi enam desimal?
+0.000004
+Bulatkan -6.98 ke 1 desimal.
+-7
+Berapakah -7409200 dibulatkan menjadi paling dekat 100000?
+-7400000
+Berapakah 0.007939 dibulatkan menjadi 4 desimal?
+0.0079
+Berapakah 493730 dibulatkan menjadi paling dekat sepuluh ribu?
+490000
+Bulatkan 2234000 ke paling dekat satu ratus ribu.
+2200000
+Bulatkan 0.00001556 ke 6 desimal.
+0.000016
+Bulatkan 0.5383 ke satu desimal.
+0.5
+Berapakah -0.3017 dibulatkan menjadi 2 desimal?
+-0.3
+Bulatkan 17.8987 ke nol desimal.
+18
+Berapakah 0.00146565 dibulatkan menjadi 4 desimal?
+0.0015
+Berapakah -0.75 dibulatkan menjadi 1 desimal?
+-0.8
+Berapakah 1416000 dibulatkan menjadi paling dekat 100000?
+1400000
+Bulatkan -1.0659 ke dua desimal.
+-1.07
+Bulatkan -0.075249 ke 4 desimal.
+-0.0752
+Bulatkan -0.44174 ke 1 desimal.
+-0.4
+Berapakah 0.004757 dibulatkan menjadi 4 desimal?
+0.0048
+Bulatkan -48.71 ke 0 desimal.
+-49
+Berapakah 0.038399 dibulatkan menjadi 4 desimal?
+0.0384
+Berapakah -122500 dibulatkan menjadi paling dekat satu ribu?
+-123000
+Bulatkan -0.009518 ke 4 desimal.
+-0.0095
+Bulatkan 76840 ke paling dekat 1000.
+77000
+Bulatkan 0.0591 ke 2 desimal.
+0.06
+Berapakah 11.9469 dibulatkan menjadi satu desimal?
+11.9
+Bulatkan 3756 ke paling dekat satu ratus.
+3800
+Bulatkan -27.218 ke 1 desimal.
+-27.2
+Berapakah -851.6 dibulatkan menjadi paling dekat 10?
+-850
+Bulatkan 1690100 ke paling dekat satu ratus ribu.
+1700000
+Bulatkan -0.000449796 ke lima desimal.
+-0.00045
+Bulatkan -0.00005079 ke 6 desimal.
+-0.000051
+Berapakah -93775000 dibulatkan menjadi paling dekat 1000000?
+-94000000
+Bulatkan -9303 ke paling dekat satu ribu.
+-9000
+Berapakah 2334100 dibulatkan menjadi paling dekat 10000?
+2330000
+Berapakah -54140 dibulatkan menjadi paling dekat satu ribu?
+-54000
+Berapakah -485.8 dibulatkan menjadi paling dekat satu ratus?
+-500
+Bulatkan -1.13565 ke 3 desimal.
+-1.136
+Berapakah 745.35 dibulatkan menjadi paling dekat 10?
+750
+Bulatkan -39900 ke paling dekat sepuluh ribu.
+-40000
+Bulatkan -0.000019229 ke tujuh desimal.
+-0.0000192
+Berapakah -30.0235 dibulatkan menjadi 1 desimal?
+-30
+Berapakah -1.3066 dibulatkan menjadi satu desimal?
+-1.3
+Berapakah -0.00110987 dibulatkan menjadi 5 desimal?
+-0.00111
+Bulatkan -150170 ke paling dekat satu ribu.
+-150000
+Bulatkan -0.0001154 ke lima desimal.
+-0.00012
+Berapakah -116630000 dibulatkan menjadi paling dekat 1000000?
+-117000000
+Bulatkan 653 ke paling dekat 10.
+650
+Bulatkan 0.0001588 ke 5 desimal.
+0.00016
+Berapakah -80190 dibulatkan menjadi paling dekat sepuluh ribu?
+-80000
+Bulatkan -3959000 ke paling dekat 1000000.
+-4000000
+Berapakah 6.62 dibulatkan menjadi nol desimal?
+7
+Berapakah 0.00002933 dibulatkan menjadi 6 desimal?
+0.000029
+Bulatkan 41200 ke paling dekat sepuluh ribu.
+40000
+Bulatkan 0.004259 ke 3 desimal.
+0.004
+Berapakah 19.37 dibulatkan menjadi paling dekat 10?
+20
+Berapakah 0.0000011372 dibulatkan menjadi 7 desimal?
+0.0000011
+Berapakah -0.0000010466 dibulatkan menjadi 7 desimal?
+-0.000001
+Bulatkan -1.6887 ke bilangan terdekat.
+-2
+Berapakah -24.552 dibulatkan menjadi bilangan terdekat?
+-25
+Berapakah -0.00519118 dibulatkan menjadi 3 desimal?
+-0.005
+Bulatkan 2972000 ke paling dekat satu juta.
+3000000
+Bulatkan 18.4177 ke 0 desimal.
+18
+Bulatkan -12346900 ke paling dekat 1000000.
+-12000000
+Berapakah 4604 dibulatkan menjadi paling dekat 100?
+4600
+Bulatkan -0.001102 ke lima desimal.
+-0.0011
+Berapakah 0.0001913 dibulatkan menjadi lima desimal?
+0.00019
+Berapakah -0.0018052 dibulatkan menjadi empat desimal?
+-0.0018
+Berapakah -309570000 dibulatkan menjadi paling dekat satu juta?
+-310000000
+Berapakah -0.000124752 dibulatkan menjadi enam desimal?
+-0.000125
+Berapakah 2.003 dibulatkan menjadi 1 desimal?
+2
+Bulatkan -0.0028392 ke 3 desimal.
+-0.003
+Bulatkan -3816 ke paling dekat satu ratus.
+-3800
+Berapakah 168.7 dibulatkan menjadi paling dekat 10?
+170
+Berapakah -4.34 dibulatkan menjadi bilangan terdekat?
+-4
+Berapakah -371.09 dibulatkan menjadi paling dekat satu ratus?
+-400
+Berapakah 670400 dibulatkan menjadi paling dekat satu ratus ribu?
+700000
+Bulatkan -0.000034081 ke lima desimal.
+-0.00003
+Berapakah -1294980 dibulatkan menjadi paling dekat sepuluh ribu?
+-1290000
+Bulatkan 2170 ke paling dekat 1000.
+2000
+Bulatkan 0.31649 ke dua desimal.
+0.32
+Berapakah 6620000 dibulatkan menjadi paling dekat 1000000?
+7000000
+Berapakah 0.00000057957 dibulatkan menjadi 7 desimal?
+0.0000006
+Bulatkan 0.000016799 ke 6 desimal.
+0.000017
+Bulatkan -0.000056224 ke lima desimal.
+-0.00006
+Bulatkan -58038 ke paling dekat 1000.
+-58000
+Bulatkan 13092000 ke paling dekat 100000.
+13100000
+Bulatkan -1008 ke paling dekat 100.
+-1000
+Berapakah -5287700 dibulatkan menjadi paling dekat satu juta?
+-5000000

@@ -1,0 +1,2000 @@
+Empat huruf diambil tanpa pengganti dari {i: 2, z: 2, r: 2, l: 1, s: 3}. Beri probabilitas dari urutan lsii.
+1/840
+Tiga huruf diambil tanpa pengganti dari uzdozoooioido. Berapa probabilitas urutan dzu?
+1/429
+Hitung probabilitas dari urutan gc ketika dua huruf diambil tanpa pengganti dari ydomgc.
+1/30
+Berapa probabilitas dari urutan kh ketika dua huruf diambil tanpa pengganti dari {q: 7, k: 1, h: 4, d: 5}?
+1/68
+Tiga huruf diambil tanpa pengganti dari {n: 1, j: 3, l: 1, h: 1}. Beri probabilitas dari urutan jlj.
+1/20
+Empat huruf diambil tanpa pengganti dari {a: 9, w: 2, b: 2, p: 1, d: 1, y: 1}. Beri probabilitas dari urutan wapa.
+3/910
+Tiga huruf diambil tanpa pengganti dari urrhhrrhhruhrh. Beri probabilitas dari urutan rrr.
+5/91
+Tiga huruf diambil tanpa pengganti dari {m: 1, y: 7, i: 1, w: 2, k: 1}. Beri probabilitas dari urutan yik.
+7/1320
+Tiga huruf diambil tanpa pengganti dari {i: 1, e: 1, j: 1, o: 1, g: 1, d: 1}. Beri probabilitas dari urutan jdi.
+1/120
+Berapa probabilitas dari urutan fo ketika dua huruf diambil tanpa pengganti dari offfffofffffffwf?
+13/120
+Dua huruf diambil tanpa pengganti dari wxmupn. Berapa probabilitas urutan xp?
+1/30
+Hitung probabilitas dari urutan tgv ketika tiga huruf diambil tanpa pengganti dari tvttvtgvtttvtv.
+5/273
+Empat huruf diambil tanpa pengganti dari sststtssstss. Beri probabilitas dari urutan sttt.
+8/495
+Hitung probabilitas dari urutan pe ketika dua huruf diambil tanpa pengganti dari bpjeph.
+1/15
+Hitung probabilitas dari urutan zbzz ketika empat huruf diambil tanpa pengganti dari zzzbzbzbzzzzzbb.
+10/91
+Berapa probabilitas dari urutan mem ketika tiga huruf diambil tanpa pengganti dari {m: 7, e: 10}?
+7/68
+Hitung probabilitas dari urutan uffn ketika empat huruf diambil tanpa pengganti dari nfnkunif.
+1/280
+Empat huruf diambil tanpa pengganti dari {u: 4, f: 5, q: 4, t: 2, k: 1, s: 1}. Berapa probabilitas urutan kttf?
+1/5712
+Tiga huruf diambil tanpa pengganti dari qrrqqrqqqrqrqrqrqqr. Beri probabilitas dari urutan rrr.
+56/969
+Empat huruf diambil tanpa pengganti dari {m: 4, d: 1, w: 1, h: 7, k: 1, c: 2}. Beri probabilitas dari urutan dcmm.
+1/1820
+Hitung probabilitas dari urutan nt ketika dua huruf diambil tanpa pengganti dari atannnaaaataata.
+3/70
+Hitung probabilitas dari urutan rrrt ketika empat huruf diambil tanpa pengganti dari {k: 3, z: 6, t: 2, r: 9}.
+14/1615
+Dua huruf diambil tanpa pengganti dari {f: 5, g: 5, l: 2, r: 2}. Berapa probabilitas urutan gg?
+10/91
+Tiga huruf diambil tanpa pengganti dari fnnncffffcffffccfffc. Berapa probabilitas urutan cfc?
+2/57
+Dua huruf diambil tanpa pengganti dari kuvn. Beri probabilitas dari urutan vu.
+1/12
+Empat huruf diambil tanpa pengganti dari attattttjatataaa. Beri probabilitas dari urutan ttta.
+7/130
+Tiga huruf diambil tanpa pengganti dari {w: 1, f: 2, u: 1, s: 4, n: 4}. Beri probabilitas dari urutan sfs.
+1/55
+Berapa probabilitas dari urutan dp ketika dua huruf diambil tanpa pengganti dari {d: 1, o: 2, p: 3}?
+1/10
+Tiga huruf diambil tanpa pengganti dari {p: 2, d: 1, x: 12}. Berapa probabilitas urutan xxd?
+22/455
+Tiga huruf diambil tanpa pengganti dari araeaebe. Berapa probabilitas urutan aab?
+1/56
+Tiga huruf diambil tanpa pengganti dari {l: 6, y: 10}. Beri probabilitas dari urutan yyy.
+3/14
+Tiga huruf diambil tanpa pengganti dari {x: 3, l: 2, z: 1, h: 2, q: 1}. Berapa probabilitas urutan hhz?
+1/252
+Dua huruf diambil tanpa pengganti dari rwruwrunrunrnnwr. Beri probabilitas dari urutan nn.
+1/20
+Berapa probabilitas dari urutan en ketika dua huruf diambil tanpa pengganti dari sendjk?
+1/30
+Berapa probabilitas dari urutan dymy ketika empat huruf diambil tanpa pengganti dari dmmymmmo?
+0
+Hitung probabilitas dari urutan ti ketika dua huruf diambil tanpa pengganti dari ikrtrttii.
+1/8
+Berapa probabilitas dari urutan tgt ketika tiga huruf diambil tanpa pengganti dari {g: 2, z: 2, e: 5, t: 2, j: 1}?
+1/330
+Hitung probabilitas dari urutan sbs ketika tiga huruf diambil tanpa pengganti dari bbbttwsst.
+1/84
+Berapa probabilitas dari urutan rcm ketika tiga huruf diambil tanpa pengganti dari {m: 1, c: 13, r: 6}?
+13/1140
+Hitung probabilitas dari urutan jtt ketika tiga huruf diambil tanpa pengganti dari ththjthqqthhthqttttq.
+1/95
+Dua huruf diambil tanpa pengganti dari {d: 1, w: 6, b: 1, q: 2, x: 1, l: 6}. Beri probabilitas dari urutan wx.
+3/136
+Tiga huruf diambil tanpa pengganti dari coyottgyvyvcc. Berapa probabilitas urutan cgv?
+1/286
+Dua huruf diambil tanpa pengganti dari {j: 8}. Beri probabilitas dari urutan jj.
+1
+Hitung probabilitas dari urutan mdmd ketika empat huruf diambil tanpa pengganti dari {d: 9, l: 1, m: 2}.
+2/165
+Hitung probabilitas dari urutan poo ketika tiga huruf diambil tanpa pengganti dari yyyeppoyopyyyyyey.
+1/680
+Berapa probabilitas dari urutan wx ketika dua huruf diambil tanpa pengganti dari mmmmxmmxmmwmmxmwx?
+1/34
+Empat huruf diambil tanpa pengganti dari njjlnnlllrlmllj. Beri probabilitas dari urutan rjml.
+1/1560
+Dua huruf diambil tanpa pengganti dari aa. Beri probabilitas dari urutan aa.
+1
+Dua huruf diambil tanpa pengganti dari {n: 3, u: 11, x: 5}. Beri probabilitas dari urutan nx.
+5/114
+Berapa probabilitas dari urutan hh ketika dua huruf diambil tanpa pengganti dari etitneiteehtenhn?
+1/120
+Berapa probabilitas dari urutan tnt ketika tiga huruf diambil tanpa pengganti dari {h: 1, n: 1, f: 2, t: 3, p: 1}?
+1/56
+Dua huruf diambil tanpa pengganti dari {p: 2, t: 2, e: 1, l: 3, i: 8}. Berapa probabilitas urutan it?
+1/15
+Hitung probabilitas dari urutan xt ketika dua huruf diambil tanpa pengganti dari {c: 7, k: 1, x: 5, t: 2}.
+1/21
+Tiga huruf diambil tanpa pengganti dari lllllwllwhxllalw. Berapa probabilitas urutan waw?
+1/560
+Hitung probabilitas dari urutan xwn ketika tiga huruf diambil tanpa pengganti dari nwwhnxxxkwknww.
+15/728
+Dua huruf diambil tanpa pengganti dari wyjytjw. Beri probabilitas dari urutan yt.
+1/21
+Empat huruf diambil tanpa pengganti dari eeeagsugegesyeaaesg. Beri probabilitas dari urutan gaus.
+1/2584
+Tiga huruf diambil tanpa pengganti dari {m: 2, k: 1, g: 2, i: 2}. Beri probabilitas dari urutan kii.
+1/105
+Tiga huruf diambil tanpa pengganti dari {q: 8, f: 4}. Beri probabilitas dari urutan fqf.
+4/55
+Berapa probabilitas dari urutan hha ketika tiga huruf diambil tanpa pengganti dari {a: 2, h: 2, t: 3}?
+2/105
+Tiga huruf diambil tanpa pengganti dari xxbuxoooxwxxwxuw. Beri probabilitas dari urutan oox.
+1/80
+Dua huruf diambil tanpa pengganti dari {e: 2, t: 1, u: 4, j: 5}. Beri probabilitas dari urutan jt.
+5/132
+Dua huruf diambil tanpa pengganti dari {y: 16, i: 1}. Beri probabilitas dari urutan yi.
+1/17
+Berapa probabilitas dari urutan cco ketika tiga huruf diambil tanpa pengganti dari ooooococcoeo?
+2/55
+Empat huruf diambil tanpa pengganti dari {u: 6, n: 3, m: 5}. Berapa probabilitas urutan unnm?
+15/2002
+Berapa probabilitas dari urutan ll ketika dua huruf diambil tanpa pengganti dari {l: 2, r: 15}?
+1/136
+Berapa probabilitas dari urutan ddd ketika tiga huruf diambil tanpa pengganti dari dttddttd?
+1/14
+Hitung probabilitas dari urutan ub ketika dua huruf diambil tanpa pengganti dari {u: 4, b: 13}.
+13/68
+Empat huruf diambil tanpa pengganti dari vvnvveaiiviiaaeev. Berapa probabilitas urutan eiev?
+3/1190
+Berapa probabilitas dari urutan gh ketika dua huruf diambil tanpa pengganti dari mggmhgggggmgggmmggg?
+13/342
+Tiga huruf diambil tanpa pengganti dari iviiciwfaiiw. Beri probabilitas dari urutan iwi.
+1/22
+Dua huruf diambil tanpa pengganti dari {i: 1, k: 9, s: 3}. Beri probabilitas dari urutan si.
+1/52
+Hitung probabilitas dari urutan bb ketika dua huruf diambil tanpa pengganti dari {b: 8, r: 4}.
+14/33
+Dua huruf diambil tanpa pengganti dari {k: 1, p: 2, i: 1, u: 3, q: 11, b: 2}. Berapa probabilitas urutan kp?
+1/190
+Berapa probabilitas dari urutan bs ketika dua huruf diambil tanpa pengganti dari {f: 1, b: 6, s: 1, q: 7, g: 5}?
+3/190
+Dua huruf diambil tanpa pengganti dari {l: 6, d: 11, n: 2, t: 1}. Berapa probabilitas urutan td?
+11/380
+Dua huruf diambil tanpa pengganti dari {o: 6, s: 10}. Berapa probabilitas urutan ss?
+3/8
+Tiga huruf diambil tanpa pengganti dari {n: 3, g: 10, r: 5}. Berapa probabilitas urutan grn?
+25/816
+Berapa probabilitas dari urutan hq ketika dua huruf diambil tanpa pengganti dari hqhqhhqhhhhqhqqqhh?
+77/306
+Hitung probabilitas dari urutan ww ketika dua huruf diambil tanpa pengganti dari {r: 11, s: 3, w: 2, x: 1}.
+1/136
+Dua huruf diambil tanpa pengganti dari {i: 3, d: 1, h: 2, p: 2}. Beri probabilitas dari urutan di.
+3/56
+Dua huruf diambil tanpa pengganti dari {w: 12, h: 5}. Beri probabilitas dari urutan wh.
+15/68
+Tiga huruf diambil tanpa pengganti dari {d: 1, m: 1, r: 3, i: 1}. Beri probabilitas dari urutan imd.
+1/120
+Tiga huruf diambil tanpa pengganti dari {g: 14, b: 2, s: 2}. Berapa probabilitas urutan ssb?
+1/1224
+Dua huruf diambil tanpa pengganti dari wphfjjwwjjchhwhwjc. Berapa probabilitas urutan wp?
+5/306
+Hitung probabilitas dari urutan fsuu ketika empat huruf diambil tanpa pengganti dari {c: 2, i: 3, f: 3, u: 8, s: 4}.
+28/4845
+Empat huruf diambil tanpa pengganti dari cgjlllcllcl. Berapa probabilitas urutan lcjc?
+1/220
+Tiga huruf diambil tanpa pengganti dari {b: 4, e: 4}. Beri probabilitas dari urutan beb.
+1/7
+Dua huruf diambil tanpa pengganti dari {y: 2, c: 3, k: 1}. Beri probabilitas dari urutan ky.
+1/15
+Tiga huruf diambil tanpa pengganti dari {x: 3, f: 4, n: 1, b: 7, p: 1, w: 3}. Berapa probabilitas urutan wwf?
+4/969
+Hitung probabilitas dari urutan ze ketika dua huruf diambil tanpa pengganti dari {e: 3, k: 1, n: 4, z: 3, r: 4}.
+3/70
+Tiga huruf diambil tanpa pengganti dari {r: 4, u: 4}. Berapa probabilitas urutan rrr?
+1/14
+Empat huruf diambil tanpa pengganti dari ggjgggjcjgccgcggcc. Beri probabilitas dari urutan gcgc.
+1/34
+Tiga huruf diambil tanpa pengganti dari {n: 14, w: 3}. Berapa probabilitas urutan wwn?
+7/340
+Dua huruf diambil tanpa pengganti dari {n: 1, b: 2, g: 5, i: 1, y: 5}. Berapa probabilitas urutan gg?
+10/91
+Berapa probabilitas dari urutan hcqc ketika empat huruf diambil tanpa pengganti dari {c: 3, h: 8, q: 2}?
+4/715
+Hitung probabilitas dari urutan pkk ketika tiga huruf diambil tanpa pengganti dari nktkkktkpukkkupk.
+3/70
+Empat huruf diambil tanpa pengganti dari ppppvvffjp. Beri probabilitas dari urutan pvfj.
+1/252
+Berapa probabilitas dari urutan xbp ketika tiga huruf diambil tanpa pengganti dari {j: 1, q: 2, p: 2, b: 3, x: 1, o: 1}?
+1/120
+Hitung probabilitas dari urutan jvvv ketika empat huruf diambil tanpa pengganti dari {z: 1, v: 4, j: 1, d: 1}.
+1/35
+Tiga huruf diambil tanpa pengganti dari {y: 2, j: 4, p: 2, r: 3, s: 3}. Berapa probabilitas urutan spy?
+1/182
+Dua huruf diambil tanpa pengganti dari {z: 4, r: 2, a: 2, m: 2, l: 5}. Beri probabilitas dari urutan la.
+1/21
+Tiga huruf diambil tanpa pengganti dari {q: 3, r: 2, p: 2, s: 2, f: 5}. Berapa probabilitas urutan sqq?
+1/182
+Tiga huruf diambil tanpa pengganti dari qqqkqkqqkqqkqkqqq. Berapa probabilitas urutan kkk?
+1/68
+Empat huruf diambil tanpa pengganti dari {g: 12, q: 4, e: 1}. Beri probabilitas dari urutan gqqe.
+3/1190
+Dua huruf diambil tanpa pengganti dari {y: 1, q: 1, z: 1, u: 3, x: 1, l: 2}. Berapa probabilitas urutan qu?
+1/24
+Tiga huruf diambil tanpa pengganti dari ytzzyyzyttyyyyzyyt. Beri probabilitas dari urutan zyy.
+5/68
+Tiga huruf diambil tanpa pengganti dari jpjpjjjjppp. Beri probabilitas dari urutan jjp.
+5/33
+Hitung probabilitas dari urutan lp ketika dua huruf diambil tanpa pengganti dari {l: 1, o: 1, p: 2, x: 3, q: 2, r: 1}.
+1/45
+Hitung probabilitas dari urutan pg ketika dua huruf diambil tanpa pengganti dari opupojuguuopjjjjj.
+3/272
+Empat huruf diambil tanpa pengganti dari {g: 6, w: 3}. Berapa probabilitas urutan ggwg?
+5/42
+Dua huruf diambil tanpa pengganti dari {z: 2, g: 12, n: 6}. Berapa probabilitas urutan gz?
+6/95
+Hitung probabilitas dari urutan cknt ketika empat huruf diambil tanpa pengganti dari {t: 1, e: 2, c: 1, n: 1, k: 3, g: 1}.
+1/1008
+Tiga huruf diambil tanpa pengganti dari ccgdzcvbcdccddcdc. Berapa probabilitas urutan czb?
+1/510
+Hitung probabilitas dari urutan qwb ketika tiga huruf diambil tanpa pengganti dari wbqqqqqwqwwbww.
+3/91
+Berapa probabilitas dari urutan uwk ketika tiga huruf diambil tanpa pengganti dari {w: 2, u: 3, k: 2, e: 2, v: 1, f: 1}?
+2/165
+Tiga huruf diambil tanpa pengganti dari nnwswzs. Berapa probabilitas urutan nsn?
+2/105
+Empat huruf diambil tanpa pengganti dari {w: 2, p: 1, s: 1, a: 1, f: 1}. Berapa probabilitas urutan afwp?
+1/180
+Berapa probabilitas dari urutan idd ketika tiga huruf diambil tanpa pengganti dari {d: 1, z: 3, i: 3, f: 1}?
+0
+Dua huruf diambil tanpa pengganti dari {o: 1, t: 8, x: 1, s: 3, k: 2}. Berapa probabilitas urutan kx?
+1/105
+Hitung probabilitas dari urutan lere ketika empat huruf diambil tanpa pengganti dari {l: 2, r: 2, i: 1, e: 2}.
+1/105
+Dua huruf diambil tanpa pengganti dari {g: 3, b: 1, y: 2, j: 1, r: 7, p: 2}. Berapa probabilitas urutan pb?
+1/120
+Empat huruf diambil tanpa pengganti dari {q: 4, p: 1, j: 3, g: 4}. Beri probabilitas dari urutan gjpq.
+2/495
+Berapa probabilitas dari urutan zu ketika dua huruf diambil tanpa pengganti dari {z: 1, s: 3, c: 1, u: 1}?
+1/30
+Tiga huruf diambil tanpa pengganti dari nqnrqrn. Berapa probabilitas urutan nrq?
+2/35
+Tiga huruf diambil tanpa pengganti dari {v: 9, i: 6, j: 1}. Beri probabilitas dari urutan jiv.
+9/560
+Hitung probabilitas dari urutan jkj ketika tiga huruf diambil tanpa pengganti dari jkkjkkjkjkkjjjjjjmm.
+35/323
+Hitung probabilitas dari urutan pe ketika dua huruf diambil tanpa pengganti dari eetfffpctfejpp.
+9/182
+Hitung probabilitas dari urutan gzzg ketika empat huruf diambil tanpa pengganti dari {g: 10, z: 8}.
+7/102
+Dua huruf diambil tanpa pengganti dari {g: 4, c: 1, m: 1, s: 3, n: 1}. Berapa probabilitas urutan sc?
+1/30
+Hitung probabilitas dari urutan gc ketika dua huruf diambil tanpa pengganti dari {c: 1, r: 3, l: 1, g: 1}.
+1/30
+Berapa probabilitas dari urutan pp ketika dua huruf diambil tanpa pengganti dari pojppjpppjjj?
+5/22
+Empat huruf diambil tanpa pengganti dari iteeietieeetete. Beri probabilitas dari urutan teit.
+4/455
+Hitung probabilitas dari urutan xxpp ketika empat huruf diambil tanpa pengganti dari {x: 10, p: 6}.
+45/728
+Dua huruf diambil tanpa pengganti dari {n: 3, o: 6}. Beri probabilitas dari urutan oo.
+5/12
+Hitung probabilitas dari urutan hhug ketika empat huruf diambil tanpa pengganti dari {s: 5, q: 1, u: 4, g: 1, h: 2}.
+1/2145
+Tiga huruf diambil tanpa pengganti dari {e: 9, x: 1}. Berapa probabilitas urutan eex?
+1/10
+Empat huruf diambil tanpa pengganti dari {j: 2, i: 3, n: 2, s: 4, h: 1, b: 4}. Beri probabilitas dari urutan hiib.
+1/1820
+Hitung probabilitas dari urutan tc ketika dua huruf diambil tanpa pengganti dari {u: 1, t: 4, y: 2, v: 1, a: 1, c: 2}.
+4/55
+Hitung probabilitas dari urutan ro ketika dua huruf diambil tanpa pengganti dari rrvvvorvovvovv.
+9/182
+Dua huruf diambil tanpa pengganti dari {s: 2, n: 1, o: 5, u: 2}. Beri probabilitas dari urutan uo.
+1/9
+Dua huruf diambil tanpa pengganti dari {o: 1, l: 5, e: 2}. Beri probabilitas dari urutan oe.
+1/28
+Berapa probabilitas dari urutan rbaa ketika empat huruf diambil tanpa pengganti dari {a: 2, b: 1, r: 1, l: 1, c: 1}?
+1/180
+Hitung probabilitas dari urutan hx ketika dua huruf diambil tanpa pengganti dari {y: 6, h: 6, p: 6, x: 2}.
+3/95
+Hitung probabilitas dari urutan uud ketika tiga huruf diambil tanpa pengganti dari judujudduduujduuju.
+5/68
+Hitung probabilitas dari urutan ccc ketika tiga huruf diambil tanpa pengganti dari {b: 11, c: 7}.
+35/816
+Dua huruf diambil tanpa pengganti dari sxxxxxxxxxx. Berapa probabilitas urutan sx?
+1/11
+Empat huruf diambil tanpa pengganti dari lldlllllldllll. Berapa probabilitas urutan dddl?
+0
+Berapa probabilitas dari urutan tr ketika dua huruf diambil tanpa pengganti dari {r: 4, t: 1, b: 11}?
+1/60
+Hitung probabilitas dari urutan xx ketika dua huruf diambil tanpa pengganti dari iiipilixplxlixxp.
+1/20
+Tiga huruf diambil tanpa pengganti dari {z: 6, h: 4, c: 4, m: 3, b: 1}. Berapa probabilitas urutan bcc?
+1/408
+Dua huruf diambil tanpa pengganti dari bawwwawaaswaaasbaaa. Beri probabilitas dari urutan wb.
+5/171
+Hitung probabilitas dari urutan dv ketika dua huruf diambil tanpa pengganti dari {v: 16, d: 1}.
+1/17
+Berapa probabilitas dari urutan ccch ketika empat huruf diambil tanpa pengganti dari {c: 1, h: 8, k: 1}?
+0
+Tiga huruf diambil tanpa pengganti dari {q: 1, d: 1, y: 1, h: 1, u: 2}. Beri probabilitas dari urutan ydd.
+0
+Berapa probabilitas dari urutan nx ketika dua huruf diambil tanpa pengganti dari jjnjjjxjjnjxxjnnn?
+15/272
+Hitung probabilitas dari urutan yl ketika dua huruf diambil tanpa pengganti dari uycllylylyyycyl.
+1/6
+Dua huruf diambil tanpa pengganti dari xixlll. Beri probabilitas dari urutan li.
+1/10
+Tiga huruf diambil tanpa pengganti dari ndlx. Berapa probabilitas urutan ndx?
+1/24
+Berapa probabilitas dari urutan ivvi ketika empat huruf diambil tanpa pengganti dari {p: 8, i: 2, v: 5, t: 5}?
+1/2907
+Dua huruf diambil tanpa pengganti dari {s: 3, o: 2, y: 1, b: 1, k: 2, r: 1}. Berapa probabilitas urutan rk?
+1/45
+Empat huruf diambil tanpa pengganti dari ixrhrr. Berapa probabilitas urutan rrrx?
+1/60
+Berapa probabilitas dari urutan pqhm ketika empat huruf diambil tanpa pengganti dari {h: 2, p: 2, q: 3, g: 1, m: 2, n: 3}?
+1/715
+Empat huruf diambil tanpa pengganti dari {z: 2, k: 2, p: 3}. Berapa probabilitas urutan pppk?
+1/70
+Dua huruf diambil tanpa pengganti dari {e: 3, d: 6, o: 1}. Beri probabilitas dari urutan do.
+1/15
+Dua huruf diambil tanpa pengganti dari {j: 1, g: 2, n: 5, v: 9}. Beri probabilitas dari urutan gv.
+9/136
+Empat huruf diambil tanpa pengganti dari {w: 6, d: 1, p: 2, n: 2, y: 2}. Beri probabilitas dari urutan nwnw.
+1/286
+Berapa probabilitas dari urutan uuu ketika tiga huruf diambil tanpa pengganti dari {g: 2, u: 16, w: 1}?
+560/969
+Hitung probabilitas dari urutan vvog ketika empat huruf diambil tanpa pengganti dari voggvokkkkovvvg.
+1/182
+Dua huruf diambil tanpa pengganti dari itwwiiwfnfnwnntfiwf. Beri probabilitas dari urutan fw.
+10/171
+Hitung probabilitas dari urutan ww ketika dua huruf diambil tanpa pengganti dari wjwejwewwjjeoj.
+10/91
+Berapa probabilitas dari urutan qw ketika dua huruf diambil tanpa pengganti dari {m: 1, l: 2, u: 1, w: 3, d: 2, q: 2}?
+3/55
+Dua huruf diambil tanpa pengganti dari vvvjvfvvvvfvfvvvvv. Berapa probabilitas urutan jv?
+7/153
+Hitung probabilitas dari urutan ss ketika dua huruf diambil tanpa pengganti dari {s: 2, x: 15}.
+1/136
+Hitung probabilitas dari urutan vggy ketika empat huruf diambil tanpa pengganti dari vvgcvycgggg.
+1/132
+Empat huruf diambil tanpa pengganti dari {v: 4, j: 3, b: 1, h: 3, w: 2, m: 1}. Berapa probabilitas urutan jvjv?
+3/1001
+Hitung probabilitas dari urutan fmvu ketika empat huruf diambil tanpa pengganti dari upufufpmuvuuumm.
+1/780
+Empat huruf diambil tanpa pengganti dari bbbbxbxxbbbbbbbbbxxx. Beri probabilitas dari urutan bxxb.
+91/1938
+Tiga huruf diambil tanpa pengganti dari {g: 8, w: 6, a: 5}. Berapa probabilitas urutan awg?
+40/969
+Dua huruf diambil tanpa pengganti dari qfqsqfssssshysss. Berapa probabilitas urutan yh?
+1/240
+Tiga huruf diambil tanpa pengganti dari {e: 1, h: 1, m: 7, k: 6, s: 1, b: 4}. Beri probabilitas dari urutan kbk.
+1/57
+Dua huruf diambil tanpa pengganti dari {g: 5, c: 1, r: 1, b: 6, d: 2, y: 3}. Beri probabilitas dari urutan bb.
+5/51
+Dua huruf diambil tanpa pengganti dari qtqtswktksqtks. Berapa probabilitas urutan tk?
+6/91
+Dua huruf diambil tanpa pengganti dari eeaeeaaaa. Beri probabilitas dari urutan ae.
+5/18
+Empat huruf diambil tanpa pengganti dari {b: 1, g: 1, y: 1, w: 5, o: 2, j: 2}. Berapa probabilitas urutan oyjw?
+1/594
+Dua huruf diambil tanpa pengganti dari {x: 9, d: 6}. Berapa probabilitas urutan dd?
+1/7
+Hitung probabilitas dari urutan ah ketika dua huruf diambil tanpa pengganti dari ahuuaiha.
+3/28
+Tiga huruf diambil tanpa pengganti dari {t: 3, k: 4, z: 2, h: 3, c: 1}. Berapa probabilitas urutan hhh?
+1/286
+Empat huruf diambil tanpa pengganti dari {p: 1, r: 2, d: 3, f: 8}. Beri probabilitas dari urutan frpr.
+2/3003
+Dua huruf diambil tanpa pengganti dari rrxkrxxrxrxrkxkkrrk. Berapa probabilitas urutan kx?
+5/57
+Empat huruf diambil tanpa pengganti dari dclggwugcgccug. Beri probabilitas dari urutan dlwg.
+5/24024
+Berapa probabilitas dari urutan leso ketika empat huruf diambil tanpa pengganti dari {s: 1, h: 3, e: 5, l: 3, o: 5}?
+5/3808
+Dua huruf diambil tanpa pengganti dari {x: 1, e: 1, h: 1, a: 1, y: 1, k: 1}. Beri probabilitas dari urutan ay.
+1/30
+Dua huruf diambil tanpa pengganti dari {c: 3, h: 4, x: 3, f: 2}. Beri probabilitas dari urutan fh.
+2/33
+Berapa probabilitas dari urutan llxf ketika empat huruf diambil tanpa pengganti dari {l: 1, x: 5, f: 2}?
+0
+Hitung probabilitas dari urutan be ketika dua huruf diambil tanpa pengganti dari {j: 2, v: 1, b: 1, e: 1, o: 1}.
+1/30
+Dua huruf diambil tanpa pengganti dari ybdzzzddddbddddb. Berapa probabilitas urutan bd?
+9/80
+Tiga huruf diambil tanpa pengganti dari {o: 4, p: 2, z: 1, k: 2, t: 2, e: 2}. Beri probabilitas dari urutan oze.
+2/429
+Berapa probabilitas dari urutan vvdv ketika empat huruf diambil tanpa pengganti dari {c: 7, d: 4, v: 3, p: 3}?
+1/2380
+Hitung probabilitas dari urutan nn ketika dua huruf diambil tanpa pengganti dari nunuuunuuununuuuniuu.
+3/38
+Tiga huruf diambil tanpa pengganti dari {z: 2, t: 2, w: 9, l: 2, p: 1}. Berapa probabilitas urutan tll?
+1/840
+Berapa probabilitas dari urutan lyy ketika tiga huruf diambil tanpa pengganti dari {l: 8, y: 7}?
+8/65
+Hitung probabilitas dari urutan dduj ketika empat huruf diambil tanpa pengganti dari {u: 2, d: 5, o: 5, j: 2}.
+10/3003
+Empat huruf diambil tanpa pengganti dari swhsssshssshhh. Beri probabilitas dari urutan swhs.
+5/429
+Tiga huruf diambil tanpa pengganti dari {b: 8, t: 1, e: 8, o: 3}. Beri probabilitas dari urutan boo.
+2/285
+Empat huruf diambil tanpa pengganti dari {w: 1, d: 1, f: 1, x: 1, k: 1, r: 1}. Berapa probabilitas urutan frwd?
+1/360
+Tiga huruf diambil tanpa pengganti dari ztzchcxxxxtetxxett. Berapa probabilitas urutan xcx?
+5/408
+Tiga huruf diambil tanpa pengganti dari {w: 10, p: 1, t: 3}. Beri probabilitas dari urutan twt.
+5/182
+Berapa probabilitas dari urutan rp ketika dua huruf diambil tanpa pengganti dari {n: 2, p: 2, r: 3, k: 1, v: 10}?
+1/51
+Tiga huruf diambil tanpa pengganti dari {n: 2, p: 1, e: 6}. Berapa probabilitas urutan enn?
+1/42
+Tiga huruf diambil tanpa pengganti dari tzyprpdzzpp. Beri probabilitas dari urutan zzt.
+1/165
+Dua huruf diambil tanpa pengganti dari {x: 1, g: 1, k: 1, w: 1}. Berapa probabilitas urutan wk?
+1/12
+Empat huruf diambil tanpa pengganti dari {q: 2, e: 1, j: 1, i: 1, l: 1}. Beri probabilitas dari urutan ijqe.
+1/180
+Hitung probabilitas dari urutan stg ketika tiga huruf diambil tanpa pengganti dari atttttsjsgj.
+1/99
+Berapa probabilitas dari urutan knk ketika tiga huruf diambil tanpa pengganti dari {x: 5, n: 10, k: 3}?
+5/408
+Hitung probabilitas dari urutan upuu ketika empat huruf diambil tanpa pengganti dari {u: 9, p: 1}.
+1/10
+Dua huruf diambil tanpa pengganti dari goooooooaooogg. Beri probabilitas dari urutan gg.
+3/91
+Hitung probabilitas dari urutan yyuy ketika empat huruf diambil tanpa pengganti dari uueuyu.
+0
+Hitung probabilitas dari urutan vvvv ketika empat huruf diambil tanpa pengganti dari vvvvvvvv.
+1
+Berapa probabilitas dari urutan wys ketika tiga huruf diambil tanpa pengganti dari {i: 6, s: 1, w: 7, d: 1, y: 4, q: 1}?
+7/1710
+Hitung probabilitas dari urutan xmj ketika tiga huruf diambil tanpa pengganti dari {m: 2, h: 8, g: 2, r: 3, x: 2, j: 3}.
+1/570
+Tiga huruf diambil tanpa pengganti dari yzyzjzjgzzyjyycyzce. Beri probabilitas dari urutan zej.
+1/323
+Dua huruf diambil tanpa pengganti dari {u: 9, c: 4}. Beri probabilitas dari urutan uu.
+6/13
+Hitung probabilitas dari urutan pmmp ketika empat huruf diambil tanpa pengganti dari {a: 7, z: 2, m: 2, p: 4}.
+1/1365
+Hitung probabilitas dari urutan eee ketika tiga huruf diambil tanpa pengganti dari {c: 5, v: 1, e: 1, n: 1}.
+0
+Dua huruf diambil tanpa pengganti dari {f: 1, q: 1, u: 1, m: 4, e: 3, d: 1}. Berapa probabilitas urutan mu?
+2/55
+Berapa probabilitas dari urutan mqgm ketika empat huruf diambil tanpa pengganti dari {m: 1, g: 2, q: 8, x: 2, s: 2, d: 1}?
+0
+Berapa probabilitas dari urutan la ketika dua huruf diambil tanpa pengganti dari {m: 2, a: 1, o: 1, l: 1, w: 1}?
+1/30
+Hitung probabilitas dari urutan nfnz ketika empat huruf diambil tanpa pengganti dari {e: 5, n: 7, z: 2, f: 6}.
+7/1615
+Hitung probabilitas dari urutan juc ketika tiga huruf diambil tanpa pengganti dari wwuwgujgwuwwucjwwuw.
+5/2907
+Dua huruf diambil tanpa pengganti dari vvjvvvxvvvvj. Beri probabilitas dari urutan jj.
+1/66
+Dua huruf diambil tanpa pengganti dari otrwtptpirttopttpt. Berapa probabilitas urutan to?
+8/153
+Berapa probabilitas dari urutan otoo ketika empat huruf diambil tanpa pengganti dari toooococ?
+1/28
+Hitung probabilitas dari urutan lx ketika dua huruf diambil tanpa pengganti dari llxlloxxoll.
+9/55
+Dua huruf diambil tanpa pengganti dari {b: 5, d: 6, l: 3}. Beri probabilitas dari urutan lb.
+15/182
+Dua huruf diambil tanpa pengganti dari {i: 3, u: 3, r: 9}. Berapa probabilitas urutan iu?
+3/70
+Berapa probabilitas dari urutan sww ketika tiga huruf diambil tanpa pengganti dari wwwswwwwwwwssws?
+44/273
+Berapa probabilitas dari urutan rkkq ketika empat huruf diambil tanpa pengganti dari {q: 2, r: 2, k: 4, y: 7}?
+2/1365
+Dua huruf diambil tanpa pengganti dari {m: 13, z: 1}. Beri probabilitas dari urutan mz.
+1/14
+Berapa probabilitas dari urutan ad ketika dua huruf diambil tanpa pengganti dari adaaaddaaaadaaada?
+15/68
+Berapa probabilitas dari urutan qw ketika dua huruf diambil tanpa pengganti dari {a: 1, q: 5, w: 8, o: 1}?
+4/21
+Dua huruf diambil tanpa pengganti dari ergrgbgaobagarobg. Berapa probabilitas urutan ob?
+3/136
+Berapa probabilitas dari urutan vhc ketika tiga huruf diambil tanpa pengganti dari cmhvmmmmcmmmc?
+1/572
+Hitung probabilitas dari urutan ppa ketika tiga huruf diambil tanpa pengganti dari paaaaaapaaaaaaaaa.
+1/136
+Hitung probabilitas dari urutan ttt ketika tiga huruf diambil tanpa pengganti dari hahttccfhbtc.
+1/220
+Berapa probabilitas dari urutan mppu ketika empat huruf diambil tanpa pengganti dari {u: 2, m: 3, k: 1, h: 2, p: 1}?
+0
+Dua huruf diambil tanpa pengganti dari {a: 2, p: 2, b: 1, m: 2}. Beri probabilitas dari urutan ma.
+2/21
+Dua huruf diambil tanpa pengganti dari mquqtqeseetqtu. Beri probabilitas dari urutan ms.
+1/182
+Hitung probabilitas dari urutan ree ketika tiga huruf diambil tanpa pengganti dari {n: 1, r: 1, y: 3, o: 2, e: 3, t: 6}.
+1/560
+Hitung probabilitas dari urutan xmxf ketika empat huruf diambil tanpa pengganti dari fbxcmxcfwmm.
+1/660
+Berapa probabilitas dari urutan ug ketika dua huruf diambil tanpa pengganti dari uuegleeeeluulllee?
+1/68
+Tiga huruf diambil tanpa pengganti dari {p: 4, m: 7, d: 1}. Berapa probabilitas urutan mpp?
+7/110
+Berapa probabilitas dari urutan vu ketika dua huruf diambil tanpa pengganti dari {s: 1, u: 1, v: 1, j: 1, h: 2}?
+1/30
+Dua huruf diambil tanpa pengganti dari blojww. Beri probabilitas dari urutan jl.
+1/30
+Tiga huruf diambil tanpa pengganti dari {r: 1, c: 1, p: 1, z: 1, o: 5, i: 1}. Berapa probabilitas urutan czr?
+1/720
+Berapa probabilitas dari urutan jasx ketika empat huruf diambil tanpa pengganti dari {s: 4, a: 1, j: 4, x: 2, b: 1}?
+4/1485
+Tiga huruf diambil tanpa pengganti dari hhffqfchffcfcff. Berapa probabilitas urutan fhc?
+12/455
+Hitung probabilitas dari urutan aa ketika dua huruf diambil tanpa pengganti dari {k: 1, a: 10}.
+9/11
+Berapa probabilitas dari urutan iirg ketika empat huruf diambil tanpa pengganti dari irrrgrimrygy?
+1/594
+Tiga huruf diambil tanpa pengganti dari {u: 3, f: 2, a: 1, j: 1, i: 2}. Beri probabilitas dari urutan fij.
+1/126
+Hitung probabilitas dari urutan kkk ketika tiga huruf diambil tanpa pengganti dari {k: 5, n: 10}.
+2/91
+Hitung probabilitas dari urutan wwm ketika tiga huruf diambil tanpa pengganti dari {o: 1, m: 3, w: 10, i: 3}.
+9/136
+Berapa probabilitas dari urutan sww ketika tiga huruf diambil tanpa pengganti dari {o: 1, w: 3, g: 3, s: 2}?
+1/42
+Tiga huruf diambil tanpa pengganti dari ommmjmomommommmv. Beri probabilitas dari urutan mmm.
+3/14
+Berapa probabilitas dari urutan suyg ketika empat huruf diambil tanpa pengganti dari sdyghdyhydusyddd?
+1/5460
+Berapa probabilitas dari urutan kncp ketika empat huruf diambil tanpa pengganti dari ppkpcnncckcn?
+1/165
+Hitung probabilitas dari urutan aoaf ketika empat huruf diambil tanpa pengganti dari {a: 3, c: 1, s: 3, q: 1, f: 4, o: 4}.
+1/455
+Berapa probabilitas dari urutan ki ketika dua huruf diambil tanpa pengganti dari {k: 1, z: 6, i: 3}?
+1/30
+Tiga huruf diambil tanpa pengganti dari kknkgg. Berapa probabilitas urutan nkk?
+1/20
+Hitung probabilitas dari urutan vgn ketika tiga huruf diambil tanpa pengganti dari {z: 1, m: 1, v: 2, g: 1, n: 3, r: 2}.
+1/120
+Hitung probabilitas dari urutan gm ketika dua huruf diambil tanpa pengganti dari {l: 5, m: 3, g: 1, w: 2}.
+3/110
+Tiga huruf diambil tanpa pengganti dari {b: 4, e: 4}. Berapa probabilitas urutan beb?
+1/7
+Hitung probabilitas dari urutan rh ketika dua huruf diambil tanpa pengganti dari {r: 3, a: 1, h: 1, f: 1}.
+1/10
+Tiga huruf diambil tanpa pengganti dari {o: 1, c: 2, t: 5, f: 3}. Berapa probabilitas urutan ccf?
+1/165
+Tiga huruf diambil tanpa pengganti dari vrlfvqdrfl. Berapa probabilitas urutan qfl?
+1/180
+Hitung probabilitas dari urutan qqzz ketika empat huruf diambil tanpa pengganti dari {b: 5, z: 2, q: 4, f: 1}.
+1/495
+Tiga huruf diambil tanpa pengganti dari pppppppp. Beri probabilitas dari urutan ppp.
+1
+Tiga huruf diambil tanpa pengganti dari aaalvxxlvaaaallv. Beri probabilitas dari urutan lax.
+1/60
+Tiga huruf diambil tanpa pengganti dari ooouookoppih. Berapa probabilitas urutan pui?
+1/660
+Hitung probabilitas dari urutan it ketika dua huruf diambil tanpa pengganti dari iiiiiiimtaiitiimi.
+3/34
+Berapa probabilitas dari urutan zz ketika dua huruf diambil tanpa pengganti dari {z: 2, l: 5, s: 5, e: 6}?
+1/153
+Hitung probabilitas dari urutan aaaa ketika empat huruf diambil tanpa pengganti dari {a: 6, p: 14}.
+1/323
+Hitung probabilitas dari urutan ki ketika dua huruf diambil tanpa pengganti dari {k: 1, t: 1, i: 1, h: 2, m: 1}.
+1/30
+Berapa probabilitas dari urutan xxj ketika tiga huruf diambil tanpa pengganti dari jxxxx?
+1/5
+Berapa probabilitas dari urutan hn ketika dua huruf diambil tanpa pengganti dari ununuhnhhn?
+2/15
+Tiga huruf diambil tanpa pengganti dari {f: 6, k: 2, r: 2, d: 1, p: 1, g: 2}. Beri probabilitas dari urutan dpg.
+1/1092
+Tiga huruf diambil tanpa pengganti dari {u: 2, h: 15}. Beri probabilitas dari urutan uhh.
+7/68
+Hitung probabilitas dari urutan dd ketika dua huruf diambil tanpa pengganti dari fdddddddddddfddddld.
+40/57
+Tiga huruf diambil tanpa pengganti dari hhelegweewwewewh. Beri probabilitas dari urutan elh.
+3/560
+Empat huruf diambil tanpa pengganti dari {b: 2, y: 2, q: 8, n: 1, j: 3}. Berapa probabilitas urutan qnbj?
+1/910
+Hitung probabilitas dari urutan xj ketika dua huruf diambil tanpa pengganti dari {n: 1, x: 2, j: 1, r: 1, q: 1, d: 5}.
+1/55
+Berapa probabilitas dari urutan fyy ketika tiga huruf diambil tanpa pengganti dari {y: 4, f: 8}?
+4/55
+Hitung probabilitas dari urutan mmm ketika tiga huruf diambil tanpa pengganti dari mfvkmmvvvkmvmfvv.
+1/56
+Dua huruf diambil tanpa pengganti dari {m: 1, b: 1, p: 1, d: 4, j: 4, t: 2}. Berapa probabilitas urutan bp?
+1/156
+Dua huruf diambil tanpa pengganti dari pe. Berapa probabilitas urutan ee?
+0
+Tiga huruf diambil tanpa pengganti dari ovffooofffof. Beri probabilitas dari urutan vfo.
+1/44
+Berapa probabilitas dari urutan hhv ketika tiga huruf diambil tanpa pengganti dari {v: 4, k: 4, h: 4}?
+2/55
+Berapa probabilitas dari urutan sbbb ketika empat huruf diambil tanpa pengganti dari ssbbbsbssbbbssbsbb?
+4/51
+Empat huruf diambil tanpa pengganti dari {j: 15, l: 1}. Berapa probabilitas urutan jjjl?
+1/16
+Tiga huruf diambil tanpa pengganti dari {k: 1, u: 1, h: 1, g: 2, x: 3, i: 1}. Berapa probabilitas urutan kgu?
+1/252
+Hitung probabilitas dari urutan ppii ketika empat huruf diambil tanpa pengganti dari ipippippi.
+5/63
+Tiga huruf diambil tanpa pengganti dari kmmmmkkmgkgkmq. Beri probabilitas dari urutan qkg.
+5/1092
+Empat huruf diambil tanpa pengganti dari uweweweswwerry. Beri probabilitas dari urutan eewr.
+5/1001
+Tiga huruf diambil tanpa pengganti dari {v: 13, c: 4}. Beri probabilitas dari urutan ccv.
+13/340
+Hitung probabilitas dari urutan of ketika dua huruf diambil tanpa pengganti dari ffqqffqqnqqlnlqnqo.
+2/153
+Hitung probabilitas dari urutan bab ketika tiga huruf diambil tanpa pengganti dari {a: 5, b: 5, u: 6}.
+5/168
+Tiga huruf diambil tanpa pengganti dari exexxexxxexxxxxxe. Beri probabilitas dari urutan xex.
+11/68
+Hitung probabilitas dari urutan arhu ketika empat huruf diambil tanpa pengganti dari auarhxumhxxhhmrhx.
+1/1428
+Hitung probabilitas dari urutan cg ketika dua huruf diambil tanpa pengganti dari {g: 2, n: 2, t: 1, c: 3}.
+3/28
+Empat huruf diambil tanpa pengganti dari xxxnxxxxxxx. Beri probabilitas dari urutan xxnx.
+1/11
+Berapa probabilitas dari urutan dg ketika dua huruf diambil tanpa pengganti dari {g: 6, d: 8}?
+24/91
+Hitung probabilitas dari urutan is ketika dua huruf diambil tanpa pengganti dari {d: 1, s: 1, i: 2, o: 14}.
+1/153
+Berapa probabilitas dari urutan cxxh ketika empat huruf diambil tanpa pengganti dari {h: 1, c: 1, s: 1, x: 1}?
+0
+Dua huruf diambil tanpa pengganti dari {c: 5, a: 10}. Beri probabilitas dari urutan cc.
+2/21
+Berapa probabilitas dari urutan zzbz ketika empat huruf diambil tanpa pengganti dari {z: 10, b: 6}?
+9/91
+Dua huruf diambil tanpa pengganti dari {a: 3, g: 4, t: 1, f: 3, j: 2, l: 1}. Beri probabilitas dari urutan tl.
+1/182
+Dua huruf diambil tanpa pengganti dari {u: 3, o: 2, w: 6}. Berapa probabilitas urutan ww?
+3/11
+Empat huruf diambil tanpa pengganti dari sxsssssspssssxss. Beri probabilitas dari urutan ssxp.
+1/140
+Berapa probabilitas dari urutan bb ketika dua huruf diambil tanpa pengganti dari {b: 11, j: 8}?
+55/171
+Berapa probabilitas dari urutan avqq ketika empat huruf diambil tanpa pengganti dari {v: 2, q: 2, a: 7, o: 9}?
+7/29070
+Empat huruf diambil tanpa pengganti dari {z: 4, u: 1, q: 3, v: 1, x: 2, m: 3}. Berapa probabilitas urutan zqmx?
+3/1001
+Hitung probabilitas dari urutan cl ketika dua huruf diambil tanpa pengganti dari scllslslllclllll.
+11/120
+Tiga huruf diambil tanpa pengganti dari {y: 2, s: 6, v: 1}. Beri probabilitas dari urutan vyy.
+1/252
+Hitung probabilitas dari urutan ccr ketika tiga huruf diambil tanpa pengganti dari cqcqqcqrqecq.
+1/110
+Empat huruf diambil tanpa pengganti dari hgbhhbhbhhghgghhh. Berapa probabilitas urutan bgbb?
+1/2380
+Empat huruf diambil tanpa pengganti dari {b: 2, y: 2, c: 1, i: 2, f: 3, l: 1}. Beri probabilitas dari urutan bcfb.
+1/1320
+Empat huruf diambil tanpa pengganti dari {e: 13, x: 2}. Beri probabilitas dari urutan eexx.
+1/105
+Dua huruf diambil tanpa pengganti dari xsxxwwxwsxxxwxs. Berapa probabilitas urutan xx?
+4/15
+Berapa probabilitas dari urutan rtl ketika tiga huruf diambil tanpa pengganti dari {v: 1, l: 7, t: 4, r: 6, m: 1}?
+28/969
+Berapa probabilitas dari urutan nxv ketika tiga huruf diambil tanpa pengganti dari vwoxnwnxoo?
+1/180
+Empat huruf diambil tanpa pengganti dari {y: 2, v: 2, i: 4, q: 2, n: 1}. Berapa probabilitas urutan qvqi?
+1/495
+Empat huruf diambil tanpa pengganti dari {n: 2, e: 8, d: 1, a: 3}. Berapa probabilitas urutan nead?
+2/1001
+Berapa probabilitas dari urutan trr ketika tiga huruf diambil tanpa pengganti dari yyyrrrtyj?
+1/84
+Berapa probabilitas dari urutan gq ketika dua huruf diambil tanpa pengganti dari {g: 2, q: 5, y: 5, e: 1, u: 3, j: 2}?
+5/153
+Dua huruf diambil tanpa pengganti dari {s: 6, o: 3, e: 3}. Berapa probabilitas urutan es?
+3/22
+Hitung probabilitas dari urutan msdr ketika empat huruf diambil tanpa pengganti dari {r: 4, d: 3, s: 4, m: 1}.
+2/495
+Hitung probabilitas dari urutan kkx ketika tiga huruf diambil tanpa pengganti dari {g: 1, u: 2, l: 4, k: 3, y: 1, x: 2}.
+1/143
+Berapa probabilitas dari urutan lgh ketika tiga huruf diambil tanpa pengganti dari {n: 2, l: 1, f: 2, h: 4, g: 4}?
+4/429
+Dua huruf diambil tanpa pengganti dari knkdndkkkkkddnknkkkd. Berapa probabilitas urutan nd?
+1/19
+Hitung probabilitas dari urutan cdq ketika tiga huruf diambil tanpa pengganti dari {q: 4, t: 3, a: 1, j: 1, d: 10, c: 1}.
+1/171
+Empat huruf diambil tanpa pengganti dari {v: 5, f: 10}. Beri probabilitas dari urutan vvvv.
+1/273
+Dua huruf diambil tanpa pengganti dari ppyalnsynn. Berapa probabilitas urutan sa?
+1/90
+Tiga huruf diambil tanpa pengganti dari coooooo. Beri probabilitas dari urutan ooc.
+1/7
+Tiga huruf diambil tanpa pengganti dari {b: 9, w: 3, y: 2}. Berapa probabilitas urutan yww?
+1/182
+Empat huruf diambil tanpa pengganti dari uuuhruhuuyyuuyruuyy. Beri probabilitas dari urutan yrhh.
+5/23256
+Hitung probabilitas dari urutan pp ketika dua huruf diambil tanpa pengganti dari lwwiizplwpifw.
+1/78
+Tiga huruf diambil tanpa pengganti dari {x: 6, s: 1, o: 5}. Beri probabilitas dari urutan sox.
+1/44
+Tiga huruf diambil tanpa pengganti dari ejyqeqajqeqeeyea. Beri probabilitas dari urutan qea.
+1/70
+Tiga huruf diambil tanpa pengganti dari wdkdddkwwwdy. Beri probabilitas dari urutan www.
+1/55
+Empat huruf diambil tanpa pengganti dari dndddddldndldldddl. Berapa probabilitas urutan lddd?
+11/153
+Hitung probabilitas dari urutan fqg ketika tiga huruf diambil tanpa pengganti dari bfgqfffgghffhff.
+4/455
+Berapa probabilitas dari urutan ww ketika dua huruf diambil tanpa pengganti dari ww?
+1
+Berapa probabilitas dari urutan ll ketika dua huruf diambil tanpa pengganti dari khlolooolhhkloll?
+1/8
+Tiga huruf diambil tanpa pengganti dari qafggofopg. Beri probabilitas dari urutan afo.
+1/180
+Tiga huruf diambil tanpa pengganti dari bhhbbbbhb. Berapa probabilitas urutan bbh?
+5/28
+Berapa probabilitas dari urutan yphy ketika empat huruf diambil tanpa pengganti dari {y: 6, h: 6, p: 6}?
+1/68
+Hitung probabilitas dari urutan plx ketika tiga huruf diambil tanpa pengganti dari {l: 1, p: 4, x: 1}.
+1/30
+Tiga huruf diambil tanpa pengganti dari {h: 6, q: 10}. Berapa probabilitas urutan hhh?
+1/28
+Empat huruf diambil tanpa pengganti dari yamayaadmdadddya. Berapa probabilitas urutan yydm?
+1/728
+Berapa probabilitas dari urutan egee ketika empat huruf diambil tanpa pengganti dari {p: 4, e: 8, g: 7}?
+49/1938
+Empat huruf diambil tanpa pengganti dari {u: 2, k: 2, h: 1, o: 6, r: 3, a: 3}. Berapa probabilitas urutan uoou?
+1/952
+Hitung probabilitas dari urutan ii ketika dua huruf diambil tanpa pengganti dari {f: 8, i: 1}.
+0
+Hitung probabilitas dari urutan wh ketika dua huruf diambil tanpa pengganti dari {e: 1, w: 9, h: 3}.
+9/52
+Berapa probabilitas dari urutan mll ketika tiga huruf diambil tanpa pengganti dari {e: 3, l: 5, y: 2, m: 1}?
+2/99
+Empat huruf diambil tanpa pengganti dari xxgyvyxnvxnnxv. Beri probabilitas dari urutan nnyy.
+1/2002
+Berapa probabilitas dari urutan jiz ketika tiga huruf diambil tanpa pengganti dari {i: 4, j: 1, r: 2, f: 1, z: 4}?
+2/165
+Empat huruf diambil tanpa pengganti dari lsbuususslbl. Berapa probabilitas urutan buuu?
+1/990
+Hitung probabilitas dari urutan aaw ketika tiga huruf diambil tanpa pengganti dari awwawwawwwwwwaaa.
+5/56
+Berapa probabilitas dari urutan attt ketika empat huruf diambil tanpa pengganti dari {a: 1, t: 4}?
+1/5
+Hitung probabilitas dari urutan pr ketika dua huruf diambil tanpa pengganti dari rarrarpr.
+5/56
+Dua huruf diambil tanpa pengganti dari eeceeeececceececc. Beri probabilitas dari urutan ec.
+35/136
+Berapa probabilitas dari urutan mm ketika dua huruf diambil tanpa pengganti dari {i: 5, m: 6}?
+3/11
+Hitung probabilitas dari urutan tx ketika dua huruf diambil tanpa pengganti dari {x: 1, t: 4, s: 1}.
+2/15
+Dua huruf diambil tanpa pengganti dari {s: 6, i: 3}. Berapa probabilitas urutan ss?
+5/12
+Hitung probabilitas dari urutan ndy ketika tiga huruf diambil tanpa pengganti dari {n: 1, s: 2, d: 2, y: 1, r: 5, j: 1}.
+1/660
+Hitung probabilitas dari urutan egs ketika tiga huruf diambil tanpa pengganti dari ngnseesgng.
+1/60
+Berapa probabilitas dari urutan up ketika dua huruf diambil tanpa pengganti dari {u: 6, p: 3}?
+1/4
+Tiga huruf diambil tanpa pengganti dari {j: 4, w: 3, u: 2, a: 1, z: 3, e: 1}. Berapa probabilitas urutan zez?
+1/364
+Tiga huruf diambil tanpa pengganti dari jjfffffjurffujr. Beri probabilitas dari urutan ffj.
+4/65
+Tiga huruf diambil tanpa pengganti dari {w: 1, n: 10}. Beri probabilitas dari urutan nnn.
+8/11
+Berapa probabilitas dari urutan tca ketika tiga huruf diambil tanpa pengganti dari {l: 4, t: 1, i: 2, c: 2, a: 1, n: 3}?
+1/858
+Empat huruf diambil tanpa pengganti dari nqbbbqqheeqqqqq. Beri probabilitas dari urutan qneb.
+2/1365
+Empat huruf diambil tanpa pengganti dari obvoov. Berapa probabilitas urutan vvob?
+1/60
+Hitung probabilitas dari urutan dx ketika dua huruf diambil tanpa pengganti dari dmmdcmmxdmmdd.
+5/156
+Hitung probabilitas dari urutan uauu ketika empat huruf diambil tanpa pengganti dari {x: 1, y: 1, a: 1, u: 1}.
+0
+Berapa probabilitas dari urutan mrm ketika tiga huruf diambil tanpa pengganti dari mmvvvvmvmvrrpmvm?
+1/56
+Berapa probabilitas dari urutan va ketika dua huruf diambil tanpa pengganti dari {v: 6, l: 3, a: 1}?
+1/15
+Dua huruf diambil tanpa pengganti dari ppppvppppppppvp. Beri probabilitas dari urutan vv.
+1/105
+Dua huruf diambil tanpa pengganti dari {v: 2, t: 4, k: 4, y: 3}. Berapa probabilitas urutan vy?
+1/26
+Tiga huruf diambil tanpa pengganti dari fbdbbfvbvbvvvf. Beri probabilitas dari urutan bvv.
+25/546
+Hitung probabilitas dari urutan bfnb ketika empat huruf diambil tanpa pengganti dari fbbnbbbbfnbffnnffb.
+14/765
+Empat huruf diambil tanpa pengganti dari {z: 3, a: 2, s: 6}. Beri probabilitas dari urutan aszz.
+1/110
+Tiga huruf diambil tanpa pengganti dari qvhigkgvkqhhi. Beri probabilitas dari urutan gvi.
+2/429
+Hitung probabilitas dari urutan ybp ketika tiga huruf diambil tanpa pengganti dari {a: 1, s: 1, b: 1, l: 1, p: 3, y: 3}.
+1/80
+Tiga huruf diambil tanpa pengganti dari mtmmtttmm. Beri probabilitas dari urutan mmm.
+5/42
+Hitung probabilitas dari urutan uu ketika dua huruf diambil tanpa pengganti dari faadakkayyuuy.
+1/78
+Dua huruf diambil tanpa pengganti dari {p: 12, s: 2}. Beri probabilitas dari urutan ss.
+1/91
+Berapa probabilitas dari urutan pph ketika tiga huruf diambil tanpa pengganti dari hpxppxhpxpxppxppp?
+3/68
+Hitung probabilitas dari urutan qbq ketika tiga huruf diambil tanpa pengganti dari nqqnqnqnbbbxqqnx.
+3/112
+Hitung probabilitas dari urutan hh ketika dua huruf diambil tanpa pengganti dari {n: 9, z: 3, h: 2, x: 2, i: 2, j: 1}.
+1/171
+Berapa probabilitas dari urutan bqe ketika tiga huruf diambil tanpa pengganti dari {o: 1, q: 2, m: 2, b: 2, e: 2}?
+1/63
+Berapa probabilitas dari urutan rh ketika dua huruf diambil tanpa pengganti dari thrtttttrrhhhrttrr?
+4/51
+Hitung probabilitas dari urutan ppp ketika tiga huruf diambil tanpa pengganti dari pppppppp.
+1
+Berapa probabilitas dari urutan shyg ketika empat huruf diambil tanpa pengganti dari {o: 3, g: 7, f: 1, y: 1, s: 2, h: 5}?
+35/46512
+Berapa probabilitas dari urutan zyzy ketika empat huruf diambil tanpa pengganti dari {z: 10, y: 5}?
+5/91
+Hitung probabilitas dari urutan vb ketika dua huruf diambil tanpa pengganti dari {v: 6, b: 5, z: 5}.
+1/8
+Empat huruf diambil tanpa pengganti dari pkvopvpdodd. Berapa probabilitas urutan dvpd?
+1/220
+Berapa probabilitas dari urutan cb ketika dua huruf diambil tanpa pengganti dari cgccbgccgcbbcgcgecb?
+2/19
+Hitung probabilitas dari urutan oj ketika dua huruf diambil tanpa pengganti dari {h: 2, j: 2, o: 8, l: 3, d: 1, r: 2}.
+8/153
+Berapa probabilitas dari urutan rek ketika tiga huruf diambil tanpa pengganti dari {k: 3, r: 1, e: 2, j: 1, m: 2}?
+1/84
+Hitung probabilitas dari urutan xkjj ketika empat huruf diambil tanpa pengganti dari {e: 4, r: 3, j: 2, k: 5, m: 2, x: 1}.
+1/5712
+Hitung probabilitas dari urutan hx ketika dua huruf diambil tanpa pengganti dari {y: 1, h: 2, x: 2, m: 4, d: 1, c: 1}.
+2/55
+Hitung probabilitas dari urutan tn ketika dua huruf diambil tanpa pengganti dari knzntkkzfnnnk.
+5/156
+Hitung probabilitas dari urutan zdpb ketika empat huruf diambil tanpa pengganti dari {b: 1, d: 7, z: 1, e: 2, p: 1}.
+7/11880
+Hitung probabilitas dari urutan ir ketika dua huruf diambil tanpa pengganti dari {z: 1, r: 2, h: 1, i: 3, c: 1}.
+3/28
+Dua huruf diambil tanpa pengganti dari {p: 1, z: 4, v: 4, r: 11}. Beri probabilitas dari urutan zr.
+11/95
+Hitung probabilitas dari urutan vhd ketika tiga huruf diambil tanpa pengganti dari {h: 3, d: 3, u: 1, v: 9}.
+27/1120
+Berapa probabilitas dari urutan veu ketika tiga huruf diambil tanpa pengganti dari kkuebv?
+1/120
+Dua huruf diambil tanpa pengganti dari nrqqaqnyrqqqqqqrn. Beri probabilitas dari urutan qy.
+9/272
+Berapa probabilitas dari urutan cc ketika dua huruf diambil tanpa pengganti dari {x: 2, f: 5, c: 2, l: 4, y: 2}?
+1/105
+Berapa probabilitas dari urutan dey ketika tiga huruf diambil tanpa pengganti dari {e: 6, y: 1, m: 2, d: 1}?
+1/120
+Hitung probabilitas dari urutan eqy ketika tiga huruf diambil tanpa pengganti dari {q: 1, e: 7, o: 6, n: 4, y: 1, f: 1}.
+7/6840
+Empat huruf diambil tanpa pengganti dari ciicciiciicciiiiic. Beri probabilitas dari urutan iiii.
+11/102
+Dua huruf diambil tanpa pengganti dari {n: 2, c: 1, l: 3, m: 5}. Berapa probabilitas urutan nn?
+1/55
+Hitung probabilitas dari urutan vo ketika dua huruf diambil tanpa pengganti dari okkvokkkkkkkkvov.
+3/80
+Hitung probabilitas dari urutan fmnm ketika empat huruf diambil tanpa pengganti dari nnnnfmnennnnnnnnmn.
+7/18360
+Berapa probabilitas dari urutan wawa ketika empat huruf diambil tanpa pengganti dari igaffwwwawfwiilfi?
+1/1428
+Dua huruf diambil tanpa pengganti dari {n: 1, a: 1, w: 1, y: 1}. Beri probabilitas dari urutan an.
+1/12
+Dua huruf diambil tanpa pengganti dari {n: 4, l: 4}. Beri probabilitas dari urutan nn.
+3/14
+Berapa probabilitas dari urutan hww ketika tiga huruf diambil tanpa pengganti dari {g: 4, r: 4, f: 2, h: 5, w: 3}?
+5/816
+Hitung probabilitas dari urutan kuu ketika tiga huruf diambil tanpa pengganti dari {r: 10, k: 2, u: 4, t: 2}.
+1/204
+Hitung probabilitas dari urutan mmmo ketika empat huruf diambil tanpa pengganti dari {d: 4, m: 5, o: 2, l: 3}.
+5/1001
+Hitung probabilitas dari urutan rz ketika dua huruf diambil tanpa pengganti dari rrrrrrrzr.
+1/9
+Hitung probabilitas dari urutan uuff ketika empat huruf diambil tanpa pengganti dari {t: 2, u: 3, f: 2, x: 4, s: 4}.
+1/2730
+Berapa probabilitas dari urutan roe ketika tiga huruf diambil tanpa pengganti dari meeoormim?
+1/126
+Dua huruf diambil tanpa pengganti dari kkkkpkkpkkkkp. Berapa probabilitas urutan pk?
+5/26
+Dua huruf diambil tanpa pengganti dari gliiggglgligibg. Berapa probabilitas urutan li?
+2/35
+Berapa probabilitas dari urutan us ketika dua huruf diambil tanpa pengganti dari {e: 1, o: 1, h: 3, n: 2, u: 2, s: 2}?
+2/55
+Hitung probabilitas dari urutan zuf ketika tiga huruf diambil tanpa pengganti dari {f: 6, z: 6, u: 6}.
+3/68
+Dua huruf diambil tanpa pengganti dari {v: 1, z: 1, a: 1, h: 6, u: 7, x: 3}. Beri probabilitas dari urutan va.
+1/342
+Hitung probabilitas dari urutan zkkf ketika empat huruf diambil tanpa pengganti dari {z: 1, k: 2, f: 3}.
+1/60
+Berapa probabilitas dari urutan qa ketika dua huruf diambil tanpa pengganti dari oqaiqoaao?
+1/12
+Tiga huruf diambil tanpa pengganti dari {h: 3, x: 1, r: 2, q: 1, w: 1, t: 2}. Berapa probabilitas urutan txh?
+1/120
+Tiga huruf diambil tanpa pengganti dari {r: 3, b: 3, v: 2, d: 3, j: 1}. Beri probabilitas dari urutan rbr.
+3/220
+Hitung probabilitas dari urutan mmm ketika tiga huruf diambil tanpa pengganti dari mmhmm.
+2/5
+Hitung probabilitas dari urutan tp ketika dua huruf diambil tanpa pengganti dari tbppuulbbzpbulupp.
+5/272
+Tiga huruf diambil tanpa pengganti dari {a: 4, f: 3, y: 9, h: 1, q: 3}. Berapa probabilitas urutan fyy?
+3/95
+Empat huruf diambil tanpa pengganti dari sctzsclqslq. Beri probabilitas dari urutan llzt.
+1/3960
+Empat huruf diambil tanpa pengganti dari ahwwwwwwwwhhwwwwww. Beri probabilitas dari urutan awww.
+91/3060
+Tiga huruf diambil tanpa pengganti dari syga. Beri probabilitas dari urutan say.
+1/24
+Berapa probabilitas dari urutan ax ketika dua huruf diambil tanpa pengganti dari {a: 2, u: 4, q: 6, y: 1, x: 6}?
+2/57
+Hitung probabilitas dari urutan wwoo ketika empat huruf diambil tanpa pengganti dari owowowwowwwooooow.
+6/85
+Berapa probabilitas dari urutan eeom ketika empat huruf diambil tanpa pengganti dari ffoehffohmnheffm?
+1/5460
+Dua huruf diambil tanpa pengganti dari nxlnginnnngnninnnl. Beri probabilitas dari urutan ig.
+2/153
+Hitung probabilitas dari urutan iw ketika dua huruf diambil tanpa pengganti dari cciccicccwcicic.
+2/105
+Dua huruf diambil tanpa pengganti dari {x: 3, s: 14}. Berapa probabilitas urutan xx?
+3/136
+Hitung probabilitas dari urutan ggi ketika tiga huruf diambil tanpa pengganti dari gggjgjijj.
+1/42
+Tiga huruf diambil tanpa pengganti dari iqjbjwjq. Berapa probabilitas urutan jbj?
+1/56
+Tiga huruf diambil tanpa pengganti dari {c: 1, z: 8}. Berapa probabilitas urutan czc?
+0
+Tiga huruf diambil tanpa pengganti dari {q: 1, t: 1, v: 1, m: 3}. Beri probabilitas dari urutan mqm.
+1/20
+Empat huruf diambil tanpa pengganti dari qkhlqklkqhqqkk. Beri probabilitas dari urutan lqkk.
+25/3003
+Berapa probabilitas dari urutan mvmc ketika empat huruf diambil tanpa pengganti dari vmvvvvcm?
+1/168
+Berapa probabilitas dari urutan bob ketika tiga huruf diambil tanpa pengganti dari bbbbbqbbbqoooqo?
+16/195
+Dua huruf diambil tanpa pengganti dari ppppppppppppjppp. Berapa probabilitas urutan pp?
+7/8
+Dua huruf diambil tanpa pengganti dari nnayuakkyyankk. Berapa probabilitas urutan uy?
+3/182
+Hitung probabilitas dari urutan yn ketika dua huruf diambil tanpa pengganti dari ommsmngyy.
+1/36
+Dua huruf diambil tanpa pengganti dari rrsrrrssrrrrrrssr. Beri probabilitas dari urutan ss.
+5/68
+Berapa probabilitas dari urutan ktjd ketika empat huruf diambil tanpa pengganti dari {t: 2, k: 1, j: 3, u: 2, e: 1, d: 1}?
+1/840
+Dua huruf diambil tanpa pengganti dari ddcxwl. Berapa probabilitas urutan wl?
+1/30
+Hitung probabilitas dari urutan ewe ketika tiga huruf diambil tanpa pengganti dari {g: 8, w: 2, e: 5, p: 3}.
+5/612
+Hitung probabilitas dari urutan hmma ketika empat huruf diambil tanpa pengganti dari maahmmmhaddh.
+1/110
+Empat huruf diambil tanpa pengganti dari {g: 3, a: 7, x: 1}. Beri probabilitas dari urutan aaax.
+7/264
+Berapa probabilitas dari urutan yvy ketika tiga huruf diambil tanpa pengganti dari {v: 2, y: 15}?
+7/68
+Empat huruf diambil tanpa pengganti dari {z: 6, f: 1, d: 1}. Beri probabilitas dari urutan zzzd.
+1/14
+Tiga huruf diambil tanpa pengganti dari oiyidyyyyyyiy. Beri probabilitas dari urutan oii.
+1/286
+Berapa probabilitas dari urutan ldq ketika tiga huruf diambil tanpa pengganti dari ddlqrrrrrr?
+1/360
+Tiga huruf diambil tanpa pengganti dari bxwltwwbwwxxwmtt. Berapa probabilitas urutan llm?
+0
+Hitung probabilitas dari urutan aujr ketika empat huruf diambil tanpa pengganti dari {r: 2, g: 3, u: 4, a: 1, j: 2, b: 4}.
+1/2730
+Dua huruf diambil tanpa pengganti dari jkkzdkou. Berapa probabilitas urutan dk?
+3/56
+Empat huruf diambil tanpa pengganti dari jxsjjsxxsvxjjsxxx. Berapa probabilitas urutan sxsj?
+1/136
+Empat huruf diambil tanpa pengganti dari ikikikkkqkikiikiqkki. Berapa probabilitas urutan kkik?
+16/323
+Tiga huruf diambil tanpa pengganti dari pqqqqpqqlqpqppqqlb. Beri probabilitas dari urutan pbq.
+25/2448
+Empat huruf diambil tanpa pengganti dari {e: 9, y: 3, n: 5, m: 2, c: 1}. Berapa probabilitas urutan nemm?
+1/1292
+Hitung probabilitas dari urutan khh ketika tiga huruf diambil tanpa pengganti dari {h: 12, k: 4}.
+11/70
+Berapa probabilitas dari urutan kkkk ketika empat huruf diambil tanpa pengganti dari {b: 4, k: 9}?
+126/715
+Tiga huruf diambil tanpa pengganti dari {c: 1, o: 3, q: 3, w: 4, f: 2}. Berapa probabilitas urutan ffw?
+2/429
+Dua huruf diambil tanpa pengganti dari {y: 1, l: 1, q: 4}. Berapa probabilitas urutan ly?
+1/30
+Berapa probabilitas dari urutan iiri ketika empat huruf diambil tanpa pengganti dari {i: 5, r: 1}?
+1/6
+Hitung probabilitas dari urutan jjzs ketika empat huruf diambil tanpa pengganti dari zmjggsjzgjmmszmmzjm.
+1/969
+Berapa probabilitas dari urutan beb ketika tiga huruf diambil tanpa pengganti dari ubebllxebuy?
+2/165
+Hitung probabilitas dari urutan gl ketika dua huruf diambil tanpa pengganti dari {r: 2, g: 3, l: 1}.
+1/10
+Dua huruf diambil tanpa pengganti dari aaabbauaubzubazpub. Berapa probabilitas urutan pz?
+1/153
+Berapa probabilitas dari urutan hv ketika dua huruf diambil tanpa pengganti dari kxhwoxhxkkvkwk?
+1/91
+Berapa probabilitas dari urutan qq ketika dua huruf diambil tanpa pengganti dari {s: 2, a: 7, v: 2, q: 9}?
+18/95
+Hitung probabilitas dari urutan lfbf ketika empat huruf diambil tanpa pengganti dari fflfqqbclflffbhq.
+3/728
+Dua huruf diambil tanpa pengganti dari judddyjyxddjbjdjdy. Berapa probabilitas urutan jy?
+5/102
+Berapa probabilitas dari urutan qrv ketika tiga huruf diambil tanpa pengganti dari {q: 6, v: 4, r: 6}?
+3/70
+Empat huruf diambil tanpa pengganti dari ggjagggiig. Berapa probabilitas urutan ijia?
+1/2520
+Berapa probabilitas dari urutan ee ketika dua huruf diambil tanpa pengganti dari {e: 5, p: 1}?
+2/3
+Hitung probabilitas dari urutan pwwt ketika empat huruf diambil tanpa pengganti dari {w: 2, m: 5, p: 2, n: 1, t: 2}.
+1/1485
+Hitung probabilitas dari urutan rss ketika tiga huruf diambil tanpa pengganti dari {r: 8, s: 4}.
+4/55
+Tiga huruf diambil tanpa pengganti dari uueqdqtttutub. Beri probabilitas dari urutan uut.
+4/143
+Berapa probabilitas dari urutan bu ketika dua huruf diambil tanpa pengganti dari {a: 1, b: 1, u: 1, t: 1, v: 1, o: 1}?
+1/30
+Tiga huruf diambil tanpa pengganti dari ihmiixmmhiixixxi. Beri probabilitas dari urutan xmm.
+1/140
+Dua huruf diambil tanpa pengganti dari mrmrrrrrrrerrerrrr. Beri probabilitas dari urutan rm.
+14/153
+Dua huruf diambil tanpa pengganti dari bbbbsbesbssfsslqs. Beri probabilitas dari urutan qe.
+1/272
+Empat huruf diambil tanpa pengganti dari {p: 1, u: 3, b: 3, k: 5, w: 5}. Berapa probabilitas urutan ukuw?
+5/1904
+Dua huruf diambil tanpa pengganti dari {b: 4, s: 1, v: 4}. Berapa probabilitas urutan bb?
+1/6
+Tiga huruf diambil tanpa pengganti dari iabpipibii. Beri probabilitas dari urutan iib.
+1/18
+Hitung probabilitas dari urutan vv ketika dua huruf diambil tanpa pengganti dari jjjjvjfjfjvjvjbjjbj.
+1/57
+Berapa probabilitas dari urutan ns ketika dua huruf diambil tanpa pengganti dari {s: 1, t: 8, n: 2}?
+1/55
+Hitung probabilitas dari urutan nk ketika dua huruf diambil tanpa pengganti dari kkkkkknkkkkkkkkk.
+1/16
+Empat huruf diambil tanpa pengganti dari {r: 16, p: 3}. Beri probabilitas dari urutan rrpr.
+35/323
+Hitung probabilitas dari urutan ga ketika dua huruf diambil tanpa pengganti dari ggraggzaggzgrrzzgzra.
+6/95
+Dua huruf diambil tanpa pengganti dari {u: 6, y: 5}. Beri probabilitas dari urutan yy.
+2/11
+Empat huruf diambil tanpa pengganti dari {n: 2, t: 1, h: 3, p: 1, y: 2, w: 1}. Berapa probabilitas urutan nhyw?
+1/420
+Berapa probabilitas dari urutan hda ketika tiga huruf diambil tanpa pengganti dari vajahaabdajaabjja?
+1/510
+Berapa probabilitas dari urutan nsut ketika empat huruf diambil tanpa pengganti dari {y: 4, n: 6, u: 2, s: 6, t: 1}?
+1/1292
+Dua huruf diambil tanpa pengganti dari {a: 7, c: 1, q: 2, i: 3, m: 2}. Berapa probabilitas urutan ic?
+1/70
+Hitung probabilitas dari urutan oz ketika dua huruf diambil tanpa pengganti dari zohzooozzozz.
+5/22
+Hitung probabilitas dari urutan ks ketika dua huruf diambil tanpa pengganti dari {c: 12, s: 2, k: 1}.
+1/105
+Berapa probabilitas dari urutan go ketika dua huruf diambil tanpa pengganti dari ogcsssczfc?
+1/90
+Berapa probabilitas dari urutan ttdt ketika empat huruf diambil tanpa pengganti dari {z: 1, t: 3, d: 14}?
+7/6120
+Dua huruf diambil tanpa pengganti dari {y: 3, d: 2, s: 3, k: 1, i: 3, r: 6}. Berapa probabilitas urutan yi?
+1/34
+Empat huruf diambil tanpa pengganti dari {h: 4, p: 4}. Berapa probabilitas urutan hphh?
+2/35
+Hitung probabilitas dari urutan wvvv ketika empat huruf diambil tanpa pengganti dari {w: 8, v: 4}.
+8/495
+Berapa probabilitas dari urutan fb ketika dua huruf diambil tanpa pengganti dari iiiiififb?
+1/36
+Dua huruf diambil tanpa pengganti dari {v: 6, a: 9}. Beri probabilitas dari urutan aa.
+12/35
+Empat huruf diambil tanpa pengganti dari vvqqqvyvyqvqqvqqvqq. Berapa probabilitas urutan qqyq?
+5/323
+Dua huruf diambil tanpa pengganti dari {z: 1, u: 4, t: 1, n: 1}. Berapa probabilitas urutan ut?
+2/21
+Empat huruf diambil tanpa pengganti dari {n: 2, u: 4, g: 7, i: 7}. Beri probabilitas dari urutan gniu.
+49/14535
+Dua huruf diambil tanpa pengganti dari {i: 1, b: 1, x: 4, m: 2, u: 4}. Berapa probabilitas urutan xx?
+1/11
+Berapa probabilitas dari urutan be ketika dua huruf diambil tanpa pengganti dari {b: 4, e: 4}?
+2/7
+Dua huruf diambil tanpa pengganti dari rrllmmmlk. Beri probabilitas dari urutan rr.
+1/36
+Dua huruf diambil tanpa pengganti dari {b: 4, h: 4, f: 5, m: 3, c: 2}. Beri probabilitas dari urutan mc.
+1/51
+Dua huruf diambil tanpa pengganti dari iuuuitiittfutt. Beri probabilitas dari urutan ii.
+6/91
+Hitung probabilitas dari urutan oope ketika empat huruf diambil tanpa pengganti dari {o: 4, q: 1, p: 1, e: 3}.
+1/84
+Dua huruf diambil tanpa pengganti dari {y: 5, s: 1, w: 1}. Berapa probabilitas urutan yy?
+10/21
+Dua huruf diambil tanpa pengganti dari ttttttttvvvtvtvtt. Berapa probabilitas urutan tt?
+33/68
+Berapa probabilitas dari urutan lm ketika dua huruf diambil tanpa pengganti dari {w: 2, l: 2, o: 1, x: 7, m: 1}?
+1/78
+Empat huruf diambil tanpa pengganti dari {u: 1, o: 3, l: 1, a: 1, r: 1, f: 7}. Beri probabilitas dari urutan urur.
+0
+Hitung probabilitas dari urutan fgf ketika tiga huruf diambil tanpa pengganti dari dfgdfefd.
+1/56
+Hitung probabilitas dari urutan kh ketika dua huruf diambil tanpa pengganti dari {k: 2, u: 5, x: 2, d: 2, s: 2, h: 2}.
+2/105
+Empat huruf diambil tanpa pengganti dari {g: 2, f: 1, q: 1, l: 1, j: 1}. Berapa probabilitas urutan qggf?
+1/180
+Dua huruf diambil tanpa pengganti dari eeiihhzezhoehebe. Berapa probabilitas urutan oh?
+1/60
+Hitung probabilitas dari urutan vjz ketika tiga huruf diambil tanpa pengganti dari {r: 1, z: 1, j: 1, v: 1}.
+1/24
+Berapa probabilitas dari urutan vef ketika tiga huruf diambil tanpa pengganti dari lflltvxe?
+1/336
+Dua huruf diambil tanpa pengganti dari ssmsssssssssssssm. Berapa probabilitas urutan ss?
+105/136
+Empat huruf diambil tanpa pengganti dari bzlggllgyblgzlvzzzl. Beri probabilitas dari urutan bllz.
+25/7752
+Berapa probabilitas dari urutan lqq ketika tiga huruf diambil tanpa pengganti dari {q: 2, l: 1, u: 3, s: 2}?
+1/168
+Hitung probabilitas dari urutan kg ketika dua huruf diambil tanpa pengganti dari {k: 4, g: 1}.
+1/5
+Hitung probabilitas dari urutan dvkn ketika empat huruf diambil tanpa pengganti dari vvvnkkvovdv.
+1/660
+Berapa probabilitas dari urutan hwh ketika tiga huruf diambil tanpa pengganti dari {w: 1, h: 6, b: 1}?
+5/56
+Tiga huruf diambil tanpa pengganti dari iqislnbli. Berapa probabilitas urutan lqi?
+1/84
+Berapa probabilitas dari urutan xtpt ketika empat huruf diambil tanpa pengganti dari tttspsvpxv?
+1/420
+Empat huruf diambil tanpa pengganti dari kppwpypcry. Berapa probabilitas urutan kpcy?
+1/630
+Empat huruf diambil tanpa pengganti dari ddmddd. Beri probabilitas dari urutan dddd.
+1/3
+Dua huruf diambil tanpa pengganti dari hwwwww. Berapa probabilitas urutan ww?
+2/3
+Hitung probabilitas dari urutan wna ketika tiga huruf diambil tanpa pengganti dari iwnafwnwwn.
+1/60
+Empat huruf diambil tanpa pengganti dari {l: 2, d: 2, v: 3}. Beri probabilitas dari urutan dllv.
+1/70
+Dua huruf diambil tanpa pengganti dari mrmmmtztrkazztmkzraz. Berapa probabilitas urutan tz?
+3/76
+Hitung probabilitas dari urutan mx ketika dua huruf diambil tanpa pengganti dari {m: 1, v: 3, p: 1, f: 1, r: 5, x: 5}.
+1/48
+Empat huruf diambil tanpa pengganti dari kpkpjpkpjppppkp. Beri probabilitas dari urutan kkkj.
+2/1365
+Dua huruf diambil tanpa pengganti dari kkqqhbqkbqbqbqqqqk. Berapa probabilitas urutan kk?
+2/51
+Hitung probabilitas dari urutan je ketika dua huruf diambil tanpa pengganti dari {j: 1, y: 4, e: 4}.
+1/18
+Hitung probabilitas dari urutan na ketika dua huruf diambil tanpa pengganti dari {j: 4, f: 2, w: 3, n: 5, a: 2}.
+1/24
+Tiga huruf diambil tanpa pengganti dari {w: 2, f: 14, z: 4}. Beri probabilitas dari urutan wfw.
+7/1710
+Berapa probabilitas dari urutan vl ketika dua huruf diambil tanpa pengganti dari vtlvwtvwvlvvvt?
+1/13
+Tiga huruf diambil tanpa pengganti dari ggyggjuiiuiwwuwyuu. Berapa probabilitas urutan ggy?
+1/204
+Dua huruf diambil tanpa pengganti dari {h: 12, d: 2, b: 4}. Beri probabilitas dari urutan hb.
+8/51
+Tiga huruf diambil tanpa pengganti dari uhlsssmlf. Berapa probabilitas urutan fmh?
+1/504
+Hitung probabilitas dari urutan gyzk ketika empat huruf diambil tanpa pengganti dari {k: 1, s: 1, y: 1, d: 1, z: 1, g: 1}.
+1/360
+Tiga huruf diambil tanpa pengganti dari {r: 2, t: 1, u: 4, h: 1, b: 2, f: 1}. Berapa probabilitas urutan uhr?
+4/495
+Hitung probabilitas dari urutan mnz ketika tiga huruf diambil tanpa pengganti dari bmkzbknzkkzz.
+1/330
+Berapa probabilitas dari urutan vv ketika dua huruf diambil tanpa pengganti dari vzzvqqvzqzvqqzzvq?
+5/68
+Tiga huruf diambil tanpa pengganti dari {l: 1, y: 1, a: 1, o: 1}. Beri probabilitas dari urutan ola.
+1/24
+Tiga huruf diambil tanpa pengganti dari {x: 1, t: 6, m: 2}. Beri probabilitas dari urutan xmt.
+1/42
+Dua huruf diambil tanpa pengganti dari kcccececeic. Berapa probabilitas urutan ci?
+3/55
+Tiga huruf diambil tanpa pengganti dari {v: 2, n: 3, d: 2}. Berapa probabilitas urutan nnv?
+2/35
+Hitung probabilitas dari urutan we ketika dua huruf diambil tanpa pengganti dari ohheeworerhwhh.
+3/91
+Berapa probabilitas dari urutan umw ketika tiga huruf diambil tanpa pengganti dari {u: 1, w: 1, o: 1, c: 1, a: 1, m: 1}?
+1/120
+Berapa probabilitas dari urutan ffff ketika empat huruf diambil tanpa pengganti dari fnnlffffnlfff?
+14/143
+Tiga huruf diambil tanpa pengganti dari {q: 2, i: 1, j: 2, e: 3, h: 1}. Beri probabilitas dari urutan eej.
+1/42
+Tiga huruf diambil tanpa pengganti dari kkttttkkttktttt. Beri probabilitas dari urutan tkt.
+15/91
+Empat huruf diambil tanpa pengganti dari zzldezqzzqzdz. Berapa probabilitas urutan edqq?
+1/4290
+Berapa probabilitas dari urutan lto ketika tiga huruf diambil tanpa pengganti dari {t: 1, l: 2, g: 3, o: 1, y: 2}?
+1/252
+Dua huruf diambil tanpa pengganti dari {j: 11, i: 3, p: 3, t: 1}. Beri probabilitas dari urutan jt.
+11/306
+Hitung probabilitas dari urutan eed ketika tiga huruf diambil tanpa pengganti dari cneendeenncejwcenjc.
+5/969
+Dua huruf diambil tanpa pengganti dari bnnnnnbbnnnnnnnnnnn. Beri probabilitas dari urutan nn.
+40/57
+Hitung probabilitas dari urutan vrvi ketika empat huruf diambil tanpa pengganti dari xxrxxixxkxxkkxxv.
+0
+Berapa probabilitas dari urutan xvj ketika tiga huruf diambil tanpa pengganti dari {j: 4, v: 1, p: 1, h: 3, r: 1, x: 1}?
+2/495
+Hitung probabilitas dari urutan hhhr ketika empat huruf diambil tanpa pengganti dari {r: 5, h: 4}.
+5/126
+Berapa probabilitas dari urutan aw ketika dua huruf diambil tanpa pengganti dari awwww?
+1/5
+Dua huruf diambil tanpa pengganti dari {g: 1, b: 2, v: 3}. Beri probabilitas dari urutan bv.
+1/5
+Dua huruf diambil tanpa pengganti dari {n: 1, w: 1, h: 1, x: 1}. Beri probabilitas dari urutan xh.
+1/12
+Dua huruf diambil tanpa pengganti dari obobnrrbbooffbonbobn. Berapa probabilitas urutan fr?
+1/95
+Dua huruf diambil tanpa pengganti dari hxqvrexhex. Beri probabilitas dari urutan rv.
+1/90
+Tiga huruf diambil tanpa pengganti dari vvsvjsvscvjyjyyyycq. Beri probabilitas dari urutan jjy.
+5/969
+Dua huruf diambil tanpa pengganti dari {i: 4, n: 2, m: 2, j: 3, g: 1, k: 1}. Berapa probabilitas urutan gk?
+1/156
+Tiga huruf diambil tanpa pengganti dari {e: 2, c: 1, f: 4, r: 1, a: 5}. Berapa probabilitas urutan aee?
+5/858
+Tiga huruf diambil tanpa pengganti dari fetflfywtwffyyl. Beri probabilitas dari urutan wwt.
+2/1365
+Empat huruf diambil tanpa pengganti dari ddlkdyyyklklkkyk. Beri probabilitas dari urutan lldk.
+9/3640
+Dua huruf diambil tanpa pengganti dari epzjpd. Beri probabilitas dari urutan pd.
+1/15
+Dua huruf diambil tanpa pengganti dari {l: 5, q: 10}. Berapa probabilitas urutan lq?
+5/21
+Tiga huruf diambil tanpa pengganti dari {w: 1, p: 6, l: 1, b: 3}. Beri probabilitas dari urutan bbl.
+1/165
+Hitung probabilitas dari urutan wwwp ketika empat huruf diambil tanpa pengganti dari pppwwpwpppwpww.
+40/1001
+Hitung probabilitas dari urutan er ketika dua huruf diambil tanpa pengganti dari {e: 1, r: 5}.
+1/6
+Hitung probabilitas dari urutan pc ketika dua huruf diambil tanpa pengganti dari ctmccptciv.
+2/45
+Dua huruf diambil tanpa pengganti dari {h: 1, l: 3, t: 3, g: 1, p: 12}. Berapa probabilitas urutan gt?
+3/380
+Dua huruf diambil tanpa pengganti dari {i: 2, j: 1, z: 2, t: 1, q: 3}. Beri probabilitas dari urutan tz.
+1/36
+Dua huruf diambil tanpa pengganti dari {g: 7, b: 4, f: 5, t: 1, v: 1}. Berapa probabilitas urutan tg?
+7/306
+Berapa probabilitas dari urutan qrqx ketika empat huruf diambil tanpa pengganti dari rrxqrx?
+0
+Hitung probabilitas dari urutan mrg ketika tiga huruf diambil tanpa pengganti dari {h: 2, i: 1, n: 9, g: 2, m: 5, r: 1}.
+1/684
+Berapa probabilitas dari urutan bw ketika dua huruf diambil tanpa pengganti dari bwxbuxbbx?
+1/18
+Tiga huruf diambil tanpa pengganti dari {i: 10, m: 5, z: 3, l: 1}. Berapa probabilitas urutan mzi?
+25/969
+Hitung probabilitas dari urutan wex ketika tiga huruf diambil tanpa pengganti dari {s: 1, e: 5, w: 2, x: 1, h: 1, f: 2}.
+1/132
+Hitung probabilitas dari urutan glo ketika tiga huruf diambil tanpa pengganti dari lnnoounungd.
+1/495
+Berapa probabilitas dari urutan fuf ketika tiga huruf diambil tanpa pengganti dari {f: 4, q: 13, u: 2}?
+4/969
+Hitung probabilitas dari urutan kyeu ketika empat huruf diambil tanpa pengganti dari {t: 3, y: 3, u: 1, k: 1, e: 1, g: 4}.
+1/5720
+Berapa probabilitas dari urutan cq ketika dua huruf diambil tanpa pengganti dari {i: 5, q: 2, c: 2, d: 1, t: 1}?
+2/55
+Berapa probabilitas dari urutan lvl ketika tiga huruf diambil tanpa pengganti dari llllv?
+1/5
+Berapa probabilitas dari urutan qnu ketika tiga huruf diambil tanpa pengganti dari {u: 5, n: 4, q: 4}?
+20/429
+Berapa probabilitas dari urutan to ketika dua huruf diambil tanpa pengganti dari ooooootoooo?
+1/11
+Empat huruf diambil tanpa pengganti dari {c: 1, h: 2, y: 2, q: 3}. Berapa probabilitas urutan hcyq?
+1/140
+Hitung probabilitas dari urutan pll ketika tiga huruf diambil tanpa pengganti dari {p: 13, l: 2}.
+1/105
+Berapa probabilitas dari urutan pdg ketika tiga huruf diambil tanpa pengganti dari {m: 1, g: 1, d: 2, p: 2, h: 7}?
+1/429
+Empat huruf diambil tanpa pengganti dari efeeeeeeeeeeeeeef. Beri probabilitas dari urutan eeee.
+39/68
+Hitung probabilitas dari urutan xaxx ketika empat huruf diambil tanpa pengganti dari {a: 3, x: 14}.
+39/340
+Tiga huruf diambil tanpa pengganti dari {d: 5, w: 6, j: 3}. Berapa probabilitas urutan jww?
+15/364
+Tiga huruf diambil tanpa pengganti dari ixxxxwxizxxddxdxizz. Berapa probabilitas urutan wii?
+1/969
+Berapa probabilitas dari urutan rs ketika dua huruf diambil tanpa pengganti dari eellrrsrheererehe?
+5/272
+Berapa probabilitas dari urutan nwe ketika tiga huruf diambil tanpa pengganti dari {w: 10, n: 2, o: 5, e: 2}?
+20/2907
+Dua huruf diambil tanpa pengganti dari zqzjrjhnjjzjqjzzz. Beri probabilitas dari urutan rz.
+3/136
+Hitung probabilitas dari urutan fl ketika dua huruf diambil tanpa pengganti dari {i: 5, r: 1, l: 4, f: 4}.
+8/91
+Berapa probabilitas dari urutan ncc ketika tiga huruf diambil tanpa pengganti dari ucnucuuuucnuunxcnxnu?
+1/114
+Hitung probabilitas dari urutan tmmm ketika empat huruf diambil tanpa pengganti dari {p: 1, t: 6, m: 3}.
+1/140
+Hitung probabilitas dari urutan fff ketika tiga huruf diambil tanpa pengganti dari {p: 1, f: 3, k: 6, o: 6}.
+1/560
+Tiga huruf diambil tanpa pengganti dari bbmbsmnmbbmsp. Beri probabilitas dari urutan mmm.
+2/143
+Hitung probabilitas dari urutan om ketika dua huruf diambil tanpa pengganti dari {m: 1, w: 1, k: 1, v: 2, o: 1}.
+1/30
+Dua huruf diambil tanpa pengganti dari slzzsz. Berapa probabilitas urutan ls?
+1/15
+Tiga huruf diambil tanpa pengganti dari ptmtgjjkjkktjm. Berapa probabilitas urutan mtj?
+1/91
+Empat huruf diambil tanpa pengganti dari oiggeokgfkffkgekgk. Berapa probabilitas urutan igek?
+5/7344
+Berapa probabilitas dari urutan wfu ketika tiga huruf diambil tanpa pengganti dari {u: 1, w: 1, o: 4, f: 1}?
+1/210
+Dua huruf diambil tanpa pengganti dari zzgsdpzdszsps. Beri probabilitas dari urutan zg.
+1/39
+Berapa probabilitas dari urutan yj ketika dua huruf diambil tanpa pengganti dari yjjjjj?
+1/6
+Dua huruf diambil tanpa pengganti dari kkntgk. Beri probabilitas dari urutan nk.
+1/10
+Berapa probabilitas dari urutan fy ketika dua huruf diambil tanpa pengganti dari {f: 1, u: 3, y: 1, v: 1, l: 3}?
+1/72
+Dua huruf diambil tanpa pengganti dari iiggegieppiiggplipe. Berapa probabilitas urutan ge?
+5/114
+Berapa probabilitas dari urutan svv ketika tiga huruf diambil tanpa pengganti dari vvvvvssssss?
+4/33
+Empat huruf diambil tanpa pengganti dari {n: 1, p: 3, s: 1, e: 1}. Beri probabilitas dari urutan ppsp.
+1/60
+Dua huruf diambil tanpa pengganti dari adaallalllddadllad. Berapa probabilitas urutan ad?
+5/51
+Empat huruf diambil tanpa pengganti dari {g: 3, l: 12, i: 1, e: 2}. Berapa probabilitas urutan llle?
+11/306
+Berapa probabilitas dari urutan ly ketika dua huruf diambil tanpa pengganti dari {o: 1, y: 2, l: 3, z: 1, u: 1, p: 1}?
+1/12
+Berapa probabilitas dari urutan uwu ketika tiga huruf diambil tanpa pengganti dari {u: 7, c: 3, w: 5, y: 3}?
+35/816
+Hitung probabilitas dari urutan jl ketika dua huruf diambil tanpa pengganti dari {l: 1, n: 1, e: 5, j: 6}.
+1/26
+Berapa probabilitas dari urutan mme ketika tiga huruf diambil tanpa pengganti dari mmmemmmmmemmmmm?
+4/35
+Hitung probabilitas dari urutan mmb ketika tiga huruf diambil tanpa pengganti dari bjyjmmjpbmy.
+2/165
+Berapa probabilitas dari urutan tzt ketika tiga huruf diambil tanpa pengganti dari ztzzzzttzzzt?
+4/55
+Berapa probabilitas dari urutan cccc ketika empat huruf diambil tanpa pengganti dari vccccccvccccccc?
+11/21
+Hitung probabilitas dari urutan ka ketika dua huruf diambil tanpa pengganti dari kkkkrkkssasakkas.
+1/10
+Dua huruf diambil tanpa pengganti dari xxiixxxxxxxxxxqxqxxx. Berapa probabilitas urutan iq?
+1/95
+Dua huruf diambil tanpa pengganti dari {g: 1, n: 1, k: 1, v: 3, p: 3, h: 1}. Berapa probabilitas urutan vv?
+1/15
+Tiga huruf diambil tanpa pengganti dari rnnyrry. Berapa probabilitas urutan rny?
+2/35
+Hitung probabilitas dari urutan kk ketika dua huruf diambil tanpa pengganti dari pknkkpknhchpn.
+1/13
+Tiga huruf diambil tanpa pengganti dari xxzzzxxzzxx. Berapa probabilitas urutan zxx?
+5/33
+Berapa probabilitas dari urutan kk ketika dua huruf diambil tanpa pengganti dari {v: 2, f: 1, k: 6}?
+5/12
+Hitung probabilitas dari urutan oxnn ketika empat huruf diambil tanpa pengganti dari {o: 6, y: 1, x: 1, n: 3}.
+1/220
+Tiga huruf diambil tanpa pengganti dari {i: 12, c: 2}. Beri probabilitas dari urutan cic.
+1/91
+Berapa probabilitas dari urutan eldy ketika empat huruf diambil tanpa pengganti dari {e: 3, a: 2, l: 1, d: 2, y: 1}?
+1/504
+Berapa probabilitas dari urutan mmmm ketika empat huruf diambil tanpa pengganti dari mmmamssmams?
+1/22
+Berapa probabilitas dari urutan ppxx ketika empat huruf diambil tanpa pengganti dari hhfpkfkkkpxkxk?
+1/6006
+Tiga huruf diambil tanpa pengganti dari krrkkdd. Berapa probabilitas urutan rdk?
+2/35
+Hitung probabilitas dari urutan pz ketika dua huruf diambil tanpa pengganti dari {z: 1, p: 1, n: 1, y: 7}.
+1/90
+Empat huruf diambil tanpa pengganti dari yyqyyyyyyyyyyyqy. Beri probabilitas dari urutan yyqq.
+1/120
+Berapa probabilitas dari urutan dd ketika dua huruf diambil tanpa pengganti dari qpddiqdi?
+3/28
+Empat huruf diambil tanpa pengganti dari {u: 2, j: 3, o: 1, p: 1, g: 1, v: 2}. Beri probabilitas dari urutan vvgj.
+1/840
+Tiga huruf diambil tanpa pengganti dari {y: 2, k: 2, o: 14}. Berapa probabilitas urutan oky?
+7/612
+Berapa probabilitas dari urutan vsj ketika tiga huruf diambil tanpa pengganti dari {b: 1, v: 1, s: 2, l: 1, j: 1}?
+1/60
+Dua huruf diambil tanpa pengganti dari {i: 1, z: 1, u: 1, a: 1, v: 2, f: 5}. Berapa probabilitas urutan vu?
+1/55
+Berapa probabilitas dari urutan hc ketika dua huruf diambil tanpa pengganti dari cpcvvcvhpvvvcvh?
+4/105
+Empat huruf diambil tanpa pengganti dari cccooccccccoc. Beri probabilitas dari urutan cooo.
+1/286
+Tiga huruf diambil tanpa pengganti dari guugggguggugggg. Beri probabilitas dari urutan uug.
+22/455
+Tiga huruf diambil tanpa pengganti dari {y: 1, g: 2, k: 6, c: 6, w: 4}. Berapa probabilitas urutan cgk?
+4/323
+Dua huruf diambil tanpa pengganti dari bmdn. Beri probabilitas dari urutan dn.
+1/12
+Tiga huruf diambil tanpa pengganti dari jooooooooooooo. Berapa probabilitas urutan jjj?
+0
+Tiga huruf diambil tanpa pengganti dari {e: 1, o: 8, d: 2, n: 3, p: 2}. Berapa probabilitas urutan noo?
+1/20
+Berapa probabilitas dari urutan pm ketika dua huruf diambil tanpa pengganti dari mmzmcpccpppcmmcmmmm?
+2/19
+Tiga huruf diambil tanpa pengganti dari {o: 8, v: 4}. Beri probabilitas dari urutan ooo.
+14/55
+Empat huruf diambil tanpa pengganti dari {n: 2, i: 3, o: 1, g: 2}. Beri probabilitas dari urutan oigg.
+1/280
+Berapa probabilitas dari urutan nkv ketika tiga huruf diambil tanpa pengganti dari {j: 1, n: 7, v: 1, d: 7, k: 4}?
+7/1710
+Berapa probabilitas dari urutan fr ketika dua huruf diambil tanpa pengganti dari yybyyyybrfbyy?
+1/156
+Hitung probabilitas dari urutan lof ketika tiga huruf diambil tanpa pengganti dari lofmlomooooomolllfol.
+3/190
+Berapa probabilitas dari urutan tttt ketika empat huruf diambil tanpa pengganti dari {m: 10, t: 5, g: 2}?
+1/476
+Hitung probabilitas dari urutan fftt ketika empat huruf diambil tanpa pengganti dari fueufeuutufeetfetu.
+1/1020
+Berapa probabilitas dari urutan bg ketika dua huruf diambil tanpa pengganti dari oororohbgoghg?
+1/52
+Tiga huruf diambil tanpa pengganti dari whphwywyyyyynynyh. Berapa probabilitas urutan hny?
+1/85
+Berapa probabilitas dari urutan ow ketika dua huruf diambil tanpa pengganti dari vfjowbbjj?
+1/72
+Tiga huruf diambil tanpa pengganti dari wfwfwwjwusa. Beri probabilitas dari urutan wfa.
+1/99
+Tiga huruf diambil tanpa pengganti dari mduwmrrrrmrjdr. Beri probabilitas dari urutan jdd.
+1/1092
+Berapa probabilitas dari urutan kpp ketika tiga huruf diambil tanpa pengganti dari kppkpnppnkpppn?
+1/13
+Hitung probabilitas dari urutan qz ketika dua huruf diambil tanpa pengganti dari yggqyyyygyzyyzzyqq.
+1/34
+Hitung probabilitas dari urutan hhtt ketika empat huruf diambil tanpa pengganti dari thttttthtthtthtt.
+33/910
+Hitung probabilitas dari urutan bz ketika dua huruf diambil tanpa pengganti dari fzbabbavapbabbbbafpb.
+9/380
+Empat huruf diambil tanpa pengganti dari {n: 4, o: 1, b: 1, v: 1}. Beri probabilitas dari urutan bnnn.
+1/35
+Dua huruf diambil tanpa pengganti dari ettutteeeeutele. Berapa probabilitas urutan eu?
+1/15
+Hitung probabilitas dari urutan nyy ketika tiga huruf diambil tanpa pengganti dari szjtjjsstsyytjsn.
+1/1680
+Berapa probabilitas dari urutan yjj ketika tiga huruf diambil tanpa pengganti dari jycyjycfjccccojyff?
+1/102
+Hitung probabilitas dari urutan guo ketika tiga huruf diambil tanpa pengganti dari goeeuee.
+1/210
+Hitung probabilitas dari urutan znw ketika tiga huruf diambil tanpa pengganti dari nzpnnnnwnp.
+1/120
+Hitung probabilitas dari urutan go ketika dua huruf diambil tanpa pengganti dari {m: 8, u: 2, o: 4, z: 5, g: 1}.
+1/95
+Dua huruf diambil tanpa pengganti dari {n: 4, s: 9}. Berapa probabilitas urutan sn?
+3/13
+Tiga huruf diambil tanpa pengganti dari {b: 1, s: 3, e: 2}. Beri probabilitas dari urutan sbb.
+0
+Dua huruf diambil tanpa pengganti dari jqjfjcoi. Berapa probabilitas urutan oj?
+3/56
+Hitung probabilitas dari urutan mar ketika tiga huruf diambil tanpa pengganti dari {r: 1, a: 3, m: 1, u: 1, v: 3}.
+1/168
+Berapa probabilitas dari urutan rq ketika dua huruf diambil tanpa pengganti dari qdgjjdjrqrd?
+2/55
+Berapa probabilitas dari urutan ygg ketika tiga huruf diambil tanpa pengganti dari gqgqqggggy?
+1/24
+Berapa probabilitas dari urutan ky ketika dua huruf diambil tanpa pengganti dari {y: 3, r: 2, a: 2, w: 1, k: 1, v: 1}?
+1/30
+Hitung probabilitas dari urutan al ketika dua huruf diambil tanpa pengganti dari laffafaaffaaf.
+1/26
+Tiga huruf diambil tanpa pengganti dari {c: 1, g: 4, m: 3, p: 1, e: 1}. Berapa probabilitas urutan ceg?
+1/180
+Hitung probabilitas dari urutan fr ketika dua huruf diambil tanpa pengganti dari {z: 1, e: 1, r: 1, f: 2, t: 3, g: 1}.
+1/36
+Empat huruf diambil tanpa pengganti dari {l: 8, p: 6}. Beri probabilitas dari urutan lllp.
+12/143
+Berapa probabilitas dari urutan og ketika dua huruf diambil tanpa pengganti dari owgwogw?
+2/21
+Berapa probabilitas dari urutan cc ketika dua huruf diambil tanpa pengganti dari ccfccccccc?
+4/5
+Berapa probabilitas dari urutan ilq ketika tiga huruf diambil tanpa pengganti dari {p: 3, q: 1, x: 3, i: 4, l: 2}?
+2/429
+Empat huruf diambil tanpa pengganti dari {l: 1, h: 3, u: 2, f: 2, n: 1}. Berapa probabilitas urutan fhuu?
+1/252
+Tiga huruf diambil tanpa pengganti dari {g: 3, o: 1, n: 2, h: 11}. Berapa probabilitas urutan gho?
+11/1360
+Tiga huruf diambil tanpa pengganti dari {i: 2, f: 6, b: 5, y: 5}. Beri probabilitas dari urutan byi.
+25/2448
+Hitung probabilitas dari urutan zn ketika dua huruf diambil tanpa pengganti dari {a: 1, r: 1, s: 1, z: 2, j: 3, n: 1}.
+1/36
+Dua huruf diambil tanpa pengganti dari fijnuijnjanffiauj. Beri probabilitas dari urutan jf.
+3/68
+Hitung probabilitas dari urutan lj ketika dua huruf diambil tanpa pengganti dari {n: 1, c: 3, j: 3, e: 1, l: 1}.
+1/24
+Empat huruf diambil tanpa pengganti dari {n: 2, v: 1, z: 8, d: 1}. Berapa probabilitas urutan nnzd?
+2/1485
+Dua huruf diambil tanpa pengganti dari kakkk. Beri probabilitas dari urutan kk.
+3/5
+Dua huruf diambil tanpa pengganti dari jl. Berapa probabilitas urutan lj?
+1/2
+Hitung probabilitas dari urutan xx ketika dua huruf diambil tanpa pengganti dari {x: 6, e: 1, v: 2, z: 1}.
+1/3
+Tiga huruf diambil tanpa pengganti dari {w: 1, j: 1, b: 2, y: 5, x: 1, d: 1}. Beri probabilitas dari urutan ydj.
+1/198
+Dua huruf diambil tanpa pengganti dari qikrkiiz. Berapa probabilitas urutan qi?
+3/56
+Dua huruf diambil tanpa pengganti dari {t: 1, d: 4}. Berapa probabilitas urutan td?
+1/5
+Hitung probabilitas dari urutan fse ketika tiga huruf diambil tanpa pengganti dari usgswfeusu.
+1/240
+Hitung probabilitas dari urutan ttt ketika tiga huruf diambil tanpa pengganti dari tttjjjtttjtttjttt.
+11/34
+Berapa probabilitas dari urutan agg ketika tiga huruf diambil tanpa pengganti dari ggggagugu?
+5/84
+Tiga huruf diambil tanpa pengganti dari hhlhhh. Beri probabilitas dari urutan lhh.
+1/6
+Tiga huruf diambil tanpa pengganti dari {l: 7, o: 2, b: 1, h: 5}. Berapa probabilitas urutan hll?
+1/13
+Berapa probabilitas dari urutan lnl ketika tiga huruf diambil tanpa pengganti dari lbnldvbul?
+1/84
+Hitung probabilitas dari urutan gagg ketika empat huruf diambil tanpa pengganti dari gtggaggttgtatgtg.
+1/65
+Berapa probabilitas dari urutan jio ketika tiga huruf diambil tanpa pengganti dari {i: 1, j: 2, o: 3}?
+1/20
+Tiga huruf diambil tanpa pengganti dari ccjkkjjkjjjkjkjkkckk. Beri probabilitas dari urutan jjc.
+7/285
+Berapa probabilitas dari urutan aae ketika tiga huruf diambil tanpa pengganti dari eeaeeeeaa?
+1/14
+Tiga huruf diambil tanpa pengganti dari vtzntwazwv. Beri probabilitas dari urutan ztv.
+1/90
+Dua huruf diambil tanpa pengganti dari xxddfxexfxmtx. Beri probabilitas dari urutan fx.
+1/13
+Dua huruf diambil tanpa pengganti dari rrrxrrohxnr. Berapa probabilitas urutan xr?
+6/55
+Berapa probabilitas dari urutan gzbg ketika empat huruf diambil tanpa pengganti dari gbgzbggbbbbbbzbbbbb?
+13/3876
+Hitung probabilitas dari urutan hkk ketika tiga huruf diambil tanpa pengganti dari {t: 3, k: 8, e: 2, h: 1}.
+1/39
+Berapa probabilitas dari urutan hct ketika tiga huruf diambil tanpa pengganti dari {c: 9, h: 9, t: 2}?
+9/380
+Hitung probabilitas dari urutan aacb ketika empat huruf diambil tanpa pengganti dari {a: 4, c: 1, m: 1, b: 1}.
+1/70
+Dua huruf diambil tanpa pengganti dari xxigglinlgngggiggig. Berapa probabilitas urutan lx?
+2/171
+Hitung probabilitas dari urutan muft ketika empat huruf diambil tanpa pengganti dari udmuffduudltuuutudd.
+1/2907
+Dua huruf diambil tanpa pengganti dari eeeaeaie. Beri probabilitas dari urutan ee.
+5/14
+Berapa probabilitas dari urutan qqpp ketika empat huruf diambil tanpa pengganti dari qppqqqppppppqpp?
+5/91
+Dua huruf diambil tanpa pengganti dari uapwapapa. Berapa probabilitas urutan ua?
+1/18
+Tiga huruf diambil tanpa pengganti dari {e: 1, o: 2, v: 5, f: 2, c: 5}. Beri probabilitas dari urutan evc.
+5/546
+Hitung probabilitas dari urutan oxog ketika empat huruf diambil tanpa pengganti dari xgxgmowwvov.
+1/990
+Empat huruf diambil tanpa pengganti dari {a: 2, j: 14}. Beri probabilitas dari urutan ajja.
+1/120
+Hitung probabilitas dari urutan rar ketika tiga huruf diambil tanpa pengganti dari rhayaharhyv.
+1/165
+Berapa probabilitas dari urutan jip ketika tiga huruf diambil tanpa pengganti dari {p: 1, f: 6, i: 1, j: 2, l: 3, q: 1}?
+1/1092
+Tiga huruf diambil tanpa pengganti dari vnndddjdnvvvdvvvv. Beri probabilitas dari urutan ndj.
+1/272
+Hitung probabilitas dari urutan jj ketika dua huruf diambil tanpa pengganti dari {j: 8}.
+1
+Empat huruf diambil tanpa pengganti dari ifvnfz. Berapa probabilitas urutan izff?
+1/180
+Hitung probabilitas dari urutan gg ketika dua huruf diambil tanpa pengganti dari {c: 4, g: 13}.
+39/68
+Dua huruf diambil tanpa pengganti dari qqqqqqqrrqrqrrqrr. Beri probabilitas dari urutan rq.
+35/136
+Berapa probabilitas dari urutan olo ketika tiga huruf diambil tanpa pengganti dari oovvlzzz?
+1/168
+Berapa probabilitas dari urutan kkg ketika tiga huruf diambil tanpa pengganti dari gggggggggvkkggvvk?
+11/680
+Berapa probabilitas dari urutan aaap ketika empat huruf diambil tanpa pengganti dari gpvtgvagpbvpp?
+0
+Berapa probabilitas dari urutan ccg ketika tiga huruf diambil tanpa pengganti dari cfrffggmdff?
+0
+Hitung probabilitas dari urutan cc ketika dua huruf diambil tanpa pengganti dari {j: 4, m: 1, c: 4}.
+1/6
+Dua huruf diambil tanpa pengganti dari {x: 3, y: 4, s: 1, p: 2, c: 5, d: 4}. Beri probabilitas dari urutan pc.
+5/171
+Tiga huruf diambil tanpa pengganti dari {m: 3, e: 1, l: 4, o: 3, v: 1}. Berapa probabilitas urutan elm?
+1/110
+Berapa probabilitas dari urutan tb ketika dua huruf diambil tanpa pengganti dari swfssfbqtw?
+1/90
+Dua huruf diambil tanpa pengganti dari vkvvvvvvv. Berapa probabilitas urutan vv?
+7/9
+Berapa probabilitas dari urutan ynnl ketika empat huruf diambil tanpa pengganti dari pynnpyppnnmzl?
+1/715
+Hitung probabilitas dari urutan nz ketika dua huruf diambil tanpa pengganti dari rzrdzznrrrr.
+3/110
+Empat huruf diambil tanpa pengganti dari fuumiijmijnujnnjfuj. Beri probabilitas dari urutan jfum.
+5/5814
+Tiga huruf diambil tanpa pengganti dari mbrrbmbmmmmmbmmrmr. Berapa probabilitas urutan mrr?
+5/204
+Tiga huruf diambil tanpa pengganti dari zcwhcwwhtcwzchc. Berapa probabilitas urutan cht?
+1/182
+Berapa probabilitas dari urutan tn ketika dua huruf diambil tanpa pengganti dari {i: 3, c: 1, n: 1, t: 2, j: 3, z: 4}?
+1/91
+Tiga huruf diambil tanpa pengganti dari uawira. Beri probabilitas dari urutan rwu.
+1/120
+Tiga huruf diambil tanpa pengganti dari {c: 4, s: 8}. Berapa probabilitas urutan css?
+28/165
+Berapa probabilitas dari urutan aqtz ketika empat huruf diambil tanpa pengganti dari {a: 1, t: 2, q: 4, z: 1, e: 4}?
+1/1485
+Dua huruf diambil tanpa pengganti dari {x: 7, o: 1, j: 4, v: 7}. Berapa probabilitas urutan ox?
+7/342
+Berapa probabilitas dari urutan awtk ketika empat huruf diambil tanpa pengganti dari wkzafafztt?
+1/1260
+Dua huruf diambil tanpa pengganti dari {a: 1, d: 3, w: 4, v: 1, r: 3, m: 8}. Berapa probabilitas urutan dr?
+9/380
+Hitung probabilitas dari urutan vf ketika dua huruf diambil tanpa pengganti dari gzpvfc.
+1/30
+Tiga huruf diambil tanpa pengganti dari {g: 5, a: 1, x: 1, d: 6, f: 1, k: 4}. Beri probabilitas dari urutan kdf.
+1/204
+Hitung probabilitas dari urutan brb ketika tiga huruf diambil tanpa pengganti dari {b: 8, r: 11}.
+308/2907
+Berapa probabilitas dari urutan ao ketika dua huruf diambil tanpa pengganti dari {q: 1, f: 3, o: 1, a: 1}?
+1/30
+Hitung probabilitas dari urutan fggg ketika empat huruf diambil tanpa pengganti dari {f: 10, g: 7}.
+5/136
+Berapa probabilitas dari urutan fi ketika dua huruf diambil tanpa pengganti dari fiqfwpwjfw?
+1/30
+Berapa probabilitas dari urutan hq ketika dua huruf diambil tanpa pengganti dari sshffqyqqffhffsqqqqq?
+4/95
+Berapa probabilitas dari urutan vaa ketika tiga huruf diambil tanpa pengganti dari {j: 2, v: 3, a: 14, z: 1}?
+91/1140
+Hitung probabilitas dari urutan uu ketika dua huruf diambil tanpa pengganti dari nnnunnauaaauaaunnu.
+10/153
+Empat huruf diambil tanpa pengganti dari lqqqqdxqqxlxqlq. Beri probabilitas dari urutan xxxq.
+2/1365
+Dua huruf diambil tanpa pengganti dari {w: 1, t: 4, n: 1}. Berapa probabilitas urutan nw?
+1/30
+Dua huruf diambil tanpa pengganti dari pppppdepppd. Beri probabilitas dari urutan dd.
+1/55
+Empat huruf diambil tanpa pengganti dari ffbcffcfbefcxfcfbc. Berapa probabilitas urutan bcxe?
+1/4896
+Dua huruf diambil tanpa pengganti dari xxxxxyxxyxyyxxxx. Berapa probabilitas urutan xx?
+11/20
+Empat huruf diambil tanpa pengganti dari {v: 2, q: 3, t: 8}. Beri probabilitas dari urutan tqtv.
+14/715
+Tiga huruf diambil tanpa pengganti dari uguuwuguuguuwgggugwu. Berapa probabilitas urutan uww?
+1/114
+Hitung probabilitas dari urutan pw ketika dua huruf diambil tanpa pengganti dari wwpwppwwwwxwowww.
+11/80
+Berapa probabilitas dari urutan vmxm ketika empat huruf diambil tanpa pengganti dari xevevmxvem?
+1/420
+Hitung probabilitas dari urutan ai ketika dua huruf diambil tanpa pengganti dari xizxpppizpzacxxpx.
+1/136
+Berapa probabilitas dari urutan vvv ketika tiga huruf diambil tanpa pengganti dari vvvvvvvv?
+1
+Tiga huruf diambil tanpa pengganti dari {g: 4, b: 8, q: 1, n: 3}. Berapa probabilitas urutan nnn?
+1/560
+Berapa probabilitas dari urutan ip ketika dua huruf diambil tanpa pengganti dari bbieeeiyybibypp?
+1/35
+Empat huruf diambil tanpa pengganti dari qntjwjmtqjw. Beri probabilitas dari urutan mtwj.
+1/660
+Tiga huruf diambil tanpa pengganti dari {q: 2, j: 1, h: 3, o: 2}. Beri probabilitas dari urutan jqo.
+1/84
+Dua huruf diambil tanpa pengganti dari nejjzjnecz. Berapa probabilitas urutan ze?
+2/45
+Hitung probabilitas dari urutan ouu ketika tiga huruf diambil tanpa pengganti dari {o: 3, v: 2, d: 2, u: 11}.
+55/816
+Empat huruf diambil tanpa pengganti dari oxqquwxxouu. Berapa probabilitas urutan qwoq?
+1/1980
+Tiga huruf diambil tanpa pengganti dari jmddjdeejme. Beri probabilitas dari urutan eej.
+1/55
+Tiga huruf diambil tanpa pengganti dari qwqwwwqwbqqbbqwwq. Berapa probabilitas urutan wqb?
+49/1360
+Berapa probabilitas dari urutan ojjj ketika empat huruf diambil tanpa pengganti dari ojojdjjjjjjjoj?
+90/1001
+Berapa probabilitas dari urutan cc ketika dua huruf diambil tanpa pengganti dari pcnhhpncggph?
+1/66
+Empat huruf diambil tanpa pengganti dari {s: 3, i: 5, f: 3, d: 3}. Beri probabilitas dari urutan dfii.
+15/2002
+Hitung probabilitas dari urutan ul ketika dua huruf diambil tanpa pengganti dari eummmmlwleuge.
+1/39
+Tiga huruf diambil tanpa pengganti dari {x: 1, f: 1, s: 2, h: 1, t: 2, n: 6}. Beri probabilitas dari urutan txs.
+1/429
+Hitung probabilitas dari urutan uub ketika tiga huruf diambil tanpa pengganti dari eeubbluebee.
+1/165
+Tiga huruf diambil tanpa pengganti dari {d: 1, x: 2, k: 10}. Berapa probabilitas urutan kkk?
+60/143
+Hitung probabilitas dari urutan xkh ketika tiga huruf diambil tanpa pengganti dari kwywhx.
+1/120
+Dua huruf diambil tanpa pengganti dari {d: 5, j: 9, m: 4}. Berapa probabilitas urutan dd?
+10/153
+Hitung probabilitas dari urutan llul ketika empat huruf diambil tanpa pengganti dari {u: 3, l: 10}.
+18/143
+Berapa probabilitas dari urutan ad ketika dua huruf diambil tanpa pengganti dari ddzzzwddkddajddzwdz?
+1/38
+Dua huruf diambil tanpa pengganti dari {s: 5, c: 1, b: 2, l: 2}. Berapa probabilitas urutan cb?
+1/45
+Tiga huruf diambil tanpa pengganti dari {a: 1, s: 4, k: 2, m: 11}. Beri probabilitas dari urutan sas.
+1/408
+Berapa probabilitas dari urutan iiok ketika empat huruf diambil tanpa pengganti dari ikfoygffii?
+1/840
+Tiga huruf diambil tanpa pengganti dari {o: 1, y: 5, a: 4, m: 5, d: 2, e: 1}. Beri probabilitas dari urutan mmo.
+5/1224
+Berapa probabilitas dari urutan ct ketika dua huruf diambil tanpa pengganti dari qjsqqqsjstces?
+1/156
+Hitung probabilitas dari urutan fwo ketika tiga huruf diambil tanpa pengganti dari ffofxoowffffxwfff.
+1/68
+Tiga huruf diambil tanpa pengganti dari njnnnnnnn. Berapa probabilitas urutan njn?
+1/9
+Berapa probabilitas dari urutan kh ketika dua huruf diambil tanpa pengganti dari {k: 1, h: 1, r: 1, o: 1}?
+1/12
+Tiga huruf diambil tanpa pengganti dari elllleglllll. Beri probabilitas dari urutan lle.
+6/55
+Dua huruf diambil tanpa pengganti dari nfojoeetej. Beri probabilitas dari urutan et.
+1/30
+Dua huruf diambil tanpa pengganti dari aaauauauauuaauu. Beri probabilitas dari urutan au.
+4/15
+Berapa probabilitas dari urutan qu ketika dua huruf diambil tanpa pengganti dari byubybubybbbbbq?
+1/105
+Berapa probabilitas dari urutan vt ketika dua huruf diambil tanpa pengganti dari vt?
+1/2
+Berapa probabilitas dari urutan kvk ketika tiga huruf diambil tanpa pengganti dari nkwvnknkvnvknnnwnkw?
+10/969
+Empat huruf diambil tanpa pengganti dari mmmmmmmmmmmkmmmm. Berapa probabilitas urutan mmmk?
+1/16
+Empat huruf diambil tanpa pengganti dari pirpipnijpeee. Berapa probabilitas urutan jpii?
+1/715
+Tiga huruf diambil tanpa pengganti dari taaaaa. Berapa probabilitas urutan ata?
+1/6
+Berapa probabilitas dari urutan ffi ketika tiga huruf diambil tanpa pengganti dari mmggigittmifi?
+0
+Dua huruf diambil tanpa pengganti dari {i: 3, h: 5, k: 2, q: 4, v: 2}. Beri probabilitas dari urutan kh.
+1/24
+Tiga huruf diambil tanpa pengganti dari bbaaaabbbbbaaaa. Beri probabilitas dari urutan aba.
+28/195
+Hitung probabilitas dari urutan fztt ketika empat huruf diambil tanpa pengganti dari {v: 3, f: 1, q: 3, z: 1, g: 2, t: 4}.
+1/2002
+Empat huruf diambil tanpa pengganti dari {c: 2, e: 2, z: 6}. Berapa probabilitas urutan zcze?
+1/42
+Tiga huruf diambil tanpa pengganti dari {d: 1, l: 1, r: 1, f: 1, c: 1, s: 1}. Berapa probabilitas urutan cdl?
+1/120
+Empat huruf diambil tanpa pengganti dari {c: 1, v: 5, x: 2, y: 5, j: 2}. Berapa probabilitas urutan yvjj?
+5/3276
+Berapa probabilitas dari urutan wwoo ketika empat huruf diambil tanpa pengganti dari wwwwwwwwwwowwo?
+1/91
+Empat huruf diambil tanpa pengganti dari {t: 1, j: 4, e: 1, s: 2, i: 1, l: 1}. Berapa probabilitas urutan tlsi?
+1/2520
+Berapa probabilitas dari urutan bm ketika dua huruf diambil tanpa pengganti dari {h: 1, a: 1, w: 2, b: 1, p: 5, m: 2}?
+1/66
+Tiga huruf diambil tanpa pengganti dari {d: 1, e: 1, a: 6, h: 4}. Berapa probabilitas urutan hee?
+0
+Tiga huruf diambil tanpa pengganti dari {r: 6, i: 2, x: 7, e: 1, l: 1, q: 3}. Berapa probabilitas urutan erq?
+1/380
+Hitung probabilitas dari urutan isf ketika tiga huruf diambil tanpa pengganti dari {c: 1, f: 1, s: 1, o: 1, i: 1, m: 3}.
+1/336
+Berapa probabilitas dari urutan qy ketika dua huruf diambil tanpa pengganti dari {q: 4, d: 2, y: 4, w: 3}?
+4/39
+Dua huruf diambil tanpa pengganti dari oooooeeooze. Beri probabilitas dari urutan oe.
+21/110
+Hitung probabilitas dari urutan par ketika tiga huruf diambil tanpa pengganti dari {p: 2, w: 3, a: 1, r: 2, g: 3}.
+2/495
+Tiga huruf diambil tanpa pengganti dari pemese. Berapa probabilitas urutan pes?
+1/40
+Empat huruf diambil tanpa pengganti dari swzwssszsf. Berapa probabilitas urutan zwss?
+1/63
+Berapa probabilitas dari urutan sk ketika dua huruf diambil tanpa pengganti dari {k: 1, s: 1}?
+1/2
+Hitung probabilitas dari urutan iv ketika dua huruf diambil tanpa pengganti dari xissxxixivixisiii.
+1/34
+Tiga huruf diambil tanpa pengganti dari {z: 4, k: 5}. Berapa probabilitas urutan kkk?
+5/42
+Tiga huruf diambil tanpa pengganti dari biiiiiibiiiiii. Berapa probabilitas urutan bii?
+11/91
+Hitung probabilitas dari urutan ooo ketika tiga huruf diambil tanpa pengganti dari popoppptop.
+1/120
+Dua huruf diambil tanpa pengganti dari {k: 7, z: 4, w: 1}. Berapa probabilitas urutan kz?
+7/33
+Dua huruf diambil tanpa pengganti dari alaplmaagaaalmap. Berapa probabilitas urutan pa?
+1/15
+Dua huruf diambil tanpa pengganti dari jljjljllljjcjkk. Berapa probabilitas urutan kc?
+1/105
+Dua huruf diambil tanpa pengganti dari nndnn. Berapa probabilitas urutan nd?
+1/5
+Dua huruf diambil tanpa pengganti dari aynitiyainy. Berapa probabilitas urutan ni?
+3/55
+Tiga huruf diambil tanpa pengganti dari iiiiiiiiifiiifmvii. Berapa probabilitas urutan vii?
+91/2448
+Hitung probabilitas dari urutan bw ketika dua huruf diambil tanpa pengganti dari waacatbc.
+1/56
+Tiga huruf diambil tanpa pengganti dari eeteeetteeeeeeeataa. Berapa probabilitas urutan eta?
+8/323
+Dua huruf diambil tanpa pengganti dari {z: 3, d: 1, w: 2, h: 5, c: 3}. Beri probabilitas dari urutan hh.
+10/91
+Dua huruf diambil tanpa pengganti dari adttvnndtvd. Beri probabilitas dari urutan tn.
+3/55
+Hitung probabilitas dari urutan njw ketika tiga huruf diambil tanpa pengganti dari wynnsynjjjnynhjs.
+1/168
+Dua huruf diambil tanpa pengganti dari lswduwmumuu. Berapa probabilitas urutan uu?
+6/55
+Berapa probabilitas dari urutan gtw ketika tiga huruf diambil tanpa pengganti dari wwwewwgetegtegwgw?
+7/510
+Dua huruf diambil tanpa pengganti dari yayyyy. Beri probabilitas dari urutan ya.
+1/6
+Tiga huruf diambil tanpa pengganti dari {e: 9, r: 1, k: 2}. Beri probabilitas dari urutan ekr.
+3/220
+Hitung probabilitas dari urutan tgu ketika tiga huruf diambil tanpa pengganti dari {m: 5, u: 1, t: 3, g: 2}.
+1/165
+Dua huruf diambil tanpa pengganti dari {p: 5, z: 2, j: 1}. Berapa probabilitas urutan jz?
+1/28
+Empat huruf diambil tanpa pengganti dari hbhhhbbhhxbhhi. Beri probabilitas dari urutan hihb.
+4/429
+Hitung probabilitas dari urutan sjes ketika empat huruf diambil tanpa pengganti dari {e: 2, s: 2, r: 1, j: 3}.
+1/140
+Berapa probabilitas dari urutan mjm ketika tiga huruf diambil tanpa pengganti dari zzmhrhzrmzzrzjmz?
+1/560
+Hitung probabilitas dari urutan aqsx ketika empat huruf diambil tanpa pengganti dari xxaxpxxqxsqx.
+7/5940
+Tiga huruf diambil tanpa pengganti dari wwpppwetlp. Berapa probabilitas urutan lpe?
+1/180
+Tiga huruf diambil tanpa pengganti dari {i: 8, n: 4, l: 3}. Berapa probabilitas urutan nnn?
+4/455
+Empat huruf diambil tanpa pengganti dari ymiriyddi. Berapa probabilitas urutan iydi?
+1/126
+Tiga huruf diambil tanpa pengganti dari yxtyxxtxxxytxytttx. Berapa probabilitas urutan xxy?
+7/153
+Tiga huruf diambil tanpa pengganti dari gggxxgggxxgxgggx. Beri probabilitas dari urutan ggg.
+3/14
+Empat huruf diambil tanpa pengganti dari mybbmbbymzyzmmz. Beri probabilitas dari urutan ybyz.
+1/455
+Berapa probabilitas dari urutan kan ketika tiga huruf diambil tanpa pengganti dari {a: 14, n: 4, k: 1, w: 1}?
+7/855
+Dua huruf diambil tanpa pengganti dari jsksjnnjsssss. Berapa probabilitas urutan jn?
+1/26
+Empat huruf diambil tanpa pengganti dari wwwctwwswwwstwwwwt. Beri probabilitas dari urutan wtss.
+1/1020
+Tiga huruf diambil tanpa pengganti dari {s: 3, u: 1, y: 1, k: 1, j: 7, x: 4}. Berapa probabilitas urutan uys?
+1/1360
+Berapa probabilitas dari urutan jj ketika dua huruf diambil tanpa pengganti dari {g: 7, j: 10}?
+45/136
+Berapa probabilitas dari urutan wt ketika dua huruf diambil tanpa pengganti dari {w: 11, t: 6}?
+33/136
+Dua huruf diambil tanpa pengganti dari aylpakplyklalpa. Beri probabilitas dari urutan kp.
+1/35
+Tiga huruf diambil tanpa pengganti dari aaaaaaaa. Berapa probabilitas urutan aaa?
+1
+Berapa probabilitas dari urutan wdv ketika tiga huruf diambil tanpa pengganti dari {d: 5, w: 4, v: 2, x: 1}?
+1/33
+Tiga huruf diambil tanpa pengganti dari epeeeedeeeeeweepewew. Berapa probabilitas urutan wpe?
+7/570
+Tiga huruf diambil tanpa pengganti dari exqqxeuxxixee. Berapa probabilitas urutan xeu?
+5/429
+Tiga huruf diambil tanpa pengganti dari {z: 3, a: 4, r: 4, c: 1, s: 1, l: 3}. Beri probabilitas dari urutan lcr.
+1/280
+Hitung probabilitas dari urutan cxc ketika tiga huruf diambil tanpa pengganti dari {u: 2, d: 4, e: 1, x: 1, m: 3, c: 3}.
+1/364
+Tiga huruf diambil tanpa pengganti dari mfeeveeenenex. Beri probabilitas dari urutan mfv.
+1/1716
+Berapa probabilitas dari urutan ttt ketika tiga huruf diambil tanpa pengganti dari {t: 1, v: 8, b: 2, d: 1}?
+0
+Empat huruf diambil tanpa pengganti dari {l: 3, v: 5, i: 7}. Berapa probabilitas urutan illv?
+1/156
+Hitung probabilitas dari urutan xgxx ketika empat huruf diambil tanpa pengganti dari {i: 3, x: 15, g: 1}.
+455/15504
+Tiga huruf diambil tanpa pengganti dari ymysdddyui. Berapa probabilitas urutan dds?
+1/120
+Tiga huruf diambil tanpa pengganti dari {l: 1, h: 1, b: 1, t: 3}. Berapa probabilitas urutan tth?
+1/20
+Berapa probabilitas dari urutan ni ketika dua huruf diambil tanpa pengganti dari {n: 1, i: 1, c: 7, s: 1, a: 1}?
+1/110
+Dua huruf diambil tanpa pengganti dari {j: 10, d: 2, u: 1, b: 6}. Beri probabilitas dari urutan ju.
+5/171
+Berapa probabilitas dari urutan bmjn ketika empat huruf diambil tanpa pengganti dari vbvvvmnbjvmvnmvv?
+1/3640
+Empat huruf diambil tanpa pengganti dari xcchxcxxxxxpxcxxhc. Beri probabilitas dari urutan xhxh.
+1/408
+Hitung probabilitas dari urutan ywb ketika tiga huruf diambil tanpa pengganti dari ybwwybawbbbwwabyw.
+9/340
+Empat huruf diambil tanpa pengganti dari {b: 10, r: 2, m: 7}. Beri probabilitas dari urutan mbmb.
+105/2584
+Berapa probabilitas dari urutan hpup ketika empat huruf diambil tanpa pengganti dari unhthnthhnnmnpmp?
+1/5460
+Berapa probabilitas dari urutan cj ketika dua huruf diambil tanpa pengganti dari cjccvanajvb?
+3/55
+Berapa probabilitas dari urutan phhh ketika empat huruf diambil tanpa pengganti dari {a: 5, k: 2, h: 5, p: 2, x: 6}?
+1/969
+Hitung probabilitas dari urutan kza ketika tiga huruf diambil tanpa pengganti dari ziiazkzziakzkzik.
+1/70
+Dua huruf diambil tanpa pengganti dari {i: 1, m: 6, x: 2, y: 3, o: 2, l: 2}. Beri probabilitas dari urutan yi.
+1/80
+Empat huruf diambil tanpa pengganti dari {l: 2, n: 2, e: 2, d: 3, j: 1}. Beri probabilitas dari urutan djen.
+1/420
+Empat huruf diambil tanpa pengganti dari {l: 1, w: 1, e: 3, i: 2, q: 1}. Beri probabilitas dari urutan eilw.
+1/280
+Berapa probabilitas dari urutan ki ketika dua huruf diambil tanpa pengganti dari ilkizyiski?
+4/45
+Berapa probabilitas dari urutan pk ketika dua huruf diambil tanpa pengganti dari ollllpkolltlol?
+1/182
+Hitung probabilitas dari urutan lqn ketika tiga huruf diambil tanpa pengganti dari nnqqnqqqeqlwqqwqxqee.
+1/228
+Dua huruf diambil tanpa pengganti dari hyflfvlfufuyu. Beri probabilitas dari urutan hu.
+1/52
+Berapa probabilitas dari urutan vbwb ketika empat huruf diambil tanpa pengganti dari bvbbvbvvw?
+1/63
+Dua huruf diambil tanpa pengganti dari {f: 3, k: 1, i: 1, t: 4, r: 1}. Beri probabilitas dari urutan it.
+2/45
+Berapa probabilitas dari urutan llt ketika tiga huruf diambil tanpa pengganti dari {t: 8, m: 3, s: 1, e: 1, l: 5}?
+5/153
+Dua huruf diambil tanpa pengganti dari {q: 2, j: 1, d: 1, h: 1, e: 3}. Berapa probabilitas urutan qd?
+1/28
+Dua huruf diambil tanpa pengganti dari {d: 2, m: 2, t: 3, f: 2, r: 3, l: 1}. Berapa probabilitas urutan dd?
+1/78
+Berapa probabilitas dari urutan rr ketika dua huruf diambil tanpa pengganti dari {r: 10, s: 2, y: 1}?
+15/26
+Tiga huruf diambil tanpa pengganti dari totfftttoto. Beri probabilitas dari urutan oft.
+2/55
+Berapa probabilitas dari urutan ytzk ketika empat huruf diambil tanpa pengganti dari {t: 2, y: 3, z: 3, k: 6}?
+9/2002
+Berapa probabilitas dari urutan nf ketika dua huruf diambil tanpa pengganti dari wwfwfffwfnwwwffffw?
+1/34
+Empat huruf diambil tanpa pengganti dari joqvvvowqovovoovxoq. Berapa probabilitas urutan ooow?
+35/15504
+Hitung probabilitas dari urutan wgll ketika empat huruf diambil tanpa pengganti dari {u: 2, f: 1, g: 2, l: 2, w: 4, r: 7}.
+1/4590
+Empat huruf diambil tanpa pengganti dari {t: 3, i: 2, v: 2}. Berapa probabilitas urutan ttvt?
+1/70
+Hitung probabilitas dari urutan umum ketika empat huruf diambil tanpa pengganti dari mmuummummumuummm.
+45/728
+Empat huruf diambil tanpa pengganti dari dllgdddgdlddlddddddd. Beri probabilitas dari urutan llld.
+14/4845
+Berapa probabilitas dari urutan jjj ketika tiga huruf diambil tanpa pengganti dari {c: 4, j: 11}?
+33/91
+Hitung probabilitas dari urutan mq ketika dua huruf diambil tanpa pengganti dari {s: 3, o: 1, q: 1, t: 1, m: 4}.
+2/45
+Dua huruf diambil tanpa pengganti dari yyyyyyoooyiaayy. Berapa probabilitas urutan oa?
+1/35
+Hitung probabilitas dari urutan io ketika dua huruf diambil tanpa pengganti dari {a: 1, o: 9, i: 6}.
+9/40
+Dua huruf diambil tanpa pengganti dari umjjvejvmuujjf. Beri probabilitas dari urutan vf.
+1/91
+Empat huruf diambil tanpa pengganti dari {o: 3, g: 2, a: 2, e: 2, u: 1, f: 8}. Beri probabilitas dari urutan feof.
+7/1530
+Dua huruf diambil tanpa pengganti dari {j: 1, p: 6, x: 3}. Berapa probabilitas urutan xj?
+1/30
+Empat huruf diambil tanpa pengganti dari {x: 2, v: 6, u: 7, c: 2}. Berapa probabilitas urutan vxux?
+1/680
+Berapa probabilitas dari urutan ndz ketika tiga huruf diambil tanpa pengganti dari qdrnnznozz?
+1/80
+Dua huruf diambil tanpa pengganti dari cwcwcccwccwc. Beri probabilitas dari urutan cc.
+14/33
+Tiga huruf diambil tanpa pengganti dari {h: 8, n: 2, z: 6}. Beri probabilitas dari urutan nnh.
+1/210
+Berapa probabilitas dari urutan gxe ketika tiga huruf diambil tanpa pengganti dari {x: 8, b: 8, g: 2, e: 2}?
+4/855
+Hitung probabilitas dari urutan fkf ketika tiga huruf diambil tanpa pengganti dari fndknknfffdxp.
+2/143
+Empat huruf diambil tanpa pengganti dari gappgaqpdgagvpqgg. Berapa probabilitas urutan gaad?
+3/4760
+Hitung probabilitas dari urutan nqqq ketika empat huruf diambil tanpa pengganti dari {q: 9, n: 6}.
+6/65
+Berapa probabilitas dari urutan fsp ketika tiga huruf diambil tanpa pengganti dari gtsgtftnp?
+1/504
+Dua huruf diambil tanpa pengganti dari {o: 3, r: 1, z: 8}. Berapa probabilitas urutan zo?
+2/11
+Berapa probabilitas dari urutan slgl ketika empat huruf diambil tanpa pengganti dari gggsgllggllll?
+3/286
+Tiga huruf diambil tanpa pengganti dari ytaggtgaaatggaayagt. Berapa probabilitas urutan ytg?
+8/969
+Empat huruf diambil tanpa pengganti dari mjjjjmjjmjmgmmm. Beri probabilitas dari urutan jjgj.
+1/156
+Berapa probabilitas dari urutan bd ketika dua huruf diambil tanpa pengganti dari {v: 6, k: 1, b: 1, d: 6}?
+3/91
+Tiga huruf diambil tanpa pengganti dari uzzejzzezjezezzeezzz. Berapa probabilitas urutan zee?
+11/228
+Berapa probabilitas dari urutan sk ketika dua huruf diambil tanpa pengganti dari {c: 4, s: 5, d: 3, k: 3, a: 1}?
+1/16
+Berapa probabilitas dari urutan nd ketika dua huruf diambil tanpa pengganti dari ndddnnndddndnndddn?
+40/153
+Berapa probabilitas dari urutan jjj ketika tiga huruf diambil tanpa pengganti dari bjjbjbjbbjjbbbbbbbjb?
+7/228
+Dua huruf diambil tanpa pengganti dari ffjulunnzlululjuuz. Berapa probabilitas urutan lz?
+4/153
+Tiga huruf diambil tanpa pengganti dari {r: 8, u: 3, f: 1, h: 2}. Berapa probabilitas urutan frh?
+2/273
+Berapa probabilitas dari urutan amm ketika tiga huruf diambil tanpa pengganti dari aaaaamaamka?
+8/495
+Tiga huruf diambil tanpa pengganti dari {r: 10, c: 1}. Beri probabilitas dari urutan rrr.
+8/11
+Empat huruf diambil tanpa pengganti dari {t: 7, b: 8}. Berapa probabilitas urutan tbbt?
+14/195
+Empat huruf diambil tanpa pengganti dari susuzuuuuzuuaus. Berapa probabilitas urutan uzuz?
+2/455
+Hitung probabilitas dari urutan qqqr ketika empat huruf diambil tanpa pengganti dari zqqrrrghrtrzrqqqrr.
+1/153
+Tiga huruf diambil tanpa pengganti dari ssscss. Beri probabilitas dari urutan sss.
+1/2
+Berapa probabilitas dari urutan jgjg ketika empat huruf diambil tanpa pengganti dari {c: 2, r: 4, g: 9, d: 3, j: 2}?
+2/1615
+Empat huruf diambil tanpa pengganti dari quuqqqqqqquqqqqqqqq. Beri probabilitas dari urutan qquq.
+35/323
+Dua huruf diambil tanpa pengganti dari ubmhbvmbvk. Berapa probabilitas urutan uk?
+1/90
+Empat huruf diambil tanpa pengganti dari {r: 1, x: 1, z: 4, l: 1}. Berapa probabilitas urutan lzxr?
+1/210
+Berapa probabilitas dari urutan id ketika dua huruf diambil tanpa pengganti dari {i: 7, d: 3, o: 7}?
+21/272
+Hitung probabilitas dari urutan bi ketika dua huruf diambil tanpa pengganti dari {x: 6, i: 5, b: 5, w: 3}.
+25/342
+Hitung probabilitas dari urutan tnq ketika tiga huruf diambil tanpa pengganti dari {l: 3, t: 3, n: 1, q: 12}.
+2/323
+Dua huruf diambil tanpa pengganti dari {q: 5, b: 6, a: 1, i: 5, j: 1, h: 1}. Berapa probabilitas urutan ah?
+1/342
+Berapa probabilitas dari urutan ddgw ketika empat huruf diambil tanpa pengganti dari dguwuldkgluddldddgdg?
+28/14535
+Berapa probabilitas dari urutan jj ketika dua huruf diambil tanpa pengganti dari jjjjjjnjnjjjn?
+15/26
+Dua huruf diambil tanpa pengganti dari {r: 3, s: 3, m: 4}. Beri probabilitas dari urutan ms.
+2/15
+Dua huruf diambil tanpa pengganti dari {s: 16, f: 1, j: 2}. Beri probabilitas dari urutan ss.
+40/57
+Tiga huruf diambil tanpa pengganti dari beblmbcefeb. Beri probabilitas dari urutan eem.
+1/165
+Tiga huruf diambil tanpa pengganti dari {m: 4, i: 8, r: 1, c: 6}. Berapa probabilitas urutan rmc?
+4/969
+Hitung probabilitas dari urutan svv ketika tiga huruf diambil tanpa pengganti dari {v: 6, g: 8, s: 1, d: 2}.
+1/136
+Tiga huruf diambil tanpa pengganti dari avvvv. Beri probabilitas dari urutan vav.
+1/5
+Dua huruf diambil tanpa pengganti dari noknoguwuw. Beri probabilitas dari urutan wg.
+1/45
+Empat huruf diambil tanpa pengganti dari trxeeeeejtteeeettt. Berapa probabilitas urutan teee?
+7/170
+Berapa probabilitas dari urutan ttdt ketika empat huruf diambil tanpa pengganti dari {s: 5, w: 6, o: 1, t: 4, d: 2}?
+1/1530
+Tiga huruf diambil tanpa pengganti dari vxtxxv. Berapa probabilitas urutan vxt?
+1/20

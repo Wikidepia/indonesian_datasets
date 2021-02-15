@@ -1,0 +1,666 @@
+Sederhanakan ((-4*(sqrt(84)*3 + sqrt(84)) + sqrt(84))/(-3*sqrt(300)))**2 + -4*(-5 + (0 + sqrt(700) - sqrt(700))**2 + sqrt(700))*-3.
+-53 + 120*sqrt(7)
+Sederhanakan 3 + (-4*(-4 + 2 + sqrt(243)) - ((sqrt(243) + 1)*5 - 4*2*sqrt(243)))**2*3.
+759 - 162*sqrt(3)
+Sederhanakan (((-3*sqrt(2673) - sqrt(2673) - sqrt(2673))*-2 - sqrt(2673))/(-5*sqrt(432)*1))**2 + 1.
+8419/400
+Sederhanakan -2*sqrt(11)*3 + 6*sqrt(275) + (sqrt(275) - (sqrt(275) - -5*3*sqrt(275))**2)*-2.
+14*sqrt(11) + 140800
+Sederhanakan (4 + (2*(sqrt(224) - 2*sqrt(224) - sqrt(14)))/(((sqrt(70) + sqrt(70) + sqrt(70)*-1)*3)/sqrt(10))*-5)**2*1.
+400*sqrt(2)/3 + 5144/9
+Sederhanakan -4*((1 + 2 + sqrt(468) - (4 + sqrt(468) + sqrt(468)*1)) + (-2*sqrt(1300) + 3 - (-1 + sqrt(1300) + 0))).
+-12 + 144*sqrt(13)
+Sederhanakan (sqrt(130)*1*-5 + (sqrt(130) - (-3*sqrt(130) + sqrt(130))*2) + sqrt(130))/(sqrt(20)/(-2*sqrt(8))*-5)*-6.
+-24*sqrt(13)/5
+Sederhanakan ((6*(sqrt(343) + 1)*-6)**2 - (-6*(sqrt(70) + sqrt(70)*-1))/(sqrt(250) + 1*sqrt(250) - sqrt(10))) + -5.
+18144*sqrt(7) + 445819
+Sederhanakan sqrt(5) + (sqrt(320)*2 - sqrt(5))**2 + ((1*sqrt(55))/sqrt(11) + sqrt(5))**2 + 2 + (-5 + sqrt(5))*-2 + sqrt(60)/(sqrt(12)*-4).
+1157 - 5*sqrt(5)/4
+Sederhanakan (sqrt(312)/(sqrt(96)*1 + sqrt(96))*5)/((sqrt(2304)*2)/(sqrt(54)/(sqrt(18)/sqrt(3)))).
+5*sqrt(13)/128
+Sederhanakan -4*(3*(-6*((1 + sqrt(243))*3 + -5*(sqrt(243) - (sqrt(243) + 0))))**2 + 3).
+-948684 - 69984*sqrt(3)
+Sederhanakan ((5*sqrt(78)*-2)/(1*sqrt(6)*-2 + sqrt(6) - sqrt(6)))**2 - (-6*sqrt(208) + 4 - 1*sqrt(130)/sqrt(90)).
+73*sqrt(13)/3 + 321
+Sederhanakan ((-5 + 1 + sqrt(500) + sqrt(500) - sqrt(500))**2 + 2 - (5*(sqrt(605) + sqrt(605) + 1 + -1 + sqrt(605)))**2)*1.
+-135607 - 80*sqrt(5)
+Sederhanakan (sqrt(30)/(sqrt(10)*-2) - sqrt(3) - 4*sqrt(3)*-3)**2*5 - -6*(sqrt(363) - 5*2*sqrt(363) - (sqrt(363) + 0 + -5)).
+6735/4 - 660*sqrt(3)
+Sederhanakan (-4 + (2*sqrt(34))/sqrt(2) + (-1*sqrt(85))/sqrt(5) + sqrt(17) + 6*(sqrt(102) - -1*sqrt(102) - sqrt(102))/sqrt(6) + 3)**2.
+1089 - 16*sqrt(17)
+Sederhanakan -5 + 1 + ((-2*(1*sqrt(180) - sqrt(180)) - (sqrt(180) + sqrt(180) + sqrt(180)*-2 + -4)) + 4 + 1)**2.
+77
+Sederhanakan (-2*(-5 + sqrt(768)*-6 + -2)*5*2)**2.
+537600*sqrt(3) + 11078800
+Sederhanakan (-6*3*4*(-1 + sqrt(1573) + sqrt(1573) + sqrt(1573) + -1)*-3)**2 + -1.
+660695615 - 6158592*sqrt(13)
+Sederhanakan (-1*-3*2*sqrt(4617))/((-1*sqrt(768) - sqrt(12))/sqrt(4)*-3).
+2*sqrt(19)
+Sederhanakan (5*((sqrt(420)/(sqrt(10)*-1))/(3*sqrt(24)/sqrt(4)) + -3)**2 + 4)*-4.
+-1904/9 - 40*sqrt(7)
+Sederhanakan 6*(-1 + (4 + sqrt(1872)*5*-5*-6)**2).
+86400*sqrt(13) + 252720090
+Sederhanakan (5 + -5 + 2 + (sqrt(112) + (sqrt(112)*4 + 2 - sqrt(112) - sqrt(112)))**2*-2 + 1)*-3.
+288*sqrt(7) + 6063
+Sederhanakan (2*sqrt(228)*2 - sqrt(228))/(3*sqrt(192)) + (((-3*sqrt(171) + sqrt(171) - sqrt(171))*-5)/(sqrt(144)*3))**2.
+sqrt(19)/4 + 475/16
+Sederhanakan -4*(sqrt(12) + sqrt(96)/sqrt(72))**2 - (((sqrt(18) + sqrt(54)/sqrt(3))*-2)/sqrt(6) + -5).
+-241/3 + 4*sqrt(3)
+Sederhanakan (sqrt(882) + -5*1*sqrt(882) - -2*sqrt(882)*-2)/(((-1*(sqrt(81) - sqrt(9)) - sqrt(9)) + -3*sqrt(36)/sqrt(4))*3).
+28*sqrt(2)/9
+Sederhanakan (sqrt(275)/sqrt(176))/(sqrt(605) - (sqrt(605)*-2 - sqrt(605) - sqrt(605))) + (-3*sqrt(125))**2*1 + 0.
+sqrt(5)/220 + 1125
+Sederhanakan ((-1*(sqrt(612) - (0 + sqrt(612))) + sqrt(17) + 2 + -2 + -4)*-1*3)**2.
+297 - 72*sqrt(17)
+Sederhanakan (-4*((sqrt(77) - sqrt(77)*-2) + sqrt(77)))/(sqrt(567)*1) + ((sqrt(44)*1)/sqrt(4) - -2*sqrt(176))*-1.
+-97*sqrt(11)/9
+Sederhanakan (2 + (-4*(6*1*sqrt(68))**2 - (4 + sqrt(68) + 2 + -2)**2))*2.
+-19748 - 32*sqrt(17)
+Sederhanakan (-5*6*(sqrt(3564) + (2*sqrt(3564) - sqrt(3564)) + 1 + sqrt(3564)) - (-2 + -4*sqrt(3564)*-2 + -4))**2.
+84672*sqrt(11) + 34229232
+Sederhanakan ((5*(sqrt(2401)*2 + ((sqrt(1764) - sqrt(1764)*1) + sqrt(49) - sqrt(49) - sqrt(49))))/(sqrt(847)*3*6*5))**2.
+1183/39204
+Sederhanakan (1 + (sqrt(1216) - ((sqrt(1216) + sqrt(1216) + 1*sqrt(1216) - sqrt(1216)) + 1 - sqrt(1216)))*6 + (-5 + sqrt(1216) + sqrt(1216)*3 + 1)*-5)**2.
+486625 - 4800*sqrt(19)
+Sederhanakan (sqrt(8208) + -3*sqrt(8208) + sqrt(57)*-4*6)/(5*(sqrt(75) - -2*sqrt(75)*4)).
+-16*sqrt(19)/75
+Sederhanakan -4 + sqrt(242) + (3*sqrt(242))**2 + -5 + -4 - (-2*2*-3*sqrt(242)*-6)**2.
+-1252363 + 11*sqrt(2)
+Sederhanakan ((3*sqrt(200) + sqrt(200) - sqrt(200) - sqrt(200) - (-2 + sqrt(2))*4) + ((sqrt(14) + (sqrt(686) - sqrt(14)))/sqrt(7) - (sqrt(2) + -2)*1))**2.
+440*sqrt(2) + 1068
+Sederhanakan sqrt(5)*-5 + 3 + 5*2*sqrt(5) + ((sqrt(120) - (-2*sqrt(120) + sqrt(120)) - sqrt(120))/sqrt(8))/(sqrt(75)*2).
+3 + 51*sqrt(5)/10
+Sederhanakan (3*(-2 + sqrt(200) + -5*(sqrt(200) + 0 - sqrt(200)) + 1 + (-3 + sqrt(128) + 1)*-1))**2.
+36*sqrt(2) + 81
+Sederhanakan (-2*-2*sqrt(288)*6)**2 - ((-3 + sqrt(162) + -1 + sqrt(162) - sqrt(162))**2 - ((1 + sqrt(162))*1)**2).
+90*sqrt(2) + 165873
+Sederhanakan (sqrt(5040) + -3*sqrt(5040) + sqrt(385)/(sqrt(11) - (sqrt(99) - sqrt(11))) + sqrt(35))/(-4*-1*sqrt(720))*3.
+-3*sqrt(7)/2
+Sederhanakan 6*(-3 + sqrt(1100) + -2*(sqrt(1100)*-2)**2 - (-2 + sqrt(1100)*-1 + (-1 + sqrt(1100) + -3 - sqrt(1100))**2))*5.
+-264510 + 600*sqrt(11)
+Sederhanakan (0 + -1 + sqrt(425))**2*-3 - (sqrt(1377) + -2 + sqrt(1377) + 2 + sqrt(1377))**2*4.
+-50850 + 30*sqrt(17)
+Sederhanakan (sqrt(441)/((sqrt(9) + sqrt(441))*5))/(-3*sqrt(28)*-5).
+sqrt(7)/1200
+Sederhanakan ((sqrt(1600) + sqrt(1600)*-1 + 5*sqrt(16)*2)/(2*sqrt(18)*-6*-6))**2.
+25/1458
+Sederhanakan (sqrt(66)*4 + sqrt(66))/sqrt(6) + (3*sqrt(11))**2 + 5 - ((sqrt(539) + 4 + sqrt(539))**2 + sqrt(11) - 4*(3*sqrt(11) - sqrt(11))).
+-2068 - 100*sqrt(11)
+Sederhanakan (-3*(sqrt(243) + -1))**2 - (-3 + (sqrt(324)*5)/sqrt(12))**2.
+1512 - 72*sqrt(3)
+Sederhanakan 3*(sqrt(392) + (sqrt(392)*-2*6 - sqrt(392)))/(sqrt(48)/(sqrt(768)*1)).
+-2016*sqrt(2)
+Sederhanakan ((sqrt(160)*1 + sqrt(160) - sqrt(160))*-5 - 1*sqrt(160)*-5)/(4*sqrt(10)/sqrt(5) - sqrt(200)*3).
+0
+Sederhanakan -6*(sqrt(19) + 0 + sqrt(19) + 3 - -2*sqrt(304)) + ((sqrt(171) - (sqrt(171) + 2*1*sqrt(171)))/(sqrt(576)*-1))**2.
+-60*sqrt(19) - 269/16
+Sederhanakan (6*sqrt(540)*-3)/(sqrt(147) - 3*(sqrt(147) + sqrt(147) + (sqrt(147) - ((sqrt(147) - (sqrt(147) - -3*sqrt(147))) + sqrt(147)))))*1.
+54*sqrt(5)/49
+Sederhanakan (-1*sqrt(187)*-2 - sqrt(187)*3*1)/((sqrt(22) - (sqrt(2662)*2 + sqrt(2662)))/(sqrt(2) - (sqrt(6)*-1)/sqrt(3))).
+sqrt(17)/16
+Sederhanakan (-5 + -6*-3*(4*-1*(sqrt(200) + 1) - 1*((-1 + sqrt(200) - sqrt(200)) + sqrt(200))*6))**2.
+6480961 - 111600*sqrt(2)
+Sederhanakan 2*(sqrt(13) + -6*sqrt(13)*-3) + -4 + ((((sqrt(78) - (sqrt(78) + sqrt(78)*-3)) + sqrt(78) - sqrt(78))*2)/(sqrt(108)/sqrt(2)))**2.
+48 + 38*sqrt(13)
+Sederhanakan ((-1*sqrt(660))/sqrt(12) - (sqrt(6655) + sqrt(6655)*2))/(4*3*sqrt(11) + sqrt(1100)*3) + -1.
+-17*sqrt(5)/21 - 1
+Sederhanakan (4 + (4 + sqrt(42)/sqrt(6))*-5 + (sqrt(7) - ((sqrt(112))**2 + 1)) + 0 + -1 + sqrt(7))*-5.
+15*sqrt(7) + 650
+Sederhanakan 4*6*(sqrt(209) + sqrt(209)*4*2)/((sqrt(11) - sqrt(11)*-3)*-6)*1.
+-9*sqrt(19)
+Sederhanakan ((sqrt(65) - sqrt(65)*2*-5)*-2*2)/((sqrt(50)*-1*-4)/(sqrt(10) - (sqrt(10) + (2*sqrt(30))/sqrt(3)))).
+22*sqrt(13)
+Sederhanakan sqrt(128)*1 - (-1*sqrt(2) + 4)**2 - ((-2*sqrt(70))/sqrt(7))/(1*sqrt(405)).
+-18 + 146*sqrt(2)/9
+Sederhanakan (-4*(3 + -6*(0 + (sqrt(363) - (sqrt(363) + (sqrt(363) - (-1 + sqrt(363)) - sqrt(363)) - sqrt(363))) + -2 + 0) + -1))**2.
+842752 - 84480*sqrt(3)
+Sederhanakan ((5 + (-1 + sqrt(180) + 2 - (sqrt(180) - (sqrt(180) - (sqrt(180)*1 - sqrt(180))))*-4 - (4 + (sqrt(180) + -1)*-5))*5)*-4)**2.
+2611600 - 201600*sqrt(5)
+Sederhanakan 0 + (-4*(-1 + sqrt(7) + -3)*1 - (2 + 5*(3*sqrt(448) - sqrt(7))**2)).
+-18501 - 4*sqrt(7)
+Sederhanakan 2 + -1 + -6*(-4 + (3 + ((-2*sqrt(171) - sqrt(171)) + 4 + sqrt(171) - sqrt(171)))**2) + -3.
+-9506 + 756*sqrt(19)
+Sederhanakan 1*(-1 + (sqrt(20) + sqrt(120)/sqrt(6) + sqrt(20))**2 + 2 + sqrt(125))*-2 + -5.
+-367 - 10*sqrt(5)
+Sederhanakan (1 + 1*sqrt(3) - ((sqrt(3) + -2 + 3 + sqrt(3))**2 + sqrt(3))) + sqrt(9)/(sqrt(3)*-1) + 6*sqrt(15)/sqrt(5).
+-12 + sqrt(3)
+Sederhanakan -4 + -5 + -6*(-4 + sqrt(1872) + -4 + -3)*4 + -4.
+251 - 288*sqrt(13)
+Sederhanakan ((sqrt(204) + sqrt(204) + sqrt(204)*-2)/(sqrt(27)*2))**2 - -4*6*((-3 + 0 + sqrt(272) + sqrt(272) - sqrt(272))**2 - sqrt(272)).
+6744 - 672*sqrt(17)
+Sederhanakan -3*(-4 + -3 + (sqrt(175) - (-1 + sqrt(175) + 0) - (-3 + (sqrt(175)*4 - sqrt(175))))**2).
+-4752 + 360*sqrt(7)
+Sederhanakan 4 + -2 + (-2 + sqrt(72) - sqrt(72) - sqrt(72))**2 + 0 + ((1 + sqrt(72) - sqrt(72)) + 3 + (1 + sqrt(72) + 1 - sqrt(72) - sqrt(72)))**2.
+186 - 48*sqrt(2)
+Sederhanakan 0 + (3*6*((-1*sqrt(108) + sqrt(108) + sqrt(108))/sqrt(9) + -4))**2.
+9072 - 5184*sqrt(3)
+Sederhanakan -4*((-6*(5*sqrt(120)*1)/sqrt(2))/(((2*sqrt(216) + sqrt(216))/sqrt(9))/(sqrt(98) - (2*sqrt(98) + sqrt(98)))))**2.
+-392000
+Sederhanakan ((sqrt(204) - (sqrt(204) - ((sqrt(204) - sqrt(204)*4*-2) + sqrt(204)))) + (sqrt(204)*1 - sqrt(204))*-2)/(sqrt(1452)*2*2 + -1*sqrt(1452)*-3).
+10*sqrt(17)/77
+Sederhanakan ((1 + sqrt(135)/sqrt(5) + 1*sqrt(243) - (1*sqrt(108)*-1 + 1 + sqrt(108) + 1))*3)**2.
+3897 - 216*sqrt(3)
+Sederhanakan (((sqrt(648)*-2 - sqrt(648)) + -3 + 3 + (sqrt(648) - (sqrt(648) + 2 + 0) - sqrt(648)) + 1 + sqrt(648) + -1 + sqrt(648) + sqrt(648))*4)**2.
+1152*sqrt(2) + 10432
+Sederhanakan -5*(-2 + ((1*sqrt(15) - sqrt(15))*-5 - 3*sqrt(60))/(sqrt(3) + (sqrt(243) - sqrt(243)*2) + sqrt(3)*2*-1)).
+10 - 3*sqrt(5)
+Sederhanakan -4*(-2*sqrt(363)*2 - (sqrt(363) + (sqrt(363) - 3*sqrt(363)*-1))) + 2.
+2 + 396*sqrt(3)
+Sederhanakan -4 + (-6*sqrt(40)/sqrt(2) - (sqrt(20)*-1 + -4)) + -1*(3*sqrt(20))**2 + 3*1*sqrt(20).
+-180 - 4*sqrt(5)
+Sederhanakan (sqrt(95)*-1)/sqrt(5) - (0 + sqrt(19))*-5 - (2 + (sqrt(76)/sqrt(2))/sqrt(2)) - (-2*(-6*sqrt(114)*-2)/sqrt(6))**2*-3.
+3*sqrt(19) + 32830
+Sederhanakan ((sqrt(220)*1 - sqrt(220))*6 - (sqrt(220) + (sqrt(220) - (1*sqrt(220) + sqrt(220)) - sqrt(220))*3 + sqrt(220)))/((sqrt(66)*2*-2)/(sqrt(24)*-1)).
+4*sqrt(5)
+Sederhanakan (-3 + (sqrt(320) - (sqrt(320) + 1 + sqrt(320) + sqrt(320)))**2 + 5*(sqrt(320) + (sqrt(320)*-4)**2))*-2*3.
+-161268 - 432*sqrt(5)
+Sederhanakan ((6*1*sqrt(342))/(-1*sqrt(24)/sqrt(4)))/(((sqrt(21)*1 + sqrt(21))*-2)/((sqrt(105)/sqrt(3))/sqrt(5))).
+3*sqrt(19)/2
+Sederhanakan ((sqrt(119) + sqrt(119) + sqrt(119)*-4 + sqrt(119) - sqrt(119))*2*1)/(sqrt(504)/sqrt(2)).
+-2*sqrt(17)/3
+Sederhanakan ((sqrt(2) + 0 + 3 + sqrt(242) + (sqrt(242) + 0 + sqrt(242) - sqrt(242)))*-1 - -5*(sqrt(2) + 1)*-2*3)*-4*3.
+396 + 636*sqrt(2)
+Sederhanakan (-2*sqrt(480)/sqrt(32))/(sqrt(36)/(sqrt(27) + sqrt(54)/sqrt(2)))*-3 + 3.
+3 + 18*sqrt(5)
+Sederhanakan (-2*sqrt(3744) + sqrt(234)/(-1*sqrt(9)))/((sqrt(128) + (sqrt(128) - (sqrt(128) - sqrt(128)*-1)) - (sqrt(40)/sqrt(2))/sqrt(10))*-6).
+-25*sqrt(13)/6
+Sederhanakan (sqrt(77)/(-1*sqrt(11)*1) + (sqrt(2058) - sqrt(2058)*-4 - sqrt(2058))/sqrt(6) + -1)**2.
+5104 - 54*sqrt(7)
+Sederhanakan (sqrt(66)/(sqrt(6) + sqrt(96)))**2 + (sqrt(539)*-4 - sqrt(539)) + sqrt(539) + (sqrt(66)*-5)/sqrt(6) + 4*sqrt(99).
+11/25 - 21*sqrt(11)
+Sederhanakan (sqrt(1088) + -5 - (sqrt(204)*6 - sqrt(204))/sqrt(12))**2 - (sqrt(833)*-6 - (sqrt(51) + sqrt(1836) - sqrt(51))/sqrt(3)).
+18*sqrt(17) + 178
+Sederhanakan 5*(4 + 3*(-2*(sqrt(1331) + -2) + sqrt(1331)*1*6 + sqrt(1331))**2 + -2)*-2.
+-998750 - 13200*sqrt(11)
+Sederhanakan ((sqrt(768)*-1 - sqrt(768))*-3 + -3*1*sqrt(768))/(-2*(sqrt(6) + (sqrt(42)/(sqrt(28)/sqrt(4)) - sqrt(6)) + (sqrt(66) + -1*sqrt(66))/sqrt(11))).
+-12*sqrt(2)
+Sederhanakan (5*sqrt(143)*-2)/(((sqrt(88) + 1*sqrt(88) - sqrt(88)) + sqrt(88))/sqrt(8) + sqrt(11)) + (-5 + sqrt(208) - (3 + sqrt(832))).
+-22*sqrt(13)/3 - 8
+Sederhanakan -2*sqrt(2736)*5*4 + sqrt(152)/(sqrt(648) + sqrt(8)) + -4 + -5.
+-4799*sqrt(19)/10 - 9
+Sederhanakan (-3*((sqrt(1078) + (sqrt(1078) - 1*sqrt(1078) - sqrt(1078)))*4)/(sqrt(6)/(sqrt(75) + (sqrt(75) - sqrt(75)*3))))**2 + -1.
+-1
+Sederhanakan (-5 + (4 + 1 + sqrt(720))*-6 + sqrt(720) + (-1*sqrt(720) - sqrt(720))*-2 + (4 + sqrt(720)*3 - sqrt(720)))**2*-4.
+-6724 + 2976*sqrt(5)
+Sederhanakan 6*-5*sqrt(252)*6 - (-4*(3*sqrt(252))**2 + -2).
+9074 - 1080*sqrt(7)
+Sederhanakan ((sqrt(76) + -3*-1*sqrt(76))*-3*-3)/(sqrt(4)*-3*3 - sqrt(44)/(sqrt(11) + sqrt(275))).
+-216*sqrt(19)/55
+Sederhanakan ((sqrt(132)*1 - (2*sqrt(4752) + sqrt(4752)))*-4)/((sqrt(1331) - 2*sqrt(1331)*-3) + (sqrt(1331)*-2 + sqrt(1331))*-6).
+136*sqrt(3)/143
+Sederhanakan -3*(sqrt(65)/((sqrt(35)/(sqrt(7)*-4) + sqrt(5) - sqrt(5)) + sqrt(5)))**2 - ((sqrt(130)/((3*sqrt(70))/sqrt(7)))**2 + 3).
+-664/9
+Sederhanakan -4 + (sqrt(468) + sqrt(468) + sqrt(468)*-1 + sqrt(468) - ((1 + sqrt(13))*4 + sqrt(13)))**2 - (sqrt(130)/(1*sqrt(10)) - (1*sqrt(91))/sqrt(7))**2*-4.
+649 - 56*sqrt(13)
+Sederhanakan -1*(4 + -1*sqrt(243) + 5 + sqrt(192)*-3*-2) + -4.
+-39*sqrt(3) - 13
+Sederhanakan (2 + sqrt(176) + 1 + sqrt(176) - ((sqrt(176) - (sqrt(176) + 2)) + 0)) + ((-3*sqrt(176)*-1 - sqrt(176))*5)**2.
+8*sqrt(11) + 17605
+Sederhanakan (-5 + -4 + (-3 + sqrt(320) + 4 - (5 + 2*sqrt(320) - sqrt(320))**2) + 0)*-2.
+144*sqrt(5) + 706
+Sederhanakan 2*((-4*((sqrt(539) - (2 + sqrt(539)*-1) - sqrt(539)) + sqrt(539) + -3*(sqrt(539) + -2) + 0 + 3))**2 + 2).
+18820 - 3136*sqrt(11)
+Sederhanakan (-4*-6*(2*sqrt(7) + sqrt(7)) + -3 - (1 + sqrt(7) + 0 + sqrt(35)/sqrt(320))**2)*-6.
+2469/32 - 837*sqrt(7)/2
+Sederhanakan -2*sqrt(85)/(5*sqrt(10)/sqrt(2)) - (((sqrt(2448) + -1)**2 + sqrt(2448) - (2*sqrt(2448))**2) + -5).
+58*sqrt(17)/5 + 7348
+Sederhanakan ((-5 + sqrt(30)/(sqrt(10) + sqrt(30)/sqrt(3)*-1 - sqrt(10)) + (-4*sqrt(3)*-2 - (sqrt(6)/sqrt(2) + 3)))*-3*4)**2.
+24768 - 13824*sqrt(3)
+Sederhanakan -5 + ((-1*sqrt(576) - sqrt(36)) + (sqrt(216) + sqrt(216) + -1*sqrt(216))/sqrt(6))/(sqrt(144)/(sqrt(12) - (sqrt(12) + -1*sqrt(108)))).
+-12*sqrt(3) - 5
+Sederhanakan -2*(-6*(sqrt(175) + 0 + sqrt(175))*-6 + (1 + sqrt(175) + 0 + sqrt(175))*3)**2*1.
+-2129418 - 4680*sqrt(7)
+Sederhanakan ((sqrt(363) + 1)**2 + -4 - ((sqrt(363) + 2)**2 + 1)) + ((-2*sqrt(363) + -4 + sqrt(363))**2 + sqrt(363) - (-5 + -1*sqrt(363) + sqrt(363))).
+77*sqrt(3) + 376
+Sederhanakan 5*(0 + (-4*(5*(-1 + sqrt(99)) + 1 - (sqrt(99) - (2 + sqrt(99)*-1))*-2))**2).
+646640 - 34560*sqrt(11)
+Sederhanakan -6*((sqrt(7)*2)**2*-3 + 4 + (sqrt(14)/sqrt(2) + 3 - (sqrt(42) + sqrt(42)*-2)/sqrt(6)))*-3.
+-1386 + 36*sqrt(7)
+Sederhanakan (sqrt(22) + sqrt(198)*-4 + sqrt(22))/(sqrt(1100)*-3) + (5*((sqrt(2) + sqrt(4)/sqrt(2))*1 - (sqrt(2) + -1*(sqrt(98) - sqrt(2)))))**2.
+sqrt(2)/3 + 2450
+Sederhanakan -1 + 2*(sqrt(162)*3)**2 + (sqrt(162) + -6*sqrt(162)*-1 - (-1 + sqrt(162) + 0))**2 + 5.
+108*sqrt(2) + 8753
+Sederhanakan (2*(sqrt(110) - sqrt(110)*-4) - 5*4*sqrt(110))/((sqrt(180)/(-2*sqrt(6)))/(sqrt(768) - sqrt(48))).
+240*sqrt(11)
+Sederhanakan -3 + (((sqrt(126) + (sqrt(126) - (5*sqrt(126) + sqrt(126)) - sqrt(126) - sqrt(126)) + sqrt(126))/sqrt(2))/(sqrt(9) - 6*sqrt(576)))**2 + -1.
+-8661/2209
+Sederhanakan 0 + (2*(sqrt(100) + 3*(sqrt(100) - (sqrt(100) - (2*sqrt(100) - sqrt(100))) - sqrt(100)) + sqrt(100))/sqrt(2))**2 + sqrt(500)/(-6*sqrt(160)) + 3.
+803 - 5*sqrt(2)/24
+Sederhanakan (4*(-3*((sqrt(272) - ((sqrt(272) - (-4 + sqrt(272) + sqrt(272))) + -5) - (4*5*sqrt(272) + sqrt(272))) + 3) + 5))**2.
+14140432 - 51072*sqrt(17)
+Sederhanakan (sqrt(2) - (-1*sqrt(162))**2 - (sqrt(2) + sqrt(32)*2)) + 2*(1 + sqrt(2)) + -1*sqrt(8).
+-160 - 8*sqrt(2)
+Sederhanakan 1 + ((sqrt(99) - (sqrt(99) + -1)*3)*-3 - (2*sqrt(99)*-3 - sqrt(99) - (-5 + sqrt(99) + -1 - sqrt(99) - sqrt(99))))**2.
+14482 - 1080*sqrt(11)
+Sederhanakan ((sqrt(875)*-2 + sqrt(875))*-2 + sqrt(875) + -3*sqrt(875)*1)/((sqrt(5)*1*-5 + 6*sqrt(20)/sqrt(4))*-5).
+0
+Sederhanakan 4 + -5 + (-2 + sqrt(243))**2*-4 + sqrt(30)/((sqrt(90) - 1*sqrt(90) - sqrt(90))/sqrt(9)).
+-989 + 143*sqrt(3)
+Sederhanakan -6*2*(2*sqrt(832) - sqrt(832)) + 1 - ((-4*(sqrt(832) + sqrt(832) + 4*sqrt(832)*-2 + sqrt(832) - sqrt(832)))**2 + -1).
+-479230 - 96*sqrt(13)
+Sederhanakan (sqrt(102) + sqrt(102)*3*-6 - (sqrt(102) - (sqrt(102) - -3*sqrt(102)*5) - sqrt(102)))/((sqrt(360)/(sqrt(30)/sqrt(3)))/(sqrt(72)/(-2*sqrt(12)))).
+sqrt(17)/2
+Sederhanakan ((-1 + 0 + sqrt(171) - sqrt(171)) + (sqrt(171) - (5 + (sqrt(171) + sqrt(171) + 2)**2) - sqrt(171)) - (1*1*sqrt(171)*3)**2) + 4.
+-2229 - 24*sqrt(19)
+Sederhanakan (3*3*(-1 + (0 + -4 + sqrt(1900) + 1 + (sqrt(1900) - (sqrt(1900)*2 + sqrt(1900) + 5)))*2))**2.
+55080*sqrt(19) + 639009
+Sederhanakan (-5*-1*sqrt(891)*-5 + -1 + sqrt(891) + 2 + -2)**2*6*-3.
+-9237906 - 7776*sqrt(11)
+Sederhanakan (5*((sqrt(1700) + 2)*4 + -1 + 0) + -1)**2.
+13600*sqrt(17) + 681156
+Sederhanakan ((sqrt(32)/sqrt(8))/(sqrt(16)*-6))/(6*((sqrt(2) - sqrt(18))*-1 - -1*(sqrt(2) + (sqrt(18) - sqrt(2))))).
+-sqrt(2)/720
+Sederhanakan ((sqrt(121) + (sqrt(121) - (sqrt(121) - sqrt(121)*-2 - sqrt(121))*5) + -2*2*sqrt(121))/(sqrt(99) + 2*1*sqrt(99)) + -4)**2*6.
+64*sqrt(11) + 640/3
+Sederhanakan ((6*(sqrt(84) + sqrt(84)*1) + sqrt(84) + sqrt(84) - ((sqrt(84)*2*-6 - sqrt(84)) + sqrt(84)))/(sqrt(120)/(1*sqrt(90)/sqrt(9))) + -4)**2.
+4748 - 208*sqrt(7)
+Sederhanakan ((3*sqrt(121)*-1*2)/((sqrt(99) - 1*sqrt(99)) + sqrt(1100)*-2) + 1)**2 + -1.
+99/100 + 3*sqrt(11)/5
+Sederhanakan 5 + 3*((-2 + sqrt(72) + 0 + ((sqrt(72)*2 - sqrt(72))*4 - sqrt(72)))**2 + 1*(-2 + sqrt(72))**2*-6).
+144*sqrt(2) + 2105
+Sederhanakan -4 + sqrt(500) + 4*sqrt(245) + (sqrt(10)/sqrt(2)*-3 - sqrt(5) - (sqrt(5) - (2 + sqrt(80))))*-5.
+-14 + 43*sqrt(5)
+Sederhanakan (5*(-1*sqrt(255) - sqrt(255))/sqrt(5)*-6)/((sqrt(48)/sqrt(4)*2)/(sqrt(324) + sqrt(324) + sqrt(324)*2)).
+1080*sqrt(17)
+Sederhanakan 3*2*sqrt(1250) + (sqrt(1250)*1)**2*4 + ((5*(sqrt(8) + -2*sqrt(8)))/(sqrt(4) + ((sqrt(4) + sqrt(196))*4 - sqrt(4))))**2.
+150*sqrt(2) + 2560025/512
+Sederhanakan (-2*(1*sqrt(132)*4 + -1*sqrt(132)*6))/(2*sqrt(768)*2*2).
+sqrt(11)/16
+Sederhanakan 1 + (sqrt(378) + sqrt(378)*-2*-5)/((2*sqrt(1296))/sqrt(6)).
+1 + 11*sqrt(7)/4
+Sederhanakan ((-5*(1 + sqrt(153)) + -4*sqrt(204)/(sqrt(12)*1))*2 + 1)*-6.
+54 + 228*sqrt(17)
+Sederhanakan (2*(0 + sqrt(27) + -4 + (sqrt(3) + 1)*-3 + sqrt(27)*1)**2 + -3)*-6.
+-894 + 504*sqrt(3)
+Sederhanakan (sqrt(12)/(sqrt(66)/(sqrt(275) - sqrt(11)))*6 + (sqrt(288) + 0)**2 + sqrt(90)/sqrt(5) + -2)*-3.
+-858 - 81*sqrt(2)
+Sederhanakan ((sqrt(1700) - (-4 + 1*sqrt(1700) + sqrt(1700)))*-3 + -2*(-3 + sqrt(1700) + 4) + -3)**2.
+1989 - 340*sqrt(17)
+Sederhanakan -1*(-5 + (0 + (sqrt(108) - (sqrt(108) + sqrt(108) + -1 + -1) - (-1 + sqrt(108)*1 - sqrt(108))))**2*-4).
+473 - 144*sqrt(3)
+Sederhanakan (-4*(sqrt(18) + -2 + -1) + ((4 + -1 + sqrt(128))**2 - (4 + (sqrt(128) + -2)**2)))*2.
+26 + 136*sqrt(2)
+Sederhanakan (sqrt(44)/(sqrt(4)*-2) - (sqrt(11) + 5*sqrt(11)*-4)**2) + (2*sqrt(1782) + sqrt(22))/(-3*(sqrt(2)*-1 - sqrt(2))).
+-3971 + 8*sqrt(11)/3
+Sederhanakan (3*sqrt(294)*3)/(sqrt(200)*3 + sqrt(128)*-3).
+21*sqrt(3)/2
+Sederhanakan (-6*(sqrt(1539) + -1)*2 + -3*sqrt(1539)*-1 + 0)**2 + 2.
+124805 - 1944*sqrt(19)
+Sederhanakan (2 + ((sqrt(272) - (1 + sqrt(272) + 1)) + (-2 + sqrt(272) + sqrt(272))*3)*-4)*3.
+102 - 288*sqrt(17)
+Sederhanakan (-3*5*(sqrt(84) - (sqrt(84) - (sqrt(84) - -1*sqrt(84)))*4))/(-6*sqrt(72)/(sqrt(6) - (sqrt(294)*-1 - sqrt(294)))).
+375*sqrt(7)/2
+Sederhanakan 0 + (-1*(6*(sqrt(539) - (-2 + sqrt(539))) + 2 + -1 + sqrt(539))*-1)**2.
+182*sqrt(11) + 708
+Sederhanakan 4*(-5 + (5 + sqrt(832) + 0 - (sqrt(832)*1 - sqrt(832))*-4)*-1*-4 + -3)**2.
+3072*sqrt(13) + 53824
+Sederhanakan (1 + sqrt(68) + 2 + (sqrt(17) + -2)*1 + sqrt(68)/(sqrt(4)*1) + sqrt(68) + -1)**2*6.
+3672
+Sederhanakan ((5 + 0 + sqrt(175) + -3*sqrt(175)*3)*-3 + -2)**2*-1.
+-101089 + 4080*sqrt(7)
+Sederhanakan -6*(1*sqrt(425)*-1 - sqrt(119)/(-1*sqrt(35)/sqrt(5))).
+24*sqrt(17)
+Sederhanakan (-4 + (5 + sqrt(320)*-1 - 2*(sqrt(320) + 1)))**2 + ((sqrt(320) + -2*(sqrt(320) + -3))**2 - (sqrt(320) + 2*-1*sqrt(320))).
+3237 - 40*sqrt(5)
+Sederhanakan 1*(3 + (sqrt(7) - (-1*sqrt(35))/sqrt(5))) + (-4*((sqrt(56) - sqrt(56)*-1)/sqrt(8) - (2 + sqrt(567))))**2.
+450*sqrt(7) + 5555
+Sederhanakan -2*(2*(sqrt(648) - (sqrt(648) + -2))**2 + -1 + 5)*2.
+-48
+Sederhanakan (1*(sqrt(4617)*-1 - sqrt(4617))*1)/((sqrt(264)/sqrt(8))/sqrt(11) - (sqrt(27) + sqrt(270)/sqrt(10))/sqrt(9)).
+18*sqrt(19)
+Sederhanakan -2 + ((-6*(sqrt(85) - sqrt(85)*2) - sqrt(85))*6)/(-2*sqrt(125) + (sqrt(500) - (-2*sqrt(500) + sqrt(500)))).
+-2 + 3*sqrt(17)
+Sederhanakan ((-2*-4*sqrt(13)*-3)**2 - (5*sqrt(78)/sqrt(6) + 0)) + -4.
+7484 - 5*sqrt(13)
+Sederhanakan -4*(sqrt(833)*2 + sqrt(833) + sqrt(2448)*-5 - (4*sqrt(34)/sqrt(2)*-1)**2*-3).
+-3264 + 156*sqrt(17)
+Sederhanakan ((sqrt(245)/((sqrt(720) - (sqrt(720) + sqrt(720)*5 + sqrt(720))) + sqrt(720)))/(sqrt(14)/(sqrt(600)/sqrt(12) + sqrt(2))))**2.
+7/100
+Sederhanakan (2 + 2*(sqrt(63) - (sqrt(189)/sqrt(3) + sqrt(63)))/sqrt(9) - (-5 + 2*((sqrt(63) - sqrt(126)/sqrt(2)) + sqrt(63))/sqrt(9)))**2*-6*-3.
+2898 - 1008*sqrt(7)
+Sederhanakan 1*((sqrt(171) + -1 + (-1*sqrt(19)*4 - sqrt(19)) + -1 + sqrt(2736) + 2*sqrt(2736) + (-1 + 2*sqrt(2736) - sqrt(2736)))*6)**2.
+1447668 - 9936*sqrt(19)
+Sederhanakan -5 + (((-2 + sqrt(208))*-5 + -1)*6)**2*5.
+950575 - 64800*sqrt(13)
+Sederhanakan (-4*(sqrt(30) - -2*sqrt(1920))*-2)/(((1*sqrt(300))/sqrt(5))/sqrt(6)*-3).
+-136*sqrt(3)/3
+Sederhanakan ((-2*((sqrt(216) + -2*sqrt(216) - sqrt(216))/sqrt(12) - sqrt(18)))/(sqrt(600) + (1*1*sqrt(600) - sqrt(600))) + -1)**2.
+52/25 - 6*sqrt(3)/5
+Sederhanakan (4 + (5*(0 + sqrt(245)) + (0 + sqrt(245))*-4 - (5 + -3 + -1 + sqrt(245)))*3 + -4)**2.
+9
+Sederhanakan (2 + sqrt(931)*-3*-3 + -4 + -3 + -2)**2.
+75460 - 882*sqrt(19)
+Sederhanakan (((-2*sqrt(2187) - sqrt(2187) - sqrt(2187))/(sqrt(9) - (-1*sqrt(441) - sqrt(441))) + 2*(-1 + sqrt(75) + -4))*-6)**2.
+245952/25 - 5472*sqrt(3)
+Sederhanakan ((sqrt(4860)*2)/(sqrt(12) - ((sqrt(12) - -6*sqrt(12)*-2) + sqrt(12)))*-5)**2 + (-4 + (sqrt(500) + sqrt(500)*-2)**2)*6 + 4.
+401080/121
+Sederhanakan (sqrt(800)*-1 + (sqrt(200)/sqrt(4)*2 - sqrt(50)))/(3*(sqrt(10) + sqrt(30)/(sqrt(9)/sqrt(3)))*6).
+-sqrt(5)/12
+Sederhanakan -4*(sqrt(99) + 4 + sqrt(99)) + (4*(-3 + sqrt(99))**2 - sqrt(99)) - (sqrt(99) - (-3*(sqrt(99) + 0) + sqrt(99)) - 1*(2 + sqrt(99))**2).
+519 - 96*sqrt(11)
+Sederhanakan (sqrt(495)/sqrt(99))/(-4*sqrt(36) - sqrt(9)) - (5*4*(-2*sqrt(50) + sqrt(50))/sqrt(10)*1)**2.
+-2000 - sqrt(5)/27
+Sederhanakan (2*(sqrt(1225) + (sqrt(1225) - -1*sqrt(1225)))*-5)/((sqrt(220)/sqrt(4))/sqrt(11) + 3*sqrt(5)*6).
+-210*sqrt(5)/19
+Sederhanakan (sqrt(7) - (sqrt(35) + sqrt(105)/sqrt(3))/sqrt(5))*2 + (-1 + sqrt(700) + -3)**2 + (sqrt(847) + 2)**2*6*-4 + -1.
+-19709 - 1138*sqrt(7)
+Sederhanakan -5*(((sqrt(133) + 1*-1*sqrt(133))*2)/(-1*2*sqrt(847)) + 3).
+-15
+Sederhanakan (sqrt(847)*3 + (sqrt(7) - (sqrt(441)/sqrt(7))/sqrt(9))**2 - (-3 + sqrt(175)*3)*-5)*4.
+-60 + 432*sqrt(7)
+Sederhanakan (5*6*(sqrt(66)*1 - sqrt(66)))/(sqrt(18)/sqrt(48)*1)*-1.
+0
+Sederhanakan (0 + ((1 + sqrt(832) + 0 - (3 + -1*sqrt(832))) + 2)*-4)**2*4.
+212992
+Sederhanakan (((sqrt(252) - sqrt(252)*1)*3)/((sqrt(12) + sqrt(36)/sqrt(3) + sqrt(12))*-3))/(-3*sqrt(147) + sqrt(108)).
+0
+Sederhanakan ((sqrt(912)*-5)/sqrt(3)*-4)**2 + -5 + ((-1 + sqrt(19))*-3 - sqrt(57)/sqrt(75))*1.
+121598 - 16*sqrt(19)/5
+Sederhanakan (-3 + 2 + (sqrt(468) - (sqrt(468) + -3)) + -3 + -4*sqrt(468)*-1 + -3)**2.
+7504 - 192*sqrt(13)
+Sederhanakan ((sqrt(450)/sqrt(10))/sqrt(9) - (0 + sqrt(500)))**2 + ((-6*sqrt(315) + sqrt(35))/(sqrt(1008)*-1))**2.
+59765/144
+Sederhanakan (-3*(1*sqrt(968)*1 - (-2 + (-1*sqrt(968) - sqrt(968))))*2*-3*4)**2.
+1368576*sqrt(2) + 45183744
+Sederhanakan 6*(5*sqrt(77)*4*-1)/((-3*sqrt(110)*1)/sqrt(10))*-3.
+-120*sqrt(7)
+Sederhanakan -3*(2*(-6*(sqrt(19) - sqrt(38)/sqrt(2))*-4 + -3 + (sqrt(19) + 0)*-6) + 3).
+9 + 36*sqrt(19)
+Sederhanakan 3*2*(-3*sqrt(68)*-1)/((sqrt(12)*1)/sqrt(3)) + -1.
+-1 + 18*sqrt(17)
+Sederhanakan ((sqrt(180)/(sqrt(9) - (sqrt(567)/sqrt(7) + sqrt(9))))/(1*sqrt(810) - (sqrt(10) + (sqrt(20)/sqrt(2) - sqrt(10)))*4))**2 + -4.
+-898/225
+Sederhanakan (1 + (sqrt(704) - sqrt(704)*-2) + -5)**2 - ((-1 + sqrt(704) + sqrt(704))**2 + 4 + (-3 + (sqrt(704) - (2 + sqrt(704))))**2).
+3506 - 160*sqrt(11)
+Sederhanakan (((-2*sqrt(392) - sqrt(392))*1)/(-4*(sqrt(7)*2 - sqrt(7))))/(sqrt(32)/sqrt(4)*-6 - (sqrt(648) - (sqrt(648)*2 + sqrt(648)))).
+sqrt(7)/16
+Sederhanakan ((3 + 4 + 0 + sqrt(500) - (2 + sqrt(500)*-1)*-4) + 4)*-1 + 3.
+-16 + 30*sqrt(5)
+Sederhanakan (4*sqrt(26)*-3 - sqrt(26))/sqrt(2)*-1 + -6*(1 + sqrt(52))*-6.
+36 + 85*sqrt(13)
+Sederhanakan ((sqrt(2200) + -4*(sqrt(2200) + (sqrt(2200) - 2*sqrt(2200)) + sqrt(2200) - sqrt(2200)) - sqrt(2200))*-4)/(5*(sqrt(1400) + 3*sqrt(1400))/sqrt(7)).
+0
+Sederhanakan (-1 + (sqrt(304) - (sqrt(304) + -4 - sqrt(304)))*-1 + 5 + (sqrt(304) - 4*-2*sqrt(304))*6)**2.
+853936
+Sederhanakan (sqrt(77) - (2*sqrt(77)*-3 - sqrt(77)) - sqrt(77) - sqrt(77)*-2*1)/(-5*sqrt(2268))*-2.
+sqrt(11)/5
+Sederhanakan (1*(-1*4*-1*sqrt(114))/(sqrt(54)/(sqrt(1296) - (sqrt(1296) - ((sqrt(1296)*-2 - sqrt(1296)) + sqrt(1296))))))**2*-1.
+-175104
+Sederhanakan (sqrt(2736) + 3*sqrt(2736)*-1 + 1)**2 + 3 + ((0 + (1*sqrt(2736) + sqrt(2736))*1)*6)**2 + -5.
+404927 - 48*sqrt(19)
+Sederhanakan (sqrt(156)*2*4*1)/((sqrt(3) - -3*sqrt(3))*6 + sqrt(3) + sqrt(15)/sqrt(180)).
+96*sqrt(13)/151
+Sederhanakan (5*5*(-2*(5*sqrt(8)/sqrt(4)*-4 - (sqrt(288) + -2)*1) + -1))**2.
+5135625 - 400000*sqrt(2)
+Sederhanakan (1 + -4 + 5*sqrt(1216)*2 + -2 + -4*(sqrt(1216) + -2)*-5)**2.
+1096425 - 21600*sqrt(19)
+Sederhanakan ((-2*sqrt(65)*-4 + (sqrt(65) + sqrt(65)*-2 - sqrt(65))*5)*5)/(-3*sqrt(80) + sqrt(80) - sqrt(25)/sqrt(5)*-2).
+5*sqrt(13)/3
+Sederhanakan -3*(1*-4*(sqrt(242) + -1) + -3*(6*sqrt(242)*2 - sqrt(242))**2).
+132*sqrt(2) + 263526
+Sederhanakan (sqrt(605) - -5*(sqrt(605) + -1) - sqrt(605) - (-1 + sqrt(605)*2 + sqrt(605)))**2 - ((sqrt(605) - (-1 + sqrt(605)))*-1 + -2)**2.
+2427 - 176*sqrt(5)
+Sederhanakan (-4*1*((sqrt(72) - sqrt(72)*3)**2 - sqrt(72)) - -2*(sqrt(72) - 1*sqrt(72)*2))*-6.
+6912 - 72*sqrt(2)
+Sederhanakan ((sqrt(204) - -1*sqrt(204)*2)/(sqrt(24)/(3*sqrt(2))))**2 + 0 + (3 + sqrt(2448)*-1*-4)**2.
+288*sqrt(17) + 40554
+Sederhanakan (-2 + sqrt(24)/sqrt(300)*6 + 2 + -2 + 5)*5.
+6*sqrt(2) + 15
+Sederhanakan 4*((sqrt(1331) + (sqrt(1331)*1)**2 + sqrt(1331) + sqrt(1331))*5 + -4 + 3*(sqrt(1331) + 0)**2*-3)*-2.
+42624 - 1320*sqrt(11)
+Sederhanakan ((sqrt(1377) + (2*sqrt(1377)*-2 - sqrt(1377)))*4 + (5 + (sqrt(612) - (-2 + sqrt(612))))*-6)**2.
+12096*sqrt(17) + 354276
+Sederhanakan ((((0 + sqrt(208) + sqrt(208))*6 + -1 + (-1 + 1 + sqrt(208) + sqrt(208) - sqrt(208))*4)*-6*-3 + 0)*-6)**2.
+621096336 - 1492992*sqrt(13)
+Sederhanakan ((sqrt(28)/sqrt(4)*5 + (sqrt(7) - sqrt(63))*-2)*-1 + 3 + (sqrt(224)/sqrt(4)*6)/(-2*sqrt(968))*-6)**2.
+47016/121 - 486*sqrt(7)/11
+Sederhanakan (sqrt(297)/(sqrt(324)*-3))/((sqrt(144)/sqrt(432))/sqrt(4))*6.
+-2*sqrt(11)
+Sederhanakan 4*(((sqrt(1008) - (sqrt(1008) - (1 + sqrt(1008) + 2)) - (1 + 2*sqrt(1008)))*-4*-3)**2 + -3)*-6.
+-3497400 + 165888*sqrt(7)
+Sederhanakan ((sqrt(153)*-3 + 5 - sqrt(153)*-2*-5) + 5 + 5 + 5 + 2 + sqrt(153) + 4*(-2 + sqrt(153) + sqrt(153)) + sqrt(153))**2.
+1573 - 252*sqrt(17)
+Sederhanakan (-5*sqrt(16)*2 + sqrt(256) + sqrt(256)*-4)/(sqrt(3200) + (sqrt(3200) - (sqrt(3200)*5 + sqrt(3200)) - sqrt(3200))*5).
+11*sqrt(2)/290
+Sederhanakan (6*sqrt(128)*-3 - sqrt(128)) + 0 + (sqrt(200)*-1*3 - sqrt(200) - (2 + sqrt(200) + 0)).
+-202*sqrt(2) - 2
+Sederhanakan (1*6*(-1*sqrt(143)*3 - sqrt(143)))/(((sqrt(396) + sqrt(44) - sqrt(44))*1)/(sqrt(40)/(-1*sqrt(10))))*2.
+16*sqrt(13)
+Sederhanakan (4*-2*sqrt(132) - sqrt(132) - -1*1*sqrt(132))/(sqrt(192)*5*-3*1).
+2*sqrt(11)/15
+Sederhanakan (-1*(-2*((sqrt(192) - (0 + sqrt(192))*-3) + sqrt(192))*2 + (-2*sqrt(192) + 5 - (-1 + sqrt(192)*3 + sqrt(192)))))**2.
+129828 - 2496*sqrt(3)
+Sederhanakan ((sqrt(4032)*2)/(sqrt(6)/(sqrt(6)/sqrt(2))))/(((sqrt(220)*-1)/sqrt(10))/(1*sqrt(11)*1)).
+-24*sqrt(7)
+Sederhanakan (sqrt(627)/(sqrt(11)*-1) + sqrt(627)/(1*sqrt(11)) + sqrt(57))/(2*((-1*sqrt(3) - sqrt(3))*-5 + (sqrt(81)/sqrt(3))/sqrt(9) + sqrt(3))).
+sqrt(19)/24
+Sederhanakan ((5*sqrt(704)*4)/(sqrt(40)/((-4*sqrt(120))/sqrt(12))) + -4)**2.
+2560*sqrt(11) + 1126416
+Sederhanakan -4 + ((sqrt(648) - 2*sqrt(648))*-2)/(-3*4*2*sqrt(4)) + -5.
+-9 - 3*sqrt(2)/4
+Sederhanakan (-3*sqrt(5100) - sqrt(5100) - (3*sqrt(2499) - sqrt(51)))/(-2*(sqrt(192) + sqrt(192)*1 + sqrt(192) - sqrt(192))*4).
+15*sqrt(17)/32
+Sederhanakan (4 + (sqrt(3) + sqrt(108) + -1 + sqrt(108) + sqrt(3))*4 + sqrt(48) + sqrt(48) + -1 + -1*sqrt(3)*4 + -5)**2.
+10836 - 720*sqrt(3)
+Sederhanakan (-3 + (-1 + sqrt(275) + 0 + sqrt(275) - sqrt(275))*6)**2 - ((sqrt(275) - (1 + sqrt(275) + -3)) + sqrt(275) + -6*(sqrt(275) + -1))**2*-3.
+30798 - 1740*sqrt(11)
+Sederhanakan (-1*-3*(3 + -1*-3*sqrt(1200)*2*-4))**2.
+6220881 - 25920*sqrt(3)
+Sederhanakan -1 + 4*(sqrt(12) + -5)*5 + (sqrt(1323)*-1)/(2*sqrt(1296)).
+-101 + 953*sqrt(3)/24
+Sederhanakan 2 + (-3*-2*(sqrt(200)*-2*3 - ((sqrt(200) + -1*sqrt(200) + sqrt(200))*2 + sqrt(200))))**2.
+583202
+Sederhanakan -4*((-5*(sqrt(864)*2)/sqrt(3)*6)**2 + 0 + -1) + -4.
+-4147200
+Sederhanakan 3 + (((sqrt(340)*-1)/sqrt(10))/(sqrt(2) - sqrt(90)/sqrt(5)) + -2)*5.
+-7 + 5*sqrt(17)/2
+Sederhanakan ((sqrt(44) + (sqrt(44) - -1*sqrt(176)) + -1*2*sqrt(44))/((sqrt(144) - 3*sqrt(144)*2)*-2))**2.
+11/900
+Sederhanakan 5 + (((sqrt(102) - (sqrt(102) - 1*sqrt(102)))*-6 - 6*sqrt(102)*1)/(-2*-3*(sqrt(6) - (sqrt(24) + sqrt(6))))*-1)**2.
+22
+Sederhanakan (-1*(sqrt(68) - (sqrt(68)*3*-4 - sqrt(68) - sqrt(68))))/(4*(sqrt(196) + (sqrt(196) - 3*sqrt(196) - sqrt(196))))*2.
+15*sqrt(17)/28
+Sederhanakan (-3*(sqrt(637) + 5 + -3*sqrt(637)) + (sqrt(637) + -5*(2 + sqrt(637)) - (1 + sqrt(637) + -1 + sqrt(637))))**2.
+625
+Sederhanakan 3*-5*((sqrt(1700) + sqrt(1700)*1 + 1 - ((sqrt(1700) + 1 - sqrt(1700)) + 4 - sqrt(1700)))**2 + 5)*5.
+-1149075 + 18000*sqrt(17)
+Sederhanakan 5*(((5*(sqrt(68)*-3 - sqrt(68)) - sqrt(68))*-3)/(sqrt(4) + sqrt(24)/(sqrt(24)/sqrt(4)) - sqrt(64)*2))**2.
+37485/4
+Sederhanakan ((-5 + -1*(-2 + sqrt(117)) + sqrt(117) + 2 + sqrt(117)*-1 + 5)*-6)**2*4.
+19152 - 3456*sqrt(13)
+Sederhanakan 4*(5*5*(5 + sqrt(425) + sqrt(425) + -1*sqrt(425) + sqrt(425) + sqrt(425) + 0 + (2*(sqrt(425) + sqrt(425)*2) - sqrt(425)))*-3)**2.
+9000000*sqrt(17) + 612562500
+Sederhanakan ((5*1*sqrt(1344)*-1)/(sqrt(56)/(sqrt(8) - sqrt(200)) - (sqrt(56)*-3)/sqrt(8)))**2.
+76800/121
+Sederhanakan ((3*(((-3*((sqrt(65) - (sqrt(65) - 3*sqrt(65))) + sqrt(65)) + sqrt(65) - sqrt(65)) + sqrt(65) - sqrt(65)) + sqrt(65)))/(-4*sqrt(180)*2)*-4)**2*6.
+4719/8
+Sederhanakan (-4 + 5 + sqrt(35)/(6*sqrt(448)) + (1 + -1 + sqrt(80))*-5)**2.
+4600709/2304 - 959*sqrt(5)/24
+Sederhanakan (((4*2*sqrt(105))/((sqrt(48)/sqrt(2))/sqrt(8)))/(2*(sqrt(5) - (sqrt(5) + (-1*sqrt(30))/sqrt(6) + sqrt(5)) - sqrt(320)*-1)))**2.
+7/4
+Sederhanakan (2 + 0 + sqrt(243) + (sqrt(243) - (1 + sqrt(243))) + -2 + sqrt(243) + -1 + 2)**2 + 0.
+972
+Sederhanakan (3*((sqrt(132) - -1*sqrt(132)*-6) + (sqrt(132) + sqrt(132)*1)*5))/(2*-1*sqrt(48)*3).
+-5*sqrt(11)/4
+Sederhanakan ((1*sqrt(171) + -2 + 4)**2 - 1*(-1*-4*(-1 + sqrt(19)))**2) + 2.
+-143 + 44*sqrt(19)
+Sederhanakan (1*-5*(3*sqrt(85) + sqrt(85))*-2)/((sqrt(120) + 4*(-2*sqrt(120) + sqrt(120)) + sqrt(120))/sqrt(6)).
+-10*sqrt(17)
+Sederhanakan (sqrt(5) - (sqrt(245) + 5))**2 - (sqrt(80) + sqrt(80) + -5) - -1*(2*sqrt(180) + sqrt(500) + 1 + sqrt(500))**2.
+116*sqrt(5) + 5331
+Sederhanakan -1 + (2 + (sqrt(76) - 2*sqrt(76) - sqrt(76)) - 4*sqrt(76)*-5)**2*-6.
+-147769 - 864*sqrt(19)
+Sederhanakan -2*((4*((sqrt(1053) - sqrt(1053)*-1) + sqrt(1053) - sqrt(1053))*2)**2 + 2 - (4 + -1 + sqrt(1053) + 2 + 2)**2).
+-536936 + 252*sqrt(13)
+Sederhanakan 2*4*(3*(1 + sqrt(3872)) - (-1 + sqrt(3872) + 2 - sqrt(3872)))**2 + -2.
+4224*sqrt(2) + 278814
+Sederhanakan (3*(sqrt(540) - 6*sqrt(540))*-6)/(sqrt(180) - sqrt(180)*1 - (sqrt(80)/sqrt(4))/sqrt(4)).
+-540*sqrt(3)
+Sederhanakan 0 + 2 + ((sqrt(1872) + sqrt(1872) + -3 + sqrt(1872))*6 - sqrt(1872) - sqrt(1872) - (sqrt(1872) - (sqrt(1872) + -3*sqrt(1872) + 2)))**2 + 5 + -2.
+316629 - 4992*sqrt(13)
+Sederhanakan (sqrt(2200) + (sqrt(2200)*2 - sqrt(2200)))/(-6*sqrt(10)/sqrt(5)) - (-5 + 0 + (-3*2*sqrt(891) - sqrt(891))**2).
+-43654 - 10*sqrt(11)/3
+Sederhanakan 5*-4*((sqrt(96)/(sqrt(4) - sqrt(64)))/(sqrt(144)/sqrt(300)))**2*-5*1.
+5000/9
+Sederhanakan 1*(-2 + -4 + ((1 + sqrt(891) + -3 + sqrt(891))**2 + 1)*-3).
+-10713 + 216*sqrt(11)
+Sederhanakan (-5*(sqrt(95)/(sqrt(15)/sqrt(3) + sqrt(5) - sqrt(5)) + -3))**2 - (sqrt(76)/(-2*sqrt(576)) + 4).
+696 - 3599*sqrt(19)/24
+Sederhanakan (sqrt(9072) - ((sqrt(9072) - (-5*-3*sqrt(9072) + sqrt(9072))) + sqrt(9072)) - sqrt(9072))/(sqrt(27)/(4*sqrt(432)))*-2*-5.
+80640*sqrt(7)
+Sederhanakan ((-3*-1*sqrt(154) + sqrt(154))/((2*sqrt(847) - sqrt(847)) + sqrt(847) + sqrt(847)))/(((-1*sqrt(200))/sqrt(10))/(2*sqrt(1210) - sqrt(1210))).
+-4*sqrt(11)/3
+Sederhanakan (-4 + -1*(0 + sqrt(539))*-1 + (5*(sqrt(539) + -1 + 4 - sqrt(539))*-3)**2)*6.
+42*sqrt(11) + 12126
+Sederhanakan -4*(2 + (1*(sqrt(1088) + 0)*-6 + -4)**2) + -5.
+-156749 - 1536*sqrt(17)
+Sederhanakan (4 + -2*(-5*sqrt(171)*-1 + sqrt(171) + -1*sqrt(171)*-3) + 5 + 4 + 2)**2.
+55629 - 1620*sqrt(19)
+Sederhanakan -2 + (sqrt(1088))**2 + (sqrt(17) - (sqrt(136)/(sqrt(40)/sqrt(5)))**2) - ((sqrt(204)/sqrt(96) + sqrt(34))/sqrt(2) + -1).
+1070 - sqrt(17)/4
+Sederhanakan (5 + (-1*(-2*sqrt(30) - sqrt(30)))/(-5*sqrt(70)/sqrt(7))*-4)**2.
+24*sqrt(3) + 1057/25
+Sederhanakan (-4 + sqrt(17) + sqrt(68)*-5 + (sqrt(17) - (-1 + sqrt(425))) + (sqrt(612) + 1 + 2)*-5)**2 + -1.
+1548*sqrt(17) + 31756
+Sederhanakan -2*(-3 + sqrt(304)*-2*3 + (sqrt(304) + sqrt(304)*-2 + sqrt(304))*-6 + 5 + 0)**2.
+-21896 + 192*sqrt(19)
+Sederhanakan -2*((6*(sqrt(300) + (sqrt(300) + 0)*-6 + sqrt(300) + -3 + -2 + ((sqrt(300) + 1 - sqrt(300)) + -4 - sqrt(300))))**2 + -4).
+-544600 - 57600*sqrt(3)
+Sederhanakan (sqrt(2000) + -3*sqrt(2000)*1)/(-2*sqrt(64)*1).
+5*sqrt(5)/2
+Sederhanakan (5*(-3*(sqrt(768) + -2*sqrt(768)) + 0 - 3*(sqrt(768)*1 - sqrt(768) - sqrt(768))*2) + -2)**2.
+1555204 - 2880*sqrt(3)
+Sederhanakan (1*(-3 + 1*sqrt(32)))**2 + 5*(3*sqrt(128))**2 + 1.
+5802 - 24*sqrt(2)
+Sederhanakan ((3*-2*(sqrt(84) + 2*sqrt(84) + sqrt(84))*4)/(sqrt(1200) - sqrt(1200)*-3 - sqrt(768)*-2))**2.
+144/7
+Sederhanakan (-4*(1 + (sqrt(2548)*-3*5 - -6*-1*sqrt(2548))))**2.
+17978704 - 9408*sqrt(13)
+Sederhanakan 5*sqrt(108)/(sqrt(64) - sqrt(4)) + (sqrt(27) + (sqrt(135)/sqrt(5) - sqrt(27)) + sqrt(27) + sqrt(27))**2*4*-4.
+-3888 + 5*sqrt(3)
+Sederhanakan ((-5 + -2*((sqrt(98) + sqrt(98) + -2)*1 - (-3 + 1 + sqrt(98)))*-5)*-1 + -3)**2.
+9804 - 280*sqrt(2)
+Sederhanakan (sqrt(3025)*-2*-5*-4)/(-1*sqrt(125)*-5*3).
+-88*sqrt(5)/15
+Sederhanakan ((-4*(sqrt(28)*2 + sqrt(28)) + 5 + sqrt(112)/sqrt(4) + -2)*-4)**2*5.
+271760 - 10560*sqrt(7)
+Sederhanakan (-3 + (sqrt(1088) + 2*sqrt(1088)*-6 - (5*(2 + sqrt(1088)))**2) + -3 + 2)*6.
+-163824 - 5328*sqrt(17)
+Sederhanakan (-3 + ((sqrt(72)*1*-5 - sqrt(72)) + 5)*-1)**2 + -5 + -4.
+2647 - 576*sqrt(2)
+Sederhanakan (3*((sqrt(392)/(sqrt(7) - (sqrt(14)/sqrt(2) + sqrt(7))))/((sqrt(56) + sqrt(112)/sqrt(2))/sqrt(7)) + -2*-1*sqrt(175) + 0 + sqrt(175) + 0))**2.
+52983/4
+Sederhanakan 5*((-5*(sqrt(637) + 0 + sqrt(637) - sqrt(637)) + 4 + sqrt(637)*-2)**2 - ((4 + sqrt(637) + 2 + sqrt(637) + sqrt(637))**2 + 2 + sqrt(637)*-2)) + -3.
+127287 - 3150*sqrt(13)
+Sederhanakan (6*(6*(sqrt(117) + 2 + 4) + -5 - -4*6*(2 + -2*sqrt(117))))**2.
+7654644 - 716688*sqrt(13)
+Sederhanakan 3 + (((sqrt(704) - (1 + sqrt(704))) + 1 - sqrt(704)*-2*3) + -5 + (sqrt(704) - 1*(sqrt(704) + sqrt(704)*-3)))**2.
+57052 - 720*sqrt(11)
+Sederhanakan (-1*(-2 + ((sqrt(245) + -1)*-4)**2) - ((sqrt(245) + 0)*1 - (sqrt(245) + ((-1 + sqrt(245) - sqrt(245))*6 - sqrt(245))))**2*1)*1.
+-4215 + 140*sqrt(5)
+Sederhanakan 5*(sqrt(6)/(sqrt(2) - -6*3*sqrt(2)))**2 - 1*(sqrt(243) + 0 + 1 + sqrt(243))**2.
+-351238/361 - 36*sqrt(3)
+Sederhanakan (3 + (-5*(sqrt(304) + -3) - sqrt(304) - (sqrt(304) + 1 + 3))*-5*-2)**2 + -3.
+1502366 - 63280*sqrt(19)
+Sederhanakan -2*((3 + 5*((sqrt(405) + sqrt(405)*2)*-4 + sqrt(405)))**2 - (sqrt(405)*-2*5)**2*-5*-1).
+-2045268 + 5940*sqrt(5)
+Sederhanakan ((sqrt(567) - (-1*sqrt(567) + 4))*-3 - -3*(sqrt(567) + 2 + 3)**2)*-1*-5 + -3.
+1080*sqrt(7) + 8937
+Sederhanakan ((sqrt(24)/sqrt(3))/sqrt(4) + ((sqrt(96)/sqrt(4))/sqrt(12))**2 + (sqrt(288)/sqrt(8))/(-1*sqrt(2)*-6))*6.
+12 + 9*sqrt(2)
+Sederhanakan (sqrt(12)/(-1*sqrt(54)) + 1 - -5*(sqrt(12)*2*5)/sqrt(6)) + -2.
+-1 + 149*sqrt(2)/3
+Sederhanakan (sqrt(24) + (sqrt(216) + sqrt(24))*1)/(sqrt(972)*2) + (sqrt(294) + (sqrt(294)*2 - sqrt(294)))/(sqrt(3)*2*6).
+13*sqrt(2)/9
+Sederhanakan 3 + (0 + ((0 + sqrt(833) - sqrt(833))*4 + -5)*-3)**2.
+228
+Sederhanakan (-3 + -6*(sqrt(684) + sqrt(684) + 1) + sqrt(684) + 2 - ((1*-1*sqrt(684) - (-3 + (1*sqrt(684) - sqrt(684)))) + -3))**2.
+840*sqrt(19) + 68449
+Sederhanakan -4*(4*(sqrt(56) - sqrt(448)/sqrt(200)))/(sqrt(128)*1 + sqrt(128) + sqrt(128) - (sqrt(16)/sqrt(2)*-6 - sqrt(8) - sqrt(8))).
+-16*sqrt(7)/25
+Sederhanakan (1 + sqrt(363) + 1 - -3*sqrt(363)*-1 - (sqrt(363) + sqrt(363) + -4*(sqrt(363) + 2) - (-2 + sqrt(363) + 1)))**2.
+198*sqrt(3) + 444
+Sederhanakan ((sqrt(77) - (sqrt(77) + -1*-2*sqrt(77) - sqrt(77))) + (sqrt(77) - -4*sqrt(77)*2))/(sqrt(275) + sqrt(275)*3 + sqrt(275) - sqrt(11)*3*2).
+8*sqrt(7)/19
+Sederhanakan (((sqrt(133)*-1 + sqrt(133))*4)/(sqrt(700)*-1) + -4*(sqrt(304) + 2 + sqrt(19)*-1*6))**2.
+1280 - 128*sqrt(19)
+Sederhanakan 0 + (((-2*(sqrt(1300) + sqrt(1300)*6) + sqrt(1300) + 1*sqrt(1300)*3)*-6 + 0)*-1)**2.
+4680000
+Sederhanakan -2*sqrt(11) + 4 + sqrt(11) + sqrt(33)/sqrt(27) + -4 - 1*(5*(sqrt(539) + -3) - sqrt(539))**2.
+-8849 + 2518*sqrt(11)/3
+Sederhanakan 5*(sqrt(80) + 2 + 1) - ((sqrt(30)/sqrt(6) + 4)**2 - (sqrt(120)/sqrt(8))/sqrt(3)).
+-6 + 13*sqrt(5)
+Sederhanakan -3 + ((sqrt(637) + 2*sqrt(637))**2*2 - (0 + sqrt(637))*5 - ((sqrt(637) + sqrt(637) + sqrt(637) + -1)*6 + 2 + 5)**2).
+-194926 - 287*sqrt(13)
+Sederhanakan (sqrt(700)*-2*-5 + (sqrt(700)*2*-3 - sqrt(700)))/(-3*5*-6*(sqrt(4) - sqrt(16)/sqrt(4) - sqrt(4))).
+-sqrt(7)/6
+Sederhanakan 2 + sqrt(22)/sqrt(2) + sqrt(44)*3 - ((sqrt(539) + 1*sqrt(539))**2*-5 + 1).
+7*sqrt(11) + 10781
+Sederhanakan (0 + (sqrt(1900) + 1 + sqrt(1900) + 2 + -1*(1 + sqrt(1900)) + (sqrt(1900) + 1 + sqrt(1900) + -2 - (3*2*sqrt(1900) - sqrt(1900))))*-1)**2.
+7601 - 40*sqrt(19)
+Sederhanakan 2*((sqrt(320) + -2 + sqrt(320) - sqrt(320))*-5 + -4*(sqrt(320) + 2) - 4*(3 + sqrt(320)*2*-1)**2).
+-10308 + 624*sqrt(5)
+Sederhanakan -1 + (1*-1*(sqrt(3) + (sqrt(3) - sqrt(147) - sqrt(3))) - (5*1*sqrt(3) + sqrt(3) - sqrt(33)/sqrt(44)))**2.
+-1/4
+Sederhanakan (sqrt(120)/sqrt(50) - sqrt(60)*-2*1)/(3*(sqrt(144)/(sqrt(12)*-2) - (sqrt(12) + (sqrt(12) - sqrt(108))*3))).
+22*sqrt(5)/135
+Sederhanakan ((-2*(sqrt(272) + 0) - sqrt(272)) + sqrt(272) + -3)**2*-6 - (2*(sqrt(85) + -1*sqrt(85)))/((2*sqrt(35) - sqrt(35))/sqrt(7)).
+-6582 - 288*sqrt(17)
+Sederhanakan -3 + (6*sqrt(28)/sqrt(4) + -5 + 1*sqrt(7))**2 + (sqrt(175) - (0 + sqrt(175) + -5 - sqrt(175)))**2 + sqrt(175) + (-1*sqrt(175) + -2)**2.
+5*sqrt(7) + 744
+Sederhanakan 1*2*((sqrt(539) + (-2 + sqrt(539) + 5 - sqrt(539)) - (2*sqrt(539) + sqrt(539) + -2)) + 5)**2*6.
+27072 - 3360*sqrt(11)
+Sederhanakan (((-1*sqrt(1134)*6 - sqrt(1134)) + 4*(sqrt(1134) - (-2*sqrt(1134) + sqrt(1134))))/(-5*6*(sqrt(147)/sqrt(3))/sqrt(7)))**2.
+9/50
+Sederhanakan ((-3*sqrt(342)*-3)/(sqrt(9) - -2*sqrt(9)*-3))/(sqrt(256)/((5*sqrt(80))/sqrt(10))).
+-9*sqrt(19)/4
+Sederhanakan (sqrt(448) + 0)**2 + -4 + (sqrt(448)*-2 + 4)**2 + 2 + (sqrt(3388) - 3*sqrt(3388))/(sqrt(4) - sqrt(40)/(sqrt(10)*2)).
+2254 - 172*sqrt(7)
+Sederhanakan (-3*(5 + 4 + sqrt(396) + 1))**2 + 5 + sqrt(396) + 3 + (sqrt(396) + 4 + sqrt(396) + 5)**2.
+1302*sqrt(11) + 6137
+Sederhanakan 2*(sqrt(468)/(sqrt(9)*2) + -5) - (((sqrt(117) + sqrt(117)*-1)*3)/sqrt(9) + -5 + (sqrt(13) - sqrt(208)) + sqrt(1053) + 1).
+-4*sqrt(13) - 6
+Sederhanakan ((-4*sqrt(22))/sqrt(2) + sqrt(11) - (-3 + -3 + sqrt(11) + sqrt(11)) - (0 + sqrt(396))*-5*-1)**2*6.
+81066 - 2520*sqrt(11)
+Sederhanakan 5 + (2*((sqrt(250) - sqrt(250)*-4) + sqrt(250) - sqrt(250)))/sqrt(5) + (-1 + sqrt(1800) + 0 + sqrt(1800))*-3.
+8 - 130*sqrt(2)
+Sederhanakan ((1*sqrt(17) + -5)*1*5 + 3 + sqrt(612) + (sqrt(612)*-2 - sqrt(612)) + 2 + sqrt(612) + -2 + -1 + sqrt(612))**2.
+954 - 230*sqrt(17)
+Sederhanakan (sqrt(156)*-1*2)/sqrt(12) + (-3*-1*sqrt(468))**2 + 5 + (-5*sqrt(637)*-1*-2)**2.
+67917 - 2*sqrt(13)
+Sederhanakan sqrt(153) + -3 + 5 + -4 + 1 + sqrt(153) + -4*-4*sqrt(153) + sqrt(153) + (sqrt(153) - -1*sqrt(153)*1)**2.
+57*sqrt(17) + 611
+Sederhanakan (((((sqrt(65) + 2*sqrt(65) + sqrt(65) - sqrt(65)) + sqrt(65))*2)/(sqrt(320)*-2) - (-3 + (-6*2*sqrt(468))**2)) + -3)*1.
+-67392 - sqrt(13)/2
+Sederhanakan (3*sqrt(320)/(sqrt(72)*-2))/(sqrt(8)*-3*-2 + sqrt(648) + 2*sqrt(648))*6.
+-sqrt(5)/11
+Sederhanakan 4*(6*(((-1 + sqrt(275))*-1)**2 - sqrt(275)) + (((sqrt(275)*-1 - sqrt(275))*1 - sqrt(275)) + 4)**2)*6.
+99528 - 5040*sqrt(11)
+Sederhanakan (sqrt(175)/sqrt(20))/(-1*sqrt(405) - sqrt(5)) - (-5 + (sqrt(7) + -1)*5 + 4*sqrt(63)).
+10 - 341*sqrt(7)/20
+Sederhanakan (1 + (0 + (sqrt(76) + (-1 + sqrt(76) - sqrt(76)))*6 + 4 + 3)*-3)**2 + 5.
+144*sqrt(19) + 24633
+Sederhanakan (1 + sqrt(931) + -5)**2 + -5 - ((sqrt(19) + 1)*-2 - (1*(1 + sqrt(19)))**2).
+964 - 52*sqrt(19)
+Sederhanakan (4 + 1 + 2*-4*1*(-3 + sqrt(76)))**2 + -2.
+5703 - 928*sqrt(19)
+Sederhanakan (-3*sqrt(242)*6)**2*-6 + 0 + (sqrt(1800)*2 - sqrt(18))/sqrt(9).
+-470448 + 19*sqrt(2)
+Sederhanakan (-5*(sqrt(26)/sqrt(2) - sqrt(13)) - sqrt(156)/(sqrt(36)/sqrt(3))) + (sqrt(26)/sqrt(2)*-4 - sqrt(13))**2 + (sqrt(13) + 2*sqrt(13))*-2.
+325 - 7*sqrt(13)
+Sederhanakan (-1*sqrt(360) + 5*(4*sqrt(10) - sqrt(10)))/(sqrt(125) - 1*sqrt(125) - 5*sqrt(15)/sqrt(3)).
+-9*sqrt(2)/5
+Sederhanakan (4 + -1 + -3 + (sqrt(125) - 3*(sqrt(125)*-1 - sqrt(125))) + 4 + 3 + 2)**2.
+630*sqrt(5) + 6206
+Sederhanakan (-1*sqrt(1539)*1 + 5 + -3 - (3 + (1*sqrt(1539) - sqrt(1539)) - sqrt(1539))*1*1)**2 + 3.
+4
+Sederhanakan (4 + (1*sqrt(343) + 0 - sqrt(343)) + 1*(sqrt(343) + sqrt(343)*1) + 5*2*sqrt(343)*5)**2.
+2912*sqrt(7) + 927488
+Sederhanakan (-2*(2 + -3 + (sqrt(171) + 1 - sqrt(171)) + sqrt(171) + 1)*-1)**2 + 3.
+24*sqrt(19) + 691
+Sederhanakan 2*((sqrt(165) + 1*sqrt(165)*2 - sqrt(165))/sqrt(11))/((sqrt(5) - 6*(sqrt(45) + sqrt(5)))*3)*3.
+-4*sqrt(3)/23
+Sederhanakan (-1 + (2 + 0 + sqrt(243) - sqrt(243)) + 1)**2 - ((-3 + sqrt(27))**2*-1 - ((1*sqrt(3)*-2)**2 + (sqrt(3) - (sqrt(6)/sqrt(2) + 5 - sqrt(3))))).
+47 - 17*sqrt(3)
+Sederhanakan (-1 + (2*sqrt(3))**2 - (sqrt(75)*1)**2) + sqrt(33)/(5*2*sqrt(11)) + 2*-2*2*sqrt(108)*-5.
+-64 + 2401*sqrt(3)/10

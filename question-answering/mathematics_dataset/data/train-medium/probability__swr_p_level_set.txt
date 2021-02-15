@@ -1,0 +1,666 @@
+Berapa probabilitas dari pilihan 2 t and 1 m ketika tiga huruf diambil tanpa pengganti dari taaptnaaam?
+1/120
+Berapa probabilitas dari pilihan 1 s, 2 h and 1 l ketika empat huruf diambil tanpa pengganti dari snhlssh?
+3/35
+Berapa probabilitas dari pilihan 1 d and 2 m ketika tiga huruf diambil tanpa pengganti dari mdkm?
+1/4
+Empat huruf diambil tanpa pengganti dari acysv. Berapa probabilitas pilihan 4 c?
+0
+Dua huruf diambil tanpa pengganti dari {p: 3, o: 1}. Beri probabilitas dari pilihan 2 p.
+1/2
+Hitung probabilitas dari pilihan 1 p and 1 l ketika dua huruf diambil tanpa pengganti dari pyypylyp.
+3/28
+Dua huruf diambil tanpa pengganti dari {e: 1, h: 2, x: 2, z: 1, b: 1, p: 1}. Berapa probabilitas pilihan 1 p and 1 h?
+1/14
+Empat huruf diambil tanpa pengganti dari {g: 1, m: 2, r: 1, x: 2, w: 2, s: 1}. Beri probabilitas dari pilihan 1 g, 1 r, 1 m and 1 s.
+1/63
+Dua huruf diambil tanpa pengganti dari fxhvbuf. Berapa probabilitas pilihan 1 x and 1 v?
+1/21
+Hitung probabilitas dari pilihan 1 m, 1 v and 1 g ketika tiga huruf diambil tanpa pengganti dari dfmggvmmm.
+2/21
+Hitung probabilitas dari pilihan 2 a ketika dua huruf diambil tanpa pengganti dari {a: 3, k: 1, i: 2, e: 4, w: 4}.
+3/91
+Dua huruf diambil tanpa pengganti dari daaaayaadaaahauadd. Beri probabilitas dari pilihan 1 a and 1 h.
+11/153
+Berapa probabilitas dari pilihan 3 d ketika tiga huruf diambil tanpa pengganti dari {m: 7, d: 6}?
+10/143
+Hitung probabilitas dari pilihan 3 h ketika tiga huruf diambil tanpa pengganti dari {h: 9, v: 3}.
+21/55
+Hitung probabilitas dari pilihan 1 u and 1 v ketika dua huruf diambil tanpa pengganti dari {j: 4, v: 6, h: 2, u: 3}.
+6/35
+Hitung probabilitas dari pilihan 1 u and 1 p ketika dua huruf diambil tanpa pengganti dari cocpucpc.
+1/14
+Berapa probabilitas dari pilihan 1 n and 1 f ketika dua huruf diambil tanpa pengganti dari {j: 9, n: 4, f: 4}?
+2/17
+Berapa probabilitas dari pilihan 1 e and 2 z ketika tiga huruf diambil tanpa pengganti dari gezegz?
+1/10
+Dua huruf diambil tanpa pengganti dari {n: 1, x: 5, p: 2, e: 6, y: 1}. Berapa probabilitas pilihan 2 x?
+2/21
+Hitung probabilitas dari pilihan 2 l ketika dua huruf diambil tanpa pengganti dari {l: 5, j: 5}.
+2/9
+Empat huruf diambil tanpa pengganti dari aaaaaaaaa. Berapa probabilitas pilihan 4 a?
+1
+Dua huruf diambil tanpa pengganti dari nqops. Beri probabilitas dari pilihan 1 p and 1 o.
+1/10
+Tiga huruf diambil tanpa pengganti dari {j: 2, i: 1, n: 1, t: 1, u: 1, w: 1}. Berapa probabilitas pilihan 1 j, 1 t and 1 w?
+2/35
+Berapa probabilitas dari pilihan 1 h and 1 x ketika dua huruf diambil tanpa pengganti dari {u: 6, x: 2, h: 1, w: 2, d: 3, c: 1}?
+2/105
+Berapa probabilitas dari pilihan 1 j and 1 t ketika dua huruf diambil tanpa pengganti dari {l: 2, t: 1, j: 11}?
+11/91
+Hitung probabilitas dari pilihan 2 g, 1 p and 1 a ketika empat huruf diambil tanpa pengganti dari {a: 2, p: 1, g: 2, m: 4, k: 1}.
+1/105
+Hitung probabilitas dari pilihan 2 t and 2 k ketika empat huruf diambil tanpa pengganti dari tktttttkkttttkttttt.
+105/646
+Berapa probabilitas dari pilihan 2 n ketika dua huruf diambil tanpa pengganti dari knnkknnkkenkneeenkek?
+21/190
+Dua huruf diambil tanpa pengganti dari fzfzzzz. Beri probabilitas dari pilihan 2 f.
+1/21
+Berapa probabilitas dari pilihan 1 n and 2 z ketika tiga huruf diambil tanpa pengganti dari {n: 1, u: 9, z: 1, k: 7}?
+0
+Dua huruf diambil tanpa pengganti dari {v: 1, u: 4, a: 5}. Beri probabilitas dari pilihan 1 a and 1 u.
+4/9
+Tiga huruf diambil tanpa pengganti dari jjjvkbbbukpbb. Berapa probabilitas pilihan 2 j and 1 k?
+3/143
+Berapa probabilitas dari pilihan 1 x and 1 i ketika dua huruf diambil tanpa pengganti dari gvixgx?
+2/15
+Empat huruf diambil tanpa pengganti dari xxqmomqoxqxq. Berapa probabilitas pilihan 2 o, 1 x and 1 q?
+16/495
+Hitung probabilitas dari pilihan 1 c and 3 h ketika empat huruf diambil tanpa pengganti dari cxhcchh.
+3/35
+Berapa probabilitas dari pilihan 1 d and 1 a ketika dua huruf diambil tanpa pengganti dari {d: 2, y: 1, a: 2}?
+2/5
+Tiga huruf diambil tanpa pengganti dari {r: 1, e: 3}. Beri probabilitas dari pilihan 2 e and 1 r.
+3/4
+Tiga huruf diambil tanpa pengganti dari {y: 2, p: 1, g: 1, t: 1, k: 1, b: 1}. Berapa probabilitas pilihan 1 y, 1 k and 1 b?
+2/35
+Hitung probabilitas dari pilihan 2 w and 1 k ketika tiga huruf diambil tanpa pengganti dari hgwgkkgkkgw.
+4/165
+Dua huruf diambil tanpa pengganti dari hhyhhyhffyhhuyfhhj. Berapa probabilitas pilihan 1 h and 1 u?
+1/17
+Dua huruf diambil tanpa pengganti dari cllcblcmbdlbccbb. Beri probabilitas dari pilihan 1 b and 1 c.
+5/24
+Dua huruf diambil tanpa pengganti dari {v: 10, j: 9}. Beri probabilitas dari pilihan 2 j.
+4/19
+Hitung probabilitas dari pilihan 1 c and 2 j ketika tiga huruf diambil tanpa pengganti dari {c: 2, j: 17}.
+16/57
+Dua huruf diambil tanpa pengganti dari {h: 1, f: 2, u: 2, o: 1, e: 2}. Berapa probabilitas pilihan 2 f?
+1/28
+Dua huruf diambil tanpa pengganti dari {c: 2, l: 1, i: 1}. Beri probabilitas dari pilihan 1 i and 1 l.
+1/6
+Dua huruf diambil tanpa pengganti dari {e: 1, x: 2, p: 4, v: 1, h: 1}. Berapa probabilitas pilihan 1 e and 1 v?
+1/36
+Hitung probabilitas dari pilihan 4 r ketika empat huruf diambil tanpa pengganti dari {r: 5, q: 2}.
+1/7
+Berapa probabilitas dari pilihan 2 y ketika dua huruf diambil tanpa pengganti dari {c: 2, y: 8, w: 2}?
+14/33
+Berapa probabilitas dari pilihan 1 a, 1 r and 1 u ketika tiga huruf diambil tanpa pengganti dari uraaaraavvdv?
+1/22
+Dua huruf diambil tanpa pengganti dari {o: 1, z: 1, s: 1, e: 1, i: 1}. Berapa probabilitas pilihan 1 o and 1 e?
+1/10
+Dua huruf diambil tanpa pengganti dari {h: 5, p: 3}. Berapa probabilitas pilihan 1 p and 1 h?
+15/28
+Dua huruf diambil tanpa pengganti dari zznzmotuzuozmt. Beri probabilitas dari pilihan 2 u.
+1/91
+Hitung probabilitas dari pilihan 1 m and 1 v ketika dua huruf diambil tanpa pengganti dari {a: 3, l: 2, m: 8, i: 1, s: 1, v: 2}.
+2/17
+Hitung probabilitas dari pilihan 1 c and 1 s ketika dua huruf diambil tanpa pengganti dari cucssss.
+8/21
+Berapa probabilitas dari pilihan 1 r and 3 q ketika empat huruf diambil tanpa pengganti dari rrqqqqqrrrqqqqrqqrq?
+385/969
+Hitung probabilitas dari pilihan 3 o ketika tiga huruf diambil tanpa pengganti dari {g: 3, o: 3}.
+1/20
+Dua huruf diambil tanpa pengganti dari {x: 4, d: 3}. Beri probabilitas dari pilihan 2 x.
+2/7
+Hitung probabilitas dari pilihan 1 p, 2 t and 1 l ketika empat huruf diambil tanpa pengganti dari tttttbtttpbbplpltp.
+8/85
+Empat huruf diambil tanpa pengganti dari mmmommomoomommmmomm. Berapa probabilitas pilihan 1 o and 3 m?
+143/323
+Dua huruf diambil tanpa pengganti dari {k: 1, e: 1, b: 1, x: 2}. Berapa probabilitas pilihan 1 k and 1 x?
+1/5
+Empat huruf diambil tanpa pengganti dari mmulummwwmmbmluluuw. Berapa probabilitas pilihan 1 l, 1 w, 1 u and 1 b?
+15/1292
+Dua huruf diambil tanpa pengganti dari {s: 2, e: 3, d: 1, i: 1}. Beri probabilitas dari pilihan 1 e and 1 s.
+2/7
+Berapa probabilitas dari pilihan 3 h ketika tiga huruf diambil tanpa pengganti dari {h: 3, j: 2, f: 3}?
+1/56
+Dua huruf diambil tanpa pengganti dari {o: 5, t: 2, d: 2}. Berapa probabilitas pilihan 1 o and 1 d?
+5/18
+Tiga huruf diambil tanpa pengganti dari {p: 3, g: 9}. Beri probabilitas dari pilihan 3 g.
+21/55
+Dua huruf diambil tanpa pengganti dari {k: 2, r: 4, o: 1, y: 2, b: 1, j: 2}. Berapa probabilitas pilihan 1 b and 1 k?
+1/33
+Dua huruf diambil tanpa pengganti dari ssksosskksssksksss. Berapa probabilitas pilihan 1 k and 1 o?
+5/153
+Berapa probabilitas dari pilihan 1 t, 1 l and 1 n ketika tiga huruf diambil tanpa pengganti dari ninlqtlkktqk?
+2/55
+Empat huruf diambil tanpa pengganti dari yzzzyzyzyzyzkzzzznk. Beri probabilitas dari pilihan 1 z, 1 n, 1 y and 1 k.
+55/1938
+Empat huruf diambil tanpa pengganti dari mtwqe. Berapa probabilitas pilihan 3 w and 1 t?
+0
+Hitung probabilitas dari pilihan 2 d ketika dua huruf diambil tanpa pengganti dari {z: 3, d: 3}.
+1/5
+Empat huruf diambil tanpa pengganti dari cvcvlvcvlvcvvvvvlvl. Beri probabilitas dari pilihan 2 v and 2 c.
+55/646
+Tiga huruf diambil tanpa pengganti dari {y: 1, r: 1, i: 1, x: 1, n: 1}. Berapa probabilitas pilihan 2 i and 1 x?
+0
+Tiga huruf diambil tanpa pengganti dari {g: 1, v: 5, b: 13, r: 1}. Berapa probabilitas pilihan 1 r, 1 g and 1 v?
+1/228
+Hitung probabilitas dari pilihan 1 q, 1 e, 1 l and 1 v ketika empat huruf diambil tanpa pengganti dari {j: 1, e: 2, l: 2, r: 1, v: 1, q: 1}.
+2/35
+Hitung probabilitas dari pilihan 2 f and 1 r ketika tiga huruf diambil tanpa pengganti dari frdffrrddrrdrfrf.
+1/8
+Empat huruf diambil tanpa pengganti dari {m: 1, h: 1, l: 2, c: 1, w: 10, q: 3}. Beri probabilitas dari pilihan 2 w and 2 q.
+3/68
+Hitung probabilitas dari pilihan 1 a and 2 y ketika tiga huruf diambil tanpa pengganti dari yaaaaayaaa.
+1/15
+Tiga huruf diambil tanpa pengganti dari uiiuuqkukk. Berapa probabilitas pilihan 2 u and 1 i?
+1/10
+Dua huruf diambil tanpa pengganti dari uubbubbubu. Beri probabilitas dari pilihan 1 b and 1 u.
+5/9
+Dua huruf diambil tanpa pengganti dari gyygigygzpgpppygyyp. Beri probabilitas dari pilihan 1 y and 1 p.
+10/57
+Dua huruf diambil tanpa pengganti dari {r: 7, z: 1, o: 1, f: 3, c: 2}. Beri probabilitas dari pilihan 1 o and 1 f.
+3/91
+Dua huruf diambil tanpa pengganti dari {h: 1, f: 2}. Beri probabilitas dari pilihan 2 f.
+1/3
+Empat huruf diambil tanpa pengganti dari {j: 2, g: 9, t: 7}. Beri probabilitas dari pilihan 1 g, 2 t and 1 j.
+21/170
+Tiga huruf diambil tanpa pengganti dari hkkkkkkkkkh. Berapa probabilitas pilihan 1 h and 2 k?
+24/55
+Hitung probabilitas dari pilihan 2 f ketika dua huruf diambil tanpa pengganti dari uifiiifffiviiiiii.
+3/68
+Berapa probabilitas dari pilihan 2 p ketika dua huruf diambil tanpa pengganti dari {p: 17, s: 1}?
+8/9
+Hitung probabilitas dari pilihan 2 l and 1 z ketika tiga huruf diambil tanpa pengganti dari ielzielieli.
+1/55
+Dua huruf diambil tanpa pengganti dari gztgzgztztcmtmtgt. Berapa probabilitas pilihan 1 m and 1 g?
+1/17
+Dua huruf diambil tanpa pengganti dari nggccnnccgccgcggccn. Beri probabilitas dari pilihan 1 g and 1 n.
+8/57
+Hitung probabilitas dari pilihan 1 s, 1 v and 1 w ketika tiga huruf diambil tanpa pengganti dari csvwswsvveervwvews.
+5/51
+Berapa probabilitas dari pilihan 1 i and 1 a ketika dua huruf diambil tanpa pengganti dari {b: 3, l: 3, i: 3, x: 2, a: 3}?
+9/91
+Dua huruf diambil tanpa pengganti dari {q: 7, a: 6, n: 1, c: 1, e: 2}. Beri probabilitas dari pilihan 2 a.
+15/136
+Hitung probabilitas dari pilihan 1 j, 1 p and 1 g ketika tiga huruf diambil tanpa pengganti dari uiggggyupjugu.
+5/286
+Berapa probabilitas dari pilihan 2 y ketika dua huruf diambil tanpa pengganti dari {f: 1, y: 2, l: 4, u: 3}?
+1/45
+Tiga huruf diambil tanpa pengganti dari sxpssmmcmsmn. Beri probabilitas dari pilihan 1 c, 1 n and 1 s.
+1/55
+Berapa probabilitas dari pilihan 2 g ketika dua huruf diambil tanpa pengganti dari {x: 7, g: 3, p: 3, t: 3, b: 2}?
+1/51
+Tiga huruf diambil tanpa pengganti dari {d: 16, n: 4}. Beri probabilitas dari pilihan 1 n and 2 d.
+8/19
+Dua huruf diambil tanpa pengganti dari vfyfy. Berapa probabilitas pilihan 2 f?
+1/10
+Berapa probabilitas dari pilihan 1 n and 1 f ketika dua huruf diambil tanpa pengganti dari {m: 1, d: 1, a: 2, f: 1, n: 1, z: 2}?
+1/28
+Berapa probabilitas dari pilihan 1 k and 2 b ketika tiga huruf diambil tanpa pengganti dari {k: 5, b: 8}?
+70/143
+Hitung probabilitas dari pilihan 1 v and 1 x ketika dua huruf diambil tanpa pengganti dari xvxusxuftxux.
+5/66
+Berapa probabilitas dari pilihan 2 x and 2 j ketika empat huruf diambil tanpa pengganti dari {o: 2, j: 9, x: 7}?
+21/85
+Hitung probabilitas dari pilihan 1 j and 1 g ketika dua huruf diambil tanpa pengganti dari vjxjdjsjjgjsxj.
+1/13
+Berapa probabilitas dari pilihan 2 z and 2 n ketika empat huruf diambil tanpa pengganti dari sczzcznnncn?
+3/55
+Empat huruf diambil tanpa pengganti dari {j: 1, k: 1, l: 1, s: 1, m: 1}. Beri probabilitas dari pilihan 1 m, 1 s, 1 l and 1 k.
+1/5
+Tiga huruf diambil tanpa pengganti dari {d: 1, f: 1, t: 1, a: 2, s: 1, i: 1}. Berapa probabilitas pilihan 1 t and 2 a?
+1/35
+Dua huruf diambil tanpa pengganti dari {s: 2, k: 1, d: 1, e: 1, n: 1, i: 1}. Beri probabilitas dari pilihan 1 d and 1 e.
+1/21
+Hitung probabilitas dari pilihan 1 v and 1 u ketika dua huruf diambil tanpa pengganti dari {v: 1, q: 5, u: 4, t: 1}.
+4/55
+Dua huruf diambil tanpa pengganti dari jmbpemepyebjpbb. Beri probabilitas dari pilihan 1 m and 1 b.
+8/105
+Berapa probabilitas dari pilihan 1 t and 1 g ketika dua huruf diambil tanpa pengganti dari {d: 1, g: 2, t: 1, i: 2}?
+2/15
+Empat huruf diambil tanpa pengganti dari {m: 4, q: 13, c: 3}. Berapa probabilitas pilihan 2 m, 1 q and 1 c?
+78/1615
+Berapa probabilitas dari pilihan 1 p and 2 y ketika tiga huruf diambil tanpa pengganti dari {a: 4, y: 2, p: 6, w: 1}?
+3/143
+Hitung probabilitas dari pilihan 2 f ketika dua huruf diambil tanpa pengganti dari {f: 4, x: 1, a: 1, t: 1, o: 1}.
+3/14
+Hitung probabilitas dari pilihan 1 p, 1 f, 1 r and 1 m ketika empat huruf diambil tanpa pengganti dari {m: 1, f: 5, t: 3, p: 1, r: 1}.
+1/66
+Tiga huruf diambil tanpa pengganti dari tudktcd. Berapa probabilitas pilihan 1 c, 1 k and 1 u?
+1/35
+Tiga huruf diambil tanpa pengganti dari zzosovossz. Berapa probabilitas pilihan 1 s and 2 o?
+3/40
+Empat huruf diambil tanpa pengganti dari bbabbbbaabb. Berapa probabilitas pilihan 3 b and 1 a?
+28/55
+Hitung probabilitas dari pilihan 1 n, 1 e, 1 j and 1 m ketika empat huruf diambil tanpa pengganti dari {o: 1, e: 1, n: 2, m: 3, j: 5}.
+2/33
+Dua huruf diambil tanpa pengganti dari {k: 1, e: 5, f: 2, z: 1, b: 2, r: 2}. Beri probabilitas dari pilihan 1 b and 1 r.
+2/39
+Empat huruf diambil tanpa pengganti dari cucubrurui. Beri probabilitas dari pilihan 2 c, 1 i and 1 b.
+1/210
+Empat huruf diambil tanpa pengganti dari txttttxxiixitixxiti. Berapa probabilitas pilihan 2 i and 2 t?
+105/1292
+Berapa probabilitas dari pilihan 1 k and 1 v ketika dua huruf diambil tanpa pengganti dari kpvvz?
+1/5
+Hitung probabilitas dari pilihan 1 q and 2 g ketika tiga huruf diambil tanpa pengganti dari xxggxggxxgxqqggqg.
+21/170
+Hitung probabilitas dari pilihan 3 f ketika tiga huruf diambil tanpa pengganti dari {n: 5, f: 8}.
+28/143
+Hitung probabilitas dari pilihan 2 f and 2 j ketika empat huruf diambil tanpa pengganti dari {f: 2, j: 4}.
+2/5
+Berapa probabilitas dari pilihan 1 j and 1 z ketika dua huruf diambil tanpa pengganti dari ejzejeej?
+3/28
+Hitung probabilitas dari pilihan 1 i and 3 c ketika empat huruf diambil tanpa pengganti dari cccccccccccicicccccc.
+32/95
+Hitung probabilitas dari pilihan 1 p and 1 e ketika dua huruf diambil tanpa pengganti dari {n: 1, p: 4, e: 4, k: 1}.
+16/45
+Hitung probabilitas dari pilihan 2 b ketika dua huruf diambil tanpa pengganti dari {b: 7, y: 2}.
+7/12
+Empat huruf diambil tanpa pengganti dari zwvwwdvevdvwevvzfvwv. Beri probabilitas dari pilihan 1 v, 2 w and 1 f.
+16/969
+Empat huruf diambil tanpa pengganti dari pfpfpjjjfjpffffjj. Beri probabilitas dari pilihan 2 f and 2 p.
+9/170
+Tiga huruf diambil tanpa pengganti dari pggpatytffptg. Berapa probabilitas pilihan 1 a and 2 g?
+3/286
+Berapa probabilitas dari pilihan 1 h and 1 c ketika dua huruf diambil tanpa pengganti dari sfzhcsa?
+1/21
+Dua huruf diambil tanpa pengganti dari {v: 3, a: 6, k: 6}. Beri probabilitas dari pilihan 1 v and 1 k.
+6/35
+Hitung probabilitas dari pilihan 1 t, 1 w, 1 i and 1 u ketika empat huruf diambil tanpa pengganti dari twguigj.
+1/35
+Hitung probabilitas dari pilihan 1 s and 1 h ketika dua huruf diambil tanpa pengganti dari {b: 5, o: 1, h: 3, s: 2, z: 5}.
+1/20
+Empat huruf diambil tanpa pengganti dari {t: 4}. Beri probabilitas dari pilihan 4 t.
+1
+Berapa probabilitas dari pilihan 2 f ketika dua huruf diambil tanpa pengganti dari {k: 3, s: 6, z: 1, f: 2}?
+1/66
+Tiga huruf diambil tanpa pengganti dari {i: 1, v: 3, a: 6, t: 1, m: 3}. Beri probabilitas dari pilihan 3 a.
+5/91
+Tiga huruf diambil tanpa pengganti dari rrllrlrr. Beri probabilitas dari pilihan 3 r.
+5/28
+Tiga huruf diambil tanpa pengganti dari {v: 3, w: 3}. Berapa probabilitas pilihan 2 w and 1 v?
+9/20
+Tiga huruf diambil tanpa pengganti dari {s: 6, w: 4}. Beri probabilitas dari pilihan 3 w.
+1/30
+Berapa probabilitas dari pilihan 3 w and 1 b ketika empat huruf diambil tanpa pengganti dari {p: 3, w: 3, b: 6, i: 1}?
+6/715
+Hitung probabilitas dari pilihan 1 l and 2 w ketika tiga huruf diambil tanpa pengganti dari mlwwwwwwdgwlmw.
+2/13
+Dua huruf diambil tanpa pengganti dari eqreqqeqcqefeqfqrq. Beri probabilitas dari pilihan 1 c and 1 r.
+2/153
+Berapa probabilitas dari pilihan 1 z, 1 m, 1 v and 1 x ketika empat huruf diambil tanpa pengganti dari xxmbvvmvszss?
+4/165
+Empat huruf diambil tanpa pengganti dari {b: 5, c: 1, k: 2, d: 1, q: 3, a: 3}. Berapa probabilitas pilihan 1 c, 1 q, 1 k and 1 b?
+2/91
+Hitung probabilitas dari pilihan 1 w and 2 d ketika tiga huruf diambil tanpa pengganti dari ddtceeadeddddawcd.
+7/170
+Empat huruf diambil tanpa pengganti dari {k: 2, o: 3}. Berapa probabilitas pilihan 3 o and 1 k?
+2/5
+Hitung probabilitas dari pilihan 1 p and 1 w ketika dua huruf diambil tanpa pengganti dari {i: 4, p: 4, w: 1, k: 5, g: 1}.
+4/105
+Tiga huruf diambil tanpa pengganti dari iiiii. Berapa probabilitas pilihan 3 i?
+1
+Tiga huruf diambil tanpa pengganti dari ftttcfccfkfccftttt. Beri probabilitas dari pilihan 1 t and 2 f.
+35/408
+Hitung probabilitas dari pilihan 2 k and 2 b ketika empat huruf diambil tanpa pengganti dari tbkbbbbakkba.
+1/11
+Empat huruf diambil tanpa pengganti dari {h: 7, u: 1}. Berapa probabilitas pilihan 4 h?
+1/2
+Hitung probabilitas dari pilihan 2 f ketika dua huruf diambil tanpa pengganti dari {f: 4, t: 6, w: 3}.
+1/13
+Dua huruf diambil tanpa pengganti dari orboabbrobaabobad. Beri probabilitas dari pilihan 1 r and 1 b.
+3/34
+Empat huruf diambil tanpa pengganti dari {l: 9, b: 3, e: 2, q: 3, x: 2}. Beri probabilitas dari pilihan 2 e, 1 q and 1 b.
+3/1292
+Dua huruf diambil tanpa pengganti dari bbbobsoobobddbll. Berapa probabilitas pilihan 2 d?
+1/120
+Empat huruf diambil tanpa pengganti dari {e: 1, q: 2, m: 1}. Beri probabilitas dari pilihan 3 m and 1 q.
+0
+Berapa probabilitas dari pilihan 3 j ketika tiga huruf diambil tanpa pengganti dari {u: 4, j: 3}?
+1/35
+Dua huruf diambil tanpa pengganti dari {h: 2, s: 2, d: 1, x: 8, m: 2}. Beri probabilitas dari pilihan 1 d and 1 s.
+2/105
+Berapa probabilitas dari pilihan 1 l, 1 d, 1 u and 1 w ketika empat huruf diambil tanpa pengganti dari {w: 3, u: 1, j: 3, d: 1, l: 3}?
+3/110
+Tiga huruf diambil tanpa pengganti dari qdqsxxzd. Berapa probabilitas pilihan 2 s and 1 d?
+0
+Berapa probabilitas dari pilihan 1 r and 1 f ketika dua huruf diambil tanpa pengganti dari {f: 5, r: 13}?
+65/153
+Dua huruf diambil tanpa pengganti dari {v: 2, g: 8}. Berapa probabilitas pilihan 2 g?
+28/45
+Hitung probabilitas dari pilihan 2 f and 1 g ketika tiga huruf diambil tanpa pengganti dari gfffffkfkkfffgss.
+9/70
+Berapa probabilitas dari pilihan 1 p and 2 f ketika tiga huruf diambil tanpa pengganti dari fffppp?
+9/20
+Berapa probabilitas dari pilihan 1 i and 1 d ketika dua huruf diambil tanpa pengganti dari miwdhvdv?
+1/14
+Berapa probabilitas dari pilihan 3 s and 1 r ketika empat huruf diambil tanpa pengganti dari gggrsrrssss?
+1/11
+Tiga huruf diambil tanpa pengganti dari ttttttjjjttttttjtttt. Beri probabilitas dari pilihan 3 j.
+1/285
+Berapa probabilitas dari pilihan 4 j ketika empat huruf diambil tanpa pengganti dari jfjjxffjfx?
+1/210
+Tiga huruf diambil tanpa pengganti dari bttrccqql. Berapa probabilitas pilihan 1 c, 1 q and 1 l?
+1/21
+Hitung probabilitas dari pilihan 1 l and 2 s ketika tiga huruf diambil tanpa pengganti dari {s: 6, u: 1, t: 2, n: 1, l: 3}.
+45/286
+Tiga huruf diambil tanpa pengganti dari ieiifeftewief. Beri probabilitas dari pilihan 2 e and 1 f.
+9/143
+Dua huruf diambil tanpa pengganti dari {u: 2, d: 6}. Berapa probabilitas pilihan 1 d and 1 u?
+3/7
+Berapa probabilitas dari pilihan 1 j and 2 f ketika tiga huruf diambil tanpa pengganti dari {f: 11, j: 1, r: 2}?
+55/364
+Empat huruf diambil tanpa pengganti dari {h: 3, u: 8, y: 3, o: 1, f: 3, t: 1}. Berapa probabilitas pilihan 1 o, 1 y, 1 f and 1 t?
+3/1292
+Hitung probabilitas dari pilihan 2 z ketika dua huruf diambil tanpa pengganti dari zhzkzkxzszzkkzzzkxzh.
+9/38
+Hitung probabilitas dari pilihan 3 o ketika tiga huruf diambil tanpa pengganti dari {o: 13, b: 3}.
+143/280
+Hitung probabilitas dari pilihan 2 j and 1 x ketika tiga huruf diambil tanpa pengganti dari {x: 1, l: 2, j: 2}.
+1/10
+Berapa probabilitas dari pilihan 2 o and 1 t ketika tiga huruf diambil tanpa pengganti dari {n: 8, v: 1, t: 4, o: 5}?
+5/102
+Hitung probabilitas dari pilihan 3 a and 1 l ketika empat huruf diambil tanpa pengganti dari {a: 11, l: 1}.
+1/3
+Dua huruf diambil tanpa pengganti dari {v: 2, h: 8}. Berapa probabilitas pilihan 1 h and 1 v?
+16/45
+Dua huruf diambil tanpa pengganti dari luuxullwllllllllu. Beri probabilitas dari pilihan 2 u.
+3/68
+Tiga huruf diambil tanpa pengganti dari {v: 8, i: 5, q: 7}. Berapa probabilitas pilihan 1 i, 1 q and 1 v?
+14/57
+Hitung probabilitas dari pilihan 1 p and 1 r ketika dua huruf diambil tanpa pengganti dari {d: 5, t: 1, b: 3, r: 2, y: 1, p: 1}.
+1/39
+Dua huruf diambil tanpa pengganti dari mqqqqm. Berapa probabilitas pilihan 2 q?
+2/5
+Dua huruf diambil tanpa pengganti dari zzzn. Berapa probabilitas pilihan 1 z and 1 n?
+1/2
+Dua huruf diambil tanpa pengganti dari {z: 3, o: 4, q: 4, a: 8}. Beri probabilitas dari pilihan 1 z and 1 q.
+4/57
+Hitung probabilitas dari pilihan 1 w and 1 s ketika dua huruf diambil tanpa pengganti dari {s: 1, o: 3, h: 2, m: 4, w: 2}.
+1/33
+Hitung probabilitas dari pilihan 1 v, 1 t and 1 y ketika tiga huruf diambil tanpa pengganti dari {t: 8, s: 1, w: 3, v: 2, b: 5, y: 1}.
+4/285
+Dua huruf diambil tanpa pengganti dari {x: 4, l: 5, q: 10}. Beri probabilitas dari pilihan 2 l.
+10/171
+Tiga huruf diambil tanpa pengganti dari wunufnubwbabunanbfb. Berapa probabilitas pilihan 1 w, 1 f and 1 a?
+8/969
+Hitung probabilitas dari pilihan 1 z and 1 m ketika dua huruf diambil tanpa pengganti dari pzmqmmqqqmvqpmpzq.
+5/68
+Hitung probabilitas dari pilihan 1 t and 1 p ketika dua huruf diambil tanpa pengganti dari gthjtep.
+2/21
+Empat huruf diambil tanpa pengganti dari sjxsbsjjxs. Berapa probabilitas pilihan 2 s, 1 x and 1 b?
+2/35
+Berapa probabilitas dari pilihan 1 v and 2 b ketika tiga huruf diambil tanpa pengganti dari {t: 8, b: 7, d: 2, v: 3}?
+21/380
+Hitung probabilitas dari pilihan 1 q and 2 k ketika tiga huruf diambil tanpa pengganti dari {i: 1, d: 1, k: 2, q: 3}.
+3/35
+Berapa probabilitas dari pilihan 1 h, 1 p and 1 m ketika tiga huruf diambil tanpa pengganti dari mprdmhdfmdmr?
+1/55
+Empat huruf diambil tanpa pengganti dari sisobbioiowiweooo. Beri probabilitas dari pilihan 1 w, 1 i and 2 b.
+2/595
+Tiga huruf diambil tanpa pengganti dari {h: 3, b: 4, n: 9}. Beri probabilitas dari pilihan 2 n and 1 h.
+27/140
+Tiga huruf diambil tanpa pengganti dari hkkkvpkhkvvk. Berapa probabilitas pilihan 2 h and 1 p?
+1/220
+Berapa probabilitas dari pilihan 1 s, 1 e and 1 w ketika tiga huruf diambil tanpa pengganti dari {e: 1, j: 5, s: 3, w: 6}?
+18/455
+Hitung probabilitas dari pilihan 3 w and 1 g ketika empat huruf diambil tanpa pengganti dari {g: 1, z: 3, w: 1}.
+0
+Tiga huruf diambil tanpa pengganti dari {m: 1, i: 8, t: 2, s: 7}. Berapa probabilitas pilihan 1 t and 2 s?
+7/136
+Hitung probabilitas dari pilihan 2 p and 1 b ketika tiga huruf diambil tanpa pengganti dari {b: 9, p: 9}.
+27/68
+Dua huruf diambil tanpa pengganti dari {d: 1, p: 1, z: 2}. Berapa probabilitas pilihan 2 z?
+1/6
+Dua huruf diambil tanpa pengganti dari ooqogbcvgbcc. Berapa probabilitas pilihan 1 v and 1 c?
+1/22
+Dua huruf diambil tanpa pengganti dari {b: 1, p: 5, k: 3, a: 1, z: 3, y: 1}. Berapa probabilitas pilihan 2 p?
+10/91
+Berapa probabilitas dari pilihan 4 a ketika empat huruf diambil tanpa pengganti dari aiaxixxaxxaxiiixax?
+1/612
+Tiga huruf diambil tanpa pengganti dari {f: 2, v: 1, i: 2, g: 3, z: 3, w: 1}. Berapa probabilitas pilihan 2 z and 1 v?
+3/220
+Dua huruf diambil tanpa pengganti dari {h: 1, o: 1, c: 4, t: 2, g: 2}. Beri probabilitas dari pilihan 1 t and 1 o.
+2/45
+Berapa probabilitas dari pilihan 2 f and 2 v ketika empat huruf diambil tanpa pengganti dari {v: 3, w: 6, f: 6, t: 4}?
+15/1292
+Berapa probabilitas dari pilihan 1 w and 3 y ketika empat huruf diambil tanpa pengganti dari {y: 5, w: 4, q: 7}?
+2/91
+Dua huruf diambil tanpa pengganti dari fkfoutufku. Beri probabilitas dari pilihan 1 k and 1 o.
+2/45
+Berapa probabilitas dari pilihan 2 h and 2 x ketika empat huruf diambil tanpa pengganti dari {x: 5, a: 9, h: 2}?
+1/182
+Berapa probabilitas dari pilihan 2 g ketika dua huruf diambil tanpa pengganti dari ggbfkffbbbg?
+3/55
+Dua huruf diambil tanpa pengganti dari {e: 8, p: 5, i: 1, j: 5}. Beri probabilitas dari pilihan 1 j and 1 p.
+25/171
+Dua huruf diambil tanpa pengganti dari bdrccduprrudcbbccccu. Beri probabilitas dari pilihan 2 c.
+21/190
+Hitung probabilitas dari pilihan 1 x, 1 b and 2 h ketika empat huruf diambil tanpa pengganti dari {r: 2, b: 4, x: 3, h: 3, j: 2, l: 1}.
+12/455
+Dua huruf diambil tanpa pengganti dari {y: 4, g: 7, a: 4}. Beri probabilitas dari pilihan 1 g and 1 y.
+4/15
+Dua huruf diambil tanpa pengganti dari xytxdxxxxxpdpxdxdxxd. Berapa probabilitas pilihan 1 d and 1 p?
+1/19
+Empat huruf diambil tanpa pengganti dari uuuuuggg. Beri probabilitas dari pilihan 1 u and 3 g.
+1/14
+Hitung probabilitas dari pilihan 1 w and 1 z ketika dua huruf diambil tanpa pengganti dari {q: 4, w: 1, z: 3}.
+3/28
+Hitung probabilitas dari pilihan 3 p ketika tiga huruf diambil tanpa pengganti dari {p: 4, f: 1, n: 3}.
+1/14
+Empat huruf diambil tanpa pengganti dari {i: 5, c: 1, m: 4}. Beri probabilitas dari pilihan 1 c and 3 i.
+1/21
+Berapa probabilitas dari pilihan 1 h, 1 l and 2 y ketika empat huruf diambil tanpa pengganti dari {k: 1, l: 3, h: 2, y: 4, m: 2}?
+4/55
+Dua huruf diambil tanpa pengganti dari {w: 5, t: 5}. Berapa probabilitas pilihan 1 w and 1 t?
+5/9
+Dua huruf diambil tanpa pengganti dari lhhofla. Berapa probabilitas pilihan 1 f and 1 a?
+1/21
+Empat huruf diambil tanpa pengganti dari {m: 5, b: 1, t: 2, k: 5, i: 3}. Berapa probabilitas pilihan 1 i, 2 t and 1 m?
+3/364
+Berapa probabilitas dari pilihan 1 b and 1 l ketika dua huruf diambil tanpa pengganti dari {l: 1, b: 1, o: 1}?
+1/3
+Dua huruf diambil tanpa pengganti dari ryrraryyrgqyqgrrgry. Berapa probabilitas pilihan 2 y?
+10/171
+Hitung probabilitas dari pilihan 2 i and 1 q ketika tiga huruf diambil tanpa pengganti dari {i: 4, y: 4, t: 1, q: 1}.
+1/20
+Tiga huruf diambil tanpa pengganti dari bqqwn. Beri probabilitas dari pilihan 2 b and 1 n.
+0
+Berapa probabilitas dari pilihan 2 n and 2 x ketika empat huruf diambil tanpa pengganti dari {n: 2, c: 12, f: 1, r: 3, x: 2}?
+1/4845
+Dua huruf diambil tanpa pengganti dari {k: 4, l: 6, r: 3, b: 3, y: 1, o: 1}. Berapa probabilitas pilihan 1 r and 1 y?
+1/51
+Empat huruf diambil tanpa pengganti dari sesesssss. Beri probabilitas dari pilihan 4 s.
+5/18
+Berapa probabilitas dari pilihan 2 a ketika dua huruf diambil tanpa pengganti dari {e: 6, a: 13}?
+26/57
+Hitung probabilitas dari pilihan 1 w and 2 u ketika tiga huruf diambil tanpa pengganti dari {u: 14, w: 4}.
+91/204
+Dua huruf diambil tanpa pengganti dari gfhew. Beri probabilitas dari pilihan 1 h and 1 g.
+1/10
+Dua huruf diambil tanpa pengganti dari pwppwpwp. Beri probabilitas dari pilihan 2 p.
+5/14
+Hitung probabilitas dari pilihan 3 q ketika tiga huruf diambil tanpa pengganti dari qeeeeqeqccq.
+4/165
+Berapa probabilitas dari pilihan 1 z and 3 a ketika empat huruf diambil tanpa pengganti dari {z: 2, a: 4}?
+8/15
+Dua huruf diambil tanpa pengganti dari {y: 2, m: 2, e: 2, n: 1, k: 3, x: 2}. Beri probabilitas dari pilihan 2 k.
+1/22
+Hitung probabilitas dari pilihan 3 e and 1 u ketika empat huruf diambil tanpa pengganti dari {f: 3, u: 5, l: 3, h: 2, e: 7}.
+35/969
+Dua huruf diambil tanpa pengganti dari qeqeqqjj. Beri probabilitas dari pilihan 1 e and 1 q.
+2/7
+Dua huruf diambil tanpa pengganti dari {t: 4, j: 16}. Berapa probabilitas pilihan 2 t?
+3/95
+Hitung probabilitas dari pilihan 1 s and 1 a ketika dua huruf diambil tanpa pengganti dari {q: 1, s: 1, o: 2, x: 1, a: 2}.
+2/21
+Berapa probabilitas dari pilihan 2 o ketika dua huruf diambil tanpa pengganti dari oooo?
+1
+Berapa probabilitas dari pilihan 1 m and 1 j ketika dua huruf diambil tanpa pengganti dari jmnfgam?
+2/21
+Dua huruf diambil tanpa pengganti dari gggbvggvr. Berapa probabilitas pilihan 1 b and 1 v?
+1/18
+Berapa probabilitas dari pilihan 3 g and 1 t ketika empat huruf diambil tanpa pengganti dari {g: 4, t: 2}?
+8/15
+Hitung probabilitas dari pilihan 2 l and 1 h ketika tiga huruf diambil tanpa pengganti dari fhlhhlhhl.
+5/28
+Hitung probabilitas dari pilihan 3 r ketika tiga huruf diambil tanpa pengganti dari rrrurrurrurrurur.
+33/112
+Empat huruf diambil tanpa pengganti dari wwwww. Berapa probabilitas pilihan 4 w?
+1
+Dua huruf diambil tanpa pengganti dari {y: 2, s: 3, d: 2, w: 9}. Beri probabilitas dari pilihan 2 w.
+3/10
+Tiga huruf diambil tanpa pengganti dari gppppppp. Berapa probabilitas pilihan 3 p?
+5/8
+Empat huruf diambil tanpa pengganti dari bbbbbbbbb. Berapa probabilitas pilihan 4 b?
+1
+Dua huruf diambil tanpa pengganti dari {m: 7, n: 5}. Berapa probabilitas pilihan 1 n and 1 m?
+35/66
+Berapa probabilitas dari pilihan 3 j ketika tiga huruf diambil tanpa pengganti dari {v: 4, b: 4, f: 4, j: 7, o: 1}?
+7/228
+Dua huruf diambil tanpa pengganti dari {p: 2, n: 2, s: 3, l: 3, x: 6}. Beri probabilitas dari pilihan 1 p and 1 x.
+1/10
+Dua huruf diambil tanpa pengganti dari tbdbbdbttttdb. Berapa probabilitas pilihan 1 t and 1 b?
+25/78
+Empat huruf diambil tanpa pengganti dari cjfzazazjccacccaaaca. Beri probabilitas dari pilihan 1 f, 1 z and 2 j.
+1/1615
+Berapa probabilitas dari pilihan 2 w and 1 i ketika tiga huruf diambil tanpa pengganti dari rwiziwizzzoz?
+3/220
+Empat huruf diambil tanpa pengganti dari {k: 2, n: 2, b: 4, f: 1}. Berapa probabilitas pilihan 1 f, 1 b, 1 n and 1 k?
+8/63
+Empat huruf diambil tanpa pengganti dari nnmpammbnkmbkkn. Berapa probabilitas pilihan 1 a, 1 m and 2 k?
+4/455
+Tiga huruf diambil tanpa pengganti dari {i: 1, y: 3, x: 5, b: 3, w: 1}. Beri probabilitas dari pilihan 1 w, 1 y and 1 b.
+9/286
+Dua huruf diambil tanpa pengganti dari mtvttmvtttmttmtv. Beri probabilitas dari pilihan 2 v.
+1/40
+Empat huruf diambil tanpa pengganti dari {j: 7, o: 4, f: 5}. Beri probabilitas dari pilihan 2 o, 1 j and 1 f.
+3/26
+Hitung probabilitas dari pilihan 1 j and 1 s ketika dua huruf diambil tanpa pengganti dari {u: 2, q: 2, j: 1, s: 1}.
+1/15
+Tiga huruf diambil tanpa pengganti dari {d: 2, u: 1, m: 10, w: 3}. Berapa probabilitas pilihan 1 m and 2 w?
+3/56
+Tiga huruf diambil tanpa pengganti dari ehoxhehhoohohexhh. Berapa probabilitas pilihan 3 o?
+1/170
+Dua huruf diambil tanpa pengganti dari {u: 2, f: 2}. Beri probabilitas dari pilihan 2 u.
+1/6
+Berapa probabilitas dari pilihan 1 i, 1 r and 1 b ketika tiga huruf diambil tanpa pengganti dari iiirbririrriibrr?
+7/40
+Empat huruf diambil tanpa pengganti dari zloljlljljljz. Beri probabilitas dari pilihan 1 o, 1 z, 1 l and 1 j.
+48/715
+Tiga huruf diambil tanpa pengganti dari {i: 1, h: 3, p: 1, g: 5, a: 3}. Berapa probabilitas pilihan 3 a?
+1/286
+Tiga huruf diambil tanpa pengganti dari {k: 4, u: 8, m: 2, l: 2, v: 1, o: 3}. Beri probabilitas dari pilihan 2 l and 1 m.
+1/570
+Dua huruf diambil tanpa pengganti dari ramczrc. Beri probabilitas dari pilihan 1 r and 1 z.
+2/21
+Berapa probabilitas dari pilihan 3 u and 1 n ketika empat huruf diambil tanpa pengganti dari {u: 3, n: 1, g: 5}?
+1/126
+Hitung probabilitas dari pilihan 2 n and 1 l ketika tiga huruf diambil tanpa pengganti dari lmnmnfffnllnmlmllf.
+3/68
+Hitung probabilitas dari pilihan 2 k ketika dua huruf diambil tanpa pengganti dari kkkokokkkokookkkkk.
+26/51
+Empat huruf diambil tanpa pengganti dari {n: 7, v: 5}. Berapa probabilitas pilihan 1 n and 3 v?
+14/99
+Hitung probabilitas dari pilihan 1 m and 1 l ketika dua huruf diambil tanpa pengganti dari {o: 3, l: 5, d: 3, b: 1, m: 3}.
+1/7
+Tiga huruf diambil tanpa pengganti dari iciipcccsicnnscgcnci. Beri probabilitas dari pilihan 1 p, 1 s and 1 g.
+1/570
+Berapa probabilitas dari pilihan 2 z ketika dua huruf diambil tanpa pengganti dari zavz?
+1/6
+Hitung probabilitas dari pilihan 2 x and 1 f ketika tiga huruf diambil tanpa pengganti dari xxfxxxf.
+4/7
+Hitung probabilitas dari pilihan 1 g, 1 y and 1 l ketika tiga huruf diambil tanpa pengganti dari {g: 2, q: 2, a: 1, l: 3, y: 9, w: 1}.
+9/136
+Tiga huruf diambil tanpa pengganti dari icrprrpcvprrrrpcr. Berapa probabilitas pilihan 3 c?
+1/680
+Dua huruf diambil tanpa pengganti dari qlllqklql. Beri probabilitas dari pilihan 2 l.
+5/18
+Tiga huruf diambil tanpa pengganti dari vvvpppppwppw. Beri probabilitas dari pilihan 1 v and 2 w.
+3/220
+Berapa probabilitas dari pilihan 1 r and 2 p ketika tiga huruf diambil tanpa pengganti dari zuzrppzpruzrnr?
+3/91
+Dua huruf diambil tanpa pengganti dari cgcgoqogogo. Berapa probabilitas pilihan 1 q and 1 c?
+2/55
+Berapa probabilitas dari pilihan 1 c and 1 z ketika dua huruf diambil tanpa pengganti dari {z: 2, c: 1, k: 4, j: 2}?
+1/18
+Dua huruf diambil tanpa pengganti dari nnnnnn. Berapa probabilitas pilihan 2 n?
+1
+Berapa probabilitas dari pilihan 1 y, 1 d and 1 k ketika tiga huruf diambil tanpa pengganti dari {d: 7, k: 2, o: 4, y: 4, z: 1}?
+7/102
+Dua huruf diambil tanpa pengganti dari imnnt. Beri probabilitas dari pilihan 2 t.
+0
+Empat huruf diambil tanpa pengganti dari jomlmjm. Beri probabilitas dari pilihan 1 l, 1 m and 2 j.
+3/35
+Tiga huruf diambil tanpa pengganti dari awhwk. Beri probabilitas dari pilihan 1 a and 2 w.
+1/10
+Hitung probabilitas dari pilihan 3 q and 1 x ketika empat huruf diambil tanpa pengganti dari qllqqlxll.
+1/126
+Dua huruf diambil tanpa pengganti dari jjje. Berapa probabilitas pilihan 2 j?
+1/2
+Hitung probabilitas dari pilihan 1 q and 1 k ketika dua huruf diambil tanpa pengganti dari {k: 2, q: 2}.
+2/3
+Berapa probabilitas dari pilihan 2 x ketika dua huruf diambil tanpa pengganti dari {x: 3, y: 3}?
+1/5
+Berapa probabilitas dari pilihan 1 q and 1 w ketika dua huruf diambil tanpa pengganti dari {q: 8, w: 8, n: 2}?
+64/153
+Hitung probabilitas dari pilihan 1 n and 1 a ketika dua huruf diambil tanpa pengganti dari {n: 3, c: 1, a: 1}.
+3/10
+Empat huruf diambil tanpa pengganti dari iihhhhihhhohi. Beri probabilitas dari pilihan 4 i.
+1/715
+Dua huruf diambil tanpa pengganti dari {r: 5, u: 1, a: 1, n: 3}. Berapa probabilitas pilihan 2 n?
+1/15
+Hitung probabilitas dari pilihan 2 e, 1 c and 1 k ketika empat huruf diambil tanpa pengganti dari pcescsesscsssk.
+3/1001
+Tiga huruf diambil tanpa pengganti dari {d: 11, j: 1}. Beri probabilitas dari pilihan 2 d and 1 j.
+1/4
+Dua huruf diambil tanpa pengganti dari ufauuagauuuuuguuuuuf. Berapa probabilitas pilihan 1 g and 1 u?
+13/95
+Empat huruf diambil tanpa pengganti dari rrrkkkkk. Berapa probabilitas pilihan 1 r and 3 k?
+3/7
+Hitung probabilitas dari pilihan 1 t and 1 g ketika dua huruf diambil tanpa pengganti dari {t: 1, y: 2, g: 2, x: 6}.
+2/55
+Berapa probabilitas dari pilihan 2 r and 1 o ketika tiga huruf diambil tanpa pengganti dari rhrhrorh?
+3/28
+Berapa probabilitas dari pilihan 1 w and 1 n ketika dua huruf diambil tanpa pengganti dari {w: 5, n: 2}?
+10/21
+Tiga huruf diambil tanpa pengganti dari {r: 3, q: 5, u: 1, g: 4, k: 4, j: 3}. Berapa probabilitas pilihan 2 k and 1 r?
+3/190
+Berapa probabilitas dari pilihan 3 m ketika tiga huruf diambil tanpa pengganti dari mmmmhhhmhmmhmhmh?
+3/20
+Hitung probabilitas dari pilihan 1 i and 1 p ketika dua huruf diambil tanpa pengganti dari {t: 1, n: 2, i: 1, p: 2, b: 1, m: 1}.
+1/14
+Tiga huruf diambil tanpa pengganti dari iimtiiimiiiiii. Beri probabilitas dari pilihan 2 i and 1 t.
+55/364
+Hitung probabilitas dari pilihan 3 a and 1 e ketika empat huruf diambil tanpa pengganti dari {a: 4, k: 2, r: 4, e: 1}.
+2/165
+Hitung probabilitas dari pilihan 1 y and 1 g ketika dua huruf diambil tanpa pengganti dari {z: 5, q: 1, y: 1, g: 1, d: 9}.
+1/136
+Empat huruf diambil tanpa pengganti dari {u: 5, e: 15}. Berapa probabilitas pilihan 3 e and 1 u?
+455/969
+Dua huruf diambil tanpa pengganti dari eeeebeeeebeeeebeeeb. Beri probabilitas dari pilihan 2 e.
+35/57
+Dua huruf diambil tanpa pengganti dari yyuuuuyyuuyuyyuuyyu. Berapa probabilitas pilihan 2 u?
+5/19
+Berapa probabilitas dari pilihan 2 x ketika dua huruf diambil tanpa pengganti dari {b: 5, x: 7}?
+7/22
+Tiga huruf diambil tanpa pengganti dari {y: 1, x: 2, k: 2, s: 4, o: 3, l: 3}. Beri probabilitas dari pilihan 1 x, 1 y and 1 s.
+8/455
+Hitung probabilitas dari pilihan 1 b and 3 e ketika empat huruf diambil tanpa pengganti dari {e: 3, b: 2}.
+2/5
+Berapa probabilitas dari pilihan 2 j ketika dua huruf diambil tanpa pengganti dari tajjta?
+1/15
+Hitung probabilitas dari pilihan 1 a and 1 s ketika dua huruf diambil tanpa pengganti dari nfaaasafnaaff.
+1/13
+Tiga huruf diambil tanpa pengganti dari {q: 2, w: 1, a: 1, l: 2, f: 3, h: 10}. Berapa probabilitas pilihan 2 q and 1 l?
+2/969
+Berapa probabilitas dari pilihan 1 e and 2 z ketika tiga huruf diambil tanpa pengganti dari zzezzzzz?
+3/8
+Hitung probabilitas dari pilihan 4 h ketika empat huruf diambil tanpa pengganti dari {f: 1, k: 2, u: 1, h: 9}.
+126/715
+Hitung probabilitas dari pilihan 2 r ketika dua huruf diambil tanpa pengganti dari {q: 2, f: 1, r: 3, u: 2, h: 4}.
+1/22
+Empat huruf diambil tanpa pengganti dari {h: 1, j: 18}. Beri probabilitas dari pilihan 4 j.
+15/19

@@ -1,0 +1,666 @@
+Misalkan g = -292 - -292.5. Misalkan r = -4 + 1. Misalkan t be r - 67/69 - (0 + -4). Manakah yang terdekat dari 1?  (a) 2/7  (b) t  (c) g
+c
+Misalkan f = -8.505 - -1.505. Manakah yang terdekat dari 91?  (a) f  (b) 0.3  (c) 5
+c
+Misalkan h = -5.88 - 0.12. Misalkan t = h + 1. Misalkan s be -1 + -18 + 31 + -16. Manakah yang terdekat dari t?  (a) 3/8  (b) 5  (c) s
+c
+Misalkan 2*y - 5*y = 135. Misalkan o = y - -78. Misalkan l = 263/8 - o. Manakah yang terdekat dari 1 pada 0.3, l, -0.4?
+0.3
+Misalkan t = -0.4118 + 0.0986. Misalkan g = t - -0.0132. Manakah yang terdekat dari 1/8 pada 3/2, 6, -0.5, g?
+g
+Misalkan q = -376.444 + -0.556. Misalkan l = q + 370. Manakah yang terdekat dari -0.1?  (a) -4  (b) l  (c) -3/4  (d) 3/4
+c
+Misalkan p be (-32 + 26 + (-3 - 10/(-1)))/(-3). Misalkan i = 756.99 + -752. Misalkan k = 0.01 + i. Manakah yang terdekat dari p?  (a) -5  (b) k  (c) -3/4
+c
+Misalkan k = -54 + 213/4. Misalkan v = -8 - -8. Misalkan i = -0.135 - 0.265. Manakah yang terdekat dari k?  (a) 3  (b) i  (c) v
+b
+Misalkan i = 8.4 - 4.6. Misalkan w = -22.2 - i. Misalkan y = 24 + w. Manakah yang terdekat dari 0?  (a) 6  (b) y  (c) 1/9
+c
+Misalkan 33*j + 150 = 27*j. Misalkan z = -24 - j. Manakah yang terdekat dari z?  (a) -0.4  (b) 5  (c) -6
+a
+Misalkan n be 480/(-240) + -10*3/(-18). Manakah yang terdekat dari n?  (a) -1.4  (b) 18  (c) -5  (d) -1
+d
+Misalkan k = 0.6 - 1. Misalkan p = 0.7 - 0.3. Misalkan q = 2.7165 - 2.5165. Manakah yang terdekat dari 0.06?  (a) k  (b) p  (c) q
+c
+Misalkan h = 0.03 + 2.97. Misalkan s = 105561.8 - 105566. Manakah yang terdekat dari 0.1 pada 2, s, h?
+2
+Misalkan s(y) = -9*y**3 + 35*y**2 + 32*y - 110. Misalkan f be s(4). Manakah yang terdekat dari 1/9?  (a) -3  (b) f  (c) 3
+b
+Misalkan q = -201 + 3414/17. Misalkan y be (-3)/12 + (-231)/(-28). Misalkan i be 4/18 + y/(-9). Manakah yang terdekat dari 3 pada i, 0.4, q?
+0.4
+Misalkan k = -2 + 2. Misalkan l be 10 + (-8 - 3) - 3. Misalkan v = -0.015 - -0.115. Manakah yang terdekat dari k?  (a) v  (b) -0.2  (c) l
+a
+Misalkan t(p) = p**2 - 1. Misalkan u be t(-3). Misalkan -6*i = -u*i - 8. Misalkan q = 7/2 + i. Manakah yang terdekat dari q pada -2/9, 5, -1/3?
+-1/3
+Misalkan z = -1.8355 - -0.8355. Manakah yang terdekat dari 0?  (a) 0  (b) 0.2  (c) z
+a
+Misalkan y = 33775 - 33774. Manakah yang terdekat dari y pada -22, -9, -5, -2?
+-2
+Misalkan z = 0.1 - 0.2. Misalkan d = -24477 + 24446. Manakah yang terdekat dari z pada -2/9, 0.5, d?
+-2/9
+Misalkan a be (-12040)/(-28509) - (-4)/102. Manakah yang terdekat dari 1/3 pada 14, -2/11, a?
+a
+Misalkan d = -1.1 - -1.2. Misalkan x = -1521/4 - -380. Manakah yang terdekat dari d pada 2/5, x, 4?
+2/5
+Misalkan q = 1 - 0.9. Misalkan v = 0.0415 + -0.8415. Manakah yang terdekat dari -1?  (a) q  (b) 0.4  (c) v
+c
+Misalkan x = 98 + -69. Misalkan m = -35.6 + x. Misalkan d = -7 - m. Manakah yang terdekat dari 2/3?  (a) 5  (b) d  (c) 0.1
+c
+Misalkan z = -3.814 + -0.186. Misalkan q = 0.1 + 0.1. Misalkan v = 0.17 - q. Manakah yang terdekat dari -2/9?  (a) v  (b) 6/7  (c) z
+a
+Misalkan z = -1635 - -1639. Manakah yang terdekat dari -23 pada 1/8, -4, z?
+-4
+Misalkan l = 8.29 - 3.29. Misalkan i = -1070 - -7488/7. Misalkan m = -3 - -2.95. Manakah yang terdekat dari 2/5?  (a) m  (b) i  (c) l
+a
+Misalkan f = -239 - -385. Misalkan b = -114.2 + f. Misalkan y = b - 32. Manakah yang terdekat dari -1 pada -1/3, -8, y?
+-1/3
+Misalkan m = 0.022 - -1.978. Misalkan 0 = 4*s + 5*f - 4 + 17, s + 2*f = -7. Misalkan u be 2/5 + s - 3. Manakah yang terdekat dari -1 pada -0.5, m, u?
+-0.5
+Misalkan u = 0.69 + 0.01. Misalkan i(d) = d - 1. Misalkan r be i(-2). Misalkan j = 0.1637 + -1.1637. Manakah yang terdekat dari j?  (a) u  (b) 4  (c) r
+a
+Misalkan r = -2.9 - -2.65. Misalkan b = 2.75 + r. Misalkan y = b - 2.9. Manakah yang terdekat dari 0.1 pada -1/2, y, 2/11?
+2/11
+Misalkan n be (-26 - 1) + (-2788)/(-102). Manakah yang terdekat dari -1 pada -0.6, -1, -3, n?
+-1
+Misalkan g = -143455 + 143450. Misalkan r = -113 - -563/5. Manakah yang terdekat dari 1/2 pada g, r, -4?
+r
+Misalkan d = -1.56 + 0.56. Misalkan q = -62.5 + 62. Manakah yang terdekat dari d?  (a) 2/13  (b) q  (c) -5
+b
+Misalkan f = 24336 + -24338. Manakah yang terdekat dari -9 pada -4, 0, f?
+-4
+Misalkan o = 785.9 - 785.95. Manakah yang terdekat dari 1 pada o, -1/3, 5, 4?
+o
+Misalkan h = 50 - 49.6. Misalkan z = 805/597 + -3/199. Misalkan a = -0.8 - -1. Manakah yang terdekat dari h pada -4, z, a?
+a
+Misalkan f = 2.07 - -1.93. Misalkan w = -1/1674 + -503/92070. Misalkan n = -337/1155 - w. Manakah yang terdekat dari 7?  (a) 2/9  (b) f  (c) n
+b
+Misalkan h = 15.3 + -15.2. Misalkan f be (15/18)/(7/((-56)/(-10))). Manakah yang terdekat dari h?  (a) -51  (b) f  (c) -2
+b
+Misalkan l = -46 + 41. Misalkan d(x) = -7*x - 39. Misalkan g be d(l). Manakah yang terdekat dari 3/5?  (a) -5  (b) g  (c) -1/5
+c
+Misalkan v = -14 - -12. Misalkan o = 1.8128 - 0.1128. Manakah yang terdekat dari o pada -2/7, -3/7, v?
+-2/7
+Misalkan z = -112.51 - -113.01. Manakah yang terdekat dari 10.5?  (a) -2.6  (b) z  (c) 1
+c
+Misalkan r be (-1)/6*1*32/(-24). Misalkan i = -188 - -6767/36. Misalkan n = i - r. Manakah yang terdekat dari n pada -2, -1/2, 10?
+-1/2
+Misalkan n = 1191.3 + -1191.2. Manakah yang terdekat dari 0?  (a) -4  (b) -0.5  (c) 23/3  (d) n
+d
+Misalkan v = 5611 + -5611. Misalkan y = -2 - -3. Manakah yang terdekat dari -1 pada 3, v, 5, y?
+v
+Misalkan m = -16 + 16. Misalkan y = -42.9 - -3.9. Misalkan w = y - -38.9. Manakah yang terdekat dari 0 pada w, 1, m?
+m
+Misalkan x be (9 - 6)/((-50)/(-4) - -1). Misalkan i = -0.386 - -32.586. Misalkan p = i + -32. Manakah yang terdekat dari 0?  (a) 2  (b) p  (c) x
+b
+Misalkan z = 4.7 + -4.6. Misalkan t = 41 + -49. Manakah yang terdekat dari z?  (a) -1/3  (b) t  (c) 4/9  (d) 3
+c
+Misalkan j = -75 + 73.65. Misalkan r = 1.35 + j. Manakah yang terdekat dari 0 pada 1/7, r, -2/5?
+r
+Misalkan a = -32.972 - -38. Misalkan d = -8 + 8.028. Misalkan z = a - d. Manakah yang terdekat dari 7 pada 3/5, 0.5, z?
+z
+Misalkan k(p) = 498*p + 1988. Misalkan l be k(-4). Manakah yang terdekat dari 0 pada l, 2111, 1, -3?
+1
+Misalkan q be -1 + 12 + (98 - 289). Manakah yang terdekat dari q?  (a) -0.5  (b) 2/7  (c) -9
+c
+Misalkan -l - 8 = 4*g - 0*l, 0 = -l + 4. Misalkan b be (2 - 1) + (-7)/5. Manakah yang terdekat dari 1/3 pada 0.2, b, g?
+0.2
+Misalkan t be (-32)/(-102)*(-6939)/3084. Manakah yang terdekat dari 4 pada t, 0.05, 0?
+0.05
+Misalkan m = 4203 - 4202. Manakah yang terdekat dari m?  (a) -0.4  (b) -1/4  (c) -1/5  (d) 3.6
+c
+Misalkan f be (-1)/(-5) + 32/(-10). Misalkan k be (16/(-84))/(9/(-27)). Manakah yang terdekat dari k?  (a) 0.2  (b) f  (c) 3/2
+a
+Misalkan o = -51651/7 - -7379. Manakah yang terdekat dari 0 pada -2/11, -66, -5, o?
+-2/11
+Misalkan p = -5.7 - -6. Misalkan -2*x + 0*x = 3*t + 3, 4*x + 1 = -t. Misalkan u = 2665/36 - 655/9. Manakah yang terdekat dari u pada t, 0, p?
+p
+Misalkan n = -2682/19 + 13543/95. Manakah yang terdekat dari -2 pada 6/29, n, -2?
+-2
+Misalkan f = 65835 - 131669/2. Misalkan p = 0.8 - -20.2. Manakah yang terdekat dari f?  (a) -4  (b) -5  (c) p
+a
+Misalkan h(u) = 2*u**2 + 11. Misalkan w be h(3). Misalkan y be (-62)/16 - (25 - w). Manakah yang terdekat dari 0?  (a) y  (b) 10  (c) -0.3
+a
+Misalkan k = -4/1453 - -2942/13077. Misalkan c be 2*((-15)/2)/5. Manakah yang terdekat dari k pada -5, 2, c?
+2
+Misalkan r = -239 - -315. Misalkan s = -92 + r. Manakah yang terdekat dari -0.1?  (a) s  (b) 2  (c) 0
+c
+Misalkan l = -0.5 - 0.5. Misalkan c = 1118 + -1118.18. Manakah yang terdekat dari c pada 2, -3, l?
+l
+Misalkan r = -7.8987 + -0.1013. Manakah yang terdekat dari 0?  (a) 1  (b) r  (c) -3.6  (d) 5
+a
+Misalkan m = -324 + 321. Misalkan d = 32.9 - 45. Misalkan u = 12 + d. Manakah yang terdekat dari u?  (a) 6/11  (b) 3  (c) m
+a
+Misalkan h be (-78)/42 + (-76)/(-38). Manakah yang terdekat dari -2/19?  (a) -2/23  (b) 2/3  (c) h  (d) -3
+a
+Misalkan f be (-3)/18*200/75. Manakah yang terdekat dari f pada -3, -0.4, 4, -5?
+-0.4
+Misalkan -10*q - 11*q + 15 + 27 = 0. Manakah yang terdekat dari q pada -4, 3.8, 1?
+1
+Misalkan -z = 5*n - 24 - 1, 4*n - 5*z = 20. Misalkan f = -2/21 - 32/105. Manakah yang terdekat dari 2/3?  (a) -3  (b) n  (c) f  (d) 0.1
+d
+Misalkan -16 = -67*w + 252. Manakah yang terdekat dari -0.5 pada 2/5, 2/17, w?
+2/17
+Misalkan s = -2.01776 - -1.91776. Misalkan h(l) = -2*l - 6. Misalkan w be h(-5). Manakah yang terdekat dari s pada 0, 2/13, w?
+0
+Misalkan r = 4026.3 + -4026. Manakah yang terdekat dari -2/3?  (a) -1/278  (b) -2  (c) r
+a
+Misalkan d be 6*1/(-21)*-1. Misalkan v = -123 + 125. Misalkan u = -2.8 + 2.6. Manakah yang terdekat dari v pada d, -0.5, u?
+d
+Misalkan m = 16251 - 16254.64. Manakah yang terdekat dari -2/7 pada 2/17, -5, m, -0.4?
+-0.4
+Misalkan j = 2.2003 - -0.7997. Manakah yang terdekat dari j pada -4, -23, -0.1?
+-0.1
+Misalkan i = -22 + 38. Misalkan g = i + -14. Misalkan q = -7/48 + 11/240. Manakah yang terdekat dari 1/2 pada -1/8, q, g?
+q
+Misalkan -f = -2*g + 1, -5*f = -g - 227 + 214. Manakah yang terdekat dari 0.45?  (a) -2  (b) f  (c) 1
+c
+Misalkan 237 = -f - 3*l - 216, 0 = 2*l - 6. Misalkan j be 50/(-825) + 104/f. Misalkan n = 0 - 0.02. Manakah yang terdekat dari n pada 4, j, -3/8?
+j
+Misalkan h = -10/3 - -29/6. Misalkan k = -16 - -14. Misalkan f be 6/k - (5 - 7). Manakah yang terdekat dari 0.03 pada -2/9, h, f?
+-2/9
+Misalkan f = -1.085 - 68.915. Manakah yang terdekat dari 1?  (a) -1  (b) -1/4  (c) -0.05  (d) f
+c
+Misalkan p = -1020.7 + 1080. Misalkan n = -64.3 + p. Manakah yang terdekat dari 0.3 pada 2/3, 14, n, 0.5?
+0.5
+Misalkan a = 1.27 - -2.76. Misalkan i = a + -4.13. Manakah yang terdekat dari -0.2 pada i, 3/2, -2?
+i
+Misalkan q = 10/47 - 265/141. Manakah yang terdekat dari 8?  (a) -0.2  (b) -1/2  (c) q
+a
+Misalkan g = 0.00299 - -3.99701. Manakah yang terdekat dari -4?  (a) -20  (b) g  (c) 0.2
+c
+Misalkan g = 1698.2 - 1698. Manakah yang terdekat dari g?  (a) 1  (b) -0.5  (c) -2.8
+b
+Misalkan a = 0.8 + -0.4. Misalkan t = -413 + 412.9. Manakah yang terdekat dari t pada a, 0.06, -4?
+0.06
+Misalkan f = 22128 + -22132. Manakah yang terdekat dari 0.4 pada -0.3, -296, f?
+-0.3
+Misalkan o(u) = 3 - u. Misalkan x be o(3). Misalkan g = -167294 + 167297. Manakah yang terdekat dari x pada g, -1, -2/33?
+-2/33
+Misalkan j = 2458.5 + -2458. Manakah yang terdekat dari 9?  (a) 38/5  (b) j  (c) -0.2
+a
+Misalkan p = -425/4 - -107. Misalkan v = 242 - 243. Manakah yang terdekat dari 0.1 pada p, 4, v?
+p
+Misalkan r = 154.623 + -0.623. Misalkan b = -148 + r. Manakah yang terdekat dari -2 pada 4, 3, b?
+3
+Misalkan y = 0.73 - -0.02. Misalkan l = 1.05 - y. Manakah yang terdekat dari -0.36?  (a) l  (b) 1/4  (c) -4
+b
+Misalkan n = -1634.4 - -1634. Manakah yang terdekat dari n?  (a) -6  (b) 2  (c) -17
+b
+Misalkan v = -611 - -1037. Misalkan o = 428.19 - v. Misalkan p = 0.19 - o. Manakah yang terdekat dari p pada -3/4, -0.2, 0?
+-3/4
+Misalkan f = 5802 + -5800.7. Manakah yang terdekat dari -0.1 pada 1, -10/3, f?
+1
+Misalkan l be 2158/((4 + 3)*2). Misalkan i = l + -154. Misalkan 5*t - t = k + 12, t + 4*k = 20. Manakah yang terdekat dari 1/2?  (a) -0.5  (b) i  (c) t
+b
+Misalkan 3*u + 0*u = -21. Misalkan 0 = -957*q + 942*q + 75. Manakah yang terdekat dari u pada q, -2, 2, 2/7?
+-2
+Misalkan z be -5*(-18)/(-10)*1/6. Manakah yang terdekat dari -0.1?  (a) 89  (b) -5  (c) z
+c
+Misalkan q be (223 - 215)*(-1)/2. Misalkan d = 2 - 1. Manakah yang terdekat dari q?  (a) 0  (b) d  (c) 2
+a
+Misalkan -4*r + t - 50 = r, -2*r - 2*t - 8 = 0. Misalkan h be r/(-6) - 6 - -2. Manakah yang terdekat dari 0.1 pada h, -10, 0.2, -1?
+0.2
+Misalkan i = -3.891 - -4.191. Manakah yang terdekat dari -1?  (a) -4  (b) -1/2  (c) i  (d) 2/73
+b
+Misalkan c(j) = -j**2 + 10*j + 14. Misalkan q be c(-14). Misalkan b = q - -1612/5. Manakah yang terdekat dari b pada 14, -1/3, -3/2?
+-1/3
+Misalkan i be (18/(-5) - (-537)/895)*(-2)/45. Manakah yang terdekat dari -0.2 pada 0.2, 10, -4, i?
+i
+Misalkan 5*r + 3 - 3 = -10. Manakah yang terdekat dari r pada 5/3, 0, -11?
+0
+Misalkan s be (-7)/(28/24) - (-9)/3. Misalkan x be 10/s*(-4)/(-10). Misalkan t be ((-6)/2)/(3/(-2)). Manakah yang terdekat dari 1?  (a) x  (b) t  (c) 2/15
+c
+Misalkan h = 38.9 + -45.9. Manakah yang terdekat dari -1/3 pada 24, h, 0.3?
+0.3
+Misalkan 2*r + z - 8 + 2 = 0, 4 = -r + 3*z. Misalkan 302 = 5*u + 317. Misalkan k = -3 + 1. Manakah yang terdekat dari r pada -5, u, k?
+k
+Misalkan j = 62/39 + -63/26. Manakah yang terdekat dari 1/3?  (a) -2  (b) j  (c) 10  (d) -0.4
+d
+Misalkan o = -0.44 - -0.24. Misalkan x = -0.52 - -1.02. Manakah yang terdekat dari x?  (a) 0  (b) 0.5  (c) o
+b
+Misalkan p = -28356 + 28361. Manakah yang terdekat dari -78?  (a) 0.7  (b) 1  (c) -1  (d) p
+c
+Misalkan i = 2136 - 10678/5. Manakah yang terdekat dari i?  (a) 2/31  (b) 12  (c) 16
+a
+Misalkan a be 3/12*6*2. Misalkan -7 = a*g + 11. Misalkan v be g + 2 - (2 + 0). Manakah yang terdekat dari v pada -3, -4, -0.2?
+-4
+Misalkan i = 9.221 + -9.89. Misalkan w = 0.369 + i. Manakah yang terdekat dari 0.056?  (a) 0.4  (b) w  (c) -5
+a
+Misalkan m = 1567 + -1567. Manakah yang terdekat dari -1?  (a) 0.2  (b) m  (c) 0.04  (d) -17
+b
+Misalkan 8*q - 32 + 0 = 0. Misalkan n(r) = -r**3 + 14*r**2 + 39*r - 114. Misalkan a be n(16). Manakah yang terdekat dari -1 pada a, -1, -15/8, q?
+-1
+Misalkan g = -910 - -862.3. Misalkan q = -875 + 827. Misalkan u = g - q. Manakah yang terdekat dari -0.1 pada u, 2, -2/9?
+-2/9
+Misalkan d = -8 - -9. Misalkan w = -326 + 330. Manakah yang terdekat dari 0?  (a) -12  (b) d  (c) w
+b
+Misalkan v = 15360259/63 + -243821. Misalkan i = v + 65/9. Manakah yang terdekat dari 0.1?  (a) -0.4  (b) -0.1  (c) i  (d) -3/2
+b
+Misalkan m = 1363.68 + -1364. Manakah yang terdekat dari 5 pada -1, m, -4?
+m
+Misalkan q = 28 - 27.91. Misalkan m = 3.91 + q. Misalkan 3*n + 8 - 2 = 0. Manakah yang terdekat dari n pada 0.1, 2/5, m?
+0.1
+Misalkan j be 22/143 + 151/(-1066). Manakah yang terdekat dari j pada 4/3, -5, -3, 4?
+4/3
+Misalkan g = -65 + 187. Misalkan z = g + -114. Manakah yang terdekat dari -1 pada 3, 5, z?
+3
+Misalkan y = 0.42 - 0.02. Misalkan j = 151374/7 - 21625. Manakah yang terdekat dari -0.4?  (a) j  (b) y  (c) -0.01  (d) 2
+a
+Misalkan w be 5 + 0*3/6. Misalkan o = 189.2 - 189. Misalkan p = 3.5 - 3.8. Manakah yang terdekat dari o?  (a) w  (b) p  (c) 0.4
+c
+Misalkan s = -249/5 - -50. Manakah yang terdekat dari 2/5?  (a) s  (b) 2/21  (c) -0.5
+a
+Misalkan v = -6135 + 423313/69. Manakah yang terdekat dari -2 pada v, 3, 0.5?
+v
+Misalkan n(m) = m**3 - 15*m**2 + 71*m - 106. Misalkan l be n(6). Misalkan g = -0*g + 12. Manakah yang terdekat dari 1?  (a) l  (b) -2  (c) g
+b
+Misalkan y = 9 - -143. Misalkan t = 151.9 - y. Manakah yang terdekat dari t pada 4/11, -3/5, -0.4?
+-0.4
+Misalkan b = 0.4 + 6.6. Misalkan z = b + -3. Misalkan -3*f - 3*d - 30 = 0, 0 = 5*f + 396*d - 397*d - 16. Manakah yang terdekat dari f pada 3, -0.01, z?
+-0.01
+Misalkan x = 0.496 - -2.504. Misalkan p = -3/112 - 23/336. Manakah yang terdekat dari 4 pada x, 4, p?
+4
+Misalkan h(z) = -z**3 + 14*z**2 - 39*z - 7. Misalkan m be h(10). Misalkan q = 1.5 - 1. Manakah yang terdekat dari 2?  (a) q  (b) 2  (c) m
+b
+Misalkan y = 0.04 + 0.36. Misalkan n = -0.2011 - 0.0989. Manakah yang terdekat dari 1?  (a) y  (b) n  (c) -0.03
+a
+Misalkan q = 1332095/128 + -10407. Manakah yang terdekat dari -0.1?  (a) q  (b) 0.5  (c) -0.3
+a
+Misalkan h be (-4 + (6/3 - -4))/(7/273). Manakah yang terdekat dari -1 pada -2, -0.2, -3, h?
+-0.2
+Misalkan v = 395/2 + -196. Misalkan t(u) = 4*u - 22. Misalkan i be t(6). Manakah yang terdekat dari i?  (a) 0  (b) v  (c) -0.3
+b
+Misalkan -4*d - 48 = -2*d. Misalkan g = -18460 + 18460. Manakah yang terdekat dari g?  (a) -0.2  (b) d  (c) 1/6
+c
+Misalkan v = -28065.06 - -28065. Manakah yang terdekat dari v?  (a) -0.4  (b) 5  (c) 1/4  (d) -17
+c
+Misalkan q be (243639/286)/((-42)/8). Misalkan r = -1168/7 - q. Misalkan s = 56/13 + r. Manakah yang terdekat dari s pada 1/2, 2, -8?
+1/2
+Misalkan i = -6.7 + 7. Misalkan l be 739 + -740 - (-6)/10. Manakah yang terdekat dari l?  (a) 4  (b) i  (c) 3/7
+b
+Misalkan t be (95/(-1862)*-21)/((-36)/(-42)). Manakah yang terdekat dari -3/7?  (a) 1/33  (b) 1  (c) t
+a
+Misalkan u = -252 - -251. Misalkan a = -579 + 590. Manakah yang terdekat dari 0.3 pada u, a, 1?
+1
+Misalkan v = 18532/7 - 2647. Manakah yang terdekat dari -0.5 pada -0.5, -0.3, v, 0.1?
+-0.5
+Misalkan o = -2137 - -2134. Misalkan d = 0.13 + -0.16. Manakah yang terdekat dari 0 pada d, o, -4?
+d
+Misalkan m = 3138.8 + -3143.8. Misalkan w = -59/110 - -3/22. Manakah yang terdekat dari -1/2 pada 0.1, w, m?
+w
+Misalkan o = 12393.6 - 12394. Manakah yang terdekat dari 15?  (a) 1/3  (b) o  (c) 0.4
+c
+Misalkan o = 62 - 56.4. Misalkan u = o + -0.2. Misalkan f = u - 1.4. Manakah yang terdekat dari 2/3 pada 0.4, -2, f?
+0.4
+Misalkan u = -711 + 711.1. Misalkan w = -7.11 + 0.11. Misalkan d = w - -7.7. Manakah yang terdekat dari u?  (a) 2/5  (b) 0.3  (c) d
+b
+Misalkan r be 4/(-10) + 24/15. Misalkan 32*k + 14 = 28 + 18. Manakah yang terdekat dari -3?  (a) r  (b) -0.02  (c) k
+b
+Misalkan i = -2660 - -2690. Manakah yang terdekat dari -2/7?  (a) -1/3  (b) i  (c) 0
+a
+Misalkan m = 1732 - 1732. Manakah yang terdekat dari m pada 4, -1/9, 26, -2?
+-1/9
+Misalkan p = 0.02 + -0.12. Misalkan t = -441793/20 - -22078. Misalkan l = t + 62/5. Manakah yang terdekat dari p?  (a) -0.5  (b) 1/5  (c) l
+b
+Misalkan n(y) = 41*y + 282. Misalkan r be n(-6). Misalkan j be (-27)/r*(-1)/(-33)*-8. Manakah yang terdekat dari 3 pada 1/6, 0.1, j, -0.1?
+j
+Misalkan x be ((-1)/1 + 2)/(149 - 147). Misalkan w = -26 + 23. Manakah yang terdekat dari -3?  (a) x  (b) w  (c) 0
+b
+Misalkan -4467 + 4347 = -24*c. Manakah yang terdekat dari -1/30 pada 3, c, -0.3?
+-0.3
+Misalkan q = -77 - -77.133. Misalkan j = -0.033 + q. Misalkan 3*h = -3 + 18. Manakah yang terdekat dari j?  (a) -0.1  (b) h  (c) 3
+a
+Misalkan 5*x - 957 = 3*b, -3*x + 424 = -5*b - 147. Misalkan z be 7*(-4 + x/42). Manakah yang terdekat dari 19/3 pada 2/19, z, -0.4?
+z
+Misalkan s = -39556 - -39552. Manakah yang terdekat dari -27/7 pada -0.2, s, -0.4, 2/21?
+s
+Misalkan w = 3787.4 - 3723.4. Manakah yang terdekat dari -26 pada 0.1, -2, w?
+-2
+Misalkan v = 0 - -1. Misalkan r be 273/(-4) + 54303/787. Misalkan f = -0.06 + 0.1. Manakah yang terdekat dari v pada r, 2, f?
+r
+Misalkan y = -2170 + 2167. Manakah yang terdekat dari y?  (a) -2/7  (b) 13  (c) 5
+a
+Misalkan x = -0.7 + 0.5. Misalkan s = -65.9 + 17.9. Misalkan y = 50 + s. Manakah yang terdekat dari -3?  (a) y  (b) x  (c) 3
+b
+Misalkan z = 12852 - 12851. Manakah yang terdekat dari z?  (a) -24  (b) -8  (c) -0.3  (d) -4
+c
+Misalkan o = -9 - -8.5. Misalkan x = 1/70 - 73/210. Misalkan k = -7.93 + 8. Manakah yang terdekat dari k?  (a) -0.4  (b) o  (c) x
+c
+Misalkan j = 60688 - 60677. Misalkan s = -0.2 + 1.2. Manakah yang terdekat dari s?  (a) 2  (b) 0.1  (c) j
+b
+Misalkan k = -0.10978 + 0.14978. Manakah yang terdekat dari k?  (a) 2/5  (b) 0.3  (c) -29
+b
+Misalkan g = 2875 - 2870. Misalkan u = 16 + -17. Manakah yang terdekat dari g pada -1/2, u, -0.3?
+-0.3
+Misalkan u = -285 - -286. Misalkan l = 0.2 - 0. Misalkan k = -322 + 318. Manakah yang terdekat dari u pada 0.5, k, l?
+0.5
+Misalkan r = -3688 + 3680. Manakah yang terdekat dari -1?  (a) r  (b) 5/2  (c) -4  (d) -0.02
+d
+Misalkan w be -4*(-1 + (35/(-70) - (1 + -2))). Manakah yang terdekat dari 1?  (a) -1  (b) w  (c) -34
+b
+Misalkan s = 3 + 0. Misalkan -623 + 629 = -2*o - 4*j, 6 = -2*o + 4*j. Misalkan r = -55/12 - -13/3. Manakah yang terdekat dari 1/3 pada s, o, r?
+r
+Misalkan q = 5.98 - -0.02. Misalkan u = -3.4646 - -7.4646. Manakah yang terdekat dari 4 pada -2/9, q, u?
+u
+Misalkan l = 2406 - 2399. Misalkan a = 6.3 - -1.7. Misalkan h = l - a. Manakah yang terdekat dari 11 pada 5, -0.3, h?
+5
+Misalkan z = -497/465 + 25/93. Manakah yang terdekat dari -23 pada -2/3, -0.5, 2, z?
+z
+Misalkan l = 4987 + -24938/5. Manakah yang terdekat dari 2/3 pada 0.4, l, -0.2, 2/9?
+0.4
+Misalkan d = 537887/3 - 179296. Misalkan j be (-2)/4 - 11/(-10). Manakah yang terdekat dari -1?  (a) -1  (b) j  (c) d
+a
+Misalkan m = -0.6724 - -0.9724. Manakah yang terdekat dari -16?  (a) -2/35  (b) m  (c) -0.5
+c
+Misalkan f be (-1 - 0) + (-2)/(-3). Misalkan s be 100/4 + (-172)/8 - 18/4. Manakah yang terdekat dari s?  (a) f  (b) 4  (c) 5/2
+a
+Misalkan q = -7 - -8. Misalkan o = 19967/39926 - 2/19963. Misalkan d = -0.38 + -0.02. Manakah yang terdekat dari -1 pada d, o, q?
+d
+Misalkan r = 19/22 - 317/418. Manakah yang terdekat dari r pada -3, -0.2, -0.01?
+-0.01
+Misalkan m = -2.97 - 0.03. Misalkan l = -117 - 161. Misalkan v = 273 + l. Manakah yang terdekat dari 2/5?  (a) 7  (b) m  (c) v
+b
+Misalkan n = 6.841 + -0.041. Misalkan s = n + -7. Misalkan u = 579 + -578. Manakah yang terdekat dari u?  (a) -4  (b) s  (c) 0.5
+c
+Misalkan x = -2964 + 2963.9. Misalkan v = 7 + -1. Misalkan h be (2/(-3)*v)/2. Manakah yang terdekat dari -2?  (a) x  (b) -4  (c) h
+c
+Misalkan t = 683 - 610. Misalkan q = -73 + t. Manakah yang terdekat dari q pada 3, -6/41, 5?
+-6/41
+Misalkan z be (-12)/(-5) - (-4)/(-10). Misalkan m = 1480357/3 - 493452. Manakah yang terdekat dari 4?  (a) m  (b) -5/3  (c) z
+c
+Misalkan g be ((-48)/(-9))/((-228)/54 - -4). Misalkan n be (-30)/105 - g/182. Manakah yang terdekat dari n?  (a) -0.1  (b) 1/8  (c) 2/7
+a
+Misalkan g(y) = y**2 + 10*y - 39. Misalkan f be g(-13). Misalkan k = 1003/5 + -201. Misalkan s = -5 + 9. Manakah yang terdekat dari k?  (a) s  (b) f  (c) 0.2
+b
+Misalkan g = -4.1 + 4.2. Misalkan y be (-1)/9*(-144)/80. Manakah yang terdekat dari g pada -8, y, -0.1?
+y
+Misalkan x be -1 - 20/3 - (189/(-3))/9. Misalkan 0*m = 5*g + 3*m + 21, 9 = -g - 3*m. Manakah yang terdekat dari 2?  (a) x  (b) -19  (c) g
+a
+Misalkan t = 1.2 - 1.37. Misalkan q = -45.91 + 46.91. Misalkan -192 = -26*h - 62. Manakah yang terdekat dari q?  (a) -2  (b) h  (c) t
+c
+Misalkan d = 62 - 328. Misalkan r = 249.1 + d. Misalkan j = 17 + r. Manakah yang terdekat dari 0?  (a) j  (b) -2/5  (c) 4
+a
+Misalkan h = -15.045 - -13.045. Manakah yang terdekat dari 2?  (a) h  (b) -3.8  (c) 0
+c
+Misalkan r = 4957/24535 - 10/4907. Manakah yang terdekat dari -2/17 pada 0.4, -1/80, r?
+-1/80
+Misalkan o = -0.0307 + 221.0307. Misalkan r = o + -174.5. Misalkan p = -47 + r. Manakah yang terdekat dari -1/4?  (a) p  (b) -5  (c) 3
+a
+Misalkan o = 33.56 + -33.672. Misalkan w(n) = 32 - 7*n. Misalkan f be w(4). Manakah yang terdekat dari o pada f, 2, -1?
+-1
+Misalkan t be 6/14*(-28)/(-8). Misalkan p = -12/17 - 115/102. Misalkan l = p + 73/30. Manakah yang terdekat dari l?  (a) 3/5  (b) t  (c) 5
+a
+Misalkan 3*u + 1 = 4*n + 20, 4*n + u + 15 = 0. Misalkan f be 50/40*(0 - 1)*n. Manakah yang terdekat dari -0.1?  (a) 2/9  (b) 12  (c) f
+a
+Misalkan m = -26.54 + 26.64. Manakah yang terdekat dari -16/5 pada -0.4, -4, m, 1?
+-4
+Misalkan c = -0.2 - -1.2. Misalkan v = -40 + 42. Misalkan r = -1.48 - -0.48. Manakah yang terdekat dari c pada r, v, 0.3?
+0.3
+Misalkan 5*q - 285 = -4*l - 205, -2*q = 36*l - 720. Misalkan o be (-3)/31*(-2)/3. Misalkan n = 0.1 + 0.9. Manakah yang terdekat dari n?  (a) o  (b) q  (c) 0.4
+c
+Misalkan s = 1753 - 1757. Manakah yang terdekat dari 1?  (a) 3  (b) 0.29  (c) s
+b
+Misalkan x = -4208.56 - -4209. Misalkan v = -0.07 - -1.63. Misalkan t = x + v. Manakah yang terdekat dari t?  (a) 0.4  (b) 5  (c) 0.5
+c
+Misalkan w = 589/66 + -100/11. Misalkan z = 0 - -6. Misalkan k = z - 6. Manakah yang terdekat dari k?  (a) 3  (b) -14  (c) w
+c
+Misalkan 0 = q + w + 2 + 1, -4*q - 3 = -5*w. Misalkan j = -6.2666 + 5.8666. Manakah yang terdekat dari -1/4 pada 0, q, j?
+j
+Misalkan w be (-2)/(1554/659) - 39/(-91). Misalkan i = w + -1/111. Manakah yang terdekat dari -1?  (a) 0  (b) i  (c) -3
+b
+Misalkan p = -586.2 - -586. Manakah yang terdekat dari 8?  (a) p  (b) 5  (c) 7  (d) 4
+c
+Misalkan v be (-80)/(-64)*(-3)/855*-1. Misalkan b = v + 905/1596. Manakah yang terdekat dari 1.3 pada 3/4, b, 3?
+3/4
+Misalkan f = 98.7 + -99.7. Manakah yang terdekat dari f pada 0, 3, 147?
+0
+Misalkan q = -33.451 + 33.221. Manakah yang terdekat dari q?  (a) -1  (b) -2  (c) 2/5  (d) 13
+c
+Misalkan h be ((-7)/(-2) - 5) + -1 + 345/(-210). Manakah yang terdekat dari 2/5 pada -1/2, h, 2?
+-1/2
+Misalkan q = -11741/21 - -559. Misalkan n be -1 + (1 - 2) - 2. Manakah yang terdekat dari q?  (a) 2/7  (b) 2  (c) n
+a
+Misalkan a = 51 + 7. Misalkan t = 60 - a. Misalkan q = 3.91 - -0.09. Manakah yang terdekat dari -0.1 pada 5, t, q?
+t
+Misalkan g(i) = i - 2. Misalkan z be g(7). Misalkan d be (2/z)/((-28)/35). Misalkan f = 40.6 + -35.6. Manakah yang terdekat dari d?  (a) f  (b) 0.2  (c) 0.06
+c
+Misalkan r be (5/(-30))/(3/(-54)). Manakah yang terdekat dari 0 pada 0.17, 9, -3/7, r?
+0.17
+Misalkan d = 2.5 - 3. Misalkan k = -394 - -394.282. Misalkan c = -0.018 - k. Manakah yang terdekat dari -3 pada 0.3, c, d?
+d
+Misalkan d be 2/(-8) + 71/84 - 17/102. Manakah yang terdekat dari -1/3 pada 2/7, 0.08, 3, d?
+0.08
+Misalkan m = -1501/2485 + 2/497. Misalkan i = 1504 - 1504. Manakah yang terdekat dari 0 pada i, m, -3?
+i
+Misalkan i = 15555 - 15548. Misalkan q = 0.54 + -0.04. Misalkan k = -5 - -2. Manakah yang terdekat dari -1/4 pada i, q, k?
+q
+Misalkan h = 38.3 + 125.7. Misalkan l = 163.8 - h. Misalkan y be (-1)/8*-2*-1. Manakah yang terdekat dari y?  (a) 3  (b) l  (c) -0.5
+b
+Misalkan s = 5167 + -20671/4. Manakah yang terdekat dari -0.52?  (a) 4  (b) s  (c) -5
+b
+Misalkan x = 1.01115 - 0.01115. Manakah yang terdekat dari 0.061 pada 3, x, 2/11?
+2/11
+Misalkan p = -7296 + 379395/52. Manakah yang terdekat dari 4 pada -4/7, -0.5, p?
+p
+Misalkan f = 278/15 + -3247/210. Misalkan d = 5/2 - f. Misalkan r + j - 8 = -6, 2*r + 16 = 3*j. Manakah yang terdekat dari 1?  (a) r  (b) -2/7  (c) d
+b
+Misalkan q = -2.3214 - 1.6786. Manakah yang terdekat dari 12.1?  (a) 0.5  (b) q  (c) 0.4  (d) -2/17
+a
+Misalkan f = 0.1 - 0.05. Misalkan l = -271816 + 271815.9. Manakah yang terdekat dari -2?  (a) -0.2  (b) l  (c) f  (d) -2
+d
+Misalkan m = -725.24 + 719. Misalkan i = -6.17 - m. Manakah yang terdekat dari -1/4?  (a) 10  (b) 0.4  (c) i
+c
+Misalkan n(f) = 4*f**3 + 24*f**2 + 12*f + 65. Misalkan w be n(-6). Misalkan h = -4 - -54/13. Manakah yang terdekat dari w?  (a) 0.5  (b) -5  (c) h
+b
+Misalkan 2*f + 8 = 9*v - 5*v, -4*v = -f - 2. Manakah yang terdekat dari 0?  (a) v  (b) 0.2  (c) -0.03  (d) -2/19
+c
+Misalkan 2*i + 0*y + 3*y = 18, 28 = 3*i + 5*y. Misalkan -4*u + 6 = -2*u. Misalkan f = 2/19 - -62/133. Manakah yang terdekat dari -0.1?  (a) i  (b) f  (c) u
+b
+Misalkan v = 3 + -3.1. Misalkan g = -2286/13 + 157760/897. Manakah yang terdekat dari v?  (a) g  (b) -1  (c) -2
+a
+Misalkan 6 = -4*k - m + 7, 5*k = -m + 1. Manakah yang terdekat dari -0.02 pada 2, k, -2, -0.3?
+k
+Misalkan w = -6673 + 6673. Misalkan z = 1.4 + -1. Manakah yang terdekat dari z pada -1, -0.2, w, -3/7?
+w
+Misalkan y = 0.47189 - 0.41589. Manakah yang terdekat dari 0.1?  (a) 0.1  (b) 1/4  (c) -7  (d) y
+a
+Misalkan s(a) = a**3 + 11*a**2 + 4*a - 3. Misalkan c be s(-7). Misalkan w = 168 - c. Manakah yang terdekat dari -2/7 pada -4, 5, w?
+w
+Misalkan k = 0.005 - -1.995. Misalkan f = 2747 - 2758. Manakah yang terdekat dari f pada -6, -0.3, k?
+-6
+Misalkan w be -11 + (-4)/(-5) + 16/5. Misalkan d be w/(-9) + 0 + -3 + 2. Misalkan o = -499/7 - -71. Manakah yang terdekat dari 0.1?  (a) -1  (b) d  (c) o
+b
+Misalkan v(i) = 3*i**3 - 2*i**2 + 18*i - 40. Misalkan w be v(4). Manakah yang terdekat dari w?  (a) -2  (b) 5  (c) 0.5
+b
+Misalkan t be 603/(-2) - 9/(-6). Misalkan v be 455/t - (-3)/12. Misalkan z = v - -8/5. Manakah yang terdekat dari z pada 0.1, 1/6, 0.4?
+0.4
+Misalkan i be 1988/(-140) - -13 - (-42)/30. Misalkan p be 2/(-5) - 16/(-30). Manakah yang terdekat dari 2/13 pada -5, p, i?
+p
+Misalkan r = 0.1 + -0.4. Misalkan z = -67/481 + 2606/1443. Manakah yang terdekat dari -1/5 pada r, 2, z?
+r
+Misalkan x = 9 + -4. Misalkan w = 18860 - 18856. Manakah yang terdekat dari x pada 2/5, 3, w?
+w
+Misalkan n = -1.180459 - -0.180459. Misalkan o = -27 + 82/3. Misalkan y be 4/(-5) + (-3)/(-15). Manakah yang terdekat dari y pada 1/7, o, n?
+n
+Misalkan 48 = s + 48. Misalkan 2*v - 14 + 6 = s. Misalkan 0 = -3*u + 15, 5*q - 8*q = -v*u + 35. Manakah yang terdekat dari -0.03 pada -3, -1, q?
+-1
+Misalkan q = 302.6 - 223. Misalkan s = q + -80. Manakah yang terdekat dari 2/3 pada 0.5, 5, s?
+0.5
+Misalkan c = 6.3 - 6. Misalkan r = -1.3 + c. Misalkan f = -120528 - -120527.9. Manakah yang terdekat dari 6 pada r, 4, f?
+4
+Misalkan i(h) = 2657 - 1329 - h**3 - 1312 - 16*h + 9*h**2. Misalkan m be i(7). Manakah yang terdekat dari 0.3?  (a) m  (b) 1  (c) 0
+c
+Misalkan u = 0.11 + 0.19. Misalkan z = -140 + 141. Misalkan p = -56.2 - -56. Manakah yang terdekat dari p pada -2, z, u?
+u
+Misalkan d = -5457 + 5465. Manakah yang terdekat dari 18?  (a) d  (b) -3  (c) 1/6
+a
+Misalkan n = 7 + -7.6. Misalkan f = n + 0.4. Misalkan a = -6398.7 + 6399. Manakah yang terdekat dari 1 pada -3, a, f?
+a
+Misalkan g = -0.36 - -0.56. Misalkan o = -0.46 - -0.46. Misalkan s be 14/6 - (-2 + 4). Manakah yang terdekat dari o?  (a) s  (b) g  (c) -28
+b
+Misalkan 64*z - 16*z + 48 = 0. Manakah yang terdekat dari 86?  (a) -0.2  (b) -4  (c) z
+a
+Misalkan j = -3683 + 3683.05. Manakah yang terdekat dari -343?  (a) 0.4  (b) -2  (c) j
+b
+Misalkan l be 8/2 + 0/3. Misalkan n be (25/24 + (-33)/88)*3. Manakah yang terdekat dari -2 pada l, n, 2/15?
+2/15
+Misalkan f be 3306/(-120) - -13 - (-7)/(-35). Manakah yang terdekat dari 1 pada f, -2/15, -1?
+-2/15
+Misalkan g = -2713/399 + 145/21. Manakah yang terdekat dari 2/7 pada -1/3, -1, 0, g?
+g
+Misalkan u = -2.21 - -1.8. Misalkan a = 0.21 + u. Misalkan d be (4/(-8)*0)/2. Manakah yang terdekat dari 1 pada a, d, -2?
+d
+Misalkan 0*l = -4*l. Misalkan u = 41678 - 41639. Manakah yang terdekat dari 1 pada 3, u, l?
+l
+Misalkan 67*j = 66*j - 5. Misalkan k be 3/2 + (-407)/242. Manakah yang terdekat dari -2/19?  (a) j  (b) k  (c) 2/5
+b
+Misalkan r = 145.45 - 147. Misalkan s = -1.55 - r. Misalkan w = -83 - -417/5. Manakah yang terdekat dari s?  (a) w  (b) 16  (c) 0.2
+c
+Misalkan f = -149.95 + 1.95. Misalkan j = f - -148. Manakah yang terdekat dari j?  (a) 4  (b) 3  (c) 1
+c
+Misalkan k = -281 - -640. Misalkan d = k - 356. Misalkan c = 0.02 - 0.2. Manakah yang terdekat dari c pada 0.2, -2, d?
+0.2
+Misalkan l = -0.0694 - 0.9306. Manakah yang terdekat dari 0.1 pada 1, 11.6, -4, l?
+1
+Misalkan -5*o + 2*o - 12 = -5*b, 0 = -4*o + 4*b - 24. Misalkan l be 63/o + 102/14. Manakah yang terdekat dari -3/2 pada l, -0.4, -2/9, -4?
+-0.4
+Misalkan h = -127.8 - -128.8. Misalkan t = 73/138 - 2/69. Manakah yang terdekat dari h pada 6/5, t, -0.3, 0.3?
+6/5
+Misalkan 8*r = 4*p + 196, 3*p = -r - 47 + 89. Manakah yang terdekat dari r?  (a) -0.18  (b) -1/3  (c) -3/2
+a
+Misalkan j = -4490/17 + 264. Misalkan 127 = -4*o + 579. Misalkan w = 115 - o. Manakah yang terdekat dari -2/11?  (a) j  (b) w  (c) 3
+a
+Misalkan j = -13/53 - 10826/159. Misalkan v = -69 - j. Misalkan -5*l + 5 + 0 = 0. Manakah yang terdekat dari l?  (a) 0.1  (b) v  (c) -5
+a
+Misalkan m = 39 - -20. Misalkan h = -62 + m. Misalkan y = -10.8 - -11. Manakah yang terdekat dari h pada y, -0.2, -0.1?
+-0.2
+Misalkan c = -2.9 + 45.5. Misalkan h = 41 - c. Misalkan k = h - -5.6. Manakah yang terdekat dari 1/5 pada 0.5, -0.2, k?
+0.5
+Misalkan q = -4844 - -295482/61. Manakah yang terdekat dari 1/2?  (a) 2/3  (b) q  (c) 0.2
+a
+Misalkan v = -824 + 832. Manakah yang terdekat dari 0.1?  (a) 5/7  (b) v  (c) -3  (d) 0
+d
+Misalkan w = -38791.4 - -38791. Manakah yang terdekat dari 9/2 pada -1/8, -5, 5, w?
+5
+Misalkan y be (-124)/186 + 1276/(-3). Misalkan n = y + 1279/3. Manakah yang terdekat dari 0?  (a) n  (b) -4  (c) -7
+a
+Misalkan p = -21 - -24. Misalkan w = 16129 + -16129. Manakah yang terdekat dari p pada 1/3, -2/13, w, -5?
+1/3
+Misalkan k = -1122.5097 + -0.0903. Misalkan j = 1123 + k. Misalkan z be ((-1)/2)/(1/2). Manakah yang terdekat dari 1/14?  (a) -0.1  (b) z  (c) j
+a
+Misalkan h = 59 + -533/9. Misalkan p be (-1)/(-2)*(-80)/100. Manakah yang terdekat dari p pada -1, -0.5, h, 0.03?
+-0.5
+Misalkan k = 471 + -228. Misalkan 32 = 5*l - k. Misalkan 0 = -10*c - 145 + l. Manakah yang terdekat dari -0.2 pada c, 4, -0.3?
+-0.3
+Misalkan v(g) = 5*g - 9. Misalkan u be v(2). Misalkan z = -0.402 + 0.022. Misalkan t = 0.78 + z. Manakah yang terdekat dari u pada 0.6, -2/7, t?
+0.6
+Misalkan j = 2.806 + 0.194. Manakah yang terdekat dari -0.4 pada -3, j, 2/13?
+2/13
+Misalkan t = 0.21 - 0.31. Misalkan v = 79 + -74. Manakah yang terdekat dari t pada 0.05, v, 0?
+0
+Misalkan h be (-43)/129*6/14. Manakah yang terdekat dari -2/5?  (a) 2/7  (b) h  (c) 1  (d) 7
+b
+Misalkan k = -17008.5 + 17009. Manakah yang terdekat dari -1?  (a) -0.8  (b) k  (c) -5  (d) -18
+a
+Misalkan k = 115 - 114.51. Misalkan l = k - -0.01. Misalkan f = -2768/3 - -923. Manakah yang terdekat dari 1 pada l, -5, f?
+l
+Misalkan 4*q - 14*q - 10 = 0. Manakah yang terdekat dari q?  (a) -1  (b) 0.2  (c) -3  (d) 2/15
+a
+Misalkan p = 25008 - 25010. Manakah yang terdekat dari 0.1 pada -25, p, -0.31?
+-0.31
+Misalkan 0 = -4*z + 2*x + 2, 180*z - 181*z - 1 = -x. Manakah yang terdekat dari z?  (a) -0.5  (b) -2  (c) -76
+a
+Misalkan -8*l + 5 = -3. Misalkan h = 105161/23 - 4573. Misalkan m = h - -105/46. Manakah yang terdekat dari -1/2 pada -3/8, l, m?
+-3/8
+Misalkan k be 2*(-17 - -16 - (-2)/4) + 3. Manakah yang terdekat dari -2/13?  (a) -3  (b) -11  (c) k  (d) -4
+c
+Misalkan h = 23/6 + -4. Misalkan t be (8/192)/((-24)/144). Manakah yang terdekat dari -1?  (a) -4/7  (b) h  (c) t
+a
+Misalkan k = -10 + -8. Misalkan y(v) = 14*v - 26. Misalkan p be y(11). Misalkan -5*j - 27*j - p = 0. Manakah yang terdekat dari -1/4?  (a) k  (b) -5  (c) j
+c
+Misalkan k be (-198)/(-297) + (-3440)/5205. Manakah yang terdekat dari 1/3?  (a) 0.2  (b) -5  (c) k  (d) 0.4
+d
+Misalkan h = -0.133 + -6.967. Misalkan c = 7.2 + h. Misalkan m = -3.1 + c. Manakah yang terdekat dari m pada 0.3, 5, -3/4?
+-3/4
+Misalkan o = 96.2 + -96. Manakah yang terdekat dari 2/5 pada o, 2/27, 3?
+o
+Misalkan -2*b + 12 = -5*k - 4*b, -k - 2*b = -4. Misalkan 0*c = 7*c - 3*c - c. Manakah yang terdekat dari -34 pada -2/7, c, k?
+k
+Misalkan s = -75 + 72.1. Misalkan w = 2.9 + s. Manakah yang terdekat dari 0.2?  (a) 3  (b) -1/3  (c) w
+c
+Misalkan r be -26 - (-37 + 7 + 11) - 1*-9. Manakah yang terdekat dari r?  (a) -5  (b) 1/3  (c) -109  (d) 4
+b
+Misalkan b = -42111 + 42108. Misalkan x(q) = -q**3 - 5*q**2 - q + 2. Misalkan i be x(-5). Manakah yang terdekat dari i pada b, 0, -6/5?
+0
+Misalkan v = -0.36 + 65.36. Misalkan i = 65 - v. Manakah yang terdekat dari i pada 0.02, 3/2, 1?
+0.02
+Misalkan r = -2205 + 2204.6. Manakah yang terdekat dari -0.1 pada -0.2, 1, r, -4/3?
+-0.2
+Misalkan d = -6752.97 + 6753. Manakah yang terdekat dari d pada -14, 0.1, -1, 3?
+0.1
+Misalkan u = -1683.9 - -1684. Manakah yang terdekat dari u?  (a) -1/66  (b) -14  (c) -3
+a
+Misalkan k be -5 + ((-3)/6)/(5/(-45)). Misalkan o = -100 - -101. Manakah yang terdekat dari o pada -3/7, 2, k?
+2
+Misalkan g = -130 - -129.7. Misalkan b = 4 + -3. Manakah yang terdekat dari b pada g, -51/7, -0.4?
+g
+Misalkan -5*h + 5*s + 37 = 3*s, 8 = 2*s. Misalkan i be h - (0 - (-3 - -2)) - 3. Manakah yang terdekat dari -3?  (a) i  (b) -0.7  (c) 0
+b
+Misalkan a = 0.063 + 0.007. Misalkan x = a + 3.93. Misalkan -130 = -v - 132. Manakah yang terdekat dari v pada 6, x, -4?
+-4
+Misalkan x = -125/714 - -1/119. Misalkan r = -0.141842 - 0.058158. Manakah yang terdekat dari r?  (a) x  (b) 1/5  (c) 0  (d) -8
+a
+Misalkan o = 393 - 390.69. Misalkan k = -0.69 - o. Manakah yang terdekat dari -4 pada 1/4, -4, k, 2?
+-4
+Misalkan y = 0.06 - 0.46. Misalkan a = 169637 + -169644. Manakah yang terdekat dari 27 pada y, a, 2/15?
+2/15
+Misalkan f = 91 - 97. Misalkan k = 0.1 - 0. Manakah yang terdekat dari 2?  (a) f  (b) 0.5  (c) k
+b
+Misalkan p be (23/(-42) - -1) + 4/(-24). Misalkan j = 0.6 + -0.3. Manakah yang terdekat dari j pada -4, p, 5?
+p
+Misalkan m = -1/57 + -163/456. Misalkan b = 19084 + -19086. Manakah yang terdekat dari 2/3 pada b, m, 0.2?
+0.2
+Misalkan f = -96 + 38. Misalkan x = -57.76 - f. Misalkan w = -0.04 + x. Manakah yang terdekat dari w pada -0.3, -4, 3?
+-0.3
+Misalkan a = 595/4002 - -12/667. Misalkan m = 2.8 + -3. Manakah yang terdekat dari -2 pada a, m, 0?
+m
+Misalkan f = 15.681 + -15.5. Misalkan u = f + -4.181. Misalkan 0 = 4*k - 2*k - 10. Manakah yang terdekat dari u?  (a) 3/4  (b) k  (c) 3
+a
+Misalkan x = -9 - -0.1. Misalkan k = x + 9.1. Manakah yang terdekat dari 1?  (a) k  (b) -2/15  (c) -0.3
+a
+Misalkan t be 528/(-220)*(-2)/12. Misalkan z(k) = -k - 7. Misalkan g be z(-7). Manakah yang terdekat dari g?  (a) -2  (b) -5  (c) t  (d) 4/3
+c
+Misalkan u = 240 + -351. Misalkan i = -113 - u. Manakah yang terdekat dari 0?  (a) 4  (b) i  (c) 56
+b
+Misalkan o be (66/(-198))/((-3)/(-63)) - 1. Misalkan y = 0.15 - -5.85. Manakah yang terdekat dari -0.1 pada 1/2, y, o?
+1/2
+Misalkan 49*d + 25 - 49 - 172 = 0. Misalkan -7*k = -9*k + 4. Manakah yang terdekat dari d?  (a) -0.7  (b) k  (c) -4
+b
+Misalkan r be (-3)/3*6/12*-6. Misalkan 2*l - q - r = 0, -3*l = -9*q + 4*q + 6. Manakah yang terdekat dari 0.02 pada -2, 1/11, l, -2/11?
+1/11
+Misalkan 346*m - 350*m = -8. Misalkan q = 24 + -34. Manakah yang terdekat dari m pada q, -6/11, -3?
+-6/11
+Misalkan m = 1.554 - 0.554. Misalkan o be (8/(-20))/(16/10). Manakah yang terdekat dari m pada -17, 4, -1/2, o?
+o
+Misalkan 0*o - 4*o - 252 = -4*g, 4*g - 225 = -5*o. Misalkan w be 4/30 + (-188)/g. Manakah yang terdekat dari -0.2?  (a) w  (b) 0.3  (c) -5
+b
+Misalkan o = 3.6 + -3. Misalkan g = -39418 - -39417.85. Manakah yang terdekat dari 1?  (a) -5  (b) o  (c) g
+b
+Misalkan l be ((-3)/(-3))/(-10*(-2)/(-548)). Misalkan c = -1238/45 - l. Misalkan m be 5/63 - 2/9. Manakah yang terdekat dari 0 pada c, 0, m?
+0
+Misalkan u = 3 - 131. Misalkan d = 91 + u. Misalkan a = 33 + d. Manakah yang terdekat dari -4 pada a, 5, 1?
+a
+Misalkan n = -2 - -6. Misalkan k = 2.57 - 47.57. Misalkan w = k - -45.1. Manakah yang terdekat dari w?  (a) 0  (b) n  (c) -1/3
+a
+Misalkan h = 2.87503 + 0.12497. Manakah yang terdekat dari 1/11 pada 5, h, 1?
+1
+Misalkan k = -45 - -44. Misalkan f be -173*2/6 + k. Misalkan n = f + 59. Manakah yang terdekat dari -2/9 pada 0.4, 0.2, n?
+0.2
+Misalkan s = -279899 + 50941435/182. Misalkan k = -15/26 - s. Manakah yang terdekat dari -1 pada 5, k, -1?
+-1
+Misalkan u = -111/4 - -28. Misalkan r = -5146.4 - -5146. Manakah yang terdekat dari -2/9?  (a) r  (b) u  (c) -2/9
+c
+Misalkan g = -235.7 + 236. Misalkan t = 338 + -336. Manakah yang terdekat dari g pada 1/3, t, -4, 4?
+1/3
+Misalkan z = 348 + -347.702. Misalkan m = 0.702 + z. Misalkan v be 4/10 + 28/(-45). Manakah yang terdekat dari m?  (a) -1  (b) -16  (c) v
+c

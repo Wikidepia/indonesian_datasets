@@ -1,0 +1,666 @@
+Apa turunan kedua dari -1447*i**2 - 552*i**2 - 7713*i + 227*i**2 sehubungan dengan i?
+-3544
+Misalkan l (b) menjadi turunan ke-pertama dari 0*b**2 - 130*b - 115 + 127/3*b**3. Apa turunan dari l(c) sehubungan dengan c?
+254*c
+Misalkan -35*u + 104 = -9*u. Apa turunan dari k**u - 19 + 20*k + 24 + 119 + 96 sehubungan dengan k?
+4*k**3 + 20
+Misalkan 4*d - 3 - 14 = u, d = -2*u + 11. Temukan turunan ketiga dari -45427*y**6 + 45424*y**6 + 49*y**2 - 32*y**u + 106*y**2 yang terkait dengan y.
+-360*y**3 - 192
+Misalkan n(l) = 1377*l**2 + 7*l - 4046. Misalkan f(i) = 459*i**2 + 2*i - 1350. Misalkan m(q) = 13*f(q) - 4*n(q). Apa turunan dari m(z) sehubungan dengan z?
+918*z - 2
+Misalkan 4*q = 27*q - 0*q. Misalkan g (j) menjadi turunan ke-pertama dari -7/4*j**4 + q*j**3 - 9*j + 13 + 0*j**2. Apa turunan dari g(t) sehubungan dengan t?
+-21*t**2
+Misalkan x (w) menjadi turunan ke-kedua dari 0*w**4 + 0*w**5 - 2*w + 19/3*w**3 + 19/10*w**6 - 20 + 0*w**2. Apa turunan kedua dari x(q) sehubungan dengan q?
+684*q**2
+Misalkan c (l) menjadi turunan ke-kedua dari -2 + 70*l - 35/3*l**3 + 0*l**2 + 43/12*l**4. Apa turunan kedua dari c(b) sehubungan dengan b?
+86
+Misalkan -4*u + 31 = -5*f, 6*f = f - 15. Misalkan v be (-2)/u - (-5 + (-2)/4). Apa turunan dari -v*z**3 - 8*z**3 - 3*z**3 + z**3 + 19 sehubungan dengan z?
+-45*z**2
+Misalkan l (o) menjadi turunan ke-kedua dari 12*o**3 + 1089*o**2/2 - 5*o - 98. Temukan turunan pertama dari l(s) yang terkait dengan s.
+72
+Misalkan v (m) menjadi turunan ke-pertama dari -60 + 13/2*m**2 - m + 14*m**5 + 0*m**4 + 0*m**3. Apa turunan kedua dari v(l) sehubungan dengan l?
+840*l**2
+Misalkan s (x) menjadi turunan ke-kedua dari 2/15*x**6 + 0*x**5 + 0*x**3 + 0 + 99/2*x**2 - 1/3*x**4 + 78*x. Diferensial yang s(k) sehubungan dengan k.
+16*k**3 - 8*k
+Misalkan c (a) menjadi turunan ke-ketiga dari 245/24*a**4 + 229/6*a**3 + 0 + 0*a + 22*a**2. Apa turunan pertama dari c(w) sehubungan dengan w?
+245
+Misalkan d(p) = p**2 + p - 1. Misalkan c be d(2). Apa turunan ketiga dari 200*v**2 - 81*v**5 + 67*v**c + 12*v**6 - 18*v**6 sehubungan dengan v?
+-720*v**3 - 840*v**2
+Apa turunan kedua dari 7412*a**2 + 8697*a**2 + 3119*a - 14583*a**2 sehubungan dengan a?
+3052
+Misalkan w (x) menjadi turunan ke-pertama dari -2281*x**2/2 - 746*x + 1006. Apa turunan pertama dari w(r) sehubungan dengan r?
+-2281
+Diferensial yang -484*q**2 - q + 55 - 2552 + q + 0*q sehubungan dengan q.
+-968*q
+Apa turunan pertama dari 269 - 1030*z**4 + 698 - 1067*z**4 + z + 705*z**4 sehubungan dengan z?
+1 - 5568*z**3
+Misalkan k (i) menjadi turunan ke-kedua dari i**7/6 - 407*i**5/20 - 6275*i**3/6 + i + 821. Temukan turunan kedua dari k(p) yang terkait dengan p.
+140*p**3 - 2442*p
+Temukan turunan kedua dari -137*u**5 - 514*u + 50*u + 2*u**3 - 168*u + 38*u yang terkait dengan u.
+-2740*u**3 + 12*u
+Misalkan t (g) menjadi turunan ke-kedua dari 199*g**4/4 + g**3/3 - 1097*g**2/2 + 56*g. Temukan turunan pertama dari t(l) yang terkait dengan l.
+1194*l + 2
+Apa turunan ketiga dari -7 + 32869*k**5 + 9*k**2 + 32*k**2 + 231*k**6 - 32869*k**5 sehubungan dengan k?
+27720*k**3
+Misalkan q (r) menjadi turunan ke-pertama dari 210 + 57/2*r**6 + 0*r**4 + 0*r + 0*r**5 + 0*r**2 - 97/3*r**3. Apa turunan ketiga dari q(d) sehubungan dengan d?
+10260*d**2
+Misalkan c(p) = 31*p - 121. Misalkan l be c(4). Temukan turunan kedua dari -1 + 5837*m**l - 5778*m**3 + 141*m + 1 yang terkait dengan m.
+354*m
+Misalkan j = 3 - -48. Misalkan t = -30 + j. Temukan turunan kedua dari 21*u**2 + 16*u + 11*u**4 - t*u**2 yang terkait dengan u.
+132*u**2
+Misalkan y (o) menjadi turunan ke-ketiga dari 0*o + 49/60*o**6 + 74*o**2 - 49/6*o**3 + 0*o**5 + 0*o**4 + 0. Apa turunan pertama dari y(z) sehubungan dengan z?
+294*z**2
+Temukan turunan kedua dari v + 484*v**4 - 701*v**4 - v**2 - 566*v**4 - 1046 + 379 + 3*v**3 yang terkait dengan v.
+-9396*v**2 + 18*v - 2
+Misalkan -8*y + 10 = -3*y. Temukan turunan ketiga dari -4*f**y - 112*f**2 + 4*f**4 + 2*f**5 + 55*f**2 + 2*f**5 yang terkait dengan f.
+240*f**2 + 96*f
+Misalkan m (r) menjadi turunan ke-pertama dari -259/2*r**2 - 69*r + 173. Apa turunan dari m(f) sehubungan dengan f?
+-259
+Misalkan q(d) = -2*d**2 - 16*d + 45. Misalkan f be q(-10). Apa turunan ketiga dari -3*c**2 - 11 + 23*c**5 + 34*c**5 + 16*c**5 + 8*c**f sehubungan dengan c?
+4860*c**2
+Misalkan h = -91 - -110. Apa turunan ketiga dari -156*n**2 + 0*n**3 - 17*n**3 - 42*n**3 + h*n**3 - 19*n**3 sehubungan dengan n?
+-354
+Misalkan h(t) = t**3 - 15*t**2 - 99*t - 15. Misalkan b be h(20). Temukan turunan kedua dari -85*z - 85*z - 51 - 58*z**b + 168*z yang terkait dengan z.
+-1160*z**3
+Misalkan m(w) = -2460*w - 2102. Misalkan l(r) = 2451*r + 2099. Misalkan t(z) = 4*l(z) + 3*m(z). Diferensial yang t(s) sehubungan dengan s.
+2424
+Misalkan d be 5/((-5)/(-4)) + 1. Apa turunan kedua dari -17*b**d - 4*b**5 - 248*b - 2*b**5 + 95*b sehubungan dengan b?
+-460*b**3
+Apa turunan kedua dari 243*w**2 - 1362*w - 150*w + 1473*w**2 - 1215*w sehubungan dengan w?
+3432
+Misalkan v (w) menjadi turunan ke-ketiga dari -47*w**6/3 - 1217*w**5/60 + w**2 - 49. Apa turunan ketiga dari v(u) sehubungan dengan u?
+-11280
+Temukan turunan pertama dari 14 + 278*x**4 + 24 - 536*x**4 - 1338*x**4 yang terkait dengan x.
+-6384*x**3
+Misalkan g (y) menjadi turunan ke-ketiga dari -83/12*y**4 + 0 + 6*y - 233/120*y**6 + 0*y**5 - 9*y**2 + 0*y**3. Apa turunan kedua dari g(u) sehubungan dengan u?
+-1398*u
+Misalkan z (c) menjadi turunan ke-kedua dari 247*c**6/10 + 88*c**3/3 + 1275*c. Temukan turunan kedua dari z(l) yang terkait dengan l.
+8892*l**2
+Apa turunan kedua dari -1464*x - 821*x**3 - 2*x**4 - 820*x**3 - 468*x + 1595*x**3 sehubungan dengan x?
+-24*x**2 - 276*x
+Misalkan m(t) = -2*t - 8. Misalkan u be m(-9). Misalkan u = 4*b - 2. Apa turunan pertama dari 16 + 2*s + 5 - 2*s - 19*s**b sehubungan dengan s?
+-57*s**2
+Misalkan z = -20 + 65. Apa turunan dari 3 - z - 9*r - 1 sehubungan dengan r?
+-9
+Misalkan r be (75/5)/((3/(-10))/(-1)). Misalkan -2*n + 4 = -r. Temukan turunan ketiga dari -21*j**2 + n*j**2 - 25*j**2 - 18*j**4 yang terkait dengan j.
+-432*j
+Misalkan v (w) menjadi turunan ke-kedua dari -3*w**2 - 2 + 2*w + 55/12*w**4 + 0*w**3. Apa turunan pertama dari v(l) sehubungan dengan l?
+110*l
+Misalkan p (k) menjadi turunan ke-pertama dari 35/3*k**3 - 38*k - 70 + 0*k**2. Temukan turunan pertama dari p(l) yang terkait dengan l.
+70*l
+Apa turunan kedua dari 5428*x**5 - 1985036*x**3 + 1915 + 1985036*x**3 + x sehubungan dengan x?
+108560*x**3
+Misalkan l (g) menjadi turunan ke-pertama dari -98/3*g**3 - 262 - 158*g**2 + 0*g. Temukan turunan kedua dari l(h) yang terkait dengan h.
+-196
+Misalkan d (w) menjadi turunan ke-kedua dari 13*w**4/12 + 11*w**3/3 - 385*w**2/2 + 55*w + 3. Apa turunan pertama dari d(c) sehubungan dengan c?
+26*c + 22
+Misalkan 763 = 4*t + 3*l, 8*l - 6*l = 2. Temukan turunan kedua dari -t*y**3 + 67*y**3 - 47*y - 20*y yang terkait dengan y.
+-738*y
+Apa turunan kedua dari -4*y - 7*y + 41*y + 114 - 29*y + 8188*y**2 sehubungan dengan y?
+16376
+Apa turunan ketiga dari -2033*l + 2033*l - 821*l**3 + 3219*l**2 sehubungan dengan l?
+-4926
+Apa turunan kedua dari -11046*u**3 - 108*u - 2745*u - 1 - 699*u sehubungan dengan u?
+-66276*u
+Temukan turunan kedua dari -1035278*c + 517642*c - 3600 + 13566*c**2 + 517635*c yang terkait dengan c.
+27132
+Misalkan -6*a = 8*a - 28. Apa turunan ketiga dari 1516 + u**3 - 1516 - 63*u**5 + 62*u + u**a sehubungan dengan u?
+6 - 3780*u**2
+Misalkan -73 = -v - 2*b, -4*v + 267 = -b - 16. Apa turunan kedua dari -39*o + 95*o + 1 - 31*o**4 - 34*o - v*o sehubungan dengan o?
+-372*o**2
+Misalkan r(w) = 7*w**3. Misalkan f(q) = 17*q**4 + 14*q**3 + 89*q**2 + 6075*q. Misalkan x(i) = f(i) - 2*r(i). Apa turunan kedua dari x(l) sehubungan dengan l?
+204*l**2 + 178
+Misalkan -69*p + 71*p = h + 6, 0 = -2*p - 2*h + 12. Apa turunan kedua dari -2 - 34*v - 22*v + 55*v**3 - 55*v**3 + 95*v**p sehubungan dengan v?
+1140*v**2
+Misalkan g (m) menjadi turunan ke-kedua dari -163*m**6/6 - 91*m**4/2 + 85*m. Apa turunan ketiga dari g(d) sehubungan dengan d?
+-19560*d
+Misalkan q (t) menjadi turunan ke-pertama dari -4451*t**3/3 - 3563*t**2/2 + 4147. Temukan turunan kedua dari q(l) yang terkait dengan l.
+-8902
+Temukan turunan pertama dari 61*j + 357 - 13*j + 45 + 215 + 57*j yang terkait dengan j.
+105
+Apa turunan ketiga dari -111*j**2 + 1589*j**3 - 8*j + 13*j - 4*j - 4*j + 16*j sehubungan dengan j?
+9534
+Apa turunan ketiga dari -748*t**6 - 5202*t**2 + 6848*t**2 - 25*t**6 + 10031*t**2 - 418*t**6 sehubungan dengan t?
+-142920*t**3
+Misalkan 2 = -t, -t = -3*d - d - 470. Misalkan r = 131 + d. Temukan turunan kedua dari -23*n**5 - r*n**5 - n - 5*n + 7*n**5 yang terkait dengan n.
+-580*n**3
+Misalkan 8*i = 26*i - 18. Misalkan n be -1 + (i - -2) - (-17 - 70). Apa turunan dari 27*u**2 + 11*u**2 - n*u**2 - 36 sehubungan dengan u?
+-102*u
+Misalkan 3*t - 6 = 0, 0*j = 4*j - t - 98. Misalkan -13 = -3*d - 4*m + 28, 0 = -5*m + j. Temukan turunan pertama dari -3*q + 9 + d - 6 + 4 yang terkait dengan q.
+-3
+Misalkan d be ((-35698)/4)/((-6)/12). Temukan turunan kedua dari 17849 - d + 81*t**4 - 27*t yang terkait dengan t.
+972*t**2
+Misalkan l (g) menjadi turunan ke-pertama dari 56*g**3/3 + 9*g**2/2 - 4394*g - 292. Apa turunan dari l(k) sehubungan dengan k?
+112*k + 9
+Apa turunan dari 1300*f - 229*f - 1471*f - 1518*f - 2622 - 2284*f sehubungan dengan f?
+-4202
+Misalkan f (t) menjadi turunan ke-kedua dari 290*t**3 - 2079*t**2 - 2234*t. Temukan turunan pertama dari f(q) yang terkait dengan q.
+1740
+Misalkan k (f) menjadi turunan ke-ketiga dari 61*f**7/210 + 3*f**4/4 + 1049*f**3/6 - 2271*f**2. Apa turunan dari k(w) sehubungan dengan w?
+244*w**3 + 18
+Temukan turunan ketiga dari 693*q**6 - 46*q**6 + 669*q**6 + 31*q - 31*q + 1901*q**2 yang terkait dengan q.
+157920*q**3
+Misalkan 0 = -6*q - 9 + 33. Apa turunan pertama dari -13*t - 43 - q*t**2 + 14*t - 47 sehubungan dengan t?
+1 - 8*t
+Misalkan s = 21 - 10. Misalkan q = 1178 + -1167. Apa turunan dari -8*j**2 + q + s*j**2 + 16*j**2 sehubungan dengan j?
+38*j
+Misalkan p (j) menjadi turunan ke-ketiga dari -1369*j**4/24 - 527*j**3/3 - 699*j**2. Apa turunan pertama dari p(a) sehubungan dengan a?
+-1369
+Misalkan -14*r + 123 = 27*r. Temukan turunan kedua dari -r*k**5 - 2*k**5 - 7*k + 31*k**5 - 10*k + 15*k**5 yang terkait dengan k.
+820*k**3
+Apa turunan kedua dari -9*p**3 + 13*p + 385*p**2 - 46*p**5 + 13*p**3 - 4*p**3 + 15 + 43*p**5 sehubungan dengan p?
+770 - 60*p**3
+Misalkan 16 = 12*w - 20. Apa turunan pertama dari -5*z + 2*z**w + 38*z + 26*z + 7 sehubungan dengan z?
+6*z**2 + 59
+Misalkan z (v) menjadi turunan ke-ketiga dari -11/6*v**4 - 31*v**2 + 0*v + 0 - 16/3*v**3. Diferensial yang z(y) sehubungan dengan y.
+-44
+Misalkan 5*q + 61 - 81 = 0. Apa turunan ketiga dari 8*g + 7*g**2 - 9*g - 3*g**4 + 23*g**q - 4*g**2 - 7*g sehubungan dengan g?
+480*g
+Misalkan a (k) menjadi turunan ke-pertama dari 43*k**6/3 - 2*k**5/5 - 1685*k**2 + 993. Temukan turunan kedua dari a(h) yang terkait dengan h.
+1720*h**3 - 24*h**2
+Misalkan 19 = 3*h + 10. Diferensial yang 7 + 5*j**2 + j**3 - h + 11 sehubungan dengan j.
+3*j**2 + 10*j
+Misalkan t = -42 - -41. Misalkan o be (t - -3)*4 - 2. Temukan turunan kedua dari -5*j - o*j**4 + 8*j**4 - 13*j + 8*j**4 yang terkait dengan j.
+120*j**2
+Apa turunan dari 1431 + 823*q - 889*q + 5*q**2 - 9*q**2 sehubungan dengan q?
+-8*q - 66
+Misalkan t be 13/(585/(-10)) + (-980)/(-36). Apa turunan pertama dari -4*k**3 + 6*k**4 - 40 + t - 14 - 10*k**3 + 5*k**3 sehubungan dengan k?
+24*k**3 - 27*k**2
+Misalkan h = 6 - 429. Misalkan d = -189 - h. Apa turunan ketiga dari -u**2 + 3*u**4 - 234*u + 3*u**4 + d*u sehubungan dengan u?
+144*u
+Apa turunan kedua dari 2453*d + 2487*d**2 + 6071*d + 31 - 31 sehubungan dengan d?
+4974
+Misalkan v = 294 - 292. Temukan turunan ketiga dari 92*w**v - 62*w**3 - 53*w**2 - 51*w**3 yang terkait dengan w.
+-678
+Misalkan n(l) = 2*l + 33. Misalkan o be n(-15). Temukan turunan ketiga dari 7*x**o + 101*x**2 + 60*x**3 - 117*x**2 + x yang terkait dengan x.
+402
+Apa turunan kedua dari -250673*p**4 + 1 - 509*p + 245968*p**4 - 200*p sehubungan dengan p?
+-56460*p**2
+Temukan turunan ketiga dari 633862*i**3 - 632209*i**3 + i**2 - 1 + 399 yang terkait dengan i.
+9918
+Apa turunan ketiga dari -394*r**2 + 26413*r**4 - 27149*r**4 + 1086*r**2 + 775*r**2 sehubungan dengan r?
+-17664*r
+Misalkan j be 4*(5 + 36/(-8)). Temukan turunan ketiga dari -4*o**j - 10 + 9 + 33*o**6 - 42*o**6 yang terkait dengan o.
+-1080*o**3
+Misalkan v (g) menjadi turunan ke-kedua dari 2185*g**3/3 + 7591*g**2 + 9*g - 104. Apa turunan dari v(h) sehubungan dengan h?
+4370
+Misalkan h (u) menjadi turunan ke-pertama dari 1/5*u**5 - 157/4*u**4 + u**2 - 11/3*u**3 + 0*u + 237. Apa turunan ketiga dari h(f) sehubungan dengan f?
+24*f - 942
+Misalkan h(o) = 378 - 17*o. Misalkan q be h(21). Misalkan j - 3*j + 2 = 0. Apa turunan pertama dari 8*v - 4 - q*v + j sehubungan dengan v?
+-13
+Misalkan h be 9/(18/4) - 0. Apa turunan pertama dari -87 - 222*g**3 + 4*g**h + 50*g**3 - 4*g**2 sehubungan dengan g?
+-516*g**2
+Misalkan r = -2282 + 6865. Apa turunan kedua dari 4*y**2 + 20*y**5 - r*y + 4783*y - 3*y**2 sehubungan dengan y?
+400*y**3 + 2
+Apa turunan kedua dari -409 + 473*t**2 - 372*t**2 - t + 129 - 183 + 1775*t**2 sehubungan dengan t?
+3752
+Misalkan t = -303 - -304. Misalkan -1 = -2*b + b. Apa turunan pertama dari -3*m + t + 17*m - b - 1 sehubungan dengan m?
+14
+Temukan turunan pertama dari 68*b**3 - 3229 + 6096 - 3113 yang terkait dengan b.
+204*b**2
+Misalkan 705*p - 714*p = -18. Misalkan z - 9 = -3. Apa turunan pertama dari 17*v**p - 8 + z - 15 sehubungan dengan v?
+34*v
+Misalkan -2*y - 30 = -4*a - 2, -5*a = -3*y - 35. Misalkan r be (1/(-3))/(1/(-6)). Temukan turunan kedua dari b**2 + a*b + 3 - 12*b**r - 3 yang terkait dengan b.
+-22
+Misalkan j (c) menjadi turunan ke-pertama dari 1763*c**2/2 - 1575*c + 1612. Apa turunan dari j(n) sehubungan dengan n?
+1763
+Misalkan p be 2*-1 + 4 + -1 + 1. Misalkan p*u - 2070 = -v, -3*u - 4*v = -5*u + 2050. Apa turunan kedua dari -h + 0*h + u*h**2 - 1053*h**2 sehubungan dengan h?
+-40
+Misalkan f (p) menjadi turunan ke-kedua dari -250*p - 135*p**2 + 0*p**3 - 65/3*p**4 + 0. Diferensial yang f(q) sehubungan dengan q.
+-520*q
+Apa turunan ketiga dari 238*s - 34*s + 0*s**3 + 3*s**3 - 388*s**6 + s**2 + 113*s + s**2 sehubungan dengan s?
+18 - 46560*s**3
+Misalkan c (u) menjadi turunan ke-kedua dari -10*u - 5/6*u**3 + 0 + 0*u**5 + 41/2*u**2 + 0*u**4 + 4/15*u**6. Apa turunan pertama dari c(z) sehubungan dengan z?
+32*z**3 - 5
+Misalkan -97 = -6*y - 7. Apa turunan kedua dari -123*x**4 + 122*x**4 + y*x**2 - 12 - 3*x**2 + 4*x sehubungan dengan x?
+24 - 12*x**2
+Apa turunan kedua dari -207733*h**2 + 282*h**3 + 3*h**4 + 364*h**3 - 2423*h + 207733*h**2 sehubungan dengan h?
+36*h**2 + 3876*h
+Misalkan -81*q - 9 = -84*q. Apa turunan pertama dari -q - 19 + 4 + 59*n - n**3 - 16 sehubungan dengan n?
+59 - 3*n**2
+Misalkan -2*n = -4*p - 2, 7*p + 9 = 2*n + 10*p. Apa turunan ketiga dari 3*g**3 - 6*g**6 + 2*g**n - 46*g**2 - 7 + 6 sehubungan dengan g?
+30 - 720*g**3
+Misalkan 3*s + 2*v + 0*v - 3034 = 0, -2*v = 5*s - 5054. Temukan turunan ketiga dari s*c - 32*c**2 - 141*c**4 - 1010*c yang terkait dengan c.
+-3384*c
+Temukan turunan kedua dari -2*j**4 + 3*j**2 - 6*j**4 - 4*j**4 + j**3 + 665*j - 7*j**2 yang terkait dengan j.
+-144*j**2 + 6*j - 8
+Apa turunan dari -2040*m**2 - 2039*m**2 + 6117*m**2 - 417*m**4 + 123*m**4 - 2037*m**2 - 3269 sehubungan dengan m?
+-1176*m**3 + 2*m
+Misalkan -9*l + 26 = -136. Misalkan r + 3*w = -r + l, r - 15 = -3*w. Temukan turunan ketiga dari -3 - s**3 - r + 3 + 30*s**2 + 2 yang terkait dengan s.
+-6
+Misalkan 9 + 0 = l + 4*a, 2*a + 8 = 2*l. Apa turunan ketiga dari 3*g**2 + g**2 - g**2 - 15*g**3 - l*g**2 + 13*g sehubungan dengan g?
+-90
+Misalkan w (n) menjadi turunan ke-pertama dari 0*n**4 + 64 + 0*n**2 + 59/5*n**5 - 6*n**3 + 0*n. Temukan turunan ketiga dari w(b) yang terkait dengan b.
+1416*b
+Misalkan 2*b - 2*z - 24 = 2*z, -4*z - 30 = -5*b. Misalkan -b*g = -18 - 0. Apa turunan kedua dari g*p**4 + 3*p**4 - 14*p**2 + 14*p**2 + 14*p sehubungan dengan p?
+144*p**2
+Misalkan r (g) menjadi turunan ke-pertama dari 2996*g**5/5 - 2983*g + 1762. Apa turunan pertama dari r(p) sehubungan dengan p?
+11984*p**3
+Misalkan u = 54 - 50. Temukan turunan kedua dari -58*h**3 - h**u - 58*h**3 + 14*h + 130*h**3 yang terkait dengan h.
+-12*h**2 + 84*h
+Misalkan y (o) menjadi turunan ke-ketiga dari 232*o**5/15 + 31*o**4/6 - 3*o**3/2 + 1218*o**2. Temukan turunan kedua dari y(m) yang terkait dengan m.
+1856
+Misalkan h (u) menjadi turunan ke-ketiga dari -1471*u**7/210 - u**6/120 - 3209*u**3/2 - 10439*u**2. Apa turunan pertama dari h(k) sehubungan dengan k?
+-5884*k**3 - 3*k**2
+Misalkan k (z) menjadi turunan ke-ketiga dari -1471*z**7/210 - 887*z**4/12 + 22*z**2 - 4. Temukan turunan kedua dari k(q) yang terkait dengan q.
+-17652*q**2
+Misalkan u be 4/(-14) - (-46)/14. Misalkan j = 3869 - 3860. Apa turunan ketiga dari u*l**3 - j*l**3 - 12*l**3 + 16*l**2 + 4*l**3 sehubungan dengan l?
+-84
+Misalkan z (l) menjadi turunan ke-ketiga dari -509*l**8/336 - l**5 - 5*l**3/6 + 206*l**2 - l. Apa turunan ketiga dari z(y) sehubungan dengan y?
+-30540*y**2
+Temukan turunan kedua dari -v**4 - 71915 - 27*v + 29*v + 74729 + 1327*v**5 yang terkait dengan v.
+26540*v**3 - 12*v**2
+Misalkan u (j) menjadi turunan ke-pertama dari -16*j**4 + 2*j**3/3 + 1270*j + 814. Apa turunan dari u(f) sehubungan dengan f?
+-192*f**2 + 4*f
+Misalkan f (b) menjadi turunan ke-pertama dari -3400*b**3/3 + 103*b**2/2 - 11*b + 1200. Temukan turunan kedua dari f(h) yang terkait dengan h.
+-6800
+Misalkan f be 2*1 + (25 - -4). Temukan turunan ketiga dari f*j**3 - 24*j**2 - 12*j**2 - 29 + 29 yang terkait dengan j.
+186
+Misalkan i(t) = 336*t**2 + 3176*t. Misalkan k(c) = -279*c**2 - 3175*c. Misalkan b(o) = -6*i(o) - 5*k(o). Apa turunan kedua dari b(p) sehubungan dengan p?
+-1242
+Misalkan 4*x = 3*q - 2469, 6*q + 4*x = q + 4147. Temukan turunan kedua dari -339*c + 83*c + q*c**4 - 641*c**4 yang terkait dengan c.
+2232*c**2
+Apa turunan pertama dari 3738 + 269*w - 1943*w**2 - 271*w - 10736 sehubungan dengan w?
+-3886*w - 2
+Misalkan r = -16 - -17. Misalkan w be 13 + 1/(r/(-2)). Temukan turunan kedua dari -11*h - 15 + 7 - w*h**4 + 8 yang terkait dengan h.
+-132*h**2
+Misalkan f(j) = -j**3 + 6*j**2 + 7*j + 2. Misalkan a be f(7). Apa turunan dari -29*z**2 - 4*z - 11*z**a + 0 + 4*z + 11 - 3*z sehubungan dengan z?
+-80*z - 3
+Misalkan z(g) = 2719*g + 7290. Misalkan h(d) = 16 - 4*d. Misalkan j(b) = h(b) - z(b). Diferensial yang j(i) sehubungan dengan i.
+-2723
+Misalkan w (y) menjadi turunan ke-ketiga dari 1192*y**7/105 - 2425*y**3/3 + 4812*y**2. Apa turunan pertama dari w(j) sehubungan dengan j?
+9536*j**3
+Misalkan -4*z + 144 - 36 = 0. Misalkan 4*k - z = -5*k. Apa turunan kedua dari -143*t**k + 143*t**3 - 2*t - 5*t**5 sehubungan dengan t?
+-100*t**3
+Misalkan b (l) menjadi turunan ke-pertama dari 0*l**2 + 0*l**3 - 2/5*l**5 - 260*l + 291 + 19/4*l**4. Temukan turunan pertama dari b(y) yang terkait dengan y.
+-8*y**3 + 57*y**2
+Misalkan x be 10/20*(3 - -117). Apa turunan ketiga dari -x*a**2 + 30*a**4 - 45*a**4 + 10*a**3 + 17*a**4 - 75*a**2 sehubungan dengan a?
+48*a + 60
+Misalkan v = 287 + -164. Misalkan m = v - 117. Temukan turunan pertama dari m*g**2 + 3*g**2 - g - 11 - 4*g**2 yang terkait dengan g.
+10*g - 1
+Misalkan x = -128 - -134. Apa turunan kedua dari 68*c - x*c**2 + 2 + 97*c - 191*c sehubungan dengan c?
+-12
+Misalkan t be -3*(-2)/6 + (12 - -4). Misalkan -9*y + t + 10 = 0. Apa turunan dari 146 + 6*x**4 - 4*x**3 - 153 + 4*x**y sehubungan dengan x?
+24*x**3
+Misalkan h (n) menjadi turunan ke-kedua dari 23 - 65/12*n**4 - n + 1/6*n**3 + 16*n**2. Temukan turunan kedua dari h(v) yang terkait dengan v.
+-130
+Misalkan o (f) menjadi turunan ke-ketiga dari 721*f**6/120 + 113*f**5/60 + f**2 - 102*f. Apa turunan ketiga dari o(k) sehubungan dengan k?
+4326
+Apa turunan ketiga dari -2*x + 559 - 70*x**3 - 559 + 58*x**2 + 56*x sehubungan dengan x?
+-420
+Misalkan h (n) menjadi turunan ke-pertama dari 0*n + 16/5*n**5 + 0*n**4 - 29 + 0*n**2 + 55/3*n**3. Temukan turunan ketiga dari h(j) yang terkait dengan j.
+384*j
+Misalkan -6 = 4*a - 14. Misalkan 5*v = -2*r - r + 9, a*v - 3*r = 12. Apa turunan ketiga dari -34*f**2 + 7*f**4 + 6*f**4 - 2*f**4 - v*f**4 sehubungan dengan f?
+192*f
+Temukan turunan kedua dari -2*t**3 + 24*t**2 - 40*t**2 + 7*t + 2313*t + 190*t**2 + 140*t**2 yang terkait dengan t.
+628 - 12*t
+Apa turunan dari 909 - 388 + 1036 - 784*n + 224*n - 1065*n sehubungan dengan n?
+-1625
+Temukan turunan kedua dari -3667*a**4 - 1286*a + 3729*a**4 - 3305*a**4 yang terkait dengan a.
+-38916*a**2
+Misalkan m = -22 - -40. Misalkan -k + 5*u = 11, k = -2*k - 2*u + m. Apa turunan ketiga dari -114 - 8*h**2 + 20*h**k + 114 sehubungan dengan h?
+480*h
+Misalkan c (j) menjadi turunan ke-pertama dari 11*j**6/3 - 7*j**4/2 - 1033*j**2 + 67. Apa turunan kedua dari c(a) sehubungan dengan a?
+440*a**3 - 84*a
+Apa turunan dari -440 + 197*y - 26*y**3 - 852 - 187*y sehubungan dengan y?
+10 - 78*y**2
+Misalkan b(g) = 2*g + 1. Misalkan -273*c = -263*c + 30. Misalkan q(d) = -151*d - 50. Misalkan p(m) = c*b(m) - q(m). Apa turunan dari p(k) sehubungan dengan k?
+145
+Misalkan z = -56 + 61. Misalkan -3*a - z*c - 2 = -a, -c = -a + 13. Temukan turunan ketiga dari 3*q**2 - q**2 - a*q**2 - q**2 - 6*q**6 yang terkait dengan q.
+-720*q**3
+Apa turunan kedua dari -1214*c - 27*c**2 - 218*c**2 + 73*c**2 - 120*c**2 - 150*c**2 sehubungan dengan c?
+-884
+Misalkan u (t) menjadi turunan ke-kedua dari t**4/12 + 1837*t**3/3 - 1509*t**2/2 + 132*t - 8. Diferensial yang u(g) sehubungan dengan g.
+2*g + 3674
+Misalkan m be 6/2 - (-30)/15. Apa turunan pertama dari -4*l + 20*l - 79 - m*l**2 + 3*l**2 - 14*l sehubungan dengan l?
+2 - 4*l
+Misalkan 0 = -10*q - 2 + 22. Misalkan m be (q/(-8))/(2/(-104)). Temukan turunan pertama dari 0*l**2 + m + 13*l**2 - 2*l**2 - 3*l**2 yang terkait dengan l.
+16*l
+Misalkan h (i) menjadi turunan ke-kedua dari -1039*i**5/20 - 421*i**4/6 + 688*i. Apa turunan ketiga dari h(n) sehubungan dengan n?
+-6234
+Misalkan j be (13 - (-2 - -7)) + -8. Misalkan t (s) menjadi turunan ke-pertama dari 12 - 17/3*s**3 + 22*s + j*s**2. Apa turunan dari t(x) sehubungan dengan x?
+-34*x
+Misalkan b (r) menjadi turunan ke-ketiga dari 9*r**5/10 - 1403*r**4/12 - 2614*r**2. Apa turunan kedua dari b(l) sehubungan dengan l?
+108
+Misalkan j (a) menjadi turunan ke-pertama dari -1/3*a**3 - 31/4*a**4 + 1/2*a**2 - 2*a + 121. Temukan turunan kedua dari j(m) yang terkait dengan m.
+-186*m - 2
+Misalkan -13750 = 670*y - 681*y. Diferensial yang 12*o**2 + 232 + 1248*o + 56*o**2 - y*o sehubungan dengan o.
+136*o - 2
+Temukan turunan kedua dari -26*h**4 - h**2 + 0*h**3 + 3*h**2 - 20*h**4 + 0*h**2 - 3*h**3 + 1462*h yang terkait dengan h.
+-552*h**2 - 18*h + 4
+Misalkan y (w) menjadi turunan ke-kedua dari -14/15*w**6 + 0*w**3 - 11*w + 7*w**4 + 1/20*w**5 + 0*w**2 + 5. Apa turunan ketiga dari y(d) sehubungan dengan d?
+6 - 672*d
+Misalkan j (x) menjadi turunan ke-ketiga dari -5*x**7/42 - 3*x**5/20 - 1157*x**3/6 - 2*x**2 + 187*x. Apa turunan pertama dari j(f) sehubungan dengan f?
+-100*f**3 - 18*f
+Misalkan r = 194 + -189. Temukan turunan ketiga dari 12 + 8239*s**3 - 8239*s**3 + 46*s**r + 2*s**2 yang terkait dengan s.
+2760*s**2
+Temukan turunan ketiga dari 48*p**3 - 125*p**3 + 1400870*p**4 - 1400852*p**4 + 5315*p**2 yang terkait dengan p.
+432*p - 462
+Misalkan -2*n - 138 = -7*l + 5*l, l + n = 79. Apa turunan ketiga dari -10*t**2 - 42*t**2 + 13*t**4 - l*t**4 sehubungan dengan t?
+-1464*t
+Apa turunan pertama dari 355*b + 855 - 3153 - 836*b - 1360*b sehubungan dengan b?
+-1841
+Misalkan -4*h + 4*r = -1012, h + 4*r - 1283 = -4*h. Misalkan -6*k = -k - h. Apa turunan dari -1 - 5*g**4 - k*g**2 + 51*g**2 sehubungan dengan g?
+-20*g**3
+Misalkan m(f) = 7155*f + 8249. Misalkan o(q) = 42954*q + 49494. Misalkan y(g) = 19*m(g) - 3*o(g). Apa turunan dari y(s) sehubungan dengan s?
+7083
+Misalkan 3*h + 466 = 94. Misalkan w = h + 136. Apa turunan kedua dari -w*q**2 - 5*q**2 - 372*q + 348*q sehubungan dengan q?
+-34
+Misalkan p = -2524 - -2535. Misalkan i = -4 + 6. Apa turunan ketiga dari -5*t**5 + 0*t**i - p*t**2 + 13*t**5 + 6*t**5 sehubungan dengan t?
+840*t**2
+Misalkan l (v) menjadi turunan ke-ketiga dari 2897*v**6/60 + 17*v**5/12 - v**3/6 + 2*v**2 - 1090*v - 2. Apa turunan ketiga dari l(p) sehubungan dengan p?
+34764
+Misalkan t be (-2)/(-2)*-1 + 2 - -11. Misalkan s = -23 + 25. Temukan turunan kedua dari -t*h**s + 448 - 2*h - 448 yang terkait dengan h.
+-24
+Misalkan u (k) menjadi turunan ke-pertama dari -2/3*k**3 - 76*k**2 + 0*k - 69 - 5/4*k**4. Temukan turunan kedua dari u(d) yang terkait dengan d.
+-30*d - 4
+Apa turunan dari -2*l**4 + 11522 - 200*l**2 - 570*l**2 - 4508 - 702*l**2 sehubungan dengan l?
+-8*l**3 - 2944*l
+Misalkan m = -303 - -566. Temukan turunan kedua dari 11*x + 84*x**2 + 30*x + 22*x - m*x**2 yang terkait dengan x.
+-358
+Temukan turunan ketiga dari 916*o**2 - 195388*o**3 + 754*o**2 + 194348*o**3 yang terkait dengan o.
+-6240
+Misalkan x = -13 - -19. Misalkan a be ((-370)/50 - -7) + 34/10. Apa turunan kedua dari -x*g**a + 7*g**3 + 43*g - 2*g**3 sehubungan dengan g?
+-6*g
+Misalkan c (m) menjadi turunan ke-ketiga dari 1007*m**8/336 - 5*m**5/12 - 13*m**4/8 + 2558*m**2. Apa turunan ketiga dari c(n) sehubungan dengan n?
+60420*n**2
+Misalkan m (i) menjadi turunan ke-kedua dari 0 + 13/6*i**3 + 26*i + 0*i**2 + 83/12*i**4. Temukan turunan kedua dari m(t) yang terkait dengan t.
+166
+Temukan turunan kedua dari -66650*o + 71233*o - 1 - 1907*o**4 + o**2 + 1 - 2*o**3 yang terkait dengan o.
+-22884*o**2 - 12*o + 2
+Apa turunan kedua dari -673*b**5 + 10815*b**3 + b - 5404*b**3 - 5411*b**3 sehubungan dengan b?
+-13460*b**3
+Temukan turunan ketiga dari -66*z**3 + 1189*z**2 - 771*z**2 + 1167*z**2 yang terkait dengan z.
+-396
+Temukan turunan ketiga dari v**3 + 7*v + 4760*v**5 + 4761*v**5 - 163*v**4 - 9522*v**5 + 3 + 3*v**2 - 31*v yang terkait dengan v.
+-60*v**2 - 3912*v + 6
+Misalkan 24 = 4*t - 5*d, -2*t - 2*d + 23 = -7. Misalkan m = 40 - t. Temukan turunan ketiga dari 340*i**4 + 31*i**5 - 340*i**4 - m*i**2 yang terkait dengan i.
+1860*i**2
+Misalkan i(b) = -30 + 3*b + 97 + 10. Misalkan j(y) = -y - 26. Misalkan q(o) = 3*i(o) + 8*j(o). Temukan turunan pertama dari q(d) yang terkait dengan d.
+1
+Misalkan w = 341 + -339. Temukan turunan kedua dari 18*h**3 + 39*h**3 + w*h**2 - 14*h**3 + 80*h yang terkait dengan h.
+258*h + 4
+Temukan turunan kedua dari -3999*v**3 + 1916*v + 3999*v**3 + 2730*v + 2761*v**4 yang terkait dengan v.
+33132*v**2
+Misalkan n (z) menjadi turunan ke-ketiga dari -23*z**7/70 + 937*z**5/30 + 57*z**2. Apa turunan ketiga dari n(p) sehubungan dengan p?
+-1656*p
+Temukan turunan kedua dari -26*n - 992 - 177*n**2 + 2979 - 962 + 2828*n**2 - 994 yang terkait dengan n.
+5302
+Temukan turunan ketiga dari -285*m**3 - 50*m**2 + 140*m**3 + 134*m**2 + 615*m**3 - 20 + 1102*m**3 yang terkait dengan m.
+9432
+Misalkan g(x) = 3*x + 27. Misalkan y be g(2). Temukan turunan pertama dari 16*q**3 - 23*q**2 + 8*q**3 + 40 + 10*q**3 - y*q**3 yang terkait dengan q.
+3*q**2 - 46*q
+Misalkan r = -14 + -21. Misalkan f = 37 + r. Apa turunan ketiga dari -4*u**3 - 25*u**f - u**3 + 26*u**2 sehubungan dengan u?
+-30
+Temukan turunan ketiga dari -2658*h**3 - 573*h**2 + 206*h - 3547*h**3 - 644*h**2 - 104*h - 103*h yang terkait dengan h.
+-37230
+Apa turunan dari 368 - 1263 + 484 + 565*y**4 sehubungan dengan y?
+2260*y**3
+Apa turunan kedua dari 4*g**2 + 17*g**4 - 31*g**4 + 94*g**3 + 746*g + 23*g**3 + 19*g**4 + 489*g sehubungan dengan g?
+60*g**2 + 702*g + 8
+Temukan turunan pertama dari -1630*y - 1772*y + 4806*y + 1691 yang terkait dengan y.
+1404
+Temukan turunan kedua dari 258 - 8*x - 13250*x**5 - 936*x**4 + 13252*x**5 + 14*x yang terkait dengan x.
+40*x**3 - 11232*x**2
+Misalkan n = 3642 + -1922. Misalkan 3*s = -s + n. Apa turunan ketiga dari 16*y**6 - s*y**5 + 430*y**5 + 2*y**2 sehubungan dengan y?
+1920*y**3
+Misalkan 7*q - 54 = 3*q - 2*c, 5*q - 69 = -2*c. Misalkan i = q + -10. Apa turunan kedua dari 51*v**5 - 7*v + 45*v**i - 93*v**5 sehubungan dengan v?
+60*v**3
+Misalkan k (v) menjadi turunan ke-kedua dari 0*v**4 + 184*v - 10/3*v**6 + 0 - 139/2*v**2 + 0*v**3 + 0*v**5. Apa turunan dari k(p) sehubungan dengan p?
+-400*p**3
+Misalkan h(o) = -o**3 - 7*o**2 + 17*o - 5. Misalkan v be h(-9). Apa turunan ketiga dari -143*p**4 - 21*p**2 - 119*p**4 + 138*p**v sehubungan dengan p?
+-2976*p
+Misalkan k (b) menjadi turunan ke-pertama dari -b**6 + 2*b**4 - 701*b**2/2 + 2*b - 546. Apa turunan kedua dari k(g) sehubungan dengan g?
+-120*g**3 + 48*g
+Misalkan i + 3*i = 4*z - 3028, 3*i - 2241 = -3*z. Diferensial yang -750*g**3 + 135 + 62 + g**2 + z*g**3 sehubungan dengan g.
+6*g**2 + 2*g
+Misalkan 1 = b - 3. Misalkan 4*u = -g + 5*g - 4, -5*g = b*u - 41. Apa turunan dari 19 + 6*a**4 - u*a**4 + 3 sehubungan dengan a?
+8*a**3
+Misalkan q (i) menjadi turunan ke-pertama dari 2141*i**4/4 + 1081*i**2/2 - i - 1632. Apa turunan kedua dari q(t) sehubungan dengan t?
+12846*t
+Misalkan l (y) menjadi turunan ke-ketiga dari 0*y**4 + 29/2*y**3 + 0*y + 0 + 63*y**2 - 13/20*y**5. Temukan turunan pertama dari l(t) yang terkait dengan t.
+-78*t
+Misalkan j be ((-6)/(-9))/(6/27). Misalkan d be (j - 9/2)*8/(-6). Temukan turunan kedua dari -26*t + 17*t - d*t**4 - 16*t yang terkait dengan t.
+-24*t**2
+Misalkan t (q) menjadi turunan ke-kedua dari q**5/20 - q**4/2 - 7*q**3/3 + 6*q**2 + 218*q. Apa turunan kedua dari t(l) sehubungan dengan l?
+6*l - 12
+Temukan turunan kedua dari -j + 762*j**2 - 198 + 788*j**2 - j**3 - 316*j**2 yang terkait dengan j.
+2468 - 6*j
+Misalkan -2*k + 0 + 4 = 0. Misalkan 2*z - 78 = -30. Apa turunan kedua dari -15*f**k - 22*f + z*f + 2*f**2 sehubungan dengan f?
+-26
+Misalkan k (p) menjadi turunan ke-kedua dari -671*p**6/10 + 23*p**4/3 - p**3/6 - p**2 - 4668*p. Temukan turunan ketiga dari k(l) yang terkait dengan l.
+-48312*l
+Misalkan q (o) menjadi turunan ke-kedua dari -13*o**8/56 - 29*o**7/21 + 1783*o**4/12 - 3035*o. Apa turunan ketiga dari q(w) sehubungan dengan w?
+-1560*w**3 - 3480*w**2
+Misalkan -3*h + 7*x + 66 = 3*x, -2*h + 2*x + 44 = 0. Diferensial yang 95 - h + 38 + 61*m sehubungan dengan m.
+61
+Misalkan g be (-3)/(-3)*3*(8 - 7). Misalkan g*y - k - 21 = 4*k, -3*y + 3 = k. Apa turunan kedua dari 6*o - 23*o**y + 14*o - 34*o - 2*o sehubungan dengan o?
+-46
+Misalkan b(f) = -2298*f**2 - 1246*f. Misalkan g(h) = -766*h**2 - 416*h. Misalkan v(t) = 4*b(t) - 11*g(t). Temukan turunan kedua dari v(l) yang terkait dengan l.
+-1532
+Misalkan v (x) menjadi turunan ke-ketiga dari -1579*x**5/10 - 4793*x**4/24 + 6361*x**2. Apa turunan kedua dari v(t) sehubungan dengan t?
+-18948
+Misalkan l(u) = 3 - 6 + 16 + 1 - 90*u. Misalkan y(c) = c + 1. Misalkan t(q) = l(q) + 2*y(q). Diferensial yang t(s) sehubungan dengan s.
+-88
+Misalkan c be (-2375)/(-76) + 6/8. Misalkan p = c - 30. Diferensial yang 8*v - p*v + 12*v + 4 sehubungan dengan v.
+18
+Misalkan w (v) menjadi turunan ke-pertama dari -115 + 7/3*v**3 + 0*v + 53*v**2 + v**4. Apa turunan kedua dari w(k) sehubungan dengan k?
+24*k + 14
+Misalkan -4*g + 10*j - 14*j = 0, 5*g - 4*j - 18 = 0. Diferensial yang 9*b - 5*b + 2*b - 15*b**2 + 6*b**g + 11 sehubungan dengan b.
+6 - 18*b
+Misalkan l(k) = -k**2 - 2*k + 3. Misalkan m be l(-3). Temukan turunan ketiga dari -q**2 + 3*q**2 + m*q**6 - 5*q**2 + 44*q**6 yang terkait dengan q.
+5280*q**3
+Misalkan m (d) menjadi turunan ke-pertama dari 4*d**5/5 + 32*d**3/3 - 295*d + 444. Apa turunan dari m(p) sehubungan dengan p?
+16*p**3 + 64*p
+Misalkan l(z) = z - 2. Misalkan c = -19 - -22. Misalkan w(q) = -119*q - 181. Misalkan g(s) = c*l(s) + w(s). Diferensial yang g(k) sehubungan dengan k.
+-116
+Misalkan t (b) menjadi turunan ke-kedua dari -113*b**2 + 34*b + 0 - 1/12*b**4 - 5/3*b**3. Apa turunan dari t(a) sehubungan dengan a?
+-2*a - 10
+Misalkan s(q) = 1 - q. Misalkan w be s(1). Misalkan w = 5*m + 42 - 172. Temukan turunan kedua dari 275 - 275 - 29*b**4 - m*b yang terkait dengan b.
+-348*b**2
+Misalkan u (x) menjadi turunan ke-kedua dari 1089*x**5/20 + 2719*x**2/2 - 35*x - 17. Apa turunan dari u(h) sehubungan dengan h?
+3267*h**2
+Misalkan u be (-6)/5*(-75 - -5)/(-7). Misalkan d be (-2)/(5/u + 9/(-36)). Apa turunan ketiga dari 8292*h**3 - 25*h**2 - 14*h**2 - 8332*h**d sehubungan dengan h?
+-240
+Misalkan i = -313 - -315. Temukan turunan kedua dari 68*y**i + 150*y**2 - 78*y**2 + 47*y - 46*y - 16 yang terkait dengan y.
+280
+Apa turunan pertama dari 36 + 59*j - 38*j + 16 - 31*j + 80*j**2 sehubungan dengan j?
+160*j - 10
+Misalkan -2*s = -4, 4*p + 40 - 100 = 4*s. Temukan turunan pertama dari 34 + p + 104 - 15 - 8 + 85*c**3 yang terkait dengan c.
+255*c**2
+Misalkan k(g) = g + 1. Misalkan y be k(7). Misalkan -13*s + 10 = -y*s. Apa turunan dari 0*o**2 - 20*o**4 - 35 + 0*o**s + 44 sehubungan dengan o?
+-80*o**3
+Temukan turunan pertama dari -7248 - 193*h + 2716 + 115*h + 2635*h yang terkait dengan h.
+2557
+Apa turunan dari -34 - 14 + 0*m**3 - 19139*m - 2*m**3 + 18483*m - 28 sehubungan dengan m?
+-6*m**2 - 656
+Misalkan 46*i - 265 = 4841. Diferensial yang -i*q + 5*q - 4*q - 1189 + 1162 sehubungan dengan q.
+-110
+Misalkan b (x) menjadi turunan ke-ketiga dari -3/5*x**5 + 0 + 0*x**3 - 46*x**2 - 73/24*x**4 + 0*x. Temukan turunan kedua dari b(q) yang terkait dengan q.
+-72
+Misalkan y (v) menjadi turunan ke-pertama dari -6*v**4 + 97 + 0*v**2 - 92/3*v**3 + 0*v. Temukan turunan ketiga dari y(m) yang terkait dengan m.
+-144
+Misalkan v = -38 + 36. Misalkan j be (-3)/(8/(-40)*(-5)/v). Temukan turunan ketiga dari 33*w**2 + j*w**2 - w - w**4 + w yang terkait dengan w.
+-24*w
+Misalkan d (r) menjadi turunan ke-pertama dari -11*r**5/5 + 63*r**4/4 + 2*r**3/3 - 163*r - 702. Temukan turunan ketiga dari d(b) yang terkait dengan b.
+378 - 264*b
+Apa turunan ketiga dari -746*g**5 - 1160*g**5 - 6805*g**3 - 3855*g**2 + 13603*g**3 - 1149*g**5 - 6800*g**3 sehubungan dengan g?
+-183300*g**2 - 12
+Misalkan z (c) menjadi turunan ke-kedua dari 8*c**8/7 + 28*c**4/3 - 66*c - 2. Apa turunan ketiga dari z(g) sehubungan dengan g?
+7680*g**3
+Diferensial yang -1188 - 3905 + 1597 + 179*r + 307*r - 1233 sehubungan dengan r.
+486
+Misalkan f (k) menjadi turunan ke-pertama dari 0*k + 39/2*k**4 + 0*k**2 + 101/3*k**3 - 56. Temukan turunan ketiga dari f(y) yang terkait dengan y.
+468
+Misalkan d (x) menjadi turunan ke-ketiga dari -x**2 + 0*x**3 + 5/4*x**5 - 11*x - 1/12*x**6 + 0 + 0*x**4. Temukan turunan ketiga dari d(n) yang terkait dengan n.
+-60
+Misalkan -10 = -12*f + 50. Apa turunan kedua dari -56*j + 10*j**3 + 4*j**3 - 3*j**3 + f*j**3 sehubungan dengan j?
+96*j
+Apa turunan kedua dari 278*y**2 - 652*y - 13*y**3 + 11*y**3 - 837*y**2 sehubungan dengan y?
+-12*y - 1118
+Misalkan n (p) menjadi turunan ke-pertama dari p**4/2 + 45*p**3 + 2*p**2 + 39*p - 346. Temukan turunan kedua dari n(k) yang terkait dengan k.
+12*k + 270
+Misalkan a(z) = 1883*z + 6567. Misalkan r(x) = -x - 8. Misalkan t(w) = -a(w) - 5*r(w). Temukan turunan pertama dari t(q) yang terkait dengan q.
+-1878
+Temukan turunan ketiga dari -7474 + 3*z + 69*z**2 + 201*z**4 + 7474 + 4*z**5 yang terkait dengan z.
+240*z**2 + 4824*z
+Misalkan -5*v - 3*z + 17 = -7, -4*v + 26 = -z. Temukan turunan ketiga dari 5*q**6 - 18*q**2 - 7*q**v + 81*q**2 - 4*q**4 yang terkait dengan q.
+-240*q**3 - 96*q
+Misalkan i (w) menjadi turunan ke-pertama dari 23*w**5/5 - 6*w**3 - 9*w**2/2 + 24*w + 232. Temukan turunan kedua dari i(p) yang terkait dengan p.
+276*p**2 - 36
+Misalkan p (v) menjadi turunan ke-ketiga dari 24*v**7/35 - 931*v**3/6 + 2214*v**2. Apa turunan pertama dari p(a) sehubungan dengan a?
+576*a**3
+Misalkan -1 = 2*c - c - s, -c - 3*s - 13 = 0. Misalkan p be (8 + 316/8)*c/(-5). Apa turunan kedua dari -20 - 12 - p*w**3 - 3*w + 19 sehubungan dengan w?
+-228*w
+Misalkan x (p) menjadi turunan ke-pertama dari -163*p**6/6 - 3*p**5/5 + 162*p**3 + 1408. Temukan turunan ketiga dari x(z) yang terkait dengan z.
+-9780*z**2 - 72*z
+Misalkan p be (-2262)/(-36) - (-3)/18. Misalkan u = -35 + p. Apa turunan pertama dari 17*g - 49*g + 20*g - 17 + u*g sehubungan dengan g?
+16
+Misalkan o (n) menjadi turunan ke-kedua dari 2107*n**6/30 + 16*n**4/3 + 3*n**3 - 1499*n + 1. Apa turunan ketiga dari o(a) sehubungan dengan a?
+50568*a
+Misalkan b (j) menjadi turunan ke-ketiga dari 0 - 32/3*j**3 + 5/24*j**4 + 2*j - 38*j**2. Temukan turunan pertama dari b(n) yang terkait dengan n.
+5
+Misalkan -3*y = -a + 25 - 137, -5*a = 3*y - 88. Misalkan q = y - 33. Temukan turunan ketiga dari 2*f**2 - 6*f + 11*f**6 + 6*f + q*f**2 yang terkait dengan f.
+1320*f**3
+Misalkan h be 60/28 - 2/14. Diferensial yang -40*t**h - 72*t**2 + 26 + 119 - 5*t**2 sehubungan dengan t.
+-234*t
+Misalkan n (b) menjadi turunan ke-kedua dari -931*b**5/10 - 5767*b**4/12 + 2*b + 2222. Temukan turunan ketiga dari n(s) yang terkait dengan s.
+-11172
+Misalkan z (d) menjadi turunan ke-pertama dari d**5/5 - 217*d**4/2 - 24*d**3 - 35*d**2/2 + 4533. Apa turunan ketiga dari z(i) sehubungan dengan i?
+24*i - 2604
+Temukan turunan ketiga dari 16*p**3 + 262*p - p**4 - 10782*p**2 + 2 + 15*p**5 + 10784*p**2 + 396*p yang terkait dengan p.
+900*p**2 - 24*p + 96
+Temukan turunan pertama dari -500 - 395 - 466 + 297 - 1983*n yang terkait dengan n.
+-1983
+Misalkan z (q) menjadi turunan ke-pertama dari 2897*q**2/2 + 1815*q + 987. Apa turunan pertama dari z(w) sehubungan dengan w?
+2897
+Diferensial yang 994 - 263*w**2 - 3833*w + 3833*w sehubungan dengan w.
+-526*w
+Misalkan s (k) menjadi turunan ke-pertama dari 7*k**4/4 - 10*k**3 - 121*k**2/2 - 2*k - 40. Apa turunan kedua dari s(f) sehubungan dengan f?
+42*f - 60
+Temukan turunan ketiga dari 2 - 131*v**2 + 463*v**3 - 47*v**3 + 25*v**2 + 48*v**2 + 2 yang terkait dengan v.
+2496
+Misalkan z (p) menjadi turunan ke-kedua dari 11 + 223/12*p**4 + 0*p**3 + 5*p + 215/2*p**2. Apa turunan pertama dari z(l) sehubungan dengan l?
+446*l
+Misalkan k (i) menjadi turunan ke-kedua dari 983*i**6/30 + 97*i**4/12 - i - 7. Temukan turunan ketiga dari k(w) yang terkait dengan w.
+23592*w
+Misalkan r (j) menjadi turunan ke-ketiga dari 2321*j**6/30 + 2093*j**5/30 - j**3/6 - 9376*j**2. Apa turunan ketiga dari r(k) sehubungan dengan k?
+55704
+Misalkan o (l) menjadi turunan ke-kedua dari -405*l**4/4 - l**3/3 + 1467*l**2/2 + 628*l. Apa turunan kedua dari o(x) sehubungan dengan x?
+-2430
+Misalkan o(h) = -3*h - 97. Misalkan q be o(-34). Temukan turunan ketiga dari -17*b**4 - 96*b**q - b**2 + 14*b**4 + 93*b**5 yang terkait dengan b.
+-180*b**2 - 72*b
+Misalkan m (c) menjadi turunan ke-pertama dari -6947*c**5/5 + 3931*c**3/3 + 4812. Temukan turunan ketiga dari m(q) yang terkait dengan q.
+-166728*q
+Apa turunan kedua dari 1 + w**2 - 3125*w - 1027*w**3 + 1562*w - 61*w**3 + 1559*w sehubungan dengan w?
+2 - 6528*w
+Misalkan m (t) menjadi turunan ke-ketiga dari -461*t**7/105 - 388*t**3 + 3154*t**2. Diferensial yang m(x) sehubungan dengan x.
+-3688*x**3
+Misalkan c be 12/(-60) + 483/15. Temukan turunan ketiga dari 8*k**3 - 41*k**2 + 4*k**4 - 11*k**4 + c*k**2 + 47*k**2 yang terkait dengan k.
+48 - 168*k
+Misalkan u (x) menjadi turunan ke-ketiga dari 781*x**6/40 - 1573*x**4/24 + 2651*x**2 - 2. Apa turunan kedua dari u(h) sehubungan dengan h?
+14058*h
+Apa turunan ketiga dari 776*w**4 - 1898*w**2 + w**5 - 306*w**4 - 261*w**2 - 321*w**4 - 237*w**4 sehubungan dengan w?
+60*w**2 - 2112*w
+Misalkan s be ((-5)/4)/((-3)/(-12)). Misalkan c be ((-24)/s)/(45/1200). Temukan turunan ketiga dari i + 152*i**3 - 13*i**2 - c*i**3 - i yang terkait dengan i.
+144
+Misalkan v be ((-8)/6)/((-35)/105). Apa turunan kedua dari 25*i**v + i - 9*i**2 + 9*i**2 + 55*i**4 - 11 sehubungan dengan i?
+960*i**2
+Misalkan q (i) menjadi turunan ke-ketiga dari -i**8/168 + 9*i**6/10 - i**5/15 - 17*i**4/24 - 943*i**2. Temukan turunan ketiga dari q(u) yang terkait dengan u.
+648 - 120*u**2
+Misalkan h (t) menjadi turunan ke-kedua dari -257*t**8/14 + 53*t**4/6 + t**3/3 + 352*t. Temukan turunan ketiga dari h(n) yang terkait dengan n.
+-123360*n**3
+Misalkan v (k) menjadi turunan ke-kedua dari -k**5/10 - 95*k**4/2 + 950*k**2 + 1326*k - 3. Diferensial yang v(f) sehubungan dengan f.
+-6*f**2 - 1140*f
+Apa turunan pertama dari -9584 - 8022 + 15261 + 71*a + 2*a**2 + 2*a**3 sehubungan dengan a?
+6*a**2 + 4*a + 71
+Misalkan o(s) = 12*s + 1. Misalkan b(f) = 1953*f - 2010. Misalkan n(c) = -b(c) - 18*o(c). Temukan turunan pertama dari n(m) yang terkait dengan m.
+-2169
+Misalkan h(t) = 1 - 11*t. Misalkan x(s) = 8982*s + 8518. Misalkan j(a) = -34*h(a) + x(a). Temukan turunan pertama dari j(c) yang terkait dengan c.
+9356
+Temukan turunan kedua dari u**3 - 268*u - 640*u**5 - 322*u + 105*u**5 - 159*u**5 - 357*u yang terkait dengan u.
+-13880*u**3 + 6*u
+Misalkan w (v) menjadi turunan ke-pertama dari 205*v**5 + 99*v**2 + v - 440. Temukan turunan kedua dari w(z) yang terkait dengan z.
+12300*z**2
+Misalkan 0 = -3*v + 5*q + 19, 5*v = 2*v - q + 7. Apa turunan kedua dari -6626 + 78*l + 26*l**v + 6626 sehubungan dengan l?
+156*l
+Misalkan o (z) menjadi turunan ke-ketiga dari 9/10*z**5 + 0*z + 0*z**4 + 0 - 5*z**3 - 16*z**2. Diferensial yang o(t) sehubungan dengan t.
+108*t
+Misalkan w(a) = 4*a**2 - 187*a - 387. Misalkan m(h) = 3*h**2 - 193*h - 386. Misalkan i(y) = -6*m(y) + 5*w(y). Diferensial yang i(d) sehubungan dengan d.
+4*d + 223
+Misalkan f (v) menjadi turunan ke-kedua dari -2*v**4/3 + 17*v**3/3 - 5035*v**2/2 + 685*v - 1. Temukan turunan pertama dari f(o) yang terkait dengan o.
+34 - 16*o
+Apa turunan kedua dari 2*a**3 - 29*a - 425*a**2 + 214*a**2 + 206*a**2 - 4*a**3 + 11 + 4*a**3 sehubungan dengan a?
+12*a - 10
+Misalkan t (v) menjadi turunan ke-ketiga dari v**6/15 + 7*v**5/12 - 4699*v**4/24 - 28*v**2 - 207. Apa turunan kedua dari t(p) sehubungan dengan p?
+48*p + 70
+Misalkan z (w) menjadi turunan ke-pertama dari -5489*w**3/3 - 319*w**2 + 1779. Temukan turunan kedua dari z(o) yang terkait dengan o.
+-10978
+Misalkan a = 26 + -42. Misalkan r be (-4)/a + 359/4. Temukan turunan kedua dari -181*i**2 + 91*i**2 - 8*i + r*i**2 - 6*i**4 yang terkait dengan i.
+-72*i**2
+Misalkan z = 54 - 54. Misalkan -3*n - 4*k + 95 = z, 5 + 10 = n - 2*k. Temukan turunan kedua dari -28*f - 21*f + n*f - 22*f**2 yang terkait dengan f.
+-44
+Misalkan w = -36 + 70. Misalkan -2*u = -4*v + 4, w - 11 = 5*v + 2*u. Temukan turunan ketiga dari 3*g**2 - v*g**2 + 5*g**2 - 8*g**6 yang terkait dengan g.
+-960*g**3
+Temukan turunan ketiga dari -7*r**2 + 19*r - 8*r**2 + 3*r**4 + r**2 - 5*r**2 + r + 542*r**5 yang terkait dengan r.
+32520*r**2 + 72*r
+Misalkan v be (12/8)/((-1)/(-6)). Misalkan 16*i - 16 = 8*i. Apa turunan kedua dari -12*o - v*o - i*o + 4*o + 2*o**3 sehubungan dengan o?
+12*o
+Misalkan s(a) = -4139*a - 6935. Misalkan w(m) = -4141*m - 6914. Misalkan l(r) = -2*s(r) + 3*w(r). Apa turunan pertama dari l(j) sehubungan dengan j?
+-4145
+Misalkan u(q) = -q**3 + 5*q**2 - 2*q - 6. Misalkan y be u(4). Apa turunan kedua dari -46*j + 9 - 36*j**y + 89*j - 45*j sehubungan dengan j?
+-72
+Misalkan z (m) menjadi turunan ke-kedua dari 8615*m**4/12 - m**3/3 + 391*m**2 - 146*m + 13. Apa turunan kedua dari z(b) sehubungan dengan b?
+17230
+Misalkan x be (-927)/(-3) + (-3)/6*-8. Temukan turunan kedua dari -310 + x + 34*p**2 + 7*p + 8*p - 7*p**2 yang terkait dengan p.
+54
+Misalkan 11 = 5*u - c, -6*c = 2*u - 2*c. Temukan turunan kedua dari 300*z**2 + 1 - 37*z - 68*z**2 + 36*z - u yang terkait dengan z.
+464
+Misalkan -c - 6*u - 5 = -8*u, -5*c + 19 = u. Temukan turunan kedua dari 7*s + 70*s**c - 1515*s**2 + 1515*s**2 + 8 yang terkait dengan s.
+420*s
+Misalkan w (t) menjadi turunan ke-ketiga dari 1003*t**9/252 - t**5/15 + 137*t**3/6 - t**2 - 94. Apa turunan ketiga dari w(k) sehubungan dengan k?
+240720*k**3
+Misalkan y be ((-15)/(-6) - 3)/((-1)/302). Apa turunan dari y*p**3 - 168 - 16*p**2 - 2*p**2 + 18*p**2 sehubungan dengan p?
+453*p**2
+Misalkan s (b) menjadi turunan ke-ketiga dari 37*b**4/6 + 419*b**3/2 - 2*b**2 + 6*b. Apa turunan pertama dari s(r) sehubungan dengan r?
+148
+Misalkan -7*z + 89 + 114 = 0. Misalkan 1 = -14*f + z. Diferensial yang -128 - 6*k**2 - 17*k**f + 165 sehubungan dengan k.
+-46*k
+Temukan turunan kedua dari 1264*k**3 - 630*k**3 - 636*k**3 + 5011*k - 279*k**2 - 3350*k**2 yang terkait dengan k.
+-12*k - 7258
+Misalkan h = 106 - 103. Temukan turunan ketiga dari -12*c**2 - 82*c**h + 19*c**2 + 19*c**2 yang terkait dengan c.
+-492
+Misalkan d (s) menjadi turunan ke-pertama dari 651*s**4 - s**3/3 - 1331*s**2 - 1507. Temukan turunan ketiga dari d(j) yang terkait dengan j.
+15624
+Apa turunan dari -401*x - 1169 + 711*x + 2645*x sehubungan dengan x?
+2955
+Temukan turunan ketiga dari 695*b**2 - 441*b**5 - 2177*b**2 - 9618*b**4 + 9618*b**4 yang terkait dengan b.
+-26460*b**2
+Misalkan p (y) menjadi turunan ke-kedua dari y**7/21 + 22*y**5 - 95*y**4/3 + 30*y + 2. Temukan turunan ketiga dari p(c) yang terkait dengan c.
+120*c**2 + 2640
+Misalkan j(i) = -1138*i - 5314. Misalkan q(c) = 1134*c + 5315. Misalkan o(b) = 6*j(b) + 5*q(b). Apa turunan pertama dari o(x) sehubungan dengan x?
+-1158
+Misalkan b(q) = q**2 - 9*q + 18. Misalkan d be b(6). Misalkan d = v - 9*v. Apa turunan dari -20 + 0*k**2 + v*k**2 - 22*k**3 + 57*k**3 sehubungan dengan k?
+105*k**2
+Misalkan d (h) menjadi turunan ke-kedua dari -33*h**2 + 66*h + 44/3*h**3 + 0. Temukan turunan pertama dari d(b) yang terkait dengan b.
+88
+Misalkan a (x) menjadi turunan ke-kedua dari x**6/5 + 3*x**5/5 + x**4/12 + 1113*x**2 + 6321*x. Apa turunan pertama dari a(t) sehubungan dengan t?
+24*t**3 + 36*t**2 + 2*t
+Temukan turunan pertama dari -876*b**2 - 11547 + 3*b**4 + 2478*b**2 - 833*b**2 yang terkait dengan b.
+12*b**3 + 1538*b
+Temukan turunan kedua dari -2*d**3 + 14932952*d**2 + 2*d**4 - 14932955*d**2 + 7*d + 159 + 18*d**3 + 6*d**3 yang terkait dengan d.
+24*d**2 + 132*d - 6
+Temukan turunan pertama dari 0*c**3 - 5365 + 2094 + 2*c**2 - 201*c + 108 + 2*c**3 - 8126 yang terkait dengan c.
+6*c**2 + 4*c - 201
+Temukan turunan kedua dari 26*m + 366*m**3 - 12796 - 27*m + 12420 yang terkait dengan m.
+2196*m
+Misalkan a (v) menjadi turunan ke-ketiga dari 779*v**5/60 - 467*v**3/3 - 9*v**2 + 2*v. Apa turunan pertama dari a(k) sehubungan dengan k?
+1558*k
+Misalkan m (k) menjadi turunan ke-ketiga dari -k**6/120 + 11*k**5/20 - 793*k**3/2 + 1768*k**2. Diferensial yang m(j) sehubungan dengan j.
+-3*j**2 + 66*j
+Misalkan i = 21 - 12. Misalkan 0 = -0*q - 18*q + 36. Apa turunan kedua dari q*b**4 - 17*b - i*b**4 - b**4 sehubungan dengan b?
+-96*b**2
+Apa turunan dari 38240 - 15290 + 144*h**2 - 5*h - 17928 sehubungan dengan h?
+288*h - 5
+Misalkan r = 78 + -89. Misalkan f = -9 - r. Temukan turunan ketiga dari 28*c**f - 6*c**6 - 749*c**3 + 749*c**3 yang terkait dengan c.
+-720*c**3

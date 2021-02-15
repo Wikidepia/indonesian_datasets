@@ -1,0 +1,666 @@
+Misalkan b = -158 + 109. Misalkan w = b - -51. Misalkan j be 2*((-1)/(-2) + 0). Hitung faktor umum terbesar dari w dan j.
+1
+Misalkan 4*y - 56 = 88. Misalkan d = 209 - 161. Apa pembagi persekutuan terbesar dari d dan y?
+12
+Misalkan j = 44 + 14. Misalkan z = 152 + j. Misalkan -3*r = 2*r - z. Hitung faktor umum terbesar dari r dan 6.
+6
+Misalkan -36*y = -21*y - 60. Hitung faktor umum tertinggi dari y dan 34.
+2
+Misalkan z = 37 - 39. Misalkan h be 114*(z - 7/(-3)). Apa pembagi persekutuan tertinggi dari 38 dan h?
+38
+Misalkan k - 8 + 3 = 0. Misalkan 0 = -k*p + 5. Misalkan w be (-3*(-10)/(-45))/(6/(-45)). Apa faktor umum terbesar dari p dan w?
+1
+Misalkan p be (-30)/(-10) - (8*12)/(-4). Misalkan d(a) = 8*a + 2*a - 6*a - 2 + 6*a. Misalkan i be d(2). Apa faktor umum tertinggi dari i dan p?
+9
+Misalkan t(g) = 16*g + 1. Misalkan i be t(1). Misalkan b be ((-14)/42)/(1/(-27)). Misalkan b*o = 797 + 427. Apa pembagi persekutuan tertinggi dari o dan i?
+17
+Misalkan h(v) = 3*v - 1. Misalkan i be h(6). Misalkan l = -1122 - -1207. Hitung faktor umum tertinggi dari i dan l.
+17
+Misalkan q be (8/6)/(6/(-432)). Misalkan n = q + 146. Apa faktor umum terbesar dari n dan 20?
+10
+Misalkan -5*v + 6 = -19. Misalkan -v = 3*h + 22. Misalkan a(w) = 2*w + 19. Misalkan p be a(h). Hitung pembagi persekutuan tertinggi dari p dan 1.
+1
+Misalkan f(b) = 4*b**3 - 2*b**2 - 4. Misalkan o be f(3). Misalkan n = o - 46. Misalkan i be 9/(-6)*n/(-6). Hitung faktor umum terbesar dari 50 dan i.
+10
+Misalkan c be -2 + 0/(-2) + 2. Misalkan u = 569 + -514. Misalkan c = 4*v + 12, 3*q + v + u = 340. Hitung faktor umum tertinggi dari q dan 12.
+12
+Misalkan 51*q = 18*q + 18018. Apa faktor umum terbesar dari 126 dan q?
+42
+Misalkan y(w) = 2*w**2 - 3*w. Misalkan d(l) = l**2 - 14*l - 2. Misalkan a be d(14). Misalkan f be y(a). Apa pembagi persekutuan terbesar dari f dan 14?
+14
+Misalkan m = -10 - -13. Misalkan b be ((-9)/(-2))/((-9)/(-66))*1. Hitung faktor umum tertinggi dari b dan m.
+3
+Misalkan t be (-3)/(-4)*7824/(12/1). Hitung faktor umum tertinggi dari 3 dan t.
+3
+Misalkan 5*p + 2*v = 333, 65 = -0*p + p + 2*v. Misalkan -6*x = -101 - p. Hitung pembagi persekutuan tertinggi dari x dan 196.
+28
+Misalkan h(u) = 2*u**2 + 5*u - 172. Misalkan g be h(14). Apa pembagi persekutuan terbesar dari 58 dan g?
+58
+Misalkan w(m) = 3*m**2 - 1. Misalkan q be w(-4). Misalkan 5*d - q = 53. Apa pembagi persekutuan tertinggi dari d dan 2?
+2
+Misalkan d(s) = 69 - s. Misalkan q be d(11). Apa pembagi persekutuan terbesar dari 58 dan q?
+58
+Misalkan -23 + 21 = -j. Misalkan 0*x + l - 60 = -4*x, -j*l - 75 = -5*x. Hitung faktor umum terbesar dari 15 dan x.
+15
+Misalkan -3*n = -106 - 29. Misalkan 3 + 10 = -l. Misalkan k = -8 - l. Apa faktor umum terbesar dari k dan n?
+5
+Misalkan d be 475/20 + (-4)/(-16). Apa pembagi persekutuan terbesar dari 228 dan d?
+12
+Misalkan l(w) = 34*w - 262. Misalkan y be l(8). Apa faktor umum tertinggi dari y dan 1250?
+10
+Misalkan -2*y = -3*y. Misalkan -u + 2 = -p - y*p, u - 1 = 0. Misalkan v(z) = -36*z**3 + 2*z + 1. Misalkan i be v(p). Hitung faktor umum tertinggi dari 14 dan i.
+7
+Misalkan 5*y = y + 2*c + 26, -2 = 2*c. Misalkan 0 = 4*g - y*g + 70. Misalkan k = g - 10. Hitung pembagi persekutuan tertinggi dari k dan 5.
+5
+Misalkan s(t) = 9*t**3 - t**2 + 3*t + 2. Misalkan u be s(-2). Misalkan m = -49 - u. Misalkan o = -284 - -377. Hitung pembagi persekutuan tertinggi dari m dan o.
+31
+Misalkan i be 2 + 176*5 + 0/(-18). Apa faktor umum terbesar dari i dan 36?
+18
+Misalkan r(g) = 2*g**2 + 19*g + 13. Misalkan k be r(-9). Misalkan c be 460/30*6/k. Misalkan m = 351 + -167. Apa pembagi persekutuan terbesar dari m dan c?
+23
+Misalkan 10064 = -8*a + 42*a. Apa pembagi persekutuan terbesar dari 111 dan a?
+37
+Misalkan r = 93 - 51. Misalkan c = r + -35. Hitung faktor umum tertinggi dari c dan 14.
+7
+Misalkan q be ((-16)/40)/(1/35). Misalkan s = 18 + q. Misalkan 5 = -g - 3*t, g + 3*t = 3*g - 17. Apa pembagi persekutuan tertinggi dari s dan g?
+4
+Misalkan d be (189 - 3) + -1*(-15)/(-5). Misalkan v = -166 + d. Hitung pembagi persekutuan terbesar dari v dan 85.
+17
+Misalkan r be (-3 + 4)/1 - 36. Misalkan l = 61 + r. Misalkan l = 5*i - 19. Hitung pembagi persekutuan terbesar dari 45 dan i.
+9
+Misalkan v = 258 + -239. Misalkan a(k) = 4*k**2 - 13*k - 9. Misalkan p be a(6). Apa faktor umum terbesar dari v dan p?
+19
+Misalkan j(i) = -2 - 3 + 1 + 4*i. Misalkan o be j(3). Misalkan 66*f - 100 = 61*f. Hitung faktor umum tertinggi dari f dan o.
+4
+Misalkan 0 = 5*i - 4*j - j - 25, 3*j = -3*i + 15. Misalkan 3*z - 66 = i*f, 0*f = -4*f - 12. Hitung faktor umum tertinggi dari 17 dan z.
+17
+Misalkan l = -1649 - -2351. Apa faktor umum terbesar dari l dan 27?
+27
+Misalkan c (r) menjadi turunan ke-pertama dari -r**3/3 - 19*r**2/2 + 23*r - 8. Misalkan u be c(-20). Hitung faktor umum terbesar dari u dan 15.
+3
+Misalkan g = 35 + -23. Misalkan -221 - 43 = -4*n. Misalkan r = n - 18. Apa pembagi persekutuan tertinggi dari g dan r?
+12
+Misalkan i = -720 - -907. Hitung pembagi persekutuan terbesar dari i dan 170.
+17
+Misalkan t(u) = -3*u**3 - u**2 - 2. Misalkan m be t(-2). Misalkan -12*g + 14*g = m. Apa pembagi persekutuan tertinggi dari g dan 9?
+9
+Misalkan z be (4 + -1)*-280*4/(-12). Apa faktor umum terbesar dari 14 dan z?
+14
+Misalkan q(d) = -d**3 - 3*d**2 + 19 - d + 14 + 2*d**2 + 2*d. Misalkan a be q(0). Hitung faktor umum terbesar dari a dan 22.
+11
+Misalkan d be 11/(132/144) - -2850. Hitung pembagi persekutuan terbesar dari d dan 106.
+106
+Misalkan i(l) = -3*l + 36 + 3*l + 8 - l. Misalkan q be i(14). Hitung faktor umum tertinggi dari q dan 210.
+30
+Misalkan n = 493 + -377. Apa pembagi persekutuan terbesar dari 4 dan n?
+4
+Misalkan f be (14/4)/((-60)/(-360)). Apa pembagi persekutuan tertinggi dari 21 dan f?
+21
+Misalkan x = -49 + -45. Misalkan q = -50 - x. Misalkan 0 = -4*i + 183 + 81. Apa faktor umum terbesar dari i dan q?
+22
+Misalkan q be 19536/64 + 2/(-8*1). Apa pembagi persekutuan tertinggi dari 427 dan q?
+61
+Misalkan f(g) = -g**2 - 10*g + 16. Misalkan x be f(-7). Misalkan -2*l = -133 + x. Hitung faktor umum terbesar dari l dan 24.
+24
+Misalkan t = 2 + 2. Misalkan z be 4 - (-408 + t)/4. Hitung faktor umum terbesar dari z dan 21.
+21
+Misalkan -72 - 62 = -2*r - z, -4*r + 276 = -2*z. Hitung faktor umum tertinggi dari r dan 357.
+17
+Misalkan 4*x = -13 - 19. Misalkan w be (-2)/3*36/x. Misalkan 2*k + w = -v - 0, v = 3*k + 7. Hitung faktor umum terbesar dari 4 dan v.
+1
+Misalkan 0 = -h - h + 16. Misalkan l(n) = n**2 - 7*n. Misalkan i be l(h). Misalkan 4*f = 40 + i. Apa pembagi persekutuan tertinggi dari f dan 6?
+6
+Misalkan g(k) = 56*k**2 + 63*k + 17. Misalkan j be g(5). Apa pembagi persekutuan terbesar dari j dan 4?
+4
+Misalkan 5*u - 658 = 3*u. Misalkan 77 = -7*v + u. Misalkan k(z) = 1 - 8*z. Misalkan t be k(-1). Apa pembagi persekutuan tertinggi dari v dan t?
+9
+Misalkan a be (-117)/(-18) + (-10)/4. Misalkan -a*h - 4*t = -464, -t - 5 = -7. Hitung pembagi persekutuan tertinggi dari 19 dan h.
+19
+Misalkan c = 39 + -38. Misalkan z be c/(-3) + -4 + (-1820)/(-15). Hitung faktor umum tertinggi dari 13 dan z.
+13
+Misalkan y(t) = 2*t + 15. Misalkan q be y(10). Misalkan a = -15 - q. Misalkan s be ((-20)/a)/(1/15). Apa faktor umum terbesar dari s dan 48?
+6
+Misalkan -38 - 57 = -5*n. Misalkan 0 = 5*q - n - 51. Apa faktor umum terbesar dari 6 dan q?
+2
+Misalkan 0 = -5*v - 4*w + 314, -22*w = -v - 19*w + 59. Hitung faktor umum terbesar dari 248 dan v.
+62
+Misalkan c(l) = -l**3 - 4*l**2 + 2*l - 1. Misalkan s be c(-5). Misalkan x be (0 - -3*70/(-15))*-8. Hitung faktor umum tertinggi dari x dan s.
+14
+Misalkan c(u) = u**3 + 10*u**2 - 13. Misalkan y be c(-10). Misalkan f be 2*11*(13/(-2))/y. Misalkan 2*s = 69 + 19. Hitung faktor umum tertinggi dari f dan s.
+11
+Misalkan 0 = -3*f + 10 + 2. Misalkan -4 = -2*s, a - 22 - 9 = f*s. Apa pembagi persekutuan tertinggi dari 3 dan a?
+3
+Misalkan p = -130 + 205. Misalkan 4 + 46 = 2*b. Hitung faktor umum tertinggi dari p dan b.
+25
+Misalkan f = 128 - 91. Misalkan 42*y - 110 = f*y. Misalkan -139 = -3*b - 7. Hitung faktor umum tertinggi dari b dan y.
+22
+Misalkan m(s) = -2*s**3 - 14*s**2 + 15. Misalkan n be m(-7). Apa faktor umum terbesar dari n dan 420?
+15
+Misalkan p = -8 + 20. Misalkan 33 = -p*b + 201. Misalkan o(n) = n**3 - 4*n**2 + 3*n + 2. Misalkan z be o(3). Apa pembagi persekutuan terbesar dari z dan b?
+2
+Misalkan n = -15 + 19. Misalkan 3*w - 21 = -n*w. Misalkan j = 31 - 7. Apa faktor umum terbesar dari j dan w?
+3
+Misalkan n be 2*(1720/88 - (-6)/(-11)). Hitung faktor umum terbesar dari 2014 dan n.
+38
+Misalkan 5*g = -2*g + 1211. Misalkan 4*b - 135 = g. Misalkan -21 = -2*s - 7. Apa faktor umum terbesar dari b dan s?
+7
+Misalkan o = -4 + 6. Misalkan s(r) = 6 - 2*r. Misalkan w be s(o). Misalkan b be ((-9)/(-2))/((-1)/(-4)). Hitung pembagi persekutuan tertinggi dari b dan w.
+2
+Misalkan w = 51 + -37. Misalkan -m - p = -0*m - 154, -4*p + 154 = m. Apa faktor umum terbesar dari m dan w?
+14
+Misalkan b be (-9)/(1 - (-2)/4). Misalkan a = b - -10. Misalkan -12*k - 6*k = -504. Hitung pembagi persekutuan terbesar dari a dan k.
+4
+Misalkan d = 723 + -379. Misalkan -5*z + 3*g = -372, -5*z - 2*g - 2*g + d = 0. Hitung faktor umum terbesar dari 8 dan z.
+8
+Misalkan h = -849 - -1538. Hitung faktor umum tertinggi dari h dan 13.
+13
+Misalkan n = -39 + 21. Misalkan h = n + 24. Misalkan 62 = 5*o - i, -6*o + 3*o + 2*i = -40. Apa pembagi persekutuan terbesar dari o dan h?
+6
+Misalkan h be 76*(0 + 2)*1. Apa pembagi persekutuan terbesar dari 32 dan h?
+8
+Misalkan 5*v + 1706 = 5*u + 9*v, -1025 = -3*u - v. Apa faktor umum terbesar dari 18 dan u?
+18
+Misalkan o be -3 - 2 - (-1 - (2 + -9 + 42)). Misalkan c be (-1 - 61)*(-1)/2. Hitung pembagi persekutuan tertinggi dari o dan c.
+31
+Misalkan j be 35/140 - 382/(-8). Apa faktor umum terbesar dari 288 dan j?
+48
+Misalkan -17*l + 157 + 115 = 0. Apa pembagi persekutuan tertinggi dari l dan 1024?
+16
+Misalkan r(n) = 2*n**2 + 3*n - 7. Misalkan w be r(-5). Misalkan h - w - 16 = 0. Misalkan j = h + 12. Hitung faktor umum terbesar dari j dan 7.
+7
+Misalkan t = -1400 + 1412. Hitung faktor umum terbesar dari 300 dan t.
+12
+Misalkan 8*o - 23 = 1. Hitung pembagi persekutuan terbesar dari o dan 48.
+3
+Misalkan -13 = -5*u - 3. Misalkan 0 = u*w + 2*s - 72, w - 5*s + 110 = 4*w. Apa pembagi persekutuan terbesar dari w dan 7?
+7
+Misalkan o = -15 - -19. Misalkan o*y + w = 1, -5*w + 4 + 1 = 0. Misalkan a(c) = -2*c**2 - c + 8. Misalkan f be a(y). Apa faktor umum tertinggi dari 24 dan f?
+8
+Misalkan b(i) = i + 9. Misalkan n be b(5). Misalkan g = -242 - -298. Hitung faktor umum tertinggi dari g dan n.
+14
+Misalkan d = 23 - 18. Misalkan -t - 2*h + 156 = -d*h, -831 = -5*t - 2*h. Hitung faktor umum terbesar dari t dan 15.
+15
+Misalkan b be 5/(-5)*-150 - 0. Hitung faktor umum tertinggi dari b dan 120.
+30
+Misalkan y(x) = 28 - 20*x. Misalkan h be y(0). Hitung pembagi persekutuan terbesar dari h dan 1.
+1
+Misalkan t be 448 + 7*(-2)/(-7). Hitung pembagi persekutuan terbesar dari t dan 50.
+50
+Misalkan 0*b + 2*b = -2*b. Misalkan -3*i + 44 = -b*i - l, 4*i - 63 = -3*l. Misalkan f(v) = 9*v + 6. Misalkan u be f(6). Apa faktor umum tertinggi dari u dan i?
+15
+Misalkan 21*b - 33*b + 336 = 0. Misalkan 284 = 5*j - 2*t, 54 - 168 = -2*j + t. Hitung faktor umum tertinggi dari j dan b.
+28
+Misalkan 4*s - 73 = 5*t, 0*s - s - t + 25 = 0. Misalkan h(j) = -j**3 + 4*j**2 + 2. Misalkan v be h(3). Hitung faktor umum tertinggi dari s dan v.
+11
+Misalkan w(u) = 2*u + 12. Misalkan k be w(-10). Misalkan m = k + 19. Misalkan b be -12 - (1 - -1 - 15). Apa faktor umum tertinggi dari b dan m?
+1
+Misalkan -64092 = -809*q + 795*q. Apa faktor umum terbesar dari q dan 42?
+42
+Misalkan 23*q - 2300 = -0*q. Apa faktor umum terbesar dari q dan 60?
+20
+Misalkan r = -22 + 50. Misalkan u(i) = -9*i - 32. Misalkan b be u(-8). Misalkan -36*l = -b*l + 280. Hitung pembagi persekutuan terbesar dari r dan l.
+14
+Misalkan g(i) = -370*i - 411. Misalkan b be g(-2). Apa pembagi persekutuan tertinggi dari b dan 63?
+7
+Misalkan 96 + 146 = 11*k. Misalkan 15*c - 172 + k = 0. Apa faktor umum terbesar dari c dan 10?
+10
+Misalkan -q + 16 = -24. Misalkan k be (q/105*3)/(2/7). Hitung pembagi persekutuan tertinggi dari 16 dan k.
+4
+Misalkan -2*p + 7*p = 10. Misalkan q(f) = 7*f + 1. Misalkan j be q(p). Misalkan l = j - 0. Hitung faktor umum tertinggi dari l dan 105.
+15
+Misalkan t be (-2 - 30/(-18))/(1/(-345)). Misalkan -3*w - 3 = -72. Apa faktor umum tertinggi dari t dan w?
+23
+Misalkan -37 = -13*r + 80. Misalkan r*b - 590 = 634. Misalkan y = -37 + 54. Hitung faktor umum terbesar dari b dan y.
+17
+Misalkan j(i) = i**3 + 2*i. Misalkan a be j(0). Misalkan 5*u + 20 = 0, -q + 0*q - 3*u + 5 = a. Hitung faktor umum tertinggi dari q dan 153.
+17
+Misalkan 5*p - 2*m - 74 = 0, -2*p - 2*m + 1 + 37 = 0. Misalkan -11*y = -9*y - 68. Misalkan r = y - -14. Apa pembagi persekutuan tertinggi dari r dan p?
+16
+Misalkan o (i) menjadi turunan ke-pertama dari i**4/4 + 16*i**3/3 + i**2/2 + 19*i - 7. Misalkan n be o(-16). Apa pembagi persekutuan terbesar dari n dan 51?
+3
+Misalkan r = 30 + -21. Misalkan v = 10 + -8. Misalkan 2*h + 0*g - 2*g = 12, v*h = -4*g - 6. Hitung pembagi persekutuan terbesar dari r dan h.
+3
+Misalkan 0 = -4*h - 5 + 13. Misalkan -5*l + h = -13. Misalkan l*s + 3 = 5*o - 0*o, -s = 2*o - 10. Hitung faktor umum tertinggi dari 27 dan o.
+3
+Misalkan -8*u + u + 14 = 0. Misalkan -u*d = -36 - 52. Apa faktor umum tertinggi dari d dan 396?
+44
+Misalkan o = -9 + 14. Misalkan 75 = o*r - 2*x, -2*x - 11 - 13 = -2*r. Misalkan h be (r/(-2))/(5/(-30)). Hitung pembagi persekutuan terbesar dari 17 dan h.
+17
+Misalkan x be (-1 + 2)*36/(4 - 2). Misalkan b be (-8)/(-5)*(-270)/36. Misalkan i be ((-3)/(-2))/((-9)/b). Apa faktor umum terbesar dari i dan x?
+2
+Misalkan -2*v + 4*v = z + 33, 4*v - 5*z = 57. Misalkan h = 35 - -1. Hitung faktor umum terbesar dari h dan v.
+18
+Misalkan -11*a + 12*a = 3. Misalkan a*n + 0*n = 39. Misalkan t = n - 6. Apa pembagi persekutuan tertinggi dari 35 dan t?
+7
+Misalkan v be 2/9 + (-374)/(-18). Misalkan -195*r - 99 = -228*r. Apa faktor umum tertinggi dari r dan v?
+3
+Misalkan n = 12 - 8. Misalkan -n*l - 176 = -0*l. Misalkan x = l - -122. Hitung faktor umum terbesar dari 26 dan x.
+26
+Misalkan 0 = -4*j + 5*n + 40, -5*n - 2 = j + 13. Misalkan 0 = j*r - 6*r + 24. Misalkan -10*v + 15 = -5*v. Apa faktor umum terbesar dari v dan r?
+3
+Misalkan f = -1516 + 1522. Hitung pembagi persekutuan terbesar dari f dan 294.
+6
+Misalkan -2*p + 118 = -8. Misalkan d(y) = 3*y - 11. Misalkan x be d(5). Misalkan c = 13 - x. Apa faktor umum tertinggi dari p dan c?
+9
+Misalkan -5*a - 3*p + 87 = -2*a, -a - 5*p + 37 = 0. Misalkan t = a - -3. Misalkan -4*r - g + t = 0, g - 22 = -4*r + r. Apa faktor umum terbesar dari 1 dan r?
+1
+Misalkan 4*k + 151 + 585 = 0. Misalkan g = -42 - k. Misalkan j be g/6 + (-5)/(-15). Hitung pembagi persekutuan terbesar dari j dan 12.
+12
+Misalkan h(m) = 289*m**2 - 1. Misalkan q be h(-1). Misalkan z be (3 - (-129)/21)/((-323)/119 - -3). Hitung faktor umum terbesar dari q dan z.
+32
+Misalkan d(n) = 61 - 6*n. Misalkan b be d(8). Hitung pembagi persekutuan tertinggi dari b dan 208.
+13
+Misalkan b = -50 - -56. Misalkan -2*z + v = -58, -2*z = v - b*v - 50. Apa pembagi persekutuan terbesar dari 6 dan z?
+6
+Misalkan h be (-10)/2 + 0 + 1 + 2. Misalkan y be (140/8)/(-5)*h. Misalkan -2*r + 0*r = -70. Apa faktor umum terbesar dari y dan r?
+7
+Misalkan i(w) = w**2 - 7*w - 1. Misalkan l be i(7). Misalkan y be (-1 - -5)*47 + l. Misalkan -3*f + 44 = -y. Hitung pembagi persekutuan tertinggi dari f dan 11.
+11
+Misalkan a = -44 + 64. Misalkan 3*o - a = -o. Misalkan -o*t - 4*p + 82 = 0, 0*t - 5*p = -t + 28. Hitung faktor umum tertinggi dari 180 dan t.
+18
+Misalkan q = -113 + 216. Misalkan 283 = -4*m + q. Misalkan j be (-792)/m + (-2)/(-5). Hitung pembagi persekutuan tertinggi dari 12 dan j.
+6
+Misalkan 2*s = 4*o + 1184, -72*s - 2971 = -77*s - o. Apa pembagi persekutuan terbesar dari s dan 66?
+66
+Misalkan -20 = -c + 2*g + 4, 87 = 5*c + g. Hitung faktor umum terbesar dari 63 dan c.
+9
+Misalkan 0 = -4*l + 184 + 392. Hitung pembagi persekutuan tertinggi dari l dan 80.
+16
+Misalkan 0 = 2*y + t - 24, -2*t + 3 = y - 6*t. Hitung pembagi persekutuan terbesar dari y dan 1.
+1
+Misalkan 0 = -22*w + 160 + 104. Hitung pembagi persekutuan tertinggi dari w dan 108.
+12
+Misalkan 0 = 5*c - 5, -5*s - 2*c + 107 = 30. Misalkan n = -10 + 20. Misalkan u = n + 5. Apa faktor umum terbesar dari u dan s?
+15
+Misalkan 0 = -w + 2*n + 20, 14 = -2*w + 3*w - 5*n. Misalkan p = 0 + 9. Misalkan j = p + -3. Hitung pembagi persekutuan tertinggi dari j dan w.
+6
+Misalkan q = 4 + 26. Misalkan -569*f - 300 = -599*f. Hitung pembagi persekutuan terbesar dari f dan q.
+10
+Misalkan -3*r - 2*y = 16, 24 = -3*r + 4*y - 16. Misalkan a be 1/((r/2)/(-56)). Hitung pembagi persekutuan tertinggi dari 56 dan a.
+14
+Misalkan 0 = 12*y - 647 + 71. Hitung faktor umum tertinggi dari 128 dan y.
+16
+Misalkan n be -4 + (-2)/(-6) + 564/36. Misalkan 4*d = 3*d + m + n, 32 = 3*d - m. Apa faktor umum tertinggi dari d dan 10?
+10
+Misalkan 5*p - 2*s - 1525 = 3*s, -4*s = -3*p + 914. Hitung faktor umum terbesar dari 18 dan p.
+18
+Misalkan f(w) = 59*w**2 - w + 12. Misalkan p be f(-3). Hitung pembagi persekutuan tertinggi dari p dan 156.
+78
+Misalkan 0*g - 54 = -3*g. Misalkan k(s) = -3*s**2 - 3. Misalkan j be k(2). Misalkan c = 60 + j. Apa pembagi persekutuan tertinggi dari c dan g?
+9
+Misalkan b = -357 - -426. Misalkan 2*p = 10 + 16. Misalkan -2*r = p - b. Apa faktor umum terbesar dari 70 dan r?
+14
+Misalkan -6*o + 1948 = f, -o = 4*f - 9*f - 304. Hitung faktor umum tertinggi dari o dan 72.
+36
+Misalkan 6 = 16*t - 18*t. Misalkan l be 47 - (2 + 1)*(-2)/t. Apa pembagi persekutuan terbesar dari l dan 45?
+45
+Misalkan 2*l = l + 45. Misalkan -o = 8*v - 148, 3*v - 4*o - 23 = 15. Apa pembagi persekutuan terbesar dari l dan v?
+9
+Misalkan g = -313 - -330. Apa pembagi persekutuan terbesar dari 17 dan g?
+17
+Misalkan d(m) = 3*m - 46. Misalkan i be d(19). Misalkan 2*u - 5*a = 22, -a + i = u + a. Apa faktor umum terbesar dari u dan 99?
+11
+Misalkan 3*v + 114 = r - 2*v, 5*r - 528 = 4*v. Apa pembagi persekutuan tertinggi dari 13 dan r?
+13
+Misalkan 2*l + 8 = 2*t, 0*t = 2*t - l - 6. Misalkan 421 = t*w + 3*w - s, w - 69 = 4*s. Apa faktor umum terbesar dari 34 dan w?
+17
+Misalkan d be (-2 + 8)/(-1)*5/2. Misalkan a be 2/(-7) + 68/(-7). Misalkan j be (d/a)/((-6)/(-16)). Apa faktor umum tertinggi dari 8 dan j?
+4
+Misalkan x be (15/2)/((-1)/(-4)). Misalkan f be 9 + 4*(-2)/(-8). Apa faktor umum terbesar dari f dan x?
+10
+Misalkan d = 94 - 87. Misalkan g(h) = h**3 - 6*h**2 + 6*h + 11. Misalkan j be g(d). Hitung faktor umum tertinggi dari j dan 68.
+34
+Misalkan -43 = -23*x + 49. Misalkan n be 19 - ((-12)/(-24) + 2/x). Hitung pembagi persekutuan tertinggi dari 234 dan n.
+18
+Misalkan o be (2 + 2)*(-1)/(-2)*11. Misalkan 0*k + 2*k - o = 0. Hitung faktor umum tertinggi dari k dan 22.
+11
+Misalkan q be (-12)/5*(-35)/14. Misalkan 3 = 3*g + q, 18 = u + g. Hitung faktor umum terbesar dari u dan 95.
+19
+Misalkan 64 = 3*a - 104. Misalkan 0 = -2*y - 2*y + a. Misalkan -2*b + 336 = b. Apa faktor umum tertinggi dari b dan y?
+14
+Misalkan g(x) = x**2 - 18*x + 105. Misalkan j be g(9). Apa faktor umum terbesar dari j dan 24?
+24
+Misalkan z be ((-32)/(-20))/((-8)/(-620)). Apa pembagi persekutuan terbesar dari 62 dan z?
+62
+Misalkan -16*m = -17 - 95. Misalkan t(f) = -7*f**3 - f**2 + 1. Misalkan 3 = -3*l - 0. Misalkan d be t(l). Apa pembagi persekutuan tertinggi dari d dan m?
+7
+Misalkan 0*d = 3*d. Misalkan -o = 3*r - 919, 5*o + 10 + 15 = d. Apa faktor umum terbesar dari r dan 28?
+28
+Misalkan m = 7 + -5. Misalkan t(l) = -l**2 - 5*l**2 + 5*l**2 - m + 7*l. Misalkan d be t(6). Hitung pembagi persekutuan terbesar dari 44 dan d.
+4
+Misalkan 7*z = 2*z - u + 250, 0 = -2*z - u + 103. Apa faktor umum tertinggi dari z dan 63?
+7
+Misalkan y be 1 - 0 - (-3)/1. Misalkan 3*a = 7*a - y*m - 444, -a = -3*m - 117. Misalkan 5*c - 2*c = a. Apa pembagi persekutuan terbesar dari 54 dan c?
+18
+Misalkan c(o) = o**3 - 5*o**2 + 8. Misalkan f be c(5). Apa pembagi persekutuan tertinggi dari 20 dan f?
+4
+Misalkan 0 = 4*k - 4*i - 92, 4*k - 85 = -i + 27. Apa faktor umum tertinggi dari 459 dan k?
+27
+Misalkan h be (-2 - 5/4)*(-120)/10. Hitung faktor umum tertinggi dari h dan 2769.
+39
+Misalkan p be (5/(175/336))/((-2)/(-5)). Apa faktor umum terbesar dari p dan 324?
+12
+Misalkan g(b) = 5*b**2 + 125*b + 486. Misalkan n be g(-4). Apa faktor umum terbesar dari n dan 3234?
+66
+Misalkan 18*t - 1114 = 146. Hitung faktor umum terbesar dari t dan 770.
+70
+Misalkan g be 1/(-2) - 2405/(-10). Misalkan 0 = 2*j + 2*j - 16, -w = 4*j - 46. Hitung pembagi persekutuan tertinggi dari w dan g.
+30
+Misalkan o be ((2 - 2) + 3)*1. Misalkan -j - 2*j = 0, -o*n + j + 6 = 0. Misalkan s be -11 + 8 + 90/n. Hitung faktor umum terbesar dari 28 dan s.
+14
+Misalkan v = -287 + 291. Hitung faktor umum terbesar dari v dan 68.
+4
+Misalkan -72 = -l - 3*l. Misalkan g = 63 - l. Hitung pembagi persekutuan tertinggi dari g dan 405.
+45
+Misalkan 0 = i - 13*i + 228. Hitung pembagi persekutuan terbesar dari i dan 475.
+19
+Misalkan s(q) = 3 - q. Misalkan x be s(-1). Misalkan -75 = x*j - 315. Misalkan o = -25 - -37. Apa faktor umum terbesar dari j dan o?
+12
+Misalkan x be -2*1*(-5)/(-5). Misalkan g = x + 11. Misalkan w = -0*w + g. Hitung pembagi persekutuan tertinggi dari 6 dan w.
+3
+Misalkan o(d) = -35*d - 87. Misalkan k be o(-12). Hitung pembagi persekutuan tertinggi dari k dan 37.
+37
+Misalkan l(m) = -14*m - 110. Misalkan f be l(-8). Hitung faktor umum terbesar dari 18 dan f.
+2
+Misalkan s(j) = 8*j**2 - 4*j - 2. Misalkan z be s(-5). Misalkan -5*p + 1042 = -k, 3*k - z = -3*p + 2*p. Hitung faktor umum tertinggi dari 19 dan p.
+19
+Misalkan f be (-18 - -17)*(-37 + 2). Hitung faktor umum terbesar dari f dan 245.
+35
+Misalkan 7*s = 4*s - 195. Misalkan h = -64 - s. Apa faktor umum terbesar dari 7 dan h?
+1
+Misalkan -a - 2*n - 6 = 0, 3 = -4*a - 5*n - 9. Misalkan 0 - 56 = -4*c. Apa faktor umum terbesar dari a dan c?
+2
+Misalkan j = 185 - 167. Apa pembagi persekutuan tertinggi dari 342 dan j?
+18
+Misalkan f = -88 + 88. Misalkan i be (-3)/9 - 751/(-3). Misalkan f = -v - v + i. Apa faktor umum terbesar dari 25 dan v?
+25
+Misalkan x be (-105)/42*-1*2. Misalkan -5*s = -x*a - 15, -2*s = -4*s - 5*a + 6. Misalkan h = s + 127. Apa faktor umum terbesar dari 26 dan h?
+26
+Misalkan c(p) = p**3 - 2*p**2 - 3*p + 8. Misalkan z be c(3). Hitung pembagi persekutuan terbesar dari z dan 16.
+8
+Misalkan -5*r + 14 + 36 = 0. Misalkan a = -12 + r. Misalkan m be (a/(-14) + -1)*-14. Apa pembagi persekutuan tertinggi dari m dan 4?
+4
+Misalkan k be (-6 - (5 + -14)) + 27. Hitung pembagi persekutuan terbesar dari 220 dan k.
+10
+Misalkan 0 = -4*s - s - 95. Misalkan j = -3 - s. Misalkan o be (40 - j)*(-4)/(-3). Hitung faktor umum terbesar dari o dan 256.
+32
+Misalkan t = 11 - 3. Misalkan f(z) = -2*z**2 - 14*z - 3. Misalkan n be f(-10). Misalkan r = n - -103. Apa pembagi persekutuan terbesar dari r dan t?
+8
+Misalkan b = -7 - -15. Misalkan l(o) = -o**3 + 8*o**2 + 4. Misalkan t be l(b). Apa faktor umum tertinggi dari 4 dan t?
+4
+Misalkan t(v) = -v - 12. Misalkan x be t(-16). Misalkan c be (-3 + 0)*x/(-3). Misalkan -c*k = -5 - 19. Apa pembagi persekutuan terbesar dari 18 dan k?
+6
+Misalkan q = 267 - 114. Misalkan 5*m + 36 = 7*m + k, 0 = 3*m + 2*k - 55. Hitung pembagi persekutuan tertinggi dari m dan q.
+17
+Misalkan 16*j - 75*j = -6844. Apa pembagi persekutuan tertinggi dari j dan 20?
+4
+Misalkan v be (1 - 2) + (-18)/(-6). Misalkan 0 = z - 3*i - 13, 2*i = -2*z + v. Misalkan x be 50/4*z/5. Hitung pembagi persekutuan tertinggi dari 40 dan x.
+10
+Misalkan -4*k - 14 = 2, 3*w + 4*k - 635 = 0. Hitung faktor umum terbesar dari w dan 62.
+31
+Misalkan 5*l - 1250 - 935 = 0. Apa faktor umum tertinggi dari l dan 19?
+19
+Misalkan j(m) = 768 - 4*m. Misalkan l be j(0). Misalkan 30*w - l = 26*w. Hitung pembagi persekutuan tertinggi dari w dan 24.
+24
+Misalkan v(b) = 53 - 8*b. Misalkan s be v(20). Misalkan k = 123 + s. Misalkan w be 676/6 + (-2)/3. Hitung faktor umum terbesar dari k dan w.
+16
+Misalkan m(j) = j**2 - 6*j - 22. Misalkan c be m(9). Misalkan 3*p - 17 + 176 = 4*a, 2*a = c*p + 83. Apa faktor umum terbesar dari 273 dan a?
+39
+Misalkan b be -1 + 8 - (17 + -55). Hitung faktor umum terbesar dari b dan 15.
+15
+Misalkan 3*a - 6 = -3. Misalkan p be ((3 - 2) + -11)*a. Misalkan z = p - -18. Apa pembagi persekutuan terbesar dari z dan 2?
+2
+Misalkan -c = 5*i - 4, 8*i - 3*i = 0. Apa faktor umum terbesar dari c dan 100?
+4
+Misalkan t be (16/(-20))/((-1)/90). Misalkan u = t + -40. Misalkan y = -3*y + u. Hitung faktor umum terbesar dari 88 dan y.
+8
+Misalkan -3*o + o = -8. Misalkan -22296*p + 112 = -22289*p. Hitung pembagi persekutuan tertinggi dari p dan o.
+4
+Misalkan 4*h = -4*o + 4, -31 + 9 = -4*o + 2*h. Misalkan y be 16*o*5/10. Apa faktor umum terbesar dari 24 dan y?
+8
+Misalkan -m = -3*y + 3*m + 109, -3*y + 5*m = -104. Misalkan z = -4 + y. Hitung pembagi persekutuan terbesar dari 78 dan z.
+39
+Misalkan y = 228 - 190. Hitung pembagi persekutuan terbesar dari y dan 57.
+19
+Misalkan -59 - 11 = -10*h. Misalkan 3*v - 49 = -y - 12, 0 = y + v - 45. Apa faktor umum terbesar dari h dan y?
+7
+Misalkan v(b) = b**2 - 6*b + 2. Misalkan i be v(5). Misalkan z be i/15 + (-721)/(-5). Hitung faktor umum tertinggi dari z dan 18.
+18
+Misalkan c(q) = 160*q**2 + 40*q + 77. Misalkan i be c(-2). Apa pembagi persekutuan terbesar dari 49 dan i?
+49
+Misalkan j = 621 + -432. Apa faktor umum terbesar dari 81 dan j?
+27
+Misalkan j = -578 - -622. Hitung faktor umum terbesar dari j dan 1100.
+44
+Misalkan h be (-4)/6*9/(-2) + 2. Misalkan c = h - -2. Hitung pembagi persekutuan tertinggi dari c dan 77.
+7
+Misalkan k = 312 + -177. Misalkan 0 = -110*i + 1843 - 193. Hitung faktor umum terbesar dari i dan k.
+15
+Misalkan h = 21 + 34. Misalkan -2*z + 3*g - 130 = 0, -3*z - h = 4*g + 106. Misalkan a = z - -101. Apa faktor umum tertinggi dari a dan 28?
+14
+Misalkan b be ((-6 + 1 - -2) + 22)*1. Apa pembagi persekutuan tertinggi dari 551 dan b?
+19
+Misalkan -68*u + 74*u = 270. Apa pembagi persekutuan tertinggi dari u dan 20?
+5
+Misalkan 0 = -f + 3*f + 5*m - 21, -f + 11 = 2*m. Apa faktor umum tertinggi dari f dan 1066?
+13
+Misalkan h = -4*z + 379, 12*z - 10*z + 2*h - 182 = 0. Hitung pembagi persekutuan terbesar dari z dan 12.
+12
+Misalkan -87 = 56*d - 57*d. Misalkan -u + c = -d, -5*c = -u + 6*u - 405. Apa pembagi persekutuan tertinggi dari u dan 14?
+14
+Misalkan -7*s - 189 = -14*s. Hitung faktor umum tertinggi dari s dan 18.
+9
+Misalkan c = -1901 + 1931. Hitung pembagi persekutuan tertinggi dari 810 dan c.
+30
+Misalkan j = 26 + -40. Misalkan a be j/(-2 - (-3 + 2)). Apa faktor umum terbesar dari a dan 21?
+7
+Misalkan 18*u - 13 = 19*u. Misalkan q = u - -68. Hitung faktor umum tertinggi dari q dan 5.
+5
+Misalkan 0*p = 5*t - 4*p + 974, 0 = 4*t + 3*p + 804. Misalkan c = -189 - t. Misalkan x be 1/(-4) + (-73)/(-4). Apa faktor umum tertinggi dari x dan c?
+9
+Misalkan 0 = -2*t + 12 - 8. Misalkan h + 2*r + 10 = -2*r, -t*r = -h + 8. Hitung faktor umum terbesar dari h dan 14.
+2
+Misalkan s be (-3 + 0 + 24)/(7/7). Hitung pembagi persekutuan terbesar dari s dan 6.
+3
+Misalkan y = 9 + -4. Misalkan -5*z = -3*z - 126. Misalkan f = 98 - z. Hitung faktor umum tertinggi dari f dan y.
+5
+Misalkan k be (-21)/2*308/(-42). Misalkan m = 13 + k. Apa pembagi persekutuan tertinggi dari m dan 10?
+10
+Misalkan r(f) = -3*f**3 - 2*f - 2. Misalkan 3 = -3*i + 2*g + 8, -4*g - 18 = 2*i. Misalkan k be r(i). Apa pembagi persekutuan terbesar dari k dan 39?
+3
+Misalkan 20 = 4*r - 4*a, -2*a - 13 = -3*r + 4. Misalkan j(g) = 2*g**2 - 11*g - 3. Misalkan s be j(r). Apa pembagi persekutuan tertinggi dari 162 dan s?
+18
+Misalkan 112 = -13*w + 5*w. Misalkan t(u) = -7*u - 58. Misalkan o be t(w). Misalkan 4*g = 5*g - 60. Hitung faktor umum terbesar dari g dan o.
+20
+Misalkan j = -570 - -1530. Hitung pembagi persekutuan terbesar dari 40 dan j.
+40
+Misalkan d(f) = -f**2 + 21*f - 87. Misalkan k be d(6). Misalkan v be 1/((-2)/(-6) - 0). Hitung pembagi persekutuan tertinggi dari k dan v.
+3
+Misalkan 267 = 4*v - 61. Apa faktor umum terbesar dari 533 dan v?
+41
+Misalkan q be (0 + (-2)/6)*-12. Misalkan -q*l - 370 - 86 = 0. Misalkan c = -48 - l. Apa faktor umum terbesar dari c dan 6?
+6
+Misalkan u(w) = 31*w + 52. Misalkan d be u(5). Apa faktor umum terbesar dari d dan 23?
+23
+Misalkan -13 = -4*d - 1. Misalkan 4*m - d*m = 180. Apa pembagi persekutuan tertinggi dari 30 dan m?
+30
+Misalkan m(n) = 2 - 5*n. Misalkan l be m(-2). Misalkan h be (-10)/(-6) - (-23793)/693. Hitung faktor umum tertinggi dari h dan l.
+12
+Misalkan y be (-1 - 34/(-4))/((-38)/(-4256)). Hitung faktor umum tertinggi dari y dan 8.
+8
+Misalkan v = -525 + 691. Apa pembagi persekutuan terbesar dari v dan 1079?
+83
+Misalkan y = -12 - -23. Misalkan y*v = -v + 84. Apa faktor umum terbesar dari 63 dan v?
+7
+Misalkan 8*y = 9*y - 3*v - 730, 0 = -3*y - 5*v + 2246. Hitung pembagi persekutuan terbesar dari 14 dan y.
+14
+Misalkan l be (1 - 2/3)*9. Misalkan m = -632 + 635. Apa faktor umum terbesar dari m dan l?
+3
+Misalkan k = -24 - -27. Misalkan -3*w = k*w - 222. Hitung faktor umum terbesar dari 407 dan w.
+37
+Misalkan a be 5 + -1 - (-3816)/9. Hitung faktor umum terbesar dari 535 dan a.
+107
+Misalkan o be 12*(-11)/(-2) - -4. Apa faktor umum tertinggi dari 42 dan o?
+14
+Misalkan m - 3 - 8 = -4*q, m = -1. Misalkan t be (-16)/q*9/(-4). Apa faktor umum tertinggi dari t dan 8?
+4
+Misalkan r be 476/12*(-6)/(-7). Hitung faktor umum terbesar dari r dan 646.
+34
+Misalkan -1944 = -19*c + c. Hitung faktor umum tertinggi dari 36 dan c.
+36
+Misalkan a be 1/(2/(-4)) + 12. Misalkan j = 17 - a. Misalkan l(n) = -n**2 + 10*n + 25. Misalkan v be l(6). Apa faktor umum tertinggi dari v dan j?
+7
+Misalkan u(g) = 184 - 8*g. Misalkan r be u(14). Apa pembagi persekutuan tertinggi dari r dan 162?
+18
+Misalkan 1 = i + m - 2, 0 = 3*i + m - 15. Hitung faktor umum tertinggi dari i dan 30.
+6
+Misalkan 5*v - 569 = 3*o, -10 = -9*o + 4*o. Hitung pembagi persekutuan tertinggi dari 46 dan v.
+23
+Misalkan -o = 6 + 10. Misalkan w be ((-45)/20)/(3/o). Misalkan 5*p - 230 = 2*d, -p - 5*d = -35 - 38. Apa faktor umum tertinggi dari p dan w?
+12
+Misalkan h = -25 - -34. Hitung faktor umum tertinggi dari h dan 3.
+3
+Misalkan 3*v = 3*q - 2607, -2*v + 2938 = 4*q - 544. Hitung pembagi persekutuan terbesar dari q dan 30.
+30
+Misalkan -7 = -5*v + 4*m + 8, -v + 3*m + 3 = 0. Misalkan -v*n - 270 = -5*n. Hitung pembagi persekutuan terbesar dari n dan 27.
+27
+Misalkan -9*f + 11*f = 284. Misalkan -5*v - u + 190 = 0, -3*v + 8*u - 3*u = -f. Apa pembagi persekutuan tertinggi dari v dan 273?
+39
+Misalkan j(g) = -g**2 - g - 54. Misalkan m be j(0). Misalkan f = m + 34. Misalkan z = -2 - f. Apa pembagi persekutuan tertinggi dari z dan 6?
+6
+Misalkan x be (-7449)/(-15) - 15/(450/(-12)). Hitung pembagi persekutuan tertinggi dari x dan 71.
+71
+Misalkan 0 = -4*y - 25 + 65. Misalkan -2*b - 2*n - 40 = -4*b, 2*b = -4*n + y. Apa pembagi persekutuan terbesar dari 3 dan b?
+3
+Misalkan u = -1115 + 1276. Hitung faktor umum tertinggi dari u dan 7.
+7
+Misalkan 5*p = 4*t + 17, -4*t = t - p - 5. Misalkan -u - 4*u - t*c + 832 = 0, -2*c = 8. Apa faktor umum tertinggi dari 21 dan u?
+21
+Misalkan i be 4/((-140)/1035 + (-2)/(-9)). Hitung pembagi persekutuan terbesar dari 874 dan i.
+46
+Misalkan o be -1 + 39*(-4)/(-6). Misalkan b = o - -8. Misalkan x = 12 + b. Apa pembagi persekutuan terbesar dari 18 dan x?
+9
+Misalkan u = -14 - -17. Misalkan -8*n + u*l = -5*n - 15, 0 = -3*l + 12. Apa faktor umum terbesar dari n dan 27?
+9
+Misalkan s = -238 - -336. Hitung faktor umum tertinggi dari 539 dan s.
+49
+Misalkan o = -21 + 43. Misalkan 57*k - 14*k - 86 = 0. Hitung pembagi persekutuan tertinggi dari k dan o.
+2
+Misalkan a = -3 - -2. Misalkan r be (3/3)/a*1. Misalkan u be 14/r*(-7)/7. Hitung pembagi persekutuan tertinggi dari 42 dan u.
+14
+Misalkan -5*c + 810 = 22*c. Hitung faktor umum terbesar dari c dan 315.
+15
+Misalkan 5*q - 3*q + 60 = 3*x, -3*q = -x + 20. Misalkan h = x + -18. Misalkan y = 55 + -33. Hitung faktor umum terbesar dari h dan y.
+2
+Misalkan 4*j + 2 = 14. Misalkan -j*p - 900 = -8*p. Misalkan -c - 60 = -3*x, -40 = 2*x - 4*x - c. Hitung faktor umum terbesar dari p dan x.
+20
+Misalkan c(r) = 21*r - 2289. Misalkan g be c(113). Misalkan -3*d + 360 = 2*f, 2*d = -f + 69 + 170. Misalkan n = 174 - d. Apa faktor umum terbesar dari g dan n?
+28
+Misalkan i (d) menjadi turunan ke-pertama dari 1 + 1/3*d**3 - 1/2*d**2 + 18*d. Misalkan y be i(0). Apa pembagi persekutuan tertinggi dari 144 dan y?
+18
+Misalkan 47 = -0*q - 4*q - t, 2*t = -5*q - 58. Misalkan a = -16 - q. Misalkan c = a - -18. Apa pembagi persekutuan tertinggi dari c dan 35?
+7
+Misalkan 4*n - 8*n = 8. Misalkan w(k) = -2*k**3 - 3*k**2 - 3*k - 3. Misalkan x be w(n). Misalkan j = -21 - -35. Hitung faktor umum tertinggi dari j dan x.
+7
+Misalkan g be 84 + 0 + (-15)/3. Misalkan -10*i + 521 = -g. Apa pembagi persekutuan tertinggi dari i dan 12?
+12
+Misalkan 0 = 2*h + 2*i - 16, -2*h - 3*i = -8 - 5. Misalkan 7*z = h*z - 16. Apa pembagi persekutuan terbesar dari z dan 16?
+4
+Misalkan -98*h + 88*h = -90. Misalkan -3*u = h*u - 60. Misalkan 3*j + o = 5, -2 = -4*j + 2*o + 8. Hitung pembagi persekutuan tertinggi dari u dan j.
+1
+Misalkan 5*h - 103 = 4*l + 254, -144 = -2*h + 2*l. Hitung pembagi persekutuan tertinggi dari h dan 391.
+23
+Misalkan w be (6 - 11)/(-5*(-6)/(-252)). Apa faktor umum terbesar dari w dan 2142?
+42
+Misalkan i(s) = s**3 + 4*s**2 + 2*s + 6. Misalkan d be (3 + 6/(-8))*4. Misalkan 0 = -d*v + 4*v - 15. Misalkan h be i(v). Apa faktor umum tertinggi dari h dan 3?
+3
+Misalkan j = -64 + 199. Hitung pembagi persekutuan tertinggi dari 27 dan j.
+27
+Misalkan 0 = 3*q + q - 8. Misalkan -4*k + 14 = -q. Misalkan n = 77 - 49. Apa faktor umum tertinggi dari k dan n?
+4
+Misalkan w be 3/3*-1 - -1. Misalkan k = -4 + w. Misalkan h be ((-24)/(-10))/(k/(-70)). Hitung pembagi persekutuan tertinggi dari 14 dan h.
+14
+Misalkan -k = -0*f - f + 104, 5*f - 527 = -2*k. Misalkan n(v) = 3 - 4*v. Misalkan d be n(-3). Hitung pembagi persekutuan terbesar dari d dan f.
+15
+Misalkan f = -524 - -849. Apa faktor umum terbesar dari f dan 13?
+13
+Misalkan -7*d + 2 = -6*d. Misalkan -d*n = 4*f - 30, -47 = -3*n - 5*f - 7. Apa faktor umum terbesar dari 2 dan n?
+1
+Misalkan s = 8 - 8. Misalkan a(z) = -z**3 + z**2 + 5. Misalkan c be a(s). Misalkan 8*v = c*v + 60. Apa faktor umum tertinggi dari 8 dan v?
+4
+Misalkan 7*t - 24 = 2*t + 4*f, -4*f - 4 = 0. Misalkan -2*d - 716 = -t*d. Misalkan 4*k - d = -3*g - 0*k, 247 = 2*g + k. Apa faktor umum terbesar dari 14 dan g?
+14
+Misalkan h = 113 + -56. Misalkan s = 2*n + 67, s + 3*n - h = -0*n. Misalkan x = 6 - -1. Hitung pembagi persekutuan tertinggi dari x dan s.
+7
+Misalkan z be 8/3 + (-40)/(-30). Misalkan z*t + 4*k = 48, -t - 4 = -k - 22. Apa pembagi persekutuan tertinggi dari 25 dan t?
+5
+Misalkan v be (-21)/(-3) - 0/1. Misalkan f be (-2 - (-1 - 2))*9. Misalkan 3*z - 2*p - f = 0, 1 + 9 = z - 3*p. Hitung pembagi persekutuan terbesar dari v dan z.
+1
+Misalkan t be 14/(-5) - (-28)/35. Misalkan g(f) = f**2 - 3*f - 2. Misalkan j be g(t). Apa pembagi persekutuan terbesar dari j dan 72?
+8
+Misalkan c = -2792 - -7804. Apa faktor umum tertinggi dari c dan 28?
+28
+Misalkan 0 = -2*o - 2*o + 444. Misalkan 3*b = -3*s - 12 + 69, 4*s - 3*b - o = 0. Misalkan -7*x + 438 = -402. Apa faktor umum tertinggi dari s dan x?
+24
+Misalkan 0 = 14*q - 15*q. Misalkan -3*y - 2*y + 45 = q. Misalkan -4*x = -y*x + 115. Apa pembagi persekutuan terbesar dari x dan 92?
+23
+Misalkan k(o) = 14*o - 52. Misalkan m be k(7). Misalkan -5*q + 7*q - 138 = 0. Apa pembagi persekutuan tertinggi dari m dan q?
+23
+Misalkan v be (-10 - -4) + (-5)/(5/(-108)). Apa pembagi persekutuan terbesar dari v dan 459?
+51
+Misalkan -14*o + 16*o - 54 = 0. Misalkan y = 6*y. Misalkan 2*c + 5*f + 14 = y, -4*c + 2*c - 3*f - 6 = 0. Apa faktor umum terbesar dari o dan c?
+3
+Misalkan k be (-140)/(-42)*(-6 - 0). Misalkan l be (-88)/k*(2 - -3). Apa faktor umum tertinggi dari l dan 33?
+11
+Misalkan -8*i - 3*i = -308. Misalkan -3*a + 2 + i = 0. Hitung pembagi persekutuan tertinggi dari 10 dan a.
+10
+Misalkan 0*w - 5*w + 20 = 0. Misalkan v(a) = a**2 + 11*a + 24. Misalkan h be v(-11). Misalkan o = h - 20. Apa pembagi persekutuan tertinggi dari o dan w?
+4
+Misalkan f = 9 + 39. Misalkan b = -305 + 321. Hitung faktor umum tertinggi dari b dan f.
+16
+Misalkan f be 4*(-12)/(-8) + -1. Misalkan 4*k = 4*j + 14 + 2, f*j = k. Misalkan p = j + 7. Hitung pembagi persekutuan terbesar dari 64 dan p.
+8
+Misalkan -196 - 44 = -o. Hitung faktor umum terbesar dari o dan 100.
+20
+Misalkan m = -99 - -153. Misalkan y = -35 + 62. Misalkan u be ((-9)/y)/((-1)/18). Apa faktor umum terbesar dari m dan u?
+6
+Misalkan r be (-5*2)/((-2)/23). Misalkan 147*x - 175*x + 644 = 0. Apa faktor umum terbesar dari x dan r?
+23
+Misalkan c = 7 - -9. Misalkan p = c - -5. Misalkan w(u) = 5*u**2 + 8*u + 15. Misalkan z be w(-4). Apa pembagi persekutuan tertinggi dari z dan p?
+21
+Misalkan q(i) = 5*i**2 + 3*i - 2. Misalkan s be q(-3). Misalkan v be 697/s + 3/2. Misalkan w be ((-165)/v)/((-2)/4). Apa faktor umum terbesar dari w dan 6?
+3
+Misalkan u(f) = 13*f + 17. Misalkan s(a) = 7*a + 9. Misalkan k(c) = -11*s(c) + 6*u(c). Misalkan r be k(2). Apa pembagi persekutuan tertinggi dari 10 dan r?
+5
+Misalkan -4*q + 94 = -2*q - 3*f, -4*f = 2*q - 122. Apa pembagi persekutuan terbesar dari q dan 1?
+1
+Misalkan j = 29 + -24. Misalkan -3*u - 36 = -j*u. Hitung pembagi persekutuan terbesar dari u dan 6.
+6
+Misalkan -41*i + 4335 = 44*i. Apa pembagi persekutuan tertinggi dari i dan 17?
+17
+Misalkan l(r) = 13*r**2 - 3*r + 1. Misalkan w be l(1). Misalkan p(z) = 20*z. Misalkan a be p(w). Hitung pembagi persekutuan tertinggi dari 20 dan a.
+20
+Misalkan u be 1/5 + 119/5. Misalkan b be (-195)/(-1) - (-2)/2*-3. Hitung faktor umum tertinggi dari u dan b.
+24
+Misalkan z(m) = 19*m + 346. Misalkan k be z(18). Apa pembagi persekutuan tertinggi dari 48 dan k?
+16
+Misalkan 36 = 2*q + q. Misalkan -13*m + q*m = -16. Apa faktor umum tertinggi dari 112 dan m?
+16
+Misalkan g = -6 - -4. Misalkan r be (-7 + 1)/g*6. Misalkan i = 7 - -5. Apa faktor umum terbesar dari r dan i?
+6
+Misalkan 15*h = 2519 + 3091. Hitung pembagi persekutuan tertinggi dari h dan 34.
+34
+Misalkan -35 = 2*g - 7*g. Misalkan o = 71 + 27. Misalkan 0*m = -2*m + o. Apa pembagi persekutuan tertinggi dari m dan g?
+7
+Misalkan 15 = 3*f, 2*t + 16*f = 11*f + 899. Hitung pembagi persekutuan tertinggi dari t dan 23.
+23
+Misalkan -o = -2*o + 6. Misalkan q = -4 - -22. Apa pembagi persekutuan tertinggi dari o dan q?
+6
+Misalkan g(b) = 159*b - 3. Misalkan o be g(2). Misalkan 0 = -t - 20 + 55. Apa faktor umum tertinggi dari t dan o?
+35
+Misalkan 59 + 49 = -4*g. Misalkan v = g + 54. Hitung pembagi persekutuan terbesar dari 189 dan v.
+27
+Misalkan j(c) = -36*c**3 + 3*c**2 + 5*c + 1. Misalkan h be j(-1). Hitung pembagi persekutuan terbesar dari 35 dan h.
+35
+Misalkan r be 8/6*(-9)/(-2) + -3. Misalkan -185 + 26 = -b - h, -2*b + r*h + 293 = 0. Apa faktor umum terbesar dari b dan 22?
+22

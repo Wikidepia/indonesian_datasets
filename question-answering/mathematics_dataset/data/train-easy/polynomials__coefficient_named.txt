@@ -1,0 +1,666 @@
+Atur ulang ((3*p + 0*p - 4*p)*(-2 + 2 + 2) - 3*p + 2*p + 0*p)*(15 - 1 + 8) ke bentuk f*p + b dan berikan f.
+-66
+Atur ulang 10*v + 10*v - 19*v - 4*v**3 ke bentuk a*v + w + m*v**2 + q*v**3 dan berikan q.
+-4
+Atur ulang -4*x**3 - 4*x**4 - 5*x**3 - 2 + 4*x**3 + x + 3*x**3 ke bentuk h*x**2 + w*x + a + u*x**3 + g*x**4 dan berikan u.
+-2
+Ekspresikan 2*g**3 - g**4 + 5*g + 3*g**2 - 7*g + 2 - 2*g**2 dalam bentuk l*g**3 + d*g**2 + j + q*g + v*g**4 dan berikan l.
+2
+Atur ulang 90 - 19*m - 90 ke bentuk n*m + i dan berikan n.
+-19
+Atur ulang 2*z**3 + 3*z + 12*z**4 - 23*z**4 - 2 + 10*z**4 + z**2 - 2*z ke bentuk i*z**4 + p*z**2 + h*z + d + c*z**3 dan berikan h.
+1
+Ekspresikan (8 - 12*d**2 - 8)*(d - 3*d + d) dalam bentuk h*d**2 + m*d + t*d**3 + j dan berikan m.
+0
+Atur ulang -15*z - 7*z - 5*z ke bentuk x*z + t dan berikan x.
+-27
+Ekspresikan 5 + 4*s**2 - 3*s**2 - 8 + 11 sebagai z*s**2 + k*s + n dan berikan n. Atur ulang 5 + 4*s**2 - 3*s**2 - 8 + 11 menjadi z*s**2 + k*s + n dan berikan n.
+8
+Atur ulang 4 - 6 - a**3 - 54*a**2 - 2*a + 56*a**2 ke bentuk l + c*a**2 + u*a + h*a**3 dan berikan c.
+2
+Atur ulang -14 + 25 - 6*n**2 - 10 ke bentuk y*n + z + s*n**2 dan berikan z.
+1
+Atur ulang 7*l**2 - 5*l**2 + 7*l**2 ke bentuk i*l + r*l**2 + s dan berikan r.
+9
+Ekspresikan -u**2 + 4*u**2 - 4*u**2 + (4*u - 2*u - 3*u)*(-1 + 1 + u) + 3 - 3 - 2*u**2 dalam bentuk g*u + f + v*u**2 dan berikan v.
+-4
+Ekspresikan 31*m**3 + 9*m**3 + 16*m**2 - 20*m**2 dalam bentuk w*m**2 + b*m + p + y*m**3 dan berikan w.
+-4
+Atur ulang -25 + 123*z + 50 - 25 ke bentuk j + f*z dan berikan j.
+0
+Atur ulang (-3*o + 13*o + o)*(o - 3*o + 0*o) ke bentuk y + p*o**2 + a*o dan berikan p.
+-22
+Ekspresikan (k**2 + 4*k**2 - 6*k**2)*(1 + 6 - 3)*(3*k**2 - 2*k**2 + 0*k**2) dalam bentuk n*k**2 + j + l*k**3 + v*k**4 + g*k dan berikan v.
+-4
+Ekspresikan (1 + 3 - 2)*(-5*b + 4*b - 2*b) + 5*b - 3*b - 3*b - b + 3*b - 5*b dalam bentuk k*b + s dan berikan k.
+-10
+Atur ulang 12*x**2 + 12*x**2 + 15 - 25*x**2 ke bentuk l + n*x**2 + q*x dan berikan l.
+15
+Ekspresikan (-2 - 5 + 1)*(-1 - f - 4 + 7) sebagai k + m*f dan berikan k. Atur ulang (-2 - 5 + 1)*(-1 - f - 4 + 7) menjadi k + m*f dan berikan k.
+-12
+Atur ulang (-4 + 4 + 2)*(k + 2*k - k)*(-1 - 5 + 0) ke bentuk y*k + t dan berikan y.
+-24
+Atur ulang (3*w - 3*w + 3*w**2)*(20 - 91 - 26) ke bentuk n*w**2 + q*w + j dan berikan j.
+0
+Atur ulang (0 + 0 + 2 - 3 + 2 + 0 + (0 + 1 + 1)*(-2 + 3 - 2) + 2 + 0 - 3)*(-135*g + 135*g + 21*g**2) + 3 - 3 + 3*g**2 ke bentuk m*g + n + a*g**2 dan berikan a.
+-39
+Ekspresikan 6 - 36*z - 2*z**3 + 38*z + 3 dalam bentuk b + j*z + o*z**2 + i*z**3 dan berikan b.
+9
+Ekspresikan (0*y**2 + y**2 + 0*y**2)*(-6*y + 15*y + 2*y**2 - 7*y + 2) dalam bentuk c*y + o*y**2 + p*y**4 + g*y**3 + b dan berikan c.
+0
+Atur ulang 208 + a**2 - 5*a - 4*a**2 - 206 ke bentuk r + i*a**2 + k*a dan berikan k.
+-5
+Ekspresikan (3*w - 3 + 3 + (-4 + 2*w + 4)*(-1 + 1 - 3))*(-2*w + w - w)*(3 + 1 - 2) dalam bentuk p*w + u + d*w**2 dan berikan d.
+12
+Atur ulang 2*y**3 - 5*y**2 - 3*y**4 + 47*y - y**3 - 47*y + 2 ke bentuk w*y + g + v*y**2 + x*y**3 + j*y**4 dan berikan w.
+0
+Atur ulang -2 + 99*j**4 - 2*j**2 - j + 8*j**3 + 2 - 102*j**4 ke bentuk y*j + i*j**2 + d*j**4 + n*j**3 + x dan berikan n.
+8
+Atur ulang -93*h**3 - 2*h**2 + h + 95*h**3 - h**2 - 2 ke bentuk d*h**2 + m + z*h + j*h**3 dan berikan d.
+-3
+Ekspresikan 27 + 2*s - 7 + 18 sebagai j*s + u dan berikan j. Atur ulang 27 + 2*s - 7 + 18 menjadi j*s + u dan berikan j.
+2
+Ekspresikan (-8*o + 33*o - 4*o)*(3 + 0 - 1) sebagai b*o + z dan berikan b. Atur ulang (-8*o + 33*o - 4*o)*(3 + 0 - 1) menjadi b*o + z dan berikan b.
+42
+Ekspresikan -4*j + 2*j**2 - 3*j**2 + 2*j**2 - 2*j**2 dalam bentuk t*j + f*j**2 + g dan berikan t.
+-4
+Ekspresikan -4*o**3 + o**3 + 2*o**3 + 4*o**3 - 3*o**3 + o**3 + (-3 + 3 - o**2)*(-2 + 2 + o)*(26 + 21 - 9) dalam bentuk a*o**3 + r*o**2 + w + v*o dan berikan a.
+-37
+Ekspresikan 2*a**2 - 3*a**2 - a**2 dalam bentuk p*a**2 + n + z*a dan berikan p.
+-2
+Atur ulang (200*l + 115*l + 58*l)*(3 + 1 - 3)*(l**2 - 3*l + 3*l) ke bentuk v*l**2 + c*l**3 + z*l + k dan berikan c.
+373
+Atur ulang (0*j**3 + j**3 + 0*j**3)*(-6 + 1 - 11) ke bentuk n*j**3 + t*j**2 + o + q*j dan berikan n.
+-16
+Ekspresikan -9*u + 14*u + 15*u sebagai f + m*u dan berikan m. Atur ulang -9*u + 14*u + 15*u menjadi f + m*u dan berikan m.
+20
+Atur ulang (-8*t + 5*t - 10*t)*(2*t + 4 + 3*t - 6*t) ke bentuk j*t + y*t**2 + b dan berikan y.
+13
+Atur ulang 15*i**2 + 5 + 10*i**2 - 4 ke bentuk v*i**2 + n*i + q dan berikan v.
+25
+Atur ulang 1 + 53*s + 2*s**2 - 25*s + 0*s ke bentuk m + d*s**2 + o*s dan berikan m.
+1
+Ekspresikan 8*l + 2 + 1 - 2 sebagai y*l + f dan berikan y. Atur ulang 8*l + 2 + 1 - 2 menjadi y*l + f dan berikan y.
+8
+Ekspresikan -d**2 + 3*d**2 + 1 + 3*d**2 dalam bentuk v*d + o*d**2 + s dan berikan s.
+1
+Atur ulang ((l + 2*l - 2*l)*(-4*l**2 + 2*l**2 + 0*l**2) + 7*l**3 - 8 + 8)*(19 - 19 + 3*l) ke bentuk c*l**2 + u*l**4 + y*l + a*l**3 + s dan berikan u.
+15
+Atur ulang 5 - 1 + 2*r + 8*r**4 - 3 ke bentuk x*r**3 + i + y*r + l*r**2 + q*r**4 dan berikan y.
+2
+Ekspresikan (-2*d - 2*d + 2*d)*(3*d**2 - 2079*d + 2074*d + 1 - d**2) dalam bentuk c*d + l + y*d**3 + j*d**2 dan berikan j.
+10
+Atur ulang 1 + 146*d - 1 - 70*d ke bentuk p*d + j dan berikan p.
+76
+Atur ulang 5*t**4 - 2*t**4 - 7*t - 5*t**4 - 2*t**3 - 2*t**2 ke bentuk n + v*t**2 + w*t + i*t**4 + a*t**3 dan berikan w.
+-7
+Ekspresikan -q**3 + 37*q**2 - 2*q - 2 + 3 - 34*q**2 dalam bentuk r*q**2 + k*q**3 + a + c*q dan berikan c.
+-2
+Ekspresikan 10*l**2 + 20*l**2 - 13*l**2 sebagai f*l**2 + d*l + t dan berikan d. Atur ulang 10*l**2 + 20*l**2 - 13*l**2 menjadi f*l**2 + d*l + t dan berikan d.
+0
+Atur ulang 0*c**2 - 4*c**2 + 5*c**2 + 9 ke bentuk o + a*c + b*c**2 dan berikan b.
+1
+Ekspresikan (6 - 3 - 18)*(0*t + t - 4*t) sebagai q*t + k dan berikan q. Atur ulang (6 - 3 - 18)*(0*t + t - 4*t) menjadi q*t + k dan berikan q.
+45
+Atur ulang -31 - 31 + 62 + 159*u ke bentuk l*u + t dan berikan t.
+0
+Atur ulang -2*m**3 + 6*m + 0*m**3 + 0*m ke bentuk o*m**2 + l + p*m**3 + i*m dan berikan i.
+6
+Ekspresikan -j - 11*j**3 - 72 + 72 dalam bentuk w*j**3 + b + k*j + x*j**2 dan berikan w.
+-11
+Atur ulang (-1 + 1 + 2*z)*(0*z + z + 0*z) - 3*z + 5*z - 4*z + 3*z**2 ke bentuk o*z + b*z**2 + k dan berikan b.
+5
+Ekspresikan (10 - 10 + 3*o)*(0 - 1 + 2) - 8*o - 6*o + 18*o + 1 dalam bentuk s*o + g dan berikan s.
+7
+Ekspresikan -597 + 597 - 18*z dalam bentuk f + o*z dan berikan o.
+-18
+Atur ulang -4*l + 2 - 10*l + 15*l**3 + 14*l - l**2 ke bentuk d*l + w + g*l**2 + z*l**3 dan berikan g.
+-1
+Atur ulang 2*s**2 - 4*s**2 + 4*s**2 + (-14*s + 12 - 12)*(6*s - 2*s - 2*s) ke bentuk f + u*s**2 + v*s dan berikan u.
+-26
+Atur ulang (-3*p + 2*p - p + 2)*(7 + 7 + 0) ke bentuk u*p + l dan berikan u.
+-28
+Atur ulang c**4 + c + 3*c**2 - 6*c**3 + 3*c**3 + 4*c**3 - 3*c**3 ke bentuk k*c**3 + p*c**4 + d*c + v + f*c**2 dan berikan f.
+3
+Ekspresikan (0 + 0 + 2)*(1 - 1 + 2*t**2) - t**2 - 6*t**2 + 4*t**2 dalam bentuk i*t + f*t**2 + o dan berikan f.
+1
+Ekspresikan -3*s + s + 1 + 4*s + (-3*s - 5*s + 3*s)*(-5 + 5 - 1) dalam bentuk z + y*s dan berikan y.
+7
+Atur ulang -99 + 99 + 10*r**3 + 3*r**2 ke bentuk q*r**2 + b*r + x*r**3 + t dan berikan x.
+10
+Atur ulang -5390 + 5390 - 53*w ke bentuk u + m*w dan berikan u.
+0
+Ekspresikan -3*t**2 + 44 - t**2 + t**2 + 4*t**2 dalam bentuk q + v*t**2 + r*t dan berikan r.
+0
+Ekspresikan (0 + 1 - 3)*(-4*k + k - 5*k) sebagai v*k + p dan berikan v. Atur ulang (0 + 1 - 3)*(-4*k + k - 5*k) menjadi v*k + p dan berikan v.
+16
+Ekspresikan -18*m + 20*m - 14*m sebagai q*m + t dan berikan t. Atur ulang -18*m + 20*m - 14*m menjadi q*m + t dan berikan t.
+0
+Atur ulang (-3*h**2 - 3*h**2 - 8*h + 8*h**2)*(-4 - 3*h + 4) ke bentuk y*h**2 + r*h**3 + m + b*h dan berikan r.
+-6
+Ekspresikan (-3*u**3 + u**3 + u**3)*(-21 + 34 + 19) dalam bentuk x + n*u**2 + v*u**3 + b*u dan berikan v.
+-32
+Ekspresikan h**4 + 2 + 6*h**3 + 2*h**4 + 3*h**3 - 5*h**4 dalam bentuk v*h**3 + s*h + p*h**2 + c*h**4 + l dan berikan v.
+9
+Ekspresikan 2*a - 2*a - 4*a + 19*a**2 + 2*a dalam bentuk u*a + q*a**2 + p dan berikan u.
+-2
+Ekspresikan 2*r + 275 - 218 - r dalam bentuk d*r + j dan berikan d.
+1
+Ekspresikan (3 - 4 + 3)*(-7*l + l - 2*l + (0 - 3 + 4)*(l - l + 2*l)) dalam bentuk v*l + m dan berikan v.
+-12
+Ekspresikan (0*g + 0*g - g**2)*(-4*g**2 - g**2 + 6*g**2) - 18*g**4 + 218 - 218 dalam bentuk f + p*g**4 + h*g + t*g**2 + v*g**3 dan berikan p.
+-19
+Ekspresikan (-5*y + 2*y - 2*y)*(4*y**2 - 3*y**2 + y**2) - 5*y**3 + y**3 + y**3 dalam bentuk s + q*y**2 + i*y + m*y**3 dan berikan m.
+-13
+Ekspresikan (2*w**2 + 0*w**2 + 2*w - 4*w)*(6 + 0 - 4 + (-6 + 0 + 2)*(3 - 5 + 0)) dalam bentuk y + k*w**2 + a*w dan berikan a.
+-20
+Ekspresikan 1 - 5*a**4 + 6*a - 6*a + 4*a**2 - 6*a**2 dalam bentuk w*a**3 + d*a**2 + s + h*a + j*a**4 dan berikan j.
+-5
+Ekspresikan (-2*x + x - x)*(-4*x**2 - 28*x**2 - 29*x**2) dalam bentuk a*x**2 + v*x**3 + q*x + u dan berikan v.
+122
+Atur ulang (37*w - 35*w - 77*w)*(3*w - 2*w - 2*w) ke bentuk a + s*w**2 + g*w dan berikan s.
+75
+Atur ulang (-5*m + 5*m + 2*m)*((6*m**2 + 2*m**3 - 6*m**2)*(2 - 3 - 4) - m**3 + 0*m**3 + 3*m**3) ke bentuk w*m + d*m**3 + s*m**2 + n + g*m**4 dan berikan g.
+-16
+Ekspresikan 9*r + 4*r - 26*r dalam bentuk b*r + g dan berikan g.
+0
+Ekspresikan 4*c - 10*c - 5*c sebagai w + k*c dan berikan k. Atur ulang 4*c - 10*c - 5*c menjadi w + k*c dan berikan k.
+-11
+Atur ulang 2*m**2 + 103*m - 103*m - 5*m**3 ke bentuk a*m**2 + x*m + c + w*m**3 dan berikan w.
+-5
+Ekspresikan r - 253*r**2 - 254*r**2 + 501*r**2 + (-2 - 3 + 6)*(4*r**2 - 4*r**2 - r**2) dalam bentuk m + d*r + s*r**2 dan berikan d.
+1
+Ekspresikan 38*n**4 - n**3 - 4 - 20*n**4 - 19*n**4 + 14*n**2 + 2 dalam bentuk j*n**2 + v*n**4 + y*n + q*n**3 + g dan berikan g.
+-2
+Atur ulang t**4 + 0*t**2 + 30*t**3 + 26*t**3 - 60*t**3 - 2*t + t**2 ke bentuk l*t**3 + c + u*t**4 + j*t + b*t**2 dan berikan c.
+0
+Ekspresikan ((-2*i + 11 - 11)*(-2 + 1 + 3) + (-4*i + 0*i + 3*i)*(2 + 2 - 3) - 2*i - 2*i + 2*i)*(7*i + 10*i - 11*i) dalam bentuk x*i**2 + l + m*i dan berikan x.
+-42
+Ekspresikan m**4 - 2 + 0 - m + 0*m**2 + m**2 dalam bentuk x*m + v*m**4 + j*m**3 + g + f*m**2 dan berikan g.
+-2
+Atur ulang -8*v - 9 + 4 + 5 ke bentuk x + c*v dan berikan c.
+-8
+Atur ulang -6 + 4 - 2*r + 3*r**4 + r**3 + 2*r**4 - 7*r**4 ke bentuk t*r**3 + o*r**4 + c + s*r + b*r**2 dan berikan s.
+-2
+Atur ulang (1 + 1 - 1)*(-i**2 - 7*i**2 + 2*i**2) + 0 + 0 + i**2 - 4*i**2 + 4*i**2 - 2*i**2 - i**2 + 3*i**2 - i**2 ke bentuk w*i + c + z*i**2 dan berikan z.
+-6
+Ekspresikan -10*t + 25*t - 8*t sebagai z*t + d dan berikan z. Atur ulang -10*t + 25*t - 8*t menjadi z*t + d dan berikan z.
+7
+Atur ulang -4 + 4 - 18*p ke bentuk k + t*p dan berikan t.
+-18
+Ekspresikan (1 + 8 - 1)*(-3 - 3 + 5)*(-4*z + 2*z - 3*z) dalam bentuk m*z + o dan berikan o.
+0
+Atur ulang 2*p + 673*p**2 - 673*p**2 + 12*p**3 ke bentuk k*p**3 + f*p**2 + w + g*p dan berikan g.
+2
+Ekspresikan -23*m - 9 + 16 - 7 dalam bentuk s*m + l dan berikan s.
+-23
+Atur ulang 3*f**3 - 2*f**3 + f**3 + (f - 3*f + 0*f)*(-6*f**2 + 2*f**2 + 2*f**2) ke bentuk g*f**2 + u*f + w + y*f**3 dan berikan y.
+6
+Ekspresikan -3*x**2 + 3*x**2 - 17*x**2 - 4*x**2 dalam bentuk q*x + z*x**2 + p dan berikan z.
+-21
+Ekspresikan 14*z**2 + 0*z**4 + 2 - 2*z**4 - 4*z**4 + 5*z**4 dalam bentuk o + c*z + w*z**3 + f*z**4 + i*z**2 dan berikan i.
+14
+Ekspresikan (0 - 5 + 3)*((0 + 2*t + 0)*(-1 - 4 - 6) + 0*t + 4*t - 3*t) dalam bentuk g*t + x dan berikan g.
+42
+Ekspresikan (d**2 + d**2 - d**2)*(-d - 2 + 2)*(-2 + 3 - 4) dalam bentuk l*d**3 + z*d + v + m*d**2 dan berikan z.
+0
+Ekspresikan 1 + g - 1 + (-3 + 2 - 7)*(-1 - 2 + 0)*(-13 + 13 - 4*g) dalam bentuk d + s*g dan berikan s.
+-95
+Ekspresikan 8*g + 3*g - 4*g dalam bentuk c + t*g dan berikan t.
+7
+Atur ulang 653 - 58*t - 653 ke bentuk r + o*t dan berikan o.
+-58
+Atur ulang -11*s + 9*s - 5 - 5*s**2 + 2*s**2 ke bentuk d + p*s + c*s**2 dan berikan d.
+-5
+Atur ulang 180*p**2 - 2691 + 2691 + (-1 + 1 + 1)*(2*p**2 - p**2 - 3*p**2) - p**2 - 3*p**2 + 5*p**2 ke bentuk t + y*p + b*p**2 dan berikan b.
+179
+Ekspresikan 1 - a**2 - 1 - 32 + 32 + 12*a**2 + (-4*a + 3*a + 0*a)*(3*a + 0 + 0) dalam bentuk y + t*a**2 + o*a dan berikan t.
+8
+Atur ulang -3 - 4*h + 2*h**2 - 1 + 4 ke bentuk y*h**2 + p*h + c dan berikan p.
+-4
+Atur ulang (5 - 3 - 1 + (3 - 3 - 1)*(1 + 6 - 3))*(t + t + 0*t)*((1 + 3 - 1)*(-1 - 2 + 1) + 5 + 1 - 2) ke bentuk s*t + m dan berikan s.
+12
+Ekspresikan (5 + 2 - 4)*(-9*o + 33*o - 17*o)*(-o - o + 4*o) dalam bentuk f*o**2 + k + w*o dan berikan k.
+0
+Ekspresikan (1 + 0 + 1)*(x + 0*x + 3*x)*(4 - 2 + 4) dalam bentuk d*x + s dan berikan s.
+0
+Atur ulang o**4 - 1 + 1 - o**4 + o**4 + 2*o**4 + (-1 - 3*o + 1)*(-2*o + 2*o - 2*o**3) ke bentuk d*o**3 + j*o + m*o**4 + t + x*o**2 dan berikan m.
+9
+Ekspresikan -6*p + 3*p - 5*p + p sebagai k*p + o dan berikan k. Atur ulang -6*p + 3*p - 5*p + p menjadi k*p + o dan berikan k.
+-7
+Atur ulang -11*y - 5*y + 0*y - 18*y ke bentuk c*y + v dan berikan c.
+-34
+Atur ulang 4*c + 71 - 4*c + 4*c**4 + c**3 - c**2 - 72 ke bentuk t + u*c + i*c**2 + h*c**3 + s*c**4 dan berikan i.
+-1
+Atur ulang -14*i**2 - 2*i + 27*i**2 - 24*i**2 ke bentuk n*i + h + v*i**2 dan berikan h.
+0
+Atur ulang -27*d + 55*d - 3 + 3 ke bentuk c + j*d dan berikan j.
+28
+Ekspresikan 3*b - 16*b**2 - 3*b - b + 3*b dalam bentuk s*b**2 + c*b + k dan berikan s.
+-16
+Ekspresikan (-3*l**2 - 2*l**2 + 4*l**2)*(-16 - 33 + 11) dalam bentuk i*l + x + k*l**2 dan berikan k.
+38
+Atur ulang (13 + 3 + 31)*(0*h**2 + 0*h**2 + h**2) + (-1 - 2*h**2 + 1)*(5 - 1 - 3) ke bentuk a*h**2 + g + b*h dan berikan a.
+45
+Atur ulang -p**2 - 5 - 7*p + p**4 + 9*p + 0*p**4 + 7 ke bentuk o*p**3 + j*p**4 + x*p + w + r*p**2 dan berikan w.
+2
+Atur ulang -8*h**2 - 125 + 125 + (2 - 2 + h)*(h - 1 + 1) ke bentuk p + x*h + t*h**2 dan berikan t.
+-7
+Ekspresikan (-1 + 1 - 5*y**3)*(1 + 3 - 1) dalam bentuk n*y**2 + u + s*y**3 + g*y dan berikan s.
+-15
+Atur ulang -2*d**2 - 362 - 3*d + 363 - 4*d ke bentuk a*d + v + j*d**2 dan berikan j.
+-2
+Atur ulang -14*x**4 - x**4 - x**4 + (2*x**2 + 2*x**2 - 3*x**2)*(-4*x**2 + 4*x**2 + 2*x**2) ke bentuk l*x**2 + u + o*x**4 + m*x + z*x**3 dan berikan o.
+-14
+Atur ulang -3*t**3 + t**2 + 1 + 16*t - 2*t**2 + t**2 ke bentuk j*t + g*t**3 + v + m*t**2 dan berikan v.
+1
+Atur ulang -4*x**3 + 2 - 3*x - 42*x**2 - 2 + 44*x**2 ke bentuk f*x + g*x**3 + s*x**2 + c dan berikan g.
+-4
+Ekspresikan -2*w**4 + 0 - 2 + 3*w**2 + 0 - 7*w**2 dalam bentuk z + m*w + r*w**4 + q*w**2 + j*w**3 dan berikan z.
+-2
+Atur ulang -5*r**2 + 3*r**2 - r**4 - 4*r**4 + r + 4*r**4 - r**3 ke bentuk m*r + c*r**3 + x*r**2 + k*r**4 + i dan berikan k.
+-1
+Ekspresikan -115*a - 18*a**4 + 115*a + (a**3 - 3*a**3 + a**3)*(-4*a + 5*a - 2*a) dalam bentuk s + m*a**2 + q*a + l*a**3 + c*a**4 dan berikan c.
+-17
+Atur ulang 25*d - 37*d + 15*d - 3 ke bentuk f*d + q dan berikan q.
+-3
+Ekspresikan 12*r**3 - 100*r + 100*r + (1 + r - 1)*(-3*r**2 + 4*r**2 + r**2) dalam bentuk v*r**3 + l*r**2 + h + o*r dan berikan v.
+14
+Ekspresikan 106*m**2 + m + m**4 + 2 - 38*m**2 - 34*m**2 - 36*m**2 dalam bentuk d*m**4 + f + p*m + v*m**2 + w*m**3 dan berikan f.
+2
+Ekspresikan (0*b + 6 + 2*b - 4)*(-27 - 33 + 23) sebagai x*b + t dan berikan t. Atur ulang (0*b + 6 + 2*b - 4)*(-27 - 33 + 23) menjadi x*b + t dan berikan t.
+-74
+Atur ulang j**3 + j**3 + 0*j**3 + (2*j + j - j)*(j - 2*j - j)*(10 - 10 + 3*j) ke bentuk a + o*j + b*j**2 + k*j**3 dan berikan k.
+-10
+Ekspresikan -6*n**2 - 1 + 2*n**3 - 4*n - 2*n**2 + 7*n**2 + 24*n dalam bentuk g*n + w*n**2 + p*n**3 + c dan berikan g.
+20
+Ekspresikan 482*d - 6*d**3 - 3*d**2 - 482*d dalam bentuk h*d**2 + a*d**3 + u*d + s dan berikan h.
+-3
+Atur ulang 11*i - 12 + 12 ke bentuk m + z*i dan berikan z.
+11
+Ekspresikan (-4 - 5*j + 4)*(-2 + 3 + 1)*(2 + 1 - 2)*(-2*j**3 + 7*j**3 - 4*j**3) dalam bentuk x*j**2 + a*j**4 + p*j + h + f*j**3 dan berikan a.
+-10
+Atur ulang 4 - 4 + 5*v**2 + 6*v**2 ke bentuk k*v + o*v**2 + m dan berikan o.
+11
+Atur ulang -68*p + 7*p + 2 - 2 ke bentuk o*p + w dan berikan o.
+-61
+Atur ulang -15*c - 30*c - 14*c + 10*c ke bentuk n*c + l dan berikan l.
+0
+Ekspresikan 3 - 2 - a**2 + 29*a**3 - 34*a**3 dalam bentuk j*a**2 + t*a + g + d*a**3 dan berikan j.
+-1
+Atur ulang 22*f**2 + 16*f**2 + 82*f**2 ke bentuk a*f + j + w*f**2 dan berikan w.
+120
+Atur ulang 2*q**3 - 2*q + 5*q**2 - 22 + 22 + 0*q**2 ke bentuk r*q + p*q**2 + x*q**3 + f dan berikan x.
+2
+Ekspresikan -12 + 2 - 2*z**3 - 6*z**2 + 11 - 6*z**3 dalam bentuk r*z**2 + k*z + f*z**3 + l dan berikan l.
+1
+Ekspresikan -1 + 3*d**2 + 4 - 2 dalam bentuk o*d + y + w*d**2 dan berikan y.
+1
+Ekspresikan (3 - 3 + 1)*(0*q + q + 0*q) + (0 + 0 + 3)*(-5*q - 2*q + 6*q) - 4*q - 9 + 9 dalam bentuk k + x*q dan berikan x.
+-6
+Atur ulang (4*n - n + 4*n)*(0 - 5 + 6) + (1 + 1 - 4)*(-3*n - 3*n + 5*n) ke bentuk a*n + t dan berikan a.
+9
+Atur ulang l + 2*l**4 + 10*l**2 - 17*l**2 + 1 + 5*l**2 ke bentuk s*l**4 + o*l**3 + f*l + a*l**2 + h dan berikan h.
+1
+Ekspresikan 1 - 3*p**2 + 8*p**3 - 6*p**3 - 3*p + 2*p**2 - 5*p dalam bentuk v*p + r*p**2 + q*p**3 + a dan berikan v.
+-8
+Atur ulang -11*m**2 + 35*m - 35*m + 33*m**2 ke bentuk v*m + w*m**2 + x dan berikan w.
+22
+Ekspresikan c**3 - 4*c**3 - c**2 - 1 + 4*c**3 dalam bentuk t*c**3 + r*c + s + b*c**2 dan berikan s.
+-1
+Atur ulang 27*a**2 - 26*a**2 + 29*a**2 ke bentuk f*a**2 + w*a + y dan berikan f.
+30
+Atur ulang 15 - 15 - 17*o**2 ke bentuk u*o + n*o**2 + z dan berikan n.
+-17
+Ekspresikan 0 + 14*p - 11*p + 0 dalam bentuk i + r*p dan berikan r.
+3
+Ekspresikan 96 - 8*v - 96 dalam bentuk r + w*v dan berikan w.
+-8
+Atur ulang ((3*u**2 + u**2 - 3*u**2)*(3 - 5 + 3) + 4*u**2 - 5*u**2 - 4*u**2)*(-2 + 4 - 4) ke bentuk g*u + q*u**2 + v dan berikan q.
+8
+Ekspresikan 4*g + 2 - 9*g + 6*g + g**3 dalam bentuk y*g + p*g**2 + t + q*g**3 dan berikan t.
+2
+Atur ulang -16*r + 12*r + 12*r + 29*r ke bentuk q + w*r dan berikan w.
+37
+Ekspresikan 314*f + 316*f - 632*f - 55*f**2 dalam bentuk g + q*f**2 + t*f dan berikan t.
+-2
+Ekspresikan (1 - 1 - 4*o**3)*(9*o - o - o) dalam bentuk d*o**2 + v*o**3 + l*o**4 + r + b*o dan berikan l.
+-28
+Atur ulang 2*o**3 - 37 + 20 + 0*o**3 ke bentuk k + t*o**2 + i*o**3 + s*o dan berikan i.
+2
+Ekspresikan 0*v + 127 - 2*v - 158 sebagai k*v + l dan berikan k. Atur ulang 0*v + 127 - 2*v - 158 menjadi k*v + l dan berikan k.
+-2
+Ekspresikan (-3 + 5 - 4)*(3 - 3 - 10)*(r + 1 - 1)*(0 + 2 - 4) dalam bentuk w*r + f dan berikan w.
+-40
+Ekspresikan 5 + 78*t - 5 dalam bentuk y + g*t dan berikan g.
+78
+Atur ulang -21*m**3 - 146 + 0*m**2 + 148 + 0*m**2 ke bentuk t*m + i*m**3 + j + s*m**2 dan berikan j.
+2
+Ekspresikan 9*b - 5*b**3 + 8*b - 19*b - 2*b**2 dalam bentuk y + u*b**3 + h*b**2 + m*b dan berikan y.
+0
+Ekspresikan 20*n**3 - 10*n**3 + 43*n - 9*n**3 dalam bentuk t + o*n + i*n**2 + s*n**3 dan berikan o.
+43
+Ekspresikan (-2 - 2 + 7)*(-o - 3*o + 2*o) dalam bentuk n*o + c dan berikan n.
+-6
+Atur ulang -w**3 - 39*w**3 + 376*w**3 + (-w**2 - 3*w**2 + 5*w**2)*(5 + 2*w - 5) ke bentuk d*w + y*w**2 + l*w**3 + x dan berikan l.
+338
+Atur ulang h - 2*h**3 + 4*h**4 + 2 - 13 - 3*h**4 ke bentuk a + c*h**3 + m*h**2 + f*h + n*h**4 dan berikan a.
+-11
+Ekspresikan (0*z - 3*z - 4*z)*(-2 + 2 - 2*z**2)*(3*z - 2*z + 2*z) + 4 - 4 + 2*z**4 dalam bentuk l*z**3 + j*z + v*z**2 + b*z**4 + t dan berikan b.
+44
+Ekspresikan 4 - 11*j**2 - j**3 + 2*j**2 - 1 - 10*j**2 dalam bentuk i*j**3 + k*j + t*j**2 + z dan berikan t.
+-19
+Ekspresikan 9*k + 13*k - 2*k - 6*k dalam bentuk g*k + x dan berikan g.
+14
+Ekspresikan -2*h**3 + 72*h**2 - 73*h**2 + 31*h**4 + 4*h**4 dalam bentuk v*h**2 + z + f*h + i*h**3 + n*h**4 dan berikan v.
+-1
+Atur ulang 3*b**3 - 3*b - 3*b - 3*b**3 - 3 - 2*b**3 ke bentuk i*b + g + t*b**2 + q*b**3 dan berikan q.
+-2
+Ekspresikan (115*b**3 - 53*b**3 - 12*b**3)*(-6*b + b + 3*b) dalam bentuk c*b**3 + q*b + u*b**4 + j*b**2 + y dan berikan u.
+-100
+Atur ulang (-149*j - 36*j + 22*j - 76*j)*(-3*j + 2*j - j) ke bentuk f*j + t*j**2 + w dan berikan t.
+478
+Atur ulang (0 + 2 + 0)*(-5*h - h + 4*h) + h - h - h + h - 1 - 14*h + 4 ke bentuk s + b*h dan berikan b.
+-18
+Ekspresikan d**2 - d - 6*d + d sebagai l*d + k*d**2 + h dan berikan k. Atur ulang d**2 - d - 6*d + d menjadi l*d + k*d**2 + h dan berikan k.
+1
+Atur ulang ((-1 + 3 + 0)*(0*v + v + 6*v) + (1 - 3 + 4)*(-5*v + v + 3*v))*(-v - 1 + 1)*(3*v + 2*v - 4*v) ke bentuk m*v**3 + c + i*v**2 + k*v dan berikan k.
+0
+Ekspresikan 14*y - 12 + 12 dalam bentuk n*y + q dan berikan n.
+14
+Ekspresikan 6 + 1 - 2*r**3 - 6 + 15*r - 3 dalam bentuk z*r + h + q*r**2 + a*r**3 dan berikan z.
+15
+Atur ulang 47 + 52*l**2 - 47 ke bentuk h*l + s + u*l**2 dan berikan u.
+52
+Ekspresikan (2 + 0 + 12)*(2*k - 1 + 1) dalam bentuk a*k + l dan berikan a.
+28
+Ekspresikan b - 77 - 2*b**2 + 40 + 34 dalam bentuk o*b**2 + w + h*b dan berikan h.
+1
+Ekspresikan -55 + 61*p**2 + 55 sebagai l*p**2 + x*p + r dan berikan l. Atur ulang -55 + 61*p**2 + 55 menjadi l*p**2 + x*p + r dan berikan l.
+61
+Atur ulang -5*z**2 + 15*z**2 + 2*z**3 + 2*z - z ke bentuk i*z + b + x*z**3 + w*z**2 dan berikan i.
+1
+Atur ulang -2*x**2 + 2*x + 0*x**2 + 6*x**2 - x ke bentuk s*x**2 + h + u*x dan berikan u.
+1
+Ekspresikan 7*s - 1 - 4*s - 3 + 1 sebagai n + r*s dan berikan n. Atur ulang 7*s - 1 - 4*s - 3 + 1 menjadi n + r*s dan berikan n.
+-3
+Ekspresikan -2 + 4 - 2 - 26*l dalam bentuk b*l + c dan berikan b.
+-26
+Atur ulang (0*w - 6*w + w)*(-2*w - 3*w - w) ke bentuk a*w + l + h*w**2 dan berikan h.
+30
+Atur ulang 6*h**3 - 31 - 3 + h - 8*h**3 ke bentuk j + v*h + p*h**2 + w*h**3 dan berikan v.
+1
+Atur ulang 11 - 10 + 6 + 4*y - y**2 - 3*y ke bentuk b*y**2 + z*y + l dan berikan l.
+7
+Atur ulang (-5*u**4 + 3*u**4 + 0*u**4)*(-2 - 2 + 2)*(1 + 2 - 1)*(0 + 4 - 3)*(-1 - 2 + 1) ke bentuk l*u**2 + p*u**4 + t + o*u**3 + i*u dan berikan p.
+-16
+Ekspresikan -5 - 5 + 7 + 2*h - 5 sebagai z*h + s dan berikan s. Atur ulang -5 - 5 + 7 + 2*h - 5 menjadi z*h + s dan berikan s.
+-8
+Ekspresikan 12*d**3 - 2*d + 15*d**4 - 38*d**4 + 24*d**4 dalam bentuk j*d**2 + p + b*d**3 + r*d**4 + s*d dan berikan b.
+12
+Ekspresikan (114 - 56 - 27)*(0*t - t + 0*t)*(3 + 3 - 5) dalam bentuk a*t + l dan berikan a.
+-31
+Ekspresikan -o - 10*o - 13*o + 0*o dalam bentuk y*o + b dan berikan y.
+-24
+Ekspresikan -192 + 0*o**2 + o - 2*o**2 + 188 dalam bentuk y*o**2 + a*o + k dan berikan y.
+-2
+Atur ulang -95*s**4 - 532*s + 532*s + (s + 2*s**4 - s)*(-1 + 1 - 2) ke bentuk t*s**3 + v*s**4 + c*s + d + k*s**2 dan berikan v.
+-99
+Atur ulang 0*i - 39 + 23 + 13*i**2 + 15 - i - 2*i**4 ke bentuk h*i + d + f*i**4 + s*i**3 + n*i**2 dan berikan f.
+-2
+Ekspresikan -16 - 6 + 22 - 31*h dalam bentuk m*h + a dan berikan m.
+-31
+Atur ulang -2 + g - 4*g + 12*g**3 - g + 5*g ke bentuk y + q*g + o*g**2 + l*g**3 dan berikan l.
+12
+Atur ulang (-5*z**3 + 2*z**3 + 0*z**3)*(0*z + 0*z - 3*z) ke bentuk d*z**3 + x + p*z + h*z**2 + u*z**4 dan berikan u.
+9
+Ekspresikan (-135*h**2 + 140*h**2 + 5*h - 3*h)*(0 + 2 + 0) dalam bentuk y*h + n*h**2 + q dan berikan n.
+10
+Atur ulang 5*b**3 - 2*b + 8*b**2 + b**4 + 2*b**4 - 3*b**2 - 7*b**2 ke bentuk p*b + x*b**2 + w*b**3 + y*b**4 + m dan berikan m.
+0
+Atur ulang 2*f**2 + 4*f - 4*f**2 - 6*f**2 - 2 + 4*f**2 ke bentuk w*f + n + y*f**2 dan berikan w.
+4
+Atur ulang -2*h**2 - 31*h + 26*h + 40*h + 95*h ke bentuk i + c*h + r*h**2 dan berikan r.
+-2
+Ekspresikan (2*l + l - l)*(9*l - 2*l + 4*l) + 2*l**2 + 2*l**2 + 0*l**2 dalam bentuk d*l**2 + o*l + r dan berikan d.
+26
+Ekspresikan 13*u + 74 - 74 dalam bentuk t + v*u dan berikan v.
+13
+Atur ulang (37 - 34 - 206)*(y - 5*y + 6*y) ke bentuk a + z*y dan berikan z.
+-406
+Ekspresikan 2*f**4 + 11*f**4 - 3*f - 8*f**4 - 6*f**4 + 2 dalam bentuk l*f**4 + q + g*f + r*f**2 + d*f**3 dan berikan l.
+-1
+Ekspresikan 160 - 160 - 5*a dalam bentuk f + c*a dan berikan c.
+-5
+Atur ulang z**2 - 3 + z**2 + 0*z**2 - 2*z**3 + 7*z**3 - 2*z ke bentuk f + a*z**3 + q*z**2 + k*z dan berikan a.
+5
+Atur ulang 69 + 3*v**3 - 69 + 10*v**4 + (2*v + 2 - 2)*(-4 - 1 + 2)*(-2*v**3 + 3*v**3 - 2*v**3) ke bentuk f*v**4 + c*v + t*v**3 + o + n*v**2 dan berikan t.
+3
+Ekspresikan (3*a + a - 6*a)*(2 - 2 + a)*(-4 - 3 + 5) dalam bentuk g + w*a + b*a**2 dan berikan g.
+0
+Atur ulang (-1 + k + 1)*(4 + 1 - 4) - 2*k + k - k ke bentuk c + d*k dan berikan d.
+-1
+Atur ulang 9*b**3 - 12*b**3 - 1 - 2*b + b ke bentuk v + z*b**3 + q*b**2 + i*b dan berikan v.
+-1
+Ekspresikan (v + 3*v + 2*v)*(-4*v + 4*v - 2*v) - 2*v**2 + 1 - 1 dalam bentuk o*v + w*v**2 + k dan berikan w.
+-14
+Atur ulang -12 + 13 - 2*l**3 - l**3 ke bentuk v*l + d*l**2 + n + h*l**3 dan berikan d.
+0
+Atur ulang (-93 + 93 - 85*i)*(2*i - 3*i + 3*i) ke bentuk u + t*i + h*i**2 dan berikan h.
+-170
+Ekspresikan (8*q - 37*q - 7*q)*(0 - 3 + 2) - 4*q - 2*q + 5*q + (q + 0*q - 2*q)*(1 - 3 + 0) - q + q + q dalam bentuk m*q + b dan berikan b.
+0
+Ekspresikan 2 + 21 + 9*q**3 - 11*q**3 dalam bentuk f*q**3 + z*q + x + r*q**2 dan berikan x.
+23
+Atur ulang (1 - 3 + 0)*(3*p + 4*p - 5*p)*(2 - 1 + 1) ke bentuk r + h*p dan berikan h.
+-8
+Ekspresikan (-2*d + 2*d - d)*(-28 + 19 + 49) dalam bentuk o + k*d dan berikan k.
+-40
+Ekspresikan 0*b**4 + 34*b**3 - 34*b**3 - 2*b**2 + 2 - 2*b**4 dalam bentuk i*b + m*b**3 + s*b**4 + r + y*b**2 dan berikan y.
+-2
+Atur ulang (2 + 0 - 3)*(0 + 0 + 3*g)*(1 - 4 + 2)*(1 + 0 + 1) ke bentuk n*g + b dan berikan n.
+6
+Ekspresikan 12*o**2 + 4*o + 9*o - 13*o dalam bentuk b + h*o**2 + j*o dan berikan h.
+12
+Atur ulang 4*l**3 - l + 9*l**3 + 3*l**3 ke bentuk d*l**3 + j + q*l**2 + z*l dan berikan z.
+-1
+Ekspresikan 2 + 2*n**3 + 1 + 33*n - 26*n - 2 dalam bentuk b*n**2 + l*n**3 + o*n + w dan berikan w.
+1
+Ekspresikan x**4 - 6*x - 3*x**2 - 2*x**3 - x**3 + 6*x dalam bentuk l*x**2 + w*x**4 + s + m*x + c*x**3 dan berikan l.
+-3
+Ekspresikan 2*g**2 - 2*g + 4*g**2 - 4*g**2 + 7*g dalam bentuk h + b*g**2 + w*g dan berikan w.
+5
+Ekspresikan (-2*x - 2*x - 3*x)*(-1 + 1 + 1)*(2 - 4 - 4) dalam bentuk s*x + t dan berikan s.
+42
+Atur ulang -3*k**2 + k**2 + 4*k**2 + 3*k**2 + 2*k**2 - 4*k**2 + (5 - 8 + 1)*(k**2 + k**2 - 3*k**2) + 27 - 27 - 8*k**2 ke bentuk y + h*k**2 + j*k dan berikan h.
+-3
+Ekspresikan 76 - 76 + 5*u sebagai c + t*u dan berikan t. Atur ulang 76 - 76 + 5*u menjadi c + t*u dan berikan t.
+5
+Ekspresikan -3 + 3*u**4 - 5*u**2 - 1 - 2*u**3 - 4*u**4 + 6 dalam bentuk n*u + v*u**4 + s + b*u**2 + h*u**3 dan berikan h.
+-2
+Ekspresikan -y + 3*y - y + (-6 + 2 + 2)*(-2*y + 0*y - 3*y) + (-1 - 2 + 2)*(-y + 2 - 2) dalam bentuk s + v*y dan berikan v.
+12
+Atur ulang (5*v - v + 3*v)*(2 - 5 + 4) ke bentuk l + a*v dan berikan a.
+7
+Atur ulang 0*o**3 + 5*o + o**3 + o**3 - 1 - 3*o ke bentuk z + b*o + u*o**2 + k*o**3 dan berikan b.
+2
+Atur ulang (-1 - 2*c + 1 + (2 + 0 - 3)*(2*c + 0*c + 0*c))*(28 + 15 + 4) ke bentuk o + h*c dan berikan h.
+-188
+Ekspresikan -9*b - 12*b + 14*b dalam bentuk t + n*b dan berikan n.
+-7
+Atur ulang -13 + 8*z - 19 + 32 ke bentuk l*z + q dan berikan l.
+8
+Atur ulang 1 - 1 + 1 - 20*t**2 + 0 ke bentuk r + s*t**2 + k*t dan berikan r.
+1
+Ekspresikan -3*g - 2*g - 7*g - 4*g dalam bentuk a*g + h dan berikan a.
+-16
+Atur ulang -30*l**3 - 5*l - 3*l**2 + 3*l + l + 25*l**3 ke bentuk q*l**3 + f*l + x*l**2 + y dan berikan f.
+-1
+Ekspresikan f**2 + f**2 - f**2 + 0*f**2 sebagai l + b*f**2 + z*f dan berikan b. Atur ulang f**2 + f**2 - f**2 + 0*f**2 menjadi l + b*f**2 + z*f dan berikan b.
+1
+Atur ulang -7*l**2 + 60*l**2 - 7*l**2 ke bentuk p*l + f + w*l**2 dan berikan w.
+46
+Atur ulang -5 + 3*h**4 - 2*h + 2*h**3 + 3 + 2*h ke bentuk z*h**4 + i*h + t*h**3 + u*h**2 + d dan berikan d.
+-2
+Ekspresikan (-2*z**2 + 33*z - 33*z)*(2*z + z + 0*z) dalam bentuk s*z**2 + c*z + l + h*z**3 dan berikan h.
+-6
+Ekspresikan 9*o - 3 + 2 + 1 dalam bentuk r*o + n dan berikan r.
+9
+Ekspresikan 3*j + 2*j - 2*j + (0 - 3 + 1)*(-5 + 5 + 4*j) dalam bentuk x*j + n dan berikan x.
+-5
+Atur ulang c**2 - 2*c**2 + 4 - 7 ke bentuk x*c + v*c**2 + k dan berikan v.
+-1
+Atur ulang -2*v**3 - v + 8 + 2 + v**4 - 2 + 4*v**2 - 2 ke bentuk l + w*v**3 + x*v + z*v**4 + t*v**2 dan berikan t.
+4
+Ekspresikan -2 + 3*o - o**4 - 1 + o**3 - 2*o + 2 dalam bentuk l*o**2 + x + m*o + h*o**3 + p*o**4 dan berikan p.
+-1
+Atur ulang 2*a - 1 + 1 + (a + 3*a + 2*a)*(0 - 4 + 5 + (-3 + 3 + 1)*(3 - 5 + 0) + 2 + 1 - 1 + 2 + 1 - 1) ke bentuk p*a + t dan berikan p.
+20
+Atur ulang (-p + 0 + 0)*(0*p + p**2 - 4*p**2 + 7*p**3 + p) ke bentuk w*p**2 + z*p**3 + q + x*p + u*p**4 dan berikan u.
+-7
+Atur ulang q + 3*q**3 + 5*q**3 - 10*q**3 + 5*q**3 ke bentuk t*q + n + f*q**2 + i*q**3 dan berikan i.
+3
+Atur ulang 40*h**2 - 35*h**2 + 20*h**2 + 139*h**2 ke bentuk u + w*h + a*h**2 dan berikan a.
+164
+Ekspresikan (2*i**2 - 16 + 6 - 8)*(-5*i - 3*i**2 + 5*i) dalam bentuk t*i**4 + w + s*i + a*i**3 + o*i**2 dan berikan o.
+54
+Ekspresikan -2*q + 47*q**2 + 4*q**2 + 2*q dalam bentuk n*q + g*q**2 + h dan berikan g.
+51
+Atur ulang 76*m + 20 + m**2 + 32 - 76*m ke bentuk g*m + n*m**2 + c dan berikan c.
+52
+Ekspresikan -44*f**2 - 9*f + 21*f**2 + 2 + 23*f**2 + 2*f**3 dalam bentuk g + l*f**3 + b*f**2 + t*f dan berikan g.
+2
+Ekspresikan 23 - h**2 + 24 - 52 dalam bentuk o + z*h + c*h**2 dan berikan o.
+-5
+Ekspresikan 13*u + 36 - 36 dalam bentuk v*u + k dan berikan v.
+13
+Ekspresikan (0 + 3 - 4)*(h**4 + 3*h**4 - 2*h**4) + 0*h + 0*h - 2*h**4 + 4*h**4 + 2*h**4 - 4*h**4 dalam bentuk b*h**2 + s*h**3 + g*h + x*h**4 + c dan berikan x.
+-2
+Ekspresikan (-2*c + 0 + 0)*(-20*c**3 - 11*c**3 - 12*c**3) dalam bentuk s*c**2 + d*c + q*c**3 + b*c**4 + o dan berikan b.
+86
+Atur ulang 0*n - n + 56 + 13*n**3 - 56 ke bentuk h*n**2 + m*n**3 + w*n + a dan berikan a.
+0
+Ekspresikan 1 + 3*a + 0*a + 4*a - a**2 + 0*a**2 dalam bentuk g*a + u + v*a**2 dan berikan u.
+1
+Atur ulang 6*o**2 - o - 1 + 4*o**3 - o**2 - 3*o**2 + 4*o**4 - 6*o**3 ke bentuk f*o**4 + m*o**3 + w*o + c + v*o**2 dan berikan w.
+-1
+Atur ulang 7*m + 2*m + 6 - 6 ke bentuk q + o*m dan berikan o.
+9
+Atur ulang (1 + 3*c - 1)*(37*c + 17*c - 8*c) ke bentuk l*c + t*c**2 + n dan berikan t.
+138
+Ekspresikan (-3*f**2 + f - f)*(-1 - 3*f + 4*f + 0*f)*(2 - 1 + 1)*(-4 + 2 + 1) dalam bentuk x*f**2 + a*f + k*f**3 + u dan berikan x.
+-6
+Atur ulang 2*v**3 - 311*v - 5 + 311*v ke bentuk j + y*v**2 + s*v**3 + t*v dan berikan y.
+0
+Ekspresikan 8 - 3*r - 8 + 3*r**2 - 2*r**2 - 4*r**3 dalam bentuk c + m*r + k*r**3 + u*r**2 dan berikan m.
+-3
+Atur ulang (14 + 13 - 30)*(3 + 3 - a - 8) ke bentuk l*a + g dan berikan g.
+6
+Atur ulang -2*u**3 + 2 + 49*u - 49*u ke bentuk a*u + i + f*u**2 + r*u**3 dan berikan r.
+-2
+Ekspresikan -303*w - 21*w + 144*w dalam bentuk c + d*w dan berikan d.
+-180
+Ekspresikan 7*o**4 + 5 - 5 + (-4*o - o + 3*o)*(0*o**3 + o**3 + 2*o**3) dalam bentuk m*o + n*o**4 + f*o**3 + a + b*o**2 dan berikan a.
+0
+Ekspresikan (3 + 0 - 1)*(1 + 1 - 3)*(-3 - 3 + 4)*(-2*a + 3*a - 4*a) dalam bentuk v*a + h dan berikan v.
+-12
+Ekspresikan (-4 - 4 - 12*v + 8)*(-11 - 18 + 14) dalam bentuk o + a*v dan berikan o.
+0
+Atur ulang h**2 + 4*h**2 - 3*h**2 + (h**2 + 2*h**2 - 5*h**2)*(0 - 1 + 3) + 28*h**2 + 3*h**2 + 5*h**2 + 2*h ke bentuk c + y*h + g*h**2 dan berikan y.
+2
+Atur ulang 3*c + 7*c - 3*c + (8 + 1 - 1)*(-1 - 2*c + 1) ke bentuk q*c + a dan berikan q.
+-9
+Atur ulang -5 + 0*g - 5*g + 6 + 2*g**3 + g**2 ke bentuk z + c*g**2 + u*g + f*g**3 dan berikan u.
+-5
+Ekspresikan -5*w - 8*w**2 + 0*w**2 - 3*w**2 + 4*w dalam bentuk l + p*w**2 + h*w dan berikan h.
+-1
+Ekspresikan 4*h**2 + 4*h - 10*h - 6*h + 3*h dalam bentuk n*h + f + c*h**2 dan berikan n.
+-9
+Atur ulang -23*o + o + o + 3*o ke bentuk z*o + t dan berikan z.
+-18
+Ekspresikan (-4*s**2 - 2*s**2 + 2*s**2)*(-2 + 8*s - 18*s + 16*s) dalam bentuk b + h*s + u*s**2 + m*s**3 dan berikan u.
+8
+Ekspresikan (-16*v - 2*v - 2 + 5*v)*(v + 3 - 3) dalam bentuk n*v + o + t*v**2 dan berikan t.
+-13
+Ekspresikan (8 - 14 - 18)*(1 - 1 - 1)*(3*n - 3*n - n**4 + n) dalam bentuk d*n**2 + z*n + h + s*n**4 + g*n**3 dan berikan d.
+0
+Ekspresikan 30 + 19 - 49 + 63*m dalam bentuk w + c*m dan berikan c.
+63
+Atur ulang -a**3 + 6*a**3 - 2*a**3 + (-7*a + a + 2*a)*(-3*a**2 + 5*a**2 - a**2) - a**3 + a - a ke bentuk r*a**3 + z*a**2 + w + y*a dan berikan w.
+0
+Ekspresikan (9 - 7 + 5)*(5 + 5*k**2 - 5) dalam bentuk v*k + f + x*k**2 dan berikan x.
+35
+Ekspresikan 1 - 26*z**4 + 48*z**4 - 24*z**4 + 3*z**2 - 2*z dalam bentuk b*z**4 + m*z + h*z**3 + d + x*z**2 dan berikan b.
+-2
+Ekspresikan (-39 - 73 - 7 - 13)*(-q + 4*q - 2*q) sebagai w + u*q dan berikan u. Atur ulang (-39 - 73 - 7 - 13)*(-q + 4*q - 2*q) menjadi w + u*q dan berikan u.
+-132
+Ekspresikan (-296 - 318 - 273)*(0 + 1 + 1)*(1 - 1 + 2*y) dalam bentuk z + h*y dan berikan h.
+-3548
+Ekspresikan -6*v + 1 - 2 + 5 - 3 sebagai a + o*v dan berikan a. Atur ulang -6*v + 1 - 2 + 5 - 3 menjadi a + o*v dan berikan a.
+1
+Ekspresikan 8 - 8 - 13*p**2 sebagai d*p + q*p**2 + a dan berikan q. Atur ulang 8 - 8 - 13*p**2 menjadi d*p + q*p**2 + a dan berikan q.
+-13
+Atur ulang -n**2 + 26*n - 87*n + 30*n + 29*n + 15 ke bentuk z*n + r*n**2 + j dan berikan z.
+-2
+Ekspresikan 3*t + 92*t**2 - 91*t**2 - 10*t dalam bentuk d + h*t**2 + i*t dan berikan i.
+-7
+Ekspresikan (-2*a**3 + 10*a**3 + 0*a**3)*(-2*a - a + 2*a) dalam bentuk r + q*a**2 + p*a**4 + k*a**3 + l*a dan berikan k.
+0
+Ekspresikan 4 - 41*a + 13*a**2 - 6 - 14*a**2 dalam bentuk y*a**2 + i*a + r dan berikan r.
+-2
+Ekspresikan -68 + 2*b - 7*b**3 + 137 - 70 dalam bentuk f*b**2 + o*b**3 + u + q*b dan berikan q.
+2
+Atur ulang 1 - 4 + p + 6*p - 3*p**4 + 2*p**2 + 5*p**4 ke bentuk j*p**4 + v*p**2 + k*p**3 + z + i*p dan berikan j.
+2
+Atur ulang 27 - 32 - 4*u - u ke bentuk z*u + p dan berikan p.
+-5
+Atur ulang 2*n + 12*n - 2*n**2 - 12*n + 2 ke bentuk j*n + k*n**2 + h dan berikan j.
+2
+Atur ulang 2*k - 3*k + 331 - 331 + (-2*k + 1 - 1)*(3 - 3 - 2) + 2*k - 6*k + 3*k + 4*k - 2*k - 3*k ke bentuk d + l*k dan berikan l.
+1
+Ekspresikan -4 + 148*h**2 + 8*h**2 + 4 dalam bentuk y + j*h**2 + f*h dan berikan y.
+0
+Ekspresikan -9*d - 29 + 29 - 24*d sebagai b*d + f dan berikan f. Atur ulang -9*d - 29 + 29 - 24*d menjadi b*d + f dan berikan f.
+0
+Atur ulang (-4*t**2 + 0*t**2 + 2*t**2)*(-5 - 3 + 6) ke bentuk r + h*t + z*t**2 dan berikan z.
+4
+Ekspresikan -1 - 18*d - 11 - 3 + 14 dalam bentuk m*d + z dan berikan z.
+-1
+Atur ulang (z + 0*z + 0*z)*(97*z - 56*z**2 - 97*z) ke bentuk g*z**2 + c + d*z + k*z**3 dan berikan k.
+-56
+Atur ulang -3*a + 40 - 40 + (0*a + 2*a + a)*(0 - 2 + 4) ke bentuk d + w*a dan berikan w.
+3
+Ekspresikan 30*a**2 + 7*a**2 - 18*a**2 sebagai g + f*a + i*a**2 dan berikan i. Atur ulang 30*a**2 + 7*a**2 - 18*a**2 menjadi g + f*a + i*a**2 dan berikan i.
+19
+Atur ulang 30*n**2 + 0*n**3 - 3*n + 4 + n**3 - 28*n**2 ke bentuk k + w*n**2 + s*n**3 + m*n dan berikan k.
+4
+Atur ulang (0*w**3 + 2*w**3 + 0*w**3)*((8 - 1 - 4)*(w - w - 2*w) - 3*w + 2*w + 0*w) ke bentuk n*w**3 + r*w**4 + o*w + i + q*w**2 dan berikan r.
+-14
+Atur ulang (i - 2*i - i)*(4*i - 43*i**2 - 4*i + 2*i) ke bentuk f*i**2 + m*i**3 + p*i + r dan berikan f.
+-4
+Ekspresikan (2 - 3 + 3)*(-2*r + 2*r + r) + 6*r + 6*r - 3 - 10*r dalam bentuk z*r + f dan berikan f.
+-3
+Ekspresikan 2*d**2 - 5*d**2 + 3*d**3 + 70*d - 68*d dalam bentuk s*d + v*d**3 + j*d**2 + p dan berikan j.
+-3
+Atur ulang (-2 - 3 + 2)*(2 - 4 + 3)*(0 - 3 + 12)*(2*q + 4*q - 4*q) ke bentuk x + o*q dan berikan o.
+-54
+Atur ulang (-1 + 2 + 2)*(-3*t - 2*t + 4*t)*(1 + 4 - 6)*(-1 + 3 + 0) ke bentuk y*t + b dan berikan y.
+6
+Ekspresikan 5*p**2 - 1 + 1 + 2*p - 3*p**2 dalam bentuk r*p**2 + y + f*p dan berikan f.
+2
+Ekspresikan -4*j - 6*j**3 + 4 - j**4 + 7*j**3 - 3 + 6*j dalam bentuk t*j**3 + f*j**2 + q + o*j**4 + h*j dan berikan o.
+-1
+Atur ulang -13 + 32*q - 13 + 26 ke bentuk y + c*q dan berikan c.
+32
+Ekspresikan a**4 + 0*a**3 - 5*a**3 + 3*a**3 + (0*a**2 + a**2 - 3*a**2)*(-3*a**2 + 0*a**2 + a**2) dalam bentuk v*a**4 + g + i*a**2 + t*a + l*a**3 dan berikan l.
+-2
+Ekspresikan -23*h**2 - 7*h**2 + h**2 + 2*h**2 dalam bentuk z + g*h + c*h**2 dan berikan c.
+-27
+Atur ulang (-2*y + 4*y - y)*(0 + 1 + 1) + 0*y + 0*y - y + (3 + 1 - 2)*(y + 0*y + 0*y) + 20 + 6*y - 20 ke bentuk v + a*y dan berikan a.
+9
+Atur ulang (c + 0 + 0)*(-8*c - 287 + 287)*(2*c - c**2 - 2*c) ke bentuk f*c + q*c**3 + n*c**4 + r + b*c**2 dan berikan n.
+8
+Ekspresikan (5 + 0 - 3)*(3569 - 3569 + 588*b) sebagai m + n*b dan berikan m. Atur ulang (5 + 0 - 3)*(3569 - 3569 + 588*b) menjadi m + n*b dan berikan m.
+0
+Atur ulang 6 + 7*n + 4*n - 8*n + (-n + 5*n - 2*n)*(-2 + 3 + 1) ke bentuk w*n + b dan berikan b.
+6

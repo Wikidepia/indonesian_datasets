@@ -1,0 +1,666 @@
+Misalkan n = 524 + -341. Apa faktor prima dari n?
+3, 61
+Sebutkan faktor prima dari -1 - -1 - (-25 + -1).
+2, 13
+Apa faktor prima dari -2 - -28 - (-2)/1?
+2, 7
+Misalkan i = 6 - 3. Apa faktor prima dari i?
+3
+Misalkan 4*s = -2*n + 62, -5*s + 10*s = -4*n + 85. Misalkan -o + 21 = 2*h, h - 3*o = s - 6. Apa faktor prima dari h?
+2, 5
+Misalkan l be (2/(-4))/((-1)/(-4)). Misalkan m be (-4)/(-6) + l/(-6). Misalkan 47 + m = 4*o. Apa faktor prima dari o?
+2, 3
+Misalkan f be -4*(0 - (-6)/(-8)). Misalkan f*w + 3*w - 180 = 0. Apa faktor prima dari w?
+2, 3, 5
+Misalkan n = -4 - -6. Misalkan 0 = n*k - 112 + 24. Sebutkan faktor prima dari (-4)/(-6) + k/6.
+2
+Misalkan 2*s + 3*t - 12 = s, -3*t + 48 = 5*s. Misalkan y = s + 6. Sebutkan faktor prima dari y.
+3, 5
+Misalkan j(d) = 32*d - 24. Sebutkan faktor prima dari j(11).
+2, 41
+Misalkan 0 = -4*r + 5*k - 4, 5*k - 2 = -3*r - 5. Apa faktor prima dari (49 + r)*(-12)/(-16)?
+2, 3
+Misalkan z = 9 - 14. Misalkan t(q) = -2*q - 5. Apa faktor prima dari t(z)?
+5
+Misalkan d = -3 - 1. Misalkan f be (3/(-6))/(1/2). Apa faktor prima dari (d/6 - f)*33?
+11
+Misalkan n be (-3)/(9/(-69))*2. Misalkan -2*t = -2*k - n, 2*k = -t - 6 + 38. Misalkan 3*g = g + t. Apa faktor prima dari g?
+13
+Misalkan 0 = -3*s - 13 - 20. Misalkan g = 18 + s. Apa faktor prima dari g?
+7
+Misalkan p(z) = 4*z - 2. Misalkan -3*c + 6*c - 5*s = 26, -2*c + 20 = -4*s. Sebutkan faktor prima dari p(c).
+2, 3
+Apa faktor prima dari (-63)/6*8/(-12)?
+7
+Misalkan a(f) = -4*f - 2*f + 4*f - 4. Misalkan t be (2 + (-9)/3)*3. Apa faktor prima dari a(t)?
+2
+Misalkan -22 = -5*m + 4*m. Apa faktor prima dari m?
+2, 11
+Sebutkan faktor prima dari (-2)/(-11) - (-1520)/110.
+2, 7
+Misalkan t(d) = d**3 + 11*d**2 + 7*d + 10. Apa faktor prima dari t(-5)?
+5
+Misalkan x(l) = 4 + 3*l - 4 - 8*l. Misalkan s = 0 + -1. Apa faktor prima dari x(s)?
+5
+Misalkan i(t) = t**3 - 4*t**2 - 7*t - 4. Misalkan b be i(6). Misalkan x = -40 + b. Apa faktor prima dari x/21*(-4 - -1)?
+2
+Misalkan -k = -3*k + 130. Apa faktor prima dari k?
+5, 13
+Misalkan n be 0/(-2) - 12*3. Misalkan t(s) = -s**2 - 18*s - 23. Misalkan k be t(-10). Misalkan b = k + n. Sebutkan faktor prima dari b.
+3, 7
+Misalkan z (x) menjadi turunan ke-ketiga dari -x**5/60 + 7*x**4/24 - x**3/3 - x**2. Apa faktor prima dari z(5)?
+2
+Misalkan f(u) = u**2 - 7*u + 12. Misalkan o be f(5). Misalkan 0 = 5*z + 20 + 5, 0 = 3*a - o*z - 70. Sebutkan faktor prima dari a.
+2, 5
+Misalkan n(b) = -b - b**3 + 0 + 5*b - 1 - b**2 + 6*b**2. Sebutkan faktor prima dari n(3).
+29
+Misalkan -3*t + 5*k = 39, -3 - 42 = 3*t - 3*k. Misalkan i = -3 - t. Sebutkan faktor prima dari i.
+3, 5
+Misalkan -5*l = -i + 3*i - 102, -19 = -l + i. Apa faktor prima dari l?
+2, 5
+Misalkan o(g) = 2*g. Misalkan r = -2*r + 6. Sebutkan faktor prima dari o(r).
+2
+Misalkan 22 = 4*v - 0*y - 3*y, 0 = v + 3*y - 13. Misalkan b = v - -28. Sebutkan faktor prima dari b.
+5, 7
+Misalkan 4*n - 36 = -112. Misalkan h = n + 33. Apa faktor prima dari h?
+2, 7
+Misalkan a(o) = o**3 + 11*o**2 + 10*o + 2. Misalkan y = 9 + -19. Misalkan h be a(y). Apa faktor prima dari 0/(h - -1) + 3?
+3
+Misalkan d(o) = -o**3 + 9*o**2 - o + 12. Sebutkan faktor prima dari d(8).
+2, 17
+Misalkan r(s) = s + 2. Misalkan m be r(0). Misalkan -v - 26 = -5*o, 4*o - m*v = 2 + 20. Misalkan -o*y + 28 = -67. Sebutkan faktor prima dari y.
+19
+Misalkan 3*x + 20 = 8*x. Misalkan -x*w + w + 2*d = -7, -2*d = 5*w - 33. Misalkan -w*m - 2*c = -3*c - 46, -2*c + 8 = 0. Sebutkan faktor prima dari m.
+2, 5
+Misalkan c = 32 - -182. Apa faktor prima dari c?
+2, 107
+Misalkan 4*h + h = 0, -3*c - 5*h = -75. Sebutkan faktor prima dari c.
+5
+Misalkan 5*a = -3*o + 32, 3*o = -4*a - o + 32. Misalkan 2*v + 3*u = a*u + 5, -3*v + u = -7. Apa faktor prima dari v?
+2
+Misalkan m = 1 - -1. Misalkan u be -2 + (2 + 5 - 0). Misalkan -x = m*j - u*j - 13, -2*j - 52 = -5*x. Apa faktor prima dari x?
+2, 5
+Misalkan 7*n - 21 = 3*n + z, -5*n - 3*z + 5 = 0. Misalkan l = n - -1. Misalkan -24 = -l*g + 16. Sebutkan faktor prima dari g.
+2
+Misalkan g = 11 - 5. Misalkan j = 0 + g. Apa faktor prima dari j?
+2, 3
+Misalkan 9 - 720 = -9*t. Apa faktor prima dari t?
+79
+Misalkan n(o) = o + 1. Misalkan g be n(7). Misalkan q = 10 - g. Sebutkan faktor prima dari q.
+2
+Misalkan m(l) = l**3 + 10*l**2 + 9*l + 4. Misalkan t be m(-9). Misalkan u(z) = 5 - 2*z. Misalkan k be u(t). Sebutkan faktor prima dari k/1*(0 + -2).
+2, 3
+Misalkan a(x) = 2*x**2 + 2*x - 1. Misalkan q(c) = 3*c**2 + 3*c - 1. Misalkan p(h) = -7*a(h) + 5*q(h). Sebutkan faktor prima dari p(2).
+2
+Misalkan i = 32 + -15. Apa faktor prima dari i?
+17
+Misalkan 0 = -x + 78 - 10. Apa faktor prima dari x?
+2, 17
+Misalkan q be 3*(-2)/(-12)*26. Misalkan l = 4 + q. Apa faktor prima dari l?
+17
+Misalkan t(i) = i + 6. Misalkan j + 7 = 3. Sebutkan faktor prima dari t(j).
+2
+Misalkan -4*s + 56 = -48. Apa faktor prima dari s?
+2, 13
+Misalkan b = 7 + -5. Sebutkan faktor prima dari b/(-7) + 100/7.
+2, 7
+Apa faktor prima dari 14/7*(-57)/(-6)?
+19
+Misalkan i = 18 + 1. Apa faktor prima dari i?
+19
+Misalkan y(m) = 3*m**2 + 3*m. Misalkan z be y(-2). Misalkan -z*f + 24 = -2*f. Sebutkan faktor prima dari f.
+2, 3
+Misalkan k(c) = 10*c - 25. Apa faktor prima dari k(8)?
+5, 11
+Misalkan 2*q + 12 - 44 = 0. Sebutkan faktor prima dari q.
+2
+Misalkan c be (-4)/(-18) + 96/54. Misalkan -c*n = -3*n + 22. Sebutkan faktor prima dari n.
+2, 11
+Misalkan t = -42 + 161. Misalkan 0 = -5*i + t + 46. Sebutkan faktor prima dari i.
+3, 11
+Misalkan -6*v + 5 + 19 = 0. Sebutkan faktor prima dari v.
+2
+Misalkan k be (-214)/(-6) + (-1)/(-3). Misalkan 0 = 5*q - 4 - k. Apa faktor prima dari q?
+2
+Misalkan 6*g - 4 = 2*g. Misalkan n be g/2*(-2 - -20). Misalkan 4*a = n*a - 90. Apa faktor prima dari a?
+2, 3
+Misalkan 0*f + 104 = 4*f. Apa faktor prima dari f?
+2, 13
+Misalkan -7*m + 12 = -3*m. Misalkan -3*g - m + 24 = 0. Misalkan 2*r + 80 = g*r. Apa faktor prima dari r?
+2
+Misalkan w(q) = 15*q**2 - q. Misalkan d be w(-1). Misalkan -3*j + 42 = -30. Misalkan h = j - d. Apa faktor prima dari h?
+2
+Misalkan t = 17 - 4. Apa faktor prima dari t?
+13
+Misalkan q - 3*n - 33 = -0*n, 0 = -4*n + 16. Misalkan -2*d - 3*z = d - q, 83 = 5*d + 3*z. Sebutkan faktor prima dari d.
+19
+Misalkan f(t) = 3*t**2 + 20*t + 9. Apa faktor prima dari f(-8)?
+41
+Misalkan x = -14 - -21. Sebutkan faktor prima dari x.
+7
+Misalkan i(n) = -n**2 - 4*n - 1. Misalkan j be i(-3). Misalkan v be 242/14 - j/7. Misalkan -v = -2*g + 11. Apa faktor prima dari g?
+2, 7
+Misalkan m(k) = -k**3 - 5*k**2 + 7*k + 5. Misalkan q be m(-6). Misalkan p(v) = -24*v - 1. Apa faktor prima dari p(q)?
+23
+Misalkan 2*r + 21 = -15. Misalkan d = -6 - r. Apa faktor prima dari d?
+2, 3
+Apa faktor prima dari (448/40 + -2)*1*20?
+2, 23
+Misalkan x = -55 + 77. Misalkan -6 + x = 4*b. Apa faktor prima dari b?
+2
+Misalkan 3*y - 1 = 8. Misalkan 0 = -r + y*k + 20, -4*r - 3*k = r - 10. Misalkan -5*l + 80 + r = 0. Sebutkan faktor prima dari l.
+17
+Misalkan 0 = -5*x + 125 - 40. Sebutkan faktor prima dari x.
+17
+Misalkan v(p) = 2 - 9*p. Misalkan w be v(-2). Misalkan -2*a = -3*a + w. Misalkan 0*g + 2*z + a = 3*g, -4*g = 2*z - 50. Sebutkan faktor prima dari g.
+2, 5
+Misalkan 0*p - 43 = p - 3*n, -15 = -5*n. Misalkan s = -21 - p. Misalkan -s = -4*o - 5. Sebutkan faktor prima dari o.
+2
+Misalkan j (t) menjadi turunan ke-ketiga dari t**6/120 + t**5/12 - 7*t**4/24 - t**3/3 + 3*t**2. Sebutkan faktor prima dari j(-6).
+2
+Misalkan 3*l + l = -16. Misalkan h = 4 + 0. Sebutkan faktor prima dari l/16 - (-37)/h.
+3
+Misalkan -5*n + 2*u = u - 264, 0 = -n - 4*u + 57. Apa faktor prima dari n?
+53
+Misalkan 3*x = -5*j + 325, 2*j - 548 = x - 6*x. Apa faktor prima dari x?
+2, 5, 11
+Misalkan k(u) = 2*u**2 - 8*u - 10. Misalkan w be k(7). Misalkan v = w + -57. Misalkan m = v + 35. Apa faktor prima dari m?
+2, 5
+Misalkan -5*h - z + 5*z = -217, 73 = 2*h + 3*z. Misalkan 2 = -3*u + h. Apa faktor prima dari u?
+13
+Misalkan 3*c - 78 + 11 = h, 0 = 4*c + 3*h - 111. Apa faktor prima dari c?
+2, 3
+Misalkan p = -7 - -52. Apa faktor prima dari p?
+3, 5
+Misalkan -10 = 3*a + a + 5*x, 5*x + 10 = 3*a. Misalkan p = 2 + a. Apa faktor prima dari p?
+2
+Misalkan o(k) = k**2 + 4*k + 2. Misalkan q be o(-4). Misalkan -q*f = -f - 16. Apa faktor prima dari f?
+2
+Sebutkan faktor prima dari (-1 - -1) + 5 + 30.
+5, 7
+Misalkan m(x) = 10*x**3 - x**2 + x. Misalkan y be m(1). Misalkan 35 + y = -5*w. Sebutkan faktor prima dari (-3)/(w/12) + 1.
+5
+Misalkan p = 63 + 197. Apa faktor prima dari p?
+2, 5, 13
+Misalkan t(i) = -i**3 - 14*i**2 + 4*i + 2. Misalkan k be t(-15). Misalkan 5*n - 3*r = k + 28, -3*n + r + 117 = 0. Apa faktor prima dari n?
+3, 13
+Misalkan r(f) = f**2 + 2*f - 1. Misalkan h be r(-3). Misalkan j = h - 2. Misalkan -4*a + 8 + 28 = j. Sebutkan faktor prima dari a.
+3
+Misalkan 18 - 708 = -5*g. Apa faktor prima dari g?
+2, 3, 23
+Misalkan g(o) = 2*o**3 - o**2 + 8*o - 2. Sebutkan faktor prima dari g(4).
+2, 71
+Apa faktor prima dari (-69 + -4)/((-9)/6 + 1)?
+2, 73
+Misalkan j(r) = -r**2 - 6*r - 3. Misalkan b be j(-4). Misalkan 65 = b*n + 20. Apa faktor prima dari n?
+3
+Misalkan n + 2 - 9 = 0. Misalkan j = n + -20. Misalkan x = j - -18. Sebutkan faktor prima dari x.
+5
+Misalkan 0 = -2*h + 66 + 50. Apa faktor prima dari h?
+2, 29
+Misalkan c(u) = u**2 + 8*u - 4. Misalkan f be c(-9). Misalkan x(a) = a**2 - 3*a - 3. Misalkan b be x(7). Misalkan -b = -f*j + 30. Apa faktor prima dari j?
+11
+Misalkan o = 3 - 2. Misalkan 13 = 3*c + o. Misalkan 0*n + 2*n - c = -j, 2*n + 2*j - 4 = 0. Apa faktor prima dari n?
+2
+Misalkan j be 6/9 + (-478)/(-3). Sebutkan faktor prima dari 2/(-6) - j/(-30).
+5
+Misalkan a = 1 - -3. Misalkan -a*y + 14 = 3*b + 2*b, 0 = 4*y - 4. Apa faktor prima dari b?
+2
+Misalkan l(i) = 0*i**2 - i**2 - 7*i + 10 + 0*i**2. Misalkan q be l(-7). Misalkan -q = -5*m - 5, 2*o - 26 = -2*m. Sebutkan faktor prima dari o.
+2, 3
+Misalkan h be (-3 + 3 + 1)*-1. Apa faktor prima dari 14*-6*h/4?
+3, 7
+Apa faktor prima dari -306*(4 + (-52)/12)?
+2, 3, 17
+Misalkan z be -23 - (-1 + (-1 - -2)). Misalkan m = -15 - z. Misalkan r = -4 + m. Apa faktor prima dari r?
+2
+Misalkan -3*x - 34 + 229 = 3*c, -65 = -x + 5*c. Misalkan 0 = 4*l + 3*k - 106, 3*l - k - 4*k = x. Sebutkan faktor prima dari l.
+5
+Misalkan d(k) = 10 - 2*k. Sebutkan faktor prima dari d(4).
+2
+Apa faktor prima dari (-10 - -3)*11*-1 + 3?
+2, 5
+Misalkan -5*k - 4*u + 81 = -33, 46 = 2*k + 2*u. Misalkan l = -15 + k. Sebutkan faktor prima dari l.
+7
+Misalkan u = 26 - 21. Misalkan u*j - 175 = 90. Apa faktor prima dari j?
+53
+Misalkan 497 = -0*k + 3*k + 2*v, v + 322 = 2*k. Apa faktor prima dari k?
+163
+Misalkan x be (-3)/(-1) + (4 - -3). Misalkan 2*a - x = 10. Sebutkan faktor prima dari a.
+2, 5
+Misalkan -6*f + 2*f = 12. Misalkan j = 0 - f. Apa faktor prima dari j?
+3
+Misalkan k(y) = 14*y + 5. Sebutkan faktor prima dari k(3).
+47
+Misalkan d be 174/8 + (-2)/(-8). Misalkan d = r - 10. Misalkan -k + 0*k + 5*g + r = 0, -4*k + 56 = -2*g. Apa faktor prima dari k?
+2, 3
+Misalkan 2*b + 12 + 10 = 0. Misalkan g = b + 7. Misalkan a = g - -11. Sebutkan faktor prima dari a.
+7
+Misalkan f(j) = -j**2 - 4*j - 4. Misalkan k be f(-3). Misalkan v be -2 - 0 - (k + 11). Sebutkan faktor prima dari (-141)/v - 3/(-12).
+2, 3
+Misalkan z = 7 + -10. Apa faktor prima dari -1*z/((-9)/(-6))?
+2
+Misalkan h = -7 - -7. Misalkan z(r) = -r**3 + r + 3. Misalkan u be z(2). Misalkan q = h - u. Sebutkan faktor prima dari q.
+3
+Misalkan y(v) = v**2 + 9*v - 6. Misalkan c be y(-9). Misalkan n(i) = -i**3 - 5*i**2 + 4*i + 3. Sebutkan faktor prima dari n(c).
+3, 5
+Misalkan -11 = 3*n - 233. Apa faktor prima dari n?
+2, 37
+Misalkan 2*k - 3 + 1 = 0. Misalkan 5*c + y = -2*y + 51, c = 5*y - k. Sebutkan faktor prima dari c.
+3
+Misalkan m = 21 - 0. Misalkan 0 = -4*d - 23 + 3, 3*n - 2*d = 7. Apa faktor prima dari m + n - (4 - 3)?
+19
+Misalkan z = 2*g - 5, 0*g - 7 = -g + 5*z. Misalkan -g*q = -3*w - 40, -q - 3*w - 11 = -49. Misalkan t - 10 = 4*o - 2*o, o = 4*t - q. Apa faktor prima dari t?
+2, 3
+Misalkan 5*f + 133 = 568. Apa faktor prima dari f?
+3, 29
+Misalkan f = 7 - 8. Misalkan b = 2 - f. Apa faktor prima dari b?
+3
+Misalkan g be 1/(-2)*(-3 - -3). Misalkan w be (-12)/(-3) - (-2 + g). Misalkan w = b - 0. Apa faktor prima dari b?
+2, 3
+Misalkan 5*p = -3*j + 10, -4*p = 3*j - 2 - 6. Misalkan -4*z = -2*z - 4. Misalkan d - z*d + 12 = j. Apa faktor prima dari d?
+2, 3
+Misalkan l(u) = -8*u - 28. Sebutkan faktor prima dari l(-4).
+2
+Misalkan w be 3/((-12)/(-8))*2. Apa faktor prima dari w/(-10) + 426/15?
+2, 7
+Misalkan o(t) = 96*t - 1. Sebutkan faktor prima dari o(1).
+5, 19
+Misalkan y = 1 + 4. Misalkan o be 1/((4/2)/6). Misalkan -k - 5 = -1, y*z - 42 = o*k. Apa faktor prima dari z?
+2, 3
+Misalkan y(d) = 2 - d. Misalkan m be y(-3). Misalkan b = 10 - m. Apa faktor prima dari 15/6*4/b?
+2
+Misalkan -4*i + 145 + 47 = 0. Misalkan z be (6/(-3))/((-1)/(-2)). Sebutkan faktor prima dari -12*(i/9)/z.
+2
+Misalkan -v - 12 - 13 = 0. Misalkan f = 64 + v. Apa faktor prima dari f?
+3, 13
+Misalkan y(u) = 48*u + 3. Apa faktor prima dari y(2)?
+3, 11
+Misalkan p = 3 - 8. Misalkan t = 7 + p. Misalkan -c + 8 = -t. Apa faktor prima dari c?
+2, 5
+Misalkan k (y) menjadi turunan ke-ketiga dari 3*y**5/20 + y**4/12 + y**3/6 + y**2. Misalkan c be k(-1). Misalkan p - 9 = c. Apa faktor prima dari p?
+17
+Misalkan -2*x + 110 = 4*w, -x - 150 = -4*x - w. Apa faktor prima dari x?
+7
+Misalkan b(y) = 3*y - 4. Misalkan h be b(9). Misalkan p = 4 + h. Misalkan -3*j + 6*j - 28 = 2*a, -2*j + 3*a = -p. Apa faktor prima dari j?
+2, 3
+Misalkan d = 0 + 43. Sebutkan faktor prima dari d.
+43
+Misalkan 4*h = -3*q + 619, 0*q + q - 181 = 5*h. Sebutkan faktor prima dari q.
+3, 67
+Misalkan g = -10 + 10. Apa faktor prima dari 3 + g + (-16)/(-1)?
+19
+Misalkan -150 = -3*t - 2*t. Misalkan -2*f + 4*f - t = 0. Apa faktor prima dari f?
+3, 5
+Misalkan a(i) = 19*i**2 + 4 - 4 - 2*i**2 + 1. Misalkan n be a(-1). Apa faktor prima dari 15*3*4/n?
+2, 5
+Misalkan j(w) = 11*w**3 - 5*w**2 - 4*w - 4. Misalkan m(r) = -10*r**3 + 4*r**2 + 3*r + 4. Misalkan b(i) = -4*j(i) - 5*m(i). Apa faktor prima dari b(2)?
+2, 23
+Misalkan 3*o = t - 0*o + 9, 4 = -4*t + 4*o. Misalkan -5*s - 2 = t*f - 4, -2*f + 4*s = -16. Sebutkan faktor prima dari f - (0 - -2) - -5.
+7
+Misalkan x(d) = -5 + 2 - 4*d - 5 + 2*d. Apa faktor prima dari x(-7)?
+2, 3
+Misalkan o(u) = -66 + 34*u**2 + 67 - 11*u**2. Sebutkan faktor prima dari o(-1).
+2, 3
+Misalkan -8*u + 84 = -4*u. Misalkan n be u/6 + (-1)/2. Misalkan -r + 32 = n*r. Sebutkan faktor prima dari r.
+2
+Misalkan p be -2*(-129)/6 - 1. Misalkan h = p + -22. Apa faktor prima dari h?
+2, 5
+Misalkan m = 4 + -2. Misalkan g + m = 2*g. Sebutkan faktor prima dari g.
+2
+Misalkan u (f) menjadi turunan ke-kedua dari -1/6*f**3 - 1/2*f**4 - 1/20*f**5 + 3*f + 0 - 1/2*f**2. Sebutkan faktor prima dari u(-6).
+5
+Misalkan a(i) = -i. Sebutkan faktor prima dari a(-10).
+2, 5
+Misalkan b be (-1)/2 + 387/(-18). Apa faktor prima dari -1*(-2 + b) + -3?
+3, 7
+Misalkan 20 = k - 3. Sebutkan faktor prima dari k.
+23
+Misalkan d = 12 - 8. Apa faktor prima dari 3 - (-10 - 8/d)?
+3, 5
+Apa faktor prima dari 1 + (-5)/6 + 2561/6?
+7, 61
+Misalkan y(d) = 8*d + 3. Sebutkan faktor prima dari y(7).
+59
+Misalkan g be 1*5*(-8)/10. Misalkan w(t) = t**2 + 2*t + 5. Sebutkan faktor prima dari w(g).
+13
+Misalkan -3*h = -2*h - 70. Apa faktor prima dari h?
+2, 5, 7
+Misalkan -199 = -n + 9. Apa faktor prima dari n?
+2, 13
+Sebutkan faktor prima dari (-76 + -2)*1/(-2).
+3, 13
+Misalkan t(p) = 1 - 5*p**2. Misalkan o be t(-1). Misalkan w = 4 + o. Misalkan w = -3*l + 2*l + 5*m + 23, -2*m - 8 = 0. Sebutkan faktor prima dari l.
+3
+Misalkan 2*x + 3*x = 0. Misalkan r = x + 12. Apa faktor prima dari r?
+2, 3
+Misalkan -5*t + 545 = -7*q + 2*q, 0 = -2*t - 4*q + 230. Sebutkan faktor prima dari t.
+3, 37
+Misalkan c = -20 + 120. Apa faktor prima dari c?
+2, 5
+Misalkan h = -109 + 220. Sebutkan faktor prima dari h.
+3, 37
+Misalkan w = 53 - 29. Sebutkan faktor prima dari w.
+2, 3
+Misalkan z = -20 + 10. Misalkan k = z - -17. Misalkan k = 3*h - 2. Apa faktor prima dari h?
+3
+Misalkan 7 = 4*r - 1. Misalkan m be -1 + -1 + (r - -10). Apa faktor prima dari 88/5 + 4/m?
+2, 3
+Misalkan 4 = -2*s + 7*s + 4*w, 4*s - w = -1. Misalkan -35 = -2*y - 7*l + 2*l, 0 = -3*y - 3*l + 30. Misalkan 2*m - y*m + 48 = s. Sebutkan faktor prima dari m.
+2
+Misalkan -110 = -0*a - 2*a. Sebutkan faktor prima dari a.
+5, 11
+Misalkan 0*z - 2 = -2*z. Misalkan z = b - 5. Apa faktor prima dari b?
+2, 3
+Misalkan s be 55/(-25) + (-2)/(-10). Apa faktor prima dari ((-42)/(-12))/(s/(-4))?
+7
+Misalkan u(m) = -10*m**3 + m**2 - m + 2. Apa faktor prima dari u(-2)?
+2, 11
+Misalkan -4*a = -2*a + 4*s - 46, 0 = 5*s + 25. Misalkan p = a + -19. Apa faktor prima dari p?
+2, 7
+Misalkan 0 = -6*g + 808 + 398. Sebutkan faktor prima dari g.
+3, 67
+Sebutkan faktor prima dari (242/(-11))/(2/(-4)) - 2.
+2, 3, 7
+Misalkan p(n) = -3*n. Misalkan 4 = -3*j + 22. Misalkan -j = -a + 4*a. Sebutkan faktor prima dari p(a).
+2, 3
+Misalkan o = 3 + -3. Misalkan u + 3 = -5*i + 8, o = -4*i - 12. Apa faktor prima dari u?
+2, 5
+Misalkan 0 = 4*p - 29 - 211. Apa faktor prima dari p?
+2, 3, 5
+Apa faktor prima dari (-6)/9 - (-149)/3?
+7
+Misalkan z be (-8)/36 - (-76)/18. Misalkan f = 6 - z. Sebutkan faktor prima dari f.
+2
+Misalkan j(g) = g**2 + 8*g + 8. Sebutkan faktor prima dari j(-12).
+2, 7
+Misalkan x(u) = -u**3 + 5*u**2 + 7*u - 7. Misalkan w be x(6). Misalkan b = 15 + w. Misalkan -b = -4*t + 2, 20 = 2*s + t. Apa faktor prima dari s?
+2
+Misalkan z = -58 + 88. Apa faktor prima dari z?
+2, 3, 5
+Misalkan t(x) = x**3 + 6*x**2 + 6*x + 4. Misalkan v(h) = h + 3. Misalkan y be v(-7). Misalkan c be t(y). Misalkan d = -3 + c. Sebutkan faktor prima dari d.
+3
+Misalkan p = 58 + -30. Misalkan -4*h + 4*j = -p, h = 2*h - 2*j - 12. Misalkan h*t - t = 4*m - 14, 2 = 5*t - 2*m. Apa faktor prima dari t?
+2
+Sebutkan faktor prima dari 45 + 8*(-1)/(-2).
+7
+Misalkan r(w) = -w**2 + 12*w - 10. Sebutkan faktor prima dari r(9).
+17
+Misalkan -3*t + 5 = -5*n + 1, 4*n = -4*t + 16. Misalkan d(a) = 0*a + 7 - 3*a + t*a - a. Sebutkan faktor prima dari d(0).
+7
+Misalkan q = -q + 16. Misalkan m(r) = -r**2 + 10*r - 7. Sebutkan faktor prima dari m(q).
+3
+Misalkan -w + 5*w - 284 = 0. Apa faktor prima dari w?
+71
+Misalkan -10*k = -14*k + 232. Apa faktor prima dari k?
+2, 29
+Misalkan u(i) = i**2 + 11*i**2 - 3 - 5*i + 3. Apa faktor prima dari u(2)?
+2, 19
+Misalkan -g - 2*g + 14 = 5*j, 5*g - 11 = 4*j. Misalkan v = -5 - -9. Misalkan o = j + v. Sebutkan faktor prima dari o.
+5
+Misalkan 0 = -5*x - 0*x + 20. Misalkan -25 = -3*g - x. Sebutkan faktor prima dari g.
+7
+Misalkan 2*n = -2*n + 88. Misalkan r = -5 - -9. Misalkan -5*t - 2*j + 45 = 0, t - n = j - r*j. Apa faktor prima dari t?
+7
+Misalkan 3*r - 105 = 3*v + 135, 2*v + 326 = 4*r. Sebutkan faktor prima dari r.
+83
+Misalkan r be 676/14 + 6/(-21). Misalkan x = r + -94. Misalkan p = -28 - x. Apa faktor prima dari p?
+2, 3
+Misalkan -2*r - 2*r = 4*g - 460, -3*g + 350 = -2*r. Sebutkan faktor prima dari -1 - (-1 + g/(-4)).
+29
+Misalkan c(p) = -p**2 + 3*p + 2. Misalkan z be c(4). Misalkan l be z - (-4 + 2) - -6. Misalkan l*n = n + 35. Apa faktor prima dari n?
+7
+Misalkan w(r) = r**2 - 6*r - 8. Misalkan 0 = -0*x - x + 8. Apa faktor prima dari w(x)?
+2
+Misalkan o = 17 + 8. Sebutkan faktor prima dari o.
+5
+Misalkan 3*a - 2*r = 4, 1 + 0 = 2*a - 3*r. Misalkan 0 = -3*l + 3*p - 19 + 115, l + a*p = 26. Misalkan g = -21 + l. Apa faktor prima dari g?
+3
+Misalkan 0 = 2*g + 5*y - 22, 3 = -2*g - 3*y + 17. Sebutkan faktor prima dari (g + -3)*(-52)/8.
+13
+Misalkan b(w) = w**2 + 8*w + 9. Misalkan -3*j - 5 = -17. Misalkan j*u - 10 = 2, 0 = 5*g + 2*u + 29. Apa faktor prima dari b(g)?
+2
+Misalkan u(w) = -2*w. Misalkan j be u(3). Misalkan o = j - -8. Misalkan o*d + 8 = 0, -4*v = v - 2*d - 53. Apa faktor prima dari v?
+3
+Misalkan w = 715 + -424. Sebutkan faktor prima dari w.
+3, 97
+Misalkan -19 = -l - 4*k + 1, -k = -2*l + 85. Misalkan d = 67 - l. Sebutkan faktor prima dari d.
+3
+Misalkan t(b) = b**2 + 8*b - 4. Misalkan x(y) = 14*y - 1. Misalkan r be x(-2). Misalkan f = r + 20. Sebutkan faktor prima dari t(f).
+5
+Misalkan w(h) = -24*h - 12. Apa faktor prima dari w(-4)?
+2, 3, 7
+Misalkan -s - 4*s + 50 = 0. Sebutkan faktor prima dari s.
+2, 5
+Misalkan r = -45 + 77. Misalkan p = -20 + r. Apa faktor prima dari p?
+2, 3
+Misalkan x(y) = y**3 - 12*y**2 + 12*y - 11. Misalkan m be x(11). Misalkan -2*z + 3 + 9 = m. Apa faktor prima dari z?
+2, 3
+Misalkan u = 0 + -4. Misalkan x be (-174)/8 + 1/u. Misalkan v = -12 - x. Apa faktor prima dari v?
+2, 5
+Misalkan -3*q - 4*u = -6*q - 7, 22 = -4*q - u. Misalkan x be (-2)/(4/15)*4. Sebutkan faktor prima dari x/4*8/q.
+2, 3
+Misalkan s(x) = 3*x - 1. Misalkan 2*k - 8 - 6 = 0. Sebutkan faktor prima dari s(k).
+2, 5
+Misalkan q = -110 + 72. Misalkan o(i) = 4 - 4*i. Misalkan a be o(3). Sebutkan faktor prima dari q/(-5) - a/20.
+2
+Misalkan 3*m - 4*k + 2*k + 18 = 0, 3*m = -2*k - 6. Misalkan 2*j - 28 = -2*j. Misalkan g = m + j. Sebutkan faktor prima dari g.
+3
+Misalkan r = -2 + 5. Misalkan r*d + d - 12 = 0. Misalkan -d*j = 5*a - 29, 2*j + 6*a - 26 = a. Sebutkan faktor prima dari j.
+3
+Misalkan 2*j + 10 = 3*m, 3*m - 4 = 5*j + 3. Misalkan -y - j = -15. Sebutkan faktor prima dari y.
+2, 7
+Apa faktor prima dari (34/(-5))/((-1)/25)?
+2, 5, 17
+Misalkan 11*s - 8*s = 60. Sebutkan faktor prima dari s.
+2, 5
+Misalkan 0 = -4*u - 120. Misalkan a = 47 + u. Sebutkan faktor prima dari a.
+17
+Misalkan y(u) = 2*u**2 + 2*u + 2. Misalkan n be y(-6). Misalkan 3*p + 5*k - 60 = 0, 0 = 4*p + 3*k - n - 29. Apa faktor prima dari p?
+5
+Misalkan 0*h - 140 = -2*h. Sebutkan faktor prima dari h.
+2, 5, 7
+Sebutkan faktor prima dari (-945)/(-28) - 1/(-4).
+2, 17
+Misalkan y = 37 + -13. Apa faktor prima dari y?
+2, 3
+Misalkan j = 11 - 14. Apa faktor prima dari (3*2)/(j/(-14))?
+2, 7
+Misalkan c(m) = m - 3 + 2*m - 6. Misalkan b be 104/16 + (-2)/(-4). Sebutkan faktor prima dari c(b).
+2, 3
+Misalkan 4*p - 810 = -5*y, -3*y = -3*p + 779 - 185. Apa faktor prima dari p?
+2, 5
+Misalkan k(b) = -b**2 + 5*b + 7. Apa faktor prima dari k(4)?
+11
+Misalkan z(y) = 2*y**3 - 6*y**2 + 2*y + 5. Misalkan g = 19 - 15. Apa faktor prima dari z(g)?
+3, 5
+Misalkan 2*l = 5*h + 222, 0*l + 2*h + 111 = l. Sebutkan faktor prima dari l.
+3, 37
+Misalkan -g + 13 = 3*u, 2*u = 2*g + 3*u - 51. Sebutkan faktor prima dari g.
+2, 7
+Misalkan u be 1*2*(-2)/(-1). Misalkan g be (-5)/(10/u) + 5. Apa faktor prima dari 6/(-4)*g*-2?
+3
+Misalkan 124*d + 585 = 127*d. Apa faktor prima dari d?
+3, 5, 13
+Misalkan j be 114/(-10) - 4/(-10). Apa faktor prima dari j*3*(-6 - -5)?
+3, 11
+Misalkan r = -5 + 8. Misalkan -z - 3*d + 27 = 0, r*z - 40 = 4*d + 28. Apa faktor prima dari z?
+2, 3
+Misalkan k(g) = -g**3 - 16*g**2 + 3. Apa faktor prima dari k(-16)?
+3
+Misalkan h(y) = 1 - 3*y - 3 + 2*y - 7. Misalkan w be h(-9). Misalkan w*o + 80 = 4*o + 2*a, 5*o + 3*a - 100 = 0. Apa faktor prima dari o?
+2, 5
+Misalkan w(l) = -3*l - 3. Misalkan -2*j - 14 = -2*b, -2*b = -4*j - 30 + 6. Misalkan c be w(j). Sebutkan faktor prima dari c/(-8)*(-16)/6.
+2
+Misalkan 2*m + 0*m + 3*g - 9 = 0, -2*g - 7 = -3*m. Misalkan -3*n - 2*n = m*i - 18, -5*n + 34 = -i. Apa faktor prima dari n?
+2, 3
+Misalkan 5*y + 0*y = 75. Misalkan -y = -l + 16. Sebutkan faktor prima dari l.
+31
+Misalkan 2*a + 0 = 4. Misalkan 0*x + 2*x + 3*x = 0. Misalkan 0 = a*q - 3*q - 3*o + 9, x = -4*q + o + 49. Sebutkan faktor prima dari q.
+2, 3
+Misalkan h(a) = 5*a**2 + 2*a - 3. Misalkan i(k) = -14*k**2 - 7*k + 10. Misalkan v(b) = 7*h(b) + 2*i(b). Apa faktor prima dari v(1)?
+2, 3
+Sebutkan faktor prima dari (-1801)/(-7) + -2 - (-4)/(-14).
+3, 5, 17
+Misalkan 8*y - 383 = 297. Apa faktor prima dari y?
+5, 17
+Misalkan i be (8*1)/(2/7). Misalkan 5*q + 3*u - 140 = 0, q = -0*q + 2*u + i. Apa faktor prima dari q?
+2, 7
+Misalkan c be (-4 - (-66)/15)*245. Misalkan w = c - 67. Sebutkan faktor prima dari w.
+31
+Misalkan d(f) = -f**2 - 9*f + 6. Misalkan a be d(-10). Misalkan x = 11 + a. Apa faktor prima dari x?
+7
+Misalkan 9*w - 140 = 7*w. Sebutkan faktor prima dari (w/(-49))/(1/(-7)).
+2, 5
+Misalkan y(p) = -p**3 + 4*p**2 - p - 2. Misalkan m be y(3). Misalkan 3*c = m + 53. Sebutkan faktor prima dari c.
+19
+Misalkan d(s) = s**2 + 4*s - 1. Misalkan c be d(-5). Misalkan -c*u + 11 = -33. Apa faktor prima dari u?
+11
+Misalkan 15 = 3*m - 2*n - 51, -2*n + 54 = 3*m. Misalkan g = m - 0. Misalkan 0*b - g = -4*b. Sebutkan faktor prima dari b.
+5
+Misalkan y(l) = -l - 2. Misalkan t be y(-7). Misalkan 0 = g + 5*o + 11 - 0, 3*o + t = -g. Apa faktor prima dari g?
+2
+Misalkan x = -14 + 9. Misalkan w = -3 - x. Apa faktor prima dari w - (0/(-2) + -2)?
+2
+Misalkan q(o) = -3*o - 1. Misalkan n be q(-1). Misalkan z = -2 + n. Misalkan -10 = -2*p + 4*b, z = -p + 7*b - 4*b + 3. Apa faktor prima dari p?
+3
+Misalkan b be (-26)/((-7)/(-4) - 2). Misalkan o be b/40 - 4/(-10). Misalkan 62 = 4*t + 3*c, -o*t = -c + 5*c - 50. Apa faktor prima dari t?
+2, 7
+Misalkan b be (-2)/(-1) + -3 + 9. Misalkan z = b - -4. Misalkan u = -6 + z. Sebutkan faktor prima dari u.
+2, 3
+Misalkan 5*a - 3*m = m + 265, 3*m + 212 = 4*a. Sebutkan faktor prima dari a.
+53
+Misalkan p be (2 + -3)/((-3)/(-12)). Misalkan c = p - -7. Sebutkan faktor prima dari -1*3/(c/(-11)).
+11
+Misalkan p be (-10)/(-3)*(-12)/10. Misalkan w = p - -6. Misalkan -5*i + 10 = -5*a, -a - 2*a = w*i - 14. Sebutkan faktor prima dari a.
+2
+Misalkan b(p) = -p**3 - 12*p**2 + 28*p + 15. Apa faktor prima dari b(-14)?
+3, 5
+Misalkan t = 111 + -67. Sebutkan faktor prima dari t.
+2, 11
+Misalkan h(f) = f**2. Misalkan -2 = -2*j + 10. Misalkan m(p) = 1 - 10*p**2. Misalkan g(o) = j*h(o) - m(o). Apa faktor prima dari g(-1)?
+3, 5
+Misalkan j(q) = -231*q - 3. Sebutkan faktor prima dari j(-1).
+2, 3, 19
+Apa faktor prima dari -4 - (-40 - (-1 + 5))?
+2, 5
+Misalkan c = 22 + -36. Misalkan l = c - -71. Sebutkan faktor prima dari l.
+3, 19
+Misalkan -2*d + 29*d - 5697 = 0. Sebutkan faktor prima dari d.
+211
+Misalkan m be 1 + (10/(-2) - -3). Misalkan p be ((4 - -2)/(-3))/m. Misalkan -4*d + 24 = 3*w - p*w, -16 = -4*d. Apa faktor prima dari w?
+2
+Misalkan u = -1 - 0. Misalkan d(c) = -2*c**3 - c. Sebutkan faktor prima dari d(u).
+3
+Misalkan n(s) = 13*s**2 + 4*s - 2. Apa faktor prima dari n(2)?
+2, 29
+Misalkan w = 0 + 3. Misalkan -5 = x + 2*s - w, -5*x + 3*s = 23. Apa faktor prima dari (117/(-18))/(2/x)?
+13
+Misalkan 0 = 5*a - 2*a - 351. Misalkan 0*q + 79 = 2*q + 3*v, -4*v = 3*q - a. Misalkan -14 = 2*r + 4*h, -5*r + 3*h = -h - q. Apa faktor prima dari r?
+3
+Misalkan v = 31 - 19. Apa faktor prima dari v?
+2, 3
+Misalkan f = -45 - -53. Apa faktor prima dari f?
+2
+Misalkan k be (2/(-3))/(8/(-24)). Sebutkan faktor prima dari (3/(-3))/(k/(-22)).
+11
+Misalkan m(s) = 7*s**3 - 23*s**2 + 7*s + 9. Misalkan t(c) = -3*c**3 + 11*c**2 - 3*c - 4. Misalkan u(q) = -4*m(q) - 9*t(q). Sebutkan faktor prima dari u(-7).
+7
+Misalkan f - 2*g = -0 + 17, 0 = -f + 3*g + 20. Apa faktor prima dari f?
+11
+Misalkan z(y) = -1 - 1 - 3*y + 3. Misalkan -4 = -2*f + 6*f. Apa faktor prima dari z(f)?
+2
+Misalkan z(i) = i**3 + i**2 + 0 - 2*i**3 - 1 + 2*i. Misalkan v be z(-2). Misalkan v*r - 2*r = 50. Sebutkan faktor prima dari r.
+2, 5
+Misalkan -2*a - 46 = -l + 4, -5*l + 2*a = -282. Apa faktor prima dari l?
+2, 29
+Misalkan 0 = t + j - 179, 689 = t + 3*t - 5*j. Sebutkan faktor prima dari t.
+2, 11
+Apa faktor prima dari (-6)/(-10) + (-1362)/(-30)?
+2, 23
+Misalkan 4*j = -12, 21 = 5*o - 3*j - 3. Misalkan o*k - 67 - 11 = 0. Sebutkan faktor prima dari k.
+2, 13
+Misalkan 15 = 3*h - 0*h, -23 = 4*r + h. Misalkan p(w) = -2*w - 3. Apa faktor prima dari p(r)?
+11
+Misalkan 0*m = 5*m - 5. Misalkan h be (1 + -3 + m)*23. Misalkan b = h + 34. Sebutkan faktor prima dari b.
+11
+Misalkan z(j) = 3*j**2 - 5*j + 17. Apa faktor prima dari z(4)?
+3, 5
+Misalkan -3*p + 0 + 15 = 0. Misalkan r(y) = y - 8. Misalkan g be r(4). Misalkan d = p - g. Sebutkan faktor prima dari d.
+3
+Misalkan s = 9 + -5. Misalkan -s*f + 5*a + 83 = 9, -f = -a - 18. Sebutkan faktor prima dari f.
+2
+Misalkan 3*o - 3 = 0, -5*t = o - 0*o - 401. Apa faktor prima dari t?
+2, 5
+Misalkan x be 1 - 4/(-6)*-3. Misalkan l be 1/x - (1 - 2). Misalkan y(z) = -z**3 + z**2 + z + 11. Sebutkan faktor prima dari y(l).
+11
+Misalkan v(m) = 2*m - 4. Misalkan h be v(-6). Misalkan c = h - 30. Misalkan b = 65 + c. Sebutkan faktor prima dari b.
+19
+Misalkan r(g) = g**2 + g**3 - 5*g**2 - 4*g + 2*g**2. Sebutkan faktor prima dari r(4).
+2
+Misalkan v be 0/2 + (-8)/(-1). Misalkan l = v - 2. Apa faktor prima dari l?
+2, 3
+Misalkan k(l) = 2*l**2 - 4*l - 1. Misalkan v(z) = -2*z**2 + 3*z + 1. Misalkan q(m) = -4*k(m) - 5*v(m). Sebutkan faktor prima dari q(3).
+2, 5
+Misalkan n(c) = -c**2 + 14*c - 21. Apa faktor prima dari n(11)?
+2, 3
+Misalkan u(k) = 2 - k. Misalkan h(f) = -2. Misalkan y(v) = -3*h(v) - 4*u(v). Misalkan a be (-4 - 0) + 8/1. Sebutkan faktor prima dari y(a).
+2, 7
+Misalkan a = 11 + -73. Misalkan c = -24 - a. Sebutkan faktor prima dari c.
+2, 19
+Misalkan -56 + 186 = 5*b. Misalkan u be b + (0 - 2)/(-2). Misalkan -5*y + 8 + u = 0. Apa faktor prima dari y?
+7
+Misalkan 3*a = -2*a + 5. Misalkan p be (2 + a)/(-9)*-3. Sebutkan faktor prima dari -4*(p/1)/(-1).
+2
+Misalkan -81 = -z - 0*z. Apa faktor prima dari z?
+3
+Misalkan v(l) = 4*l**2 + 6*l + 4. Apa faktor prima dari v(-4)?
+2, 11
+Misalkan n(c) = -23*c - 2. Misalkan o be n(-2). Misalkan i = o + -27. Apa faktor prima dari i?
+17
+Misalkan w (j) menjadi turunan ke-kedua dari j**3/6 - j**2/2 - j. Misalkan c be -1 + 10 + 8 + -11. Apa faktor prima dari w(c)?
+5
+Misalkan s = -3 - -3. Sebutkan faktor prima dari (s + 1)*(8 - 0).
+2
+Misalkan w(v) = v**2 - 5*v - 4. Misalkan s be w(4). Misalkan y = s - -11. Apa faktor prima dari y?
+3
+Misalkan q = -7 - -15. Misalkan s(c) = c + 5. Sebutkan faktor prima dari s(q).
+13
+Misalkan o (b) menjadi turunan ke-kedua dari 0 + b - 3/2*b**2 - 1/6*b**3. Sebutkan faktor prima dari o(-6).
+3
+Misalkan a = -24 - -39. Sebutkan faktor prima dari a.
+3, 5
+Misalkan 2*b = -20 - 18. Misalkan g = b - -34. Sebutkan faktor prima dari g.
+3, 5
+Misalkan l(q) = q + 8. Misalkan j be l(-8). Misalkan h = 3 + 0. Misalkan h*u - 15 - 3 = j. Apa faktor prima dari u?
+2, 3
+Misalkan x = 0 + 3. Misalkan y = -1 + x. Misalkan y*w + 3 = -0*d - d, -4*d = 4*w. Sebutkan faktor prima dari d.
+3
+Misalkan x(v) = 10 - v. Misalkan w be x(7). Misalkan -4*s + 2 = c + 5, 0 = -w*s - 3. Apa faktor prima dari c/(3/51) - 0?
+17
+Misalkan o(q) = 3*q + 3 - 6 + 2*q + 0*q. Sebutkan faktor prima dari o(2).
+7
+Apa faktor prima dari (-3)/(-2)*428/(-10)*-5?
+3, 107
+Misalkan -4*h = -9*h + 680. Apa faktor prima dari (7/((-28)/h))/(-1)?
+2, 17
+Misalkan n - 67 = -2*g, 268 = -3*n + 7*n - 2*g. Sebutkan faktor prima dari n.
+67
+Misalkan g be 1*6 + 1*-1. Misalkan b(a) = -a**2 - 6*a. Misalkan n be b(-6). Misalkan m = g + n. Apa faktor prima dari m?
+5
+Misalkan u(c) = c**2 - 1. Misalkan h(a) = -10*a**2 - a + 3. Misalkan i(q) = -h(q) + u(q). Sebutkan faktor prima dari i(2).
+2, 3, 7
+Misalkan w(n) = 36*n**2 + n + 1. Sebutkan faktor prima dari w(-1).
+2, 3
+Apa faktor prima dari (-184)/((-12)/3)*2?
+2, 23
+Misalkan j be 2/9 + 20/(-9). Misalkan s = j + 14. Sebutkan faktor prima dari s.
+2, 3
+Misalkan -4*i - 21 = -5. Misalkan z = 3 - i. Apa faktor prima dari z?
+7
+Misalkan -5*r = -17 - 13. Misalkan h = -40 - -42. Sebutkan faktor prima dari (0 + 33/r)*h.
+11
+Misalkan l(p) = p**2 + p + 2. Misalkan x be l(-2). Misalkan 3*m + 0*m - 2*f = 12, -x*f = -m + 4. Sebutkan faktor prima dari m.
+2
+Misalkan a(v) = 2*v**2 - 3*v + 4. Sebutkan faktor prima dari a(5).
+3, 13

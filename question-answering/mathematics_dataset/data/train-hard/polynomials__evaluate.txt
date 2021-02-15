@@ -1,0 +1,666 @@
+Misalkan s(a) = 12782 - 2090*a. Beri s(6).
+242
+Misalkan s(q) = q**3 + 229*q**2 - 6058*q - 245. Tentukan s(24).
+91
+Misalkan v(k) = 2*k**3 - 107*k**2 + 100*k - 2501. Tentukan v(53).
+-10
+Misalkan x(z) = -z**3 - 43*z**2 + 12*z - 246. Hitung x(-43).
+-762
+Misalkan h(r) = -2*r**2 + 1687*r - 326330. Tentukan h(543).
+13
+Misalkan g(l) = 1507798 - 48638*l. Beri g(31).
+20
+Misalkan r(m) = 10*m**2 - 1977*m - 30469. Beri r(212).
+-153
+Misalkan a(n) = 31*n**2 + 1245*n + 71. Hitung a(-41).
+1137
+Misalkan p(w) = w**3 - 65*w**2 - 442*w - 95. Tentukan p(-6).
+1
+Misalkan s(l) = 98*l**2 - 6580*l - 19744. Tentukan s(-3).
+878
+Misalkan b(d) = 183086*d - 732359. Beri b(4).
+-15
+Misalkan l(n) = n**3 - 6*n**2 - 10555*n + 52793. Beri l(5).
+-7
+Misalkan r(y) = 56480*y - 189. Tentukan r(0).
+-189
+Misalkan p(m) = 1641*m + 17862. Hitung p(-11).
+-189
+Misalkan z(m) = 7*m**2 + 1346*m + 13952. Tentukan z(-11).
+-7
+Misalkan t(l) = 15034*l + 345794. Beri t(-23).
+12
+Misalkan d(s) = s**3 + 9*s**2 - 138*s + 304. Beri d(3).
+-2
+Misalkan h(u) = -4714*u - 89600. Berapakah h(-19)?
+-34
+Misalkan w(l) = l**3 - 429*l**2 + 2452*l - 682330. Berapakah w(427)?
+16
+Misalkan v(z) = 368947 - 3764*z. Hitung v(98).
+75
+Misalkan y(z) = 128538 - 5571*z. Tentukan y(23).
+405
+Misalkan n(v) = -v**3 + 19*v**2 + 3091*v + 9140. Hitung n(-3).
+65
+Misalkan t(q) = q**2 - 5547*q - 22166. Berapakah t(-4)?
+38
+Misalkan j(t) = -5663*t - 45314. Hitung j(-8).
+-10
+Misalkan j(p) = -105*p - 147. Beri j(-2).
+63
+Misalkan a(b) = 2*b**3 + 2*b**2 + 3640*b + 10958. Hitung a(-3).
+2
+Misalkan i(f) = -17*f**3 + 10*f**2 + 17*f + 34. Tentukan i(3).
+-284
+Misalkan s(f) = -9*f**3 + 2499*f**2 - 1655*f - 1955. Tentukan s(277).
+-16
+Misalkan w(l) = 7*l**3 + 42*l**2 + 114*l + 230. Beri w(-4).
+-2
+Misalkan m(n) = 799*n + 3532. Hitung m(-4).
+336
+Misalkan y(l) = -3*l**3 + 221*l**2 - 135*l - 801. Berapakah y(73)?
+2
+Misalkan p(h) = -2*h**2 - 1195*h - 38288. Berapakah p(-34)?
+30
+Misalkan a(t) = -6*t**2 - 2143*t - 99719. Beri a(-55).
+-4
+Misalkan d(l) = 20753*l + 270135. Beri d(-13).
+346
+Misalkan z(q) = 4*q**2 + 1468*q - 228786. Tentukan z(118).
+134
+Misalkan f(t) = -72*t**2 - 752*t - 1923. Berapakah f(-6)?
+-3
+Misalkan q(j) = -37149*j - 259863. Hitung q(-7).
+180
+Misalkan c(z) = 29835*z - 3132686. Hitung c(105).
+-11
+Misalkan b(o) = -799*o**2 + 2370*o + 65. Berapakah b(3)?
+-16
+Misalkan u(f) = -50333*f - 150785. Beri u(-3).
+214
+Misalkan d(m) = m**3 + 1077*m**2 - 5455*m - 48706. Hitung d(-1082).
+-16
+Misalkan j(u) = 36005 - 781*u. Berapakah j(45)?
+860
+Misalkan x(c) = -132*c**2 - 35650*c - 2718. Tentukan x(-270).
+-18
+Misalkan r(p) = 13*p**2 - 534*p + 2335. Berapakah r(5)?
+-10
+Misalkan j(g) = -g**3 - 24*g**2 + 317*g + 7824. Hitung j(-21).
+-156
+Misalkan y(a) = -5*a**2 + 1303*a - 81859. Tentukan y(155).
+-19
+Misalkan o(i) = 27*i**3 - 104*i**2 - 12*i - 13. Berapakah o(4)?
+3
+Misalkan n(p) = -3*p**2 + 691*p - 5141. Tentukan n(222).
+409
+Misalkan c(z) = -z**3 - 6*z**2 - 98640*z - 690537. Tentukan c(-7).
+-8
+Misalkan g(p) = 4965*p + 183808. Berapakah g(-37)?
+103
+Misalkan r(x) = 10349 - 229*x. Hitung r(45).
+44
+Misalkan k(y) = y**2 - 7632*y - 107006. Tentukan k(-14).
+38
+Misalkan t(g) = -10*g**3 + 79*g**2 + 571*g - 4507. Beri t(8).
+-3
+Misalkan i(v) = 2*v**3 + 27*v**2 - 438*v + 68. Hitung i(12).
+2156
+Misalkan r(p) = 1205*p - 105526. Hitung r(88).
+514
+Misalkan g(m) = 7533*m**2 - 37659*m - 5. Beri g(5).
+25
+Misalkan y(v) = -2*v**2 - 1477*v + 55772. Hitung y(36).
+8
+Misalkan c(g) = 21*g**3 + 8834*g**2 - 2942*g + 2115. Tentukan c(-421).
+10
+Misalkan d(c) = -175*c**2 - 4882*c + 162. Tentukan d(-28).
+-342
+Misalkan d(a) = 2833449 - 5006*a. Beri d(566).
+53
+Misalkan l(b) = -4*b**3 - 798*b**2 + 409*b + 1830. Tentukan l(-200).
+30
+Misalkan n(z) = -37966*z - 987123. Beri n(-26).
+-7
+Misalkan u(g) = -23*g**3 - 208*g**2 - 429*g - 19. Hitung u(-6).
+35
+Misalkan r(d) = d**3 - 257*d**2 + 237*d + 4701. Berapakah r(256)?
+-163
+Misalkan y(i) = i**3 - 52*i**2 - 36211*i + 1882974. Hitung y(52).
+2
+Misalkan r(h) = h**3 - 822*h**2 - 15122*h - 31. Tentukan r(-18).
+5
+Misalkan p(w) = 2324058*w - 18592465. Beri p(8).
+-1
+Misalkan v(s) = -742*s**2 - 21516*s + 57. Berapakah v(-29)?
+-1
+Misalkan c(k) = -11*k**2 - 459*k - 4466. Tentukan c(-10).
+-976
+Misalkan h(t) = 4*t**3 - 94*t + 96. Beri h(6).
+396
+Misalkan w(g) = g**2 + 566*g + 40465. Tentukan w(-84).
+-23
+Misalkan z(o) = 2*o**2 - 44565*o - 178284. Tentukan z(-4).
+8
+Misalkan n(g) = 77*g**2 + 1993*g - 228. Beri n(-26).
+6
+Misalkan b(s) = 2*s**3 + 54*s**2 + 90*s + 909. Hitung b(-26).
+-79
+Misalkan x(a) = a**3 + 13*a**2 - 59*a + 80. Hitung x(-14).
+710
+Misalkan c(r) = -9*r**2 + 412*r - 1815. Beri c(5).
+20
+Misalkan n(x) = -24*x**2 + 2579*x - 1634. Beri n(106).
+2076
+Misalkan j(x) = -x**3 + 21*x**2 + 162*x + 986. Beri j(28).
+34
+Misalkan z(y) = -3*y**3 - 242*y**2 + 67*y - 15. Berapakah z(-81)?
+1119
+Misalkan i(c) = -3*c**3 - 57*c**2 - 168*c - 3079. Beri i(-19).
+113
+Misalkan n(c) = c**2 + 326*c + 25575. Beri n(-150).
+-825
+Misalkan y(s) = 20391*s + 163130. Tentukan y(-8).
+2
+Misalkan d(r) = 630*r**2 - 150*r - 149. Berapakah d(-1)?
+631
+Misalkan q(x) = -60*x**2 + 1553*x + 254. Berapakah q(26)?
+72
+Misalkan g(r) = 70313 - 6918*r. Hitung g(10).
+1133
+Misalkan h(g) = 5*g**2 - 2784*g + 11051. Berapakah h(4)?
+-5
+Misalkan c(h) = h**3 + 46*h**2 + 327*h - 386. Berapakah c(-9)?
+-332
+Misalkan z(y) = 31*y**2 - 1507*y + 2140. Tentukan z(47).
+-210
+Misalkan z(c) = -c**2 - 34921*c + 873612. Beri z(25).
+-38
+Misalkan c(t) = 38 - 8*t. Berapakah c(34)?
+-234
+Misalkan t(z) = -z**3 - 6*z**2 - 810*z - 56134. Berapakah t(-33)?
+-1
+Misalkan z(t) = -4*t**3 + 59*t**2 + 23*t + 7. Berapakah z(8)?
+1919
+Misalkan l(s) = 198012*s + 9504558. Beri l(-48).
+-18
+Misalkan o(s) = 5*s**2 + 105*s + 528. Tentukan o(-11).
+-22
+Misalkan j(p) = -49*p**2 - 56*p + 1015. Berapakah j(4)?
+7
+Misalkan d(z) = 43*z**2 + 54*z - 152. Hitung d(3).
+397
+Misalkan k(a) = a**3 - 31*a**2 + 51*a - 133. Hitung k(29).
+-336
+Misalkan b(i) = -2*i**2 + 552*i - 13939. Hitung b(28).
+-51
+Misalkan g(w) = 2323*w + 32521. Hitung g(-14).
+-1
+Misalkan q(s) = 29*s**2 + 135*s + 209. Beri q(7).
+2575
+Misalkan o(c) = 1451*c - 118733. Beri o(82).
+249
+Misalkan i(k) = -26*k**2 - 390*k - 507. Beri i(-13).
+169
+Misalkan n(v) = 11*v**3 + 1668*v**2 + 1054*v - 644. Berapakah n(-151)?
+-191
+Misalkan f(d) = 170881 - 7428*d. Hitung f(23).
+37
+Misalkan a(s) = 259*s - 17270. Berapakah a(67)?
+83
+Misalkan y(g) = -g**3 + 13*g**2 + 250*g - 3327. Tentukan y(13).
+-77
+Misalkan y(v) = -598*v - 37780. Beri y(-65).
+1090
+Misalkan p(o) = -o**3 + o**2 + 44384*o + 88758. Beri p(-2).
+2
+Misalkan s(m) = 3005 - 2899*m. Hitung s(1).
+106
+Misalkan h(t) = 2*t**3 - 34*t**2 + 16*t + 152. Beri h(16).
+-104
+Misalkan q(r) = 649*r - 12453. Tentukan q(19).
+-122
+Misalkan s(d) = 9421*d + 235527. Berapakah s(-25)?
+2
+Misalkan b(y) = -y**2 + 11134*y + 49. Hitung b(0).
+49
+Misalkan q(a) = 70289*a - 2741287. Hitung q(39).
+-16
+Misalkan j(u) = 2*u**3 + 195*u**2 + 98*u + 103. Hitung j(-97).
+6
+Misalkan t(r) = 34830911 - 1024438*r. Hitung t(34).
+19
+Misalkan i(x) = 2*x**3 - 472*x**2 + 475*x + 1200. Beri i(235).
+2375
+Misalkan r(w) = -22*w**2 - 268*w + 855. Tentukan r(-14).
+295
+Misalkan d(u) = 2*u**3 + 333*u**2 - 490*u + 2500. Berapakah d(-168)?
+148
+Misalkan v(t) = t**3 - 69*t**2 + 297*t - 153. Tentukan v(4).
+-5
+Misalkan h(f) = f**2 - 28*f + 193. Tentukan h(13).
+-2
+Misalkan r(m) = 176366*m - 881800. Berapakah r(5)?
+30
+Misalkan q(x) = -55*x**2 + 2233*x + 7986. Beri q(44).
+-242
+Misalkan c(g) = -g**2 - 438*g - 5632. Berapakah c(-13)?
+-107
+Misalkan y(s) = -8*s**2 - 2791*s + 59004. Hitung y(20).
+-16
+Misalkan g(l) = l**3 + 51*l**2 + 252*l + 29. Hitung g(-5).
+-81
+Misalkan k(i) = -29216*i - 350589. Berapakah k(-12)?
+3
+Misalkan g(v) = 491*v - 23275. Tentukan g(48).
+293
+Misalkan f(m) = m**3 + 15*m**2 - 334*m - 1709. Tentukan f(15).
+31
+Misalkan n(a) = -2*a**3 + 83*a**2 - 915*a + 53. Tentukan n(22).
+-1201
+Misalkan n(o) = 6*o**3 - 224*o**2 + 1281*o - 51. Beri n(7).
+-2
+Misalkan f(o) = 23386*o + 116910. Beri f(-5).
+-20
+Misalkan w(p) = 3447*p**2 + 41361*p - 6. Beri w(-12).
+30
+Misalkan p(w) = 1595*w - 35091. Beri p(22).
+-1
+Misalkan o(d) = -18*d**2 - 3504*d + 4725. Tentukan o(-196).
+21
+Misalkan u(z) = -6*z**3 - 535*z**2 - 3453*z - 23. Tentukan u(-7).
+-9
+Misalkan w(a) = -1160*a - 4964. Hitung w(-4).
+-324
+Misalkan r(w) = -2585*w - 537684. Tentukan r(-208).
+-4
+Misalkan k(x) = -156*x - 34440. Berapakah k(-220)?
+-120
+Misalkan x(n) = 5*n**3 - 226*n**2 + 45*n + 97. Berapakah x(45)?
+97
+Misalkan m(q) = -416*q - 19458. Beri m(-48).
+510
+Misalkan f(s) = -s**3 - 17*s**2 + 64*s - 19. Hitung f(-20).
+-99
+Misalkan m(x) = 2*x**3 + 119*x**2 - 1081*x + 72. Hitung m(-67).
+5164
+Misalkan k(f) = -6*f**3 + 1361*f**2 + 235*f - 1507. Berapakah k(227)?
+309
+Misalkan w(p) = -4*p**2 + 195*p - 5402. Hitung w(24).
+-3026
+Misalkan k(h) = -96*h**2 - 29566*h + 30281. Berapakah k(-309)?
+-1
+Misalkan w(u) = u**3 + 184*u**2 - 954*u - 571. Hitung w(-189).
+1130
+Misalkan q(a) = 5292 - 5026*a. Hitung q(-1).
+10318
+Misalkan h(l) = 5316*l + 42425. Hitung h(-8).
+-103
+Misalkan k(y) = -138*y**2 + 10156*y - 5988. Beri k(73).
+-2
+Misalkan i(x) = -17*x**3 + 122*x**2 - 19*x + 33. Tentukan i(6).
+639
+Misalkan q(u) = -u**3 - 30*u**2 + 2414*u + 67451. Hitung q(-27).
+86
+Misalkan h(c) = c**3 - 6*c**2 + 7300*c - 43782. Berapakah h(6)?
+18
+Misalkan n(s) = -2*s**3 + 173*s**2 - 882*s - 509. Berapakah n(6)?
+-5
+Misalkan g(p) = p**3 + 87*p**2 - 61*p + 2384. Tentukan g(-88).
+8
+Misalkan y(b) = 1466464 - 2270*b. Beri y(646).
+44
+Misalkan l(g) = 1144*g - 331748. Beri l(290).
+12
+Misalkan r(u) = -u**2 + 51*u + 2788. Beri r(-33).
+16
+Misalkan y(q) = -18*q**2 - 1478*q + 11905. Berapakah y(8)?
+-1071
+Misalkan t(d) = -235*d**3 + 2339*d**2 + 106*d + 42. Hitung t(10).
+2
+Misalkan b(f) = -36*f**3 - 2*f**2 - 32*f + 55. Beri b(2).
+-305
+Misalkan s(a) = 17*a**2 - 2593*a - 17484. Beri s(159).
+6
+Misalkan z(b) = 27593*b + 27279. Berapakah z(-1)?
+-314
+Misalkan l(z) = -18*z**2 - 40*z + 4. Beri l(-3).
+-38
+Misalkan n(a) = 20*a**3 - 14*a**2 + 7*a + 1. Hitung n(3).
+436
+Misalkan i(y) = 12*y**2 + 80*y - 558. Berapakah i(8)?
+850
+Misalkan s(o) = 33893 - 359*o. Berapakah s(95)?
+-212
+Misalkan q(m) = 32*m**2 + 807*m - 43. Tentukan q(-26).
+607
+Misalkan q(b) = -2*b**3 - 92*b**2 - 956*b - 1011. Beri q(-13).
+263
+Misalkan t(p) = 166*p**2 - 25*p - 166. Beri t(-3).
+1403
+Misalkan w(z) = z**3 + 47*z**2 - 533*z - 1629. Hitung w(-56).
+-5
+Misalkan r(f) = 64 - 15527*f. Tentukan r(0).
+64
+Misalkan w(v) = -3*v**3 + 830*v**2 + 1115*v - 723. Hitung w(278).
+111
+Misalkan p(y) = -y**2 + 37*y + 315. Tentukan p(27).
+585
+Misalkan q(x) = 11371915 - 1033806*x. Beri q(11).
+49
+Misalkan l(i) = -i**2 + 281*i + 179. Berapakah l(282)?
+-103
+Misalkan m(q) = 167422*q - 3013562. Hitung m(18).
+34
+Misalkan x(n) = 988*n**2 + 26*n - 21. Beri x(1).
+993
+Misalkan t(u) = u**2 - 64*u - 1150. Berapakah t(-17)?
+227
+Misalkan h(u) = -u**3 - 9*u**2 + 374*u - 547. Tentukan h(-26).
+1221
+Misalkan h(d) = 11735*d - 58646. Hitung h(5).
+29
+Misalkan s(p) = 6564 - 525*p. Tentukan s(16).
+-1836
+Misalkan j(d) = 4070*d**2 - 142454*d + 179. Berapakah j(35)?
+39
+Misalkan i(q) = 12325857 - 80038*q. Berapakah i(154)?
+5
+Misalkan m(k) = 63922*k - 2109406. Tentukan m(33).
+20
+Misalkan z(q) = -q**2 - 28980*q + 86956. Beri z(3).
+7
+Misalkan h(i) = 1336*i - 7144. Beri h(6).
+872
+Misalkan x(n) = -41*n**3 - 3*n**2 + 36*n + 86. Berapakah x(-2)?
+330
+Misalkan s(o) = -2*o**2 - 412*o - 8619. Beri s(-22).
+-523
+Misalkan f(o) = -o**2 + 215125*o + 4733241. Tentukan f(-22).
+7
+Misalkan f(y) = -27*y**2 + 915*y - 6519. Berapakah f(7)?
+-1437
+Misalkan l(o) = -2689*o**2 + 26*o + 24. Beri l(-1).
+-2691
+Misalkan q(i) = 8006*i + 80102. Hitung q(-10).
+42
+Misalkan k(s) = 82130*s + 1396218. Beri k(-17).
+8
+Misalkan n(y) = -y**3 + 54*y**2 - 691*y - 711. Tentukan n(25).
+139
+Misalkan l(v) = 420078 - 35008*v. Tentukan l(12).
+-18
+Misalkan p(q) = -2*q**3 + 392*q**2 - 843*q + 13002. Hitung p(194).
+4
+Misalkan s(j) = 1459206 - 8062*j. Berapakah s(181)?
+-16
+Misalkan x(k) = 59051*k + 885692. Beri x(-15).
+-73
+Misalkan w(y) = 903*y - 918. Beri w(1).
+-15
+Misalkan n(a) = -a**3 + 61*a**2 + 131*a - 928. Berapakah n(63)?
+-613
+Misalkan y(s) = 89847920 - 8167993*s. Beri y(11).
+-3
+Misalkan v(n) = -n**3 + 49*n**2 - 3*n - 512. Beri v(48).
+1648
+Misalkan x(w) = 11*w**3 + 2*w**2 - 24*w - 51. Tentukan x(-4).
+-627
+Misalkan d(r) = 3*r**2 - 22794*r - 342572. Hitung d(-15).
+13
+Misalkan b(x) = -x**3 - 45*x**2 + 123*x - 73. Beri b(2).
+-15
+Misalkan m(n) = -n**3 + 1920*n**2 + 9488*n - 691. Hitung m(-5).
+-6
+Misalkan m(b) = -2*b**3 - 105*b**2 + 3975*b - 160. Tentukan m(-78).
+74
+Misalkan j(v) = 469*v - 22097. Beri j(46).
+-523
+Misalkan o(j) = 171*j**2 + 6654*j - 39. Hitung o(-39).
+546
+Misalkan u(i) = i**3 + 33*i**2 + 149*i + 2474. Berapakah u(-31)?
+-223
+Misalkan d(a) = -45*a**3 + 449*a**2 + 21*a - 67. Tentukan d(10).
+43
+Misalkan f(z) = 8*z**3 - 549*z**2 - 98*z - 7460. Tentukan f(69).
+61
+Misalkan l(p) = 468135 - 29257*p. Beri l(16).
+23
+Misalkan i(m) = -2*m**2 + 1101*m - 143474. Beri i(212).
+50
+Misalkan u(g) = -31*g**2 - 162*g + 667. Beri u(-8).
+-21
+Misalkan m(v) = 486*v**2 - 335824*v - 1333. Tentukan m(691).
+49
+Misalkan q(y) = -y**3 - 56*y**2 - 781*y - 66236. Hitung q(-61).
+10
+Misalkan o(m) = -2*m**3 + 209*m**2 - 3922*m + 151. Hitung o(80).
+-9
+Misalkan h(d) = d**3 + 105*d**2 + 2741*d - 226. Berapakah h(-51)?
+437
+Misalkan f(c) = -4*c**2 - 871*c + 284662. Beri f(-397).
+13
+Misalkan z(w) = 360288 - 36117*w. Beri z(10).
+-882
+Misalkan r(o) = -3*o**3 - o**2 + 297*o + 58. Beri r(14).
+-4212
+Misalkan t(k) = 2*k**2 - 6219*k - 12709418. Beri t(-1407).
+13
+Misalkan r(f) = 3*f**3 + 68*f**2 - 252*f - 379. Berapakah r(5)?
+436
+Misalkan z(t) = t**2 - 83*t - 355. Beri z(91).
+373
+Misalkan l(z) = z**3 + z**2 + 684*z - 2090. Tentukan l(3).
+-2
+Misalkan d(w) = 23*w**3 + 116*w**2 - 8*w - 95. Beri d(-5).
+-30
+Misalkan b(u) = 252*u**2 - 11173*u + 3675. Berapakah b(44)?
+-65
+Misalkan r(g) = 120*g**2 - 28077*g - 793. Beri r(234).
+-91
+Misalkan b(p) = -38*p**2 + 394*p + 83. Berapakah b(-6)?
+-3649
+Misalkan x(k) = 3496*k + 2136083. Tentukan x(-611).
+27
+Misalkan y(i) = -i**3 - 20*i**2 - 1373*i - 31356. Berapakah y(-22)?
+-182
+Misalkan s(f) = -f**3 - 153*f**2 - 2891*f - 920. Beri s(-131).
+259
+Misalkan o(y) = 2*y**3 + 307*y**2 - 1420*y + 316. Berapakah o(-158)?
+0
+Misalkan p(s) = -s**2 + 287*s - 9465. Berapakah p(38)?
+-3
+Misalkan n(w) = -7*w**2 + 1872*w - 27141. Hitung n(252).
+75
+Misalkan d(a) = 4*a**2 - 163*a + 1745. Beri d(21).
+86
+Misalkan q(r) = -34712*r - 277704. Hitung q(-8).
+-8
+Misalkan t(d) = 392156 - 26144*d. Beri t(15).
+-4
+Misalkan p(a) = 5*a**3 - 1770*a**2 - 25*a + 8854. Hitung p(354).
+4
+Misalkan k(t) = 22105*t - 22148. Beri k(1).
+-43
+Misalkan n(b) = 6516*b + 215022. Hitung n(-33).
+-6
+Misalkan j(t) = -4*t**3 + 8*t**2 - 2*t - 19. Berapakah j(-2)?
+49
+Misalkan i(k) = 8048581*k - 88534396. Hitung i(11).
+-5
+Misalkan s(c) = 2*c**2 + 1246*c - 2486. Berapakah s(2)?
+14
+Misalkan l(c) = -c**2 + 3244*c + 22752. Tentukan l(-7).
+-5
+Misalkan s(d) = -69*d - 6370. Tentukan s(-92).
+-22
+Misalkan d(w) = 36793*w + 846235. Tentukan d(-23).
+-4
+Misalkan v(n) = 310*n**2 - 49919*n + 1434. Hitung v(161).
+-15
+Misalkan l(t) = 2*t**2 - 21270*t + 1226927. Beri l(58).
+-5
+Misalkan c(p) = 3*p**3 - 31*p**2 - 50*p - 728. Berapakah c(13)?
+-26
+Misalkan q(l) = -14*l**2 - 139*l - 35. Hitung q(-11).
+-200
+Misalkan a(x) = 3582*x + 21485. Hitung a(-6).
+-7
+Misalkan q(l) = 355915*l - 19219393. Berapakah q(54)?
+17
+Misalkan p(g) = g**3 - 769*g**2 - 12540*g - 15702. Berapakah p(785)?
+-2
+Misalkan i(b) = -3*b**2 + 198*b + 828. Hitung i(70).
+-12
+Misalkan n(f) = -5*f**2 - 310*f - 4805. Berapakah n(-16)?
+-1125
+Misalkan w(f) = 143*f**2 + 1864*f + 54. Berapakah w(-13)?
+-11
+Misalkan n(l) = -2*l**3 - 151*l**2 + 57*l - 414. Tentukan n(-76).
+1030
+Misalkan y(l) = 11837375 - 563685*l. Beri y(21).
+-10
+Misalkan g(a) = a**3 - 253*a**2 - 281556*a - 8063. Berapakah g(672)?
+1
+Misalkan j(z) = z**3 + 11*z**2 + 1391*z + 15324. Tentukan j(-11).
+23
+Misalkan t(c) = -323*c - 2497. Berapakah t(-8)?
+87
+Misalkan k(t) = 393*t + 1088. Hitung k(-3).
+-91
+Misalkan d(s) = 1510307 - 39745*s. Berapakah d(38)?
+-3
+Misalkan a(h) = 80702 - 40453*h. Hitung a(2).
+-204
+Misalkan u(w) = 2198*w + 17409. Hitung u(-8).
+-175
+Misalkan n(b) = -b**3 - 42*b**2 + 78*b + 1773. Hitung n(-6).
+9
+Misalkan r(d) = -d**3 + 44*d**2 - 330*d - 416. Beri r(35).
+-941
+Misalkan n(x) = 5680*x + 146656. Berapakah n(-26)?
+-1024
+Misalkan a(w) = 92*w**2 + 4369*w - 13120. Berapakah a(3)?
+815
+Misalkan z(w) = -w**2 - 106*w + 6465. Hitung z(43).
+58
+Misalkan j(c) = 3*c**3 + 5*c**2 + 1176*c + 2340. Hitung j(-2).
+-16
+Misalkan m(d) = 746*d + 8295. Tentukan m(-10).
+835
+Misalkan t(x) = 168*x**2 + 54*x - 42. Hitung t(2).
+738
+Misalkan q(d) = -3*d**3 + 94*d**2 - 498*d - 112. Hitung q(7).
+-21
+Misalkan p(o) = -o**3 - 14*o**2 + 4308*o + 66. Tentukan p(0).
+66
+Misalkan z(l) = 413*l - 28592. Hitung z(70).
+318
+Misalkan o(i) = i**3 - 6*i**2 - 44*i + 44. Beri o(11).
+165
+Misalkan k(d) = 9*d**2 - 34*d - 24. Beri k(-8).
+824
+Misalkan h(s) = -s**3 - 9*s**2 - 5*s + 50. Hitung h(-3).
+11
+Misalkan z(i) = -77164*i - 2083415. Tentukan z(-27).
+13
+Misalkan b(x) = -70*x**2 + 37370*x - 143076. Beri b(530).
+24
+Misalkan r(p) = -p**2 + 240*p - 14060. Hitung r(112).
+276
+Misalkan z(l) = -1531*l - 124044. Hitung z(-81).
+-33
+Misalkan y(t) = -2*t**3 - 104*t**2 + 21*t - 2897. Hitung y(-53).
+1608
+Misalkan y(h) = h**3 + 15*h**2 + 40*h + 45. Beri y(-9).
+171
+Misalkan l(i) = -i**3 - 7*i**2 + 174*i - 577. Beri l(5).
+-7
+Misalkan y(r) = -707*r - 156151. Beri y(-221).
+96
+Misalkan v(c) = -4*c**3 + 196*c**2 + 1470*c - 72035. Beri v(49).
+-5
+Misalkan i(h) = 2*h**3 - 13*h**2 - 332*h + 7. Tentukan i(-10).
+27
+Misalkan i(l) = -7*l**3 + 12*l**2 + 66*l - 20. Beri i(4).
+-12
+Misalkan x(q) = -q**3 + 273*q**2 - 4537*q + 47364. Hitung x(256).
+4
+Misalkan m(z) = 464604*z + 464604. Hitung m(-1).
+0
+Misalkan i(b) = 2*b**2 + 2374*b + 14328. Beri i(-6).
+156
+Misalkan y(b) = b**2 + 23362*b - 772034. Beri y(33).
+1
+Misalkan p(t) = -22*t**2 + 436*t + 607. Berapakah p(21)?
+61
+Misalkan g(u) = -1766*u - 51358. Tentukan g(-28).
+-1910
+Misalkan f(n) = 49*n**2 + 8057*n + 3447. Hitung f(-164).
+3
+Misalkan c(n) = -n**2 - 1221*n + 449011. Tentukan c(296).
+-21
+Misalkan d(n) = -110*n - 8153. Tentukan d(-74).
+-13
+Misalkan r(k) = 918*k + 19203. Hitung r(-21).
+-75
+Misalkan g(y) = 25*y**2 + 343*y + 265. Tentukan g(-13).
+31
+Misalkan d(x) = -13*x**2 - 5018*x - 4685. Tentukan d(-385).
+320
+Misalkan o(p) = 3324*p - 594982. Berapakah o(179)?
+14
+Misalkan z(q) = 67*q - 1174. Beri z(24).
+434
+Misalkan s(x) = 100728*x - 604385. Hitung s(6).
+-17
+Misalkan y(r) = 860*r - 16407. Hitung y(20).
+793
+Misalkan n(b) = -2*b**2 + 535*b + 28528. Tentukan n(-46).
+-314
+Misalkan r(y) = -3498*y - 164419. Beri r(-47).
+-13
+Misalkan n(h) = -h**3 - 46*h**2 - 233*h + 46. Berapakah n(-40)?
+-234
+Misalkan t(b) = -61*b**2 - 129*b + 27. Beri t(-2).
+41
+Misalkan x(r) = -r**3 + 125*r**2 - 133*r + 1260. Tentukan x(124).
+144
+Misalkan s(y) = y**3 + 177*y**2 + 7686*y + 13182. Hitung s(-105).
+-48
+Misalkan k(o) = -o**3 + 38*o**2 - 398*o + 2268. Tentukan k(26).
+32
+Misalkan d(v) = v**3 + 6*v**2 + 17026*v + 136326. Berapakah d(-8)?
+-10
+Misalkan f(q) = 3144*q - 194925. Berapakah f(62)?
+3
+Misalkan m(x) = -214*x - 23293. Tentukan m(-109).
+33
+Misalkan l(b) = 46510 - 15210*b. Beri l(3).
+880
+Misalkan g(a) = 2*a**3 - 62*a**2 - 3*a + 104. Berapakah g(29)?
+-3347
+Misalkan o(p) = -2*p**3 - 61*p**2 - 96*p + 1057. Hitung o(-28).
+-175
+Misalkan f(x) = -x**3 + 33*x**2 - 54*x + 835. Tentukan f(32).
+131
+Misalkan n(f) = -4*f**3 + 2681*f**2 - 3359*f + 9302. Berapakah n(669)?
+-64
+Misalkan f(z) = -7832*z - 107647. Hitung f(-14).
+2001
+Misalkan w(d) = -23*d**3 + 6370*d**2 + 265*d + 3273. Berapakah w(277)?
+-51
+Misalkan k(f) = 53436 - 1718*f. Tentukan k(30).
+1896
+Misalkan v(r) = -90476*r - 1176482. Hitung v(-13).
+-294
+Misalkan o(t) = t**3 + 3*t**2 + 2236*t + 15. Tentukan o(0).
+15
+Misalkan z(q) = -17848*q - 142743. Berapakah z(-8)?
+41
+Misalkan u(x) = -2*x**2 - 30*x + 4302. Berapakah u(-54)?
+90
+Misalkan y(k) = 235092 - 10687*k. Beri y(22).
+-22
+Misalkan y(l) = 37*l**2 + 4418*l - 1091. Hitung y(-120).
+1549

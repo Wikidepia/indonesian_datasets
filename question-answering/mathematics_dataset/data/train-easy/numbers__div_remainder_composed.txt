@@ -1,0 +1,666 @@
+Misalkan b be (2 - 0) + -4 + 8. Misalkan k = 3 - 2. Berapa sisa jika 7 dibagi dengan k/((-4)/b - -1)?
+1
+Misalkan -4*d - 14 = -2*b, 2 = -d - 1. Misalkan -5*u = b + 9. Hitung sisanya ketika 6 dibagi dengan u*(0 + 4/(-2)).
+2
+Misalkan j(c) = c**3 + 7*c**2 + 5*c + 2. Misalkan 2*i - 13 = -5*l + 4*l, 2*i - 28 = -4*l. Hitung sisanya ketika j(-6) dibagi dengan l.
+3
+Misalkan i = 53 - 26. Hitung sisanya ketika i dibagi dengan 10.
+7
+Misalkan a(p) = 1 + 0 + 0 - p**3 + 4*p + 6*p**2. Misalkan g be a(6). Misalkan -5*r + g = 5. Hitung sisanya ketika 6 dibagi dengan r.
+2
+Misalkan -26 = 5*q - 1. Misalkan v (r) menjadi turunan ke-ketiga dari -r**5/60 - r**4/3 - 2*r**3/3 - 9*r**2. Berapa sisa jika 31 dibagi dengan v(q)?
+9
+Misalkan a = 13 + -8. Misalkan b + 2*b + z = 56, 26 = 3*b - a*z. Berapa sisa jika 33 dibagi dengan b?
+16
+Misalkan 3*n = -r - 12, n + 3*n + 5 = -5*r. Hitung sisanya ketika r dibagi dengan 2.
+1
+Misalkan -18*m = -13*m - 305. Hitung sisanya ketika m dibagi dengan 31.
+30
+Misalkan 3*o - o + 20 = 3*s, -s - 5*o = 16. Berapa sisa jika s dibagi dengan 3?
+1
+Misalkan 0 = -2*y + 5*d + 42, 0*y - 5*d = -5*y + 135. Berapa sisa jika y dibagi dengan 16?
+15
+Hitung sisanya ketika 30 dibagi dengan ((-132)/36)/((-1)/3).
+8
+Misalkan t(w) = 4*w**2 + 10 + 2*w**2 + w**3 - 2*w**3 + 7*w. Hitung sisanya ketika t(7) dibagi dengan 4.
+2
+Misalkan f(z) = z**2 - 2*z - 9. Berapa sisa jika 58 dibagi dengan f(-4)?
+13
+Misalkan 4*s + 3*i - 117 = 0, 33 = s - 3*i - 0*i. Hitung sisanya ketika 85 dibagi dengan s.
+25
+Misalkan j be ((-4)/(-8))/((-1)/(-10)). Hitung sisanya ketika 1 - (1 - 47) - 2 dibagi dengan (-186)/(-15) + (-2)/j.
+9
+Misalkan 0 = 2*z + 2*x, z + z - 3*x = 0. Misalkan z = 4*i - 4*v - 40, 2*i = -0*v - 4*v + 26. Berapa sisa jika i dibagi dengan 7?
+4
+Berapa sisa jika 1/(-2) + 41/2 dibagi dengan 7?
+6
+Misalkan g(f) = f**3 + 8*f**2 + 7. Hitung sisanya ketika 55 dibagi dengan g(-8).
+6
+Misalkan -4*t + 71 = 5*y, 3*t + 0*y = -3*y + 57. Misalkan g = 271 - 176. Berapa sisa jika g dibagi dengan t?
+23
+Misalkan 3 = q - 4*k - 22, q + 2*k = 7. Berapa sisa jika 50 dibagi dengan q?
+11
+Misalkan -16 = 3*g - 4*o - 6, 2*g + 8 = 4*o. Misalkan y = 31 - 21. Berapa sisa jika (-1 - 0)*(-21 - g) dibagi dengan y?
+9
+Misalkan -v = 3*k - 2 - 2, -k = -3*v + 2. Misalkan 2*x - 7 + v = 0. Misalkan i = 0 + 7. Hitung sisanya ketika i dibagi dengan x.
+1
+Misalkan z = -12 + 41. Misalkan -1 = -3*i + z. Berapa sisa jika i dibagi dengan 3?
+1
+Misalkan 5*x + 5 = -3*g, -5*x = 2 + 3. Misalkan g + 12 = 4*f, -l + 4*f - 5 = 0. Hitung sisanya ketika l dibagi dengan 2.
+1
+Hitung sisanya ketika 76 dibagi dengan 2/(4/(-6)) + 33.
+16
+Misalkan b (t) menjadi turunan ke-kedua dari -t**3/3 - t**2/2 + t. Hitung sisanya ketika 31 dibagi dengan b(-6).
+9
+Misalkan v(j) = 1 + 3 + 4 + j**2 - 5. Misalkan n(u) = -3*u**3 - u**2 - u. Hitung sisanya ketika n(-2) dibagi dengan v(-3).
+10
+Misalkan -3*b = -3*d - 6, -d - d - 10 = -4*b. Misalkan w = 2 - d. Misalkan -3*s - 5*q - 15 = 4, 18 = -s - 4*q. Hitung sisanya ketika s dibagi dengan w.
+0
+Misalkan i = -45 - -66. Hitung sisanya ketika i dibagi dengan 12.
+9
+Hitung sisanya ketika ((-1)/((-3)/51))/1 dibagi dengan 10.
+7
+Misalkan 11*p = 6*p + 210. Hitung sisanya ketika p dibagi dengan 9.
+6
+Misalkan d(h) = 2*h**2 + 10*h + 16. Hitung sisanya ketika d(-5) dibagi dengan 9.
+7
+Misalkan w(r) = r**2 - 2. Misalkan g be w(-2). Misalkan -3*h + 16 = h. Misalkan -4*c = -4*a + 4, -g*a - 2 - 4 = -h*c. Hitung sisanya ketika 11 dibagi dengan c.
+3
+Misalkan -5*o - 313 = 2*j, o = -j - 29 - 36. Misalkan x = o - -87. Berapa sisa jika x dibagi dengan 14?
+12
+Misalkan f(r) = 11*r + 1. Berapa sisa jika 35 dibagi dengan f(1)?
+11
+Misalkan w = 6*w + 3*x - 22, -w + x = -6. Misalkan w*k - 19 = -3*v + 9, -3*v - 4*k = -23. Berapa sisa jika 1 dibagi dengan v?
+0
+Misalkan 0 = -2*k + 2*r - 18, -4*k + 0*r - 28 = 4*r. Misalkan x = 15 + k. Hitung sisanya ketika 18 dibagi dengan x.
+4
+Misalkan -j = -2*z + 2*j + 18, -z + 9 = 5*j. Berapa sisa jika 42 dibagi dengan z?
+6
+Misalkan -4*j = -56 - 4. Hitung sisanya ketika (2/10)/(25/3625) dibagi dengan j.
+14
+Misalkan a(s) = 5*s**2 + s - 1. Misalkan x be a(1). Misalkan p - 4 = -x. Berapa sisa jika p/(-3) + (-106)/(-6) dibagi dengan 10?
+8
+Misalkan 0 = 2*q - 11 + 3. Misalkan -3*f - 25 = -q*f. Berapa sisa jika 73 dibagi dengan f?
+23
+Misalkan l (h) menjadi turunan ke-ketiga dari h**5/60 - 5*h**4/24 - h**3/2 + h**2. Misalkan 0 = -3*g + 5 + 58. Hitung sisanya ketika g dibagi dengan l(7).
+10
+Misalkan d = 1 + -3. Misalkan v = 0 - -4. Hitung sisanya ketika v dibagi dengan (-3)/6 + (-7)/d.
+1
+Misalkan n(t) = -3*t + 12 - 2 + 2*t. Berapa sisa jika 36 dibagi dengan n(-9)?
+17
+Misalkan 0 = -5*z + 4*z. Hitung sisanya ketika 24 dibagi dengan (-9 + z)/(0 + -1).
+6
+Misalkan j(p) = p**2 - 7*p - 22. Misalkan 2*h - 1 = 2*t - 85, 0 = t + 2*h - 39. Berapa sisa jika t dibagi dengan j(11)?
+19
+Hitung sisanya ketika 207 dibagi dengan (4 - (4 - -3)) + 22.
+17
+Misalkan -4*z = -3*z - 3. Berapa sisa jika 10 dibagi dengan z?
+1
+Misalkan 5*v + 6 = -9. Misalkan r = v - -5. Hitung sisanya ketika 32 dibagi dengan -33*(r + (-14)/6).
+10
+Misalkan a = -8 + 26. Misalkan 5*k - w = -0 + 32, 0 = -5*k - w + 28. Misalkan c(d) = d**2 - 2. Hitung sisanya ketika c(k) dibagi dengan a.
+16
+Misalkan -4*q - 3*x + 2 = -14, 4*q + 2*x = 16. Hitung sisanya ketika 9 dibagi dengan q.
+1
+Berapa sisa jika 46 dibagi dengan (-248)/(-20) + (-4)/10?
+10
+Misalkan d(k) = -k**2 - 7*k + 10. Hitung sisanya ketika 4 dibagi dengan d(-8).
+0
+Misalkan y(c) = -c**2 + 9*c + 6. Misalkan k = 17 - 10. Misalkan u(a) = -a**3 - 5*a**2 + 6*a + 7. Berapa sisa jika y(k) dibagi dengan u(-6)?
+6
+Misalkan h = -8 + -21. Misalkan v = -15 - h. Hitung sisanya ketika 55 dibagi dengan v.
+13
+Misalkan -352 = -4*v + 52. Berapa sisa jika v dibagi dengan 26?
+23
+Misalkan f + 6 = 3*f. Misalkan 0 = j - 2 - 2. Berapa sisa jika j dibagi dengan f?
+1
+Misalkan q(l) = l + 19. Berapa sisa jika 38 dibagi dengan q(-6)?
+12
+Misalkan i = -217 - -347. Hitung sisanya ketika i dibagi dengan 19.
+16
+Misalkan t = 1 + 1. Misalkan 1 = t*h - 33. Hitung sisanya ketika h dibagi dengan 6.
+5
+Misalkan -h + 3*n = 5, -3*n = -8 - 4. Misalkan l(r) = 2*r - 2. Misalkan j = -11 + 22. Berapa sisa jika l(j) dibagi dengan h?
+6
+Misalkan -5*u + 35 = -0. Misalkan 0 = -3*l, -2*f + 4*f = -5*l + 52. Misalkan y = f + -13. Berapa sisa jika y dibagi dengan u?
+6
+Misalkan -2 = 2*k, 3*k = 2*w - 21 + 2. Misalkan -4*z - 2*b = 4, 2*z - z + b = -1. Misalkan x = w + z. Berapa sisa jika 13 dibagi dengan x?
+6
+Misalkan 0 = -5*o - 3*h + 247, 7*h = -3*o + 4*h + 147. Misalkan -5*j - o = -3*f, -4*f - j + 125 = 4*j. Hitung sisanya ketika f dibagi dengan 9.
+7
+Misalkan 4 = -g - p, -8*p - 24 = 5*g - 4*p. Misalkan j(n) = 2*n + 1. Berapa sisa jika j(1) dibagi dengan (6/(-8))/(2/g)?
+0
+Berapa sisa jika 2/6 + 744/36 dibagi dengan 11?
+10
+Misalkan 5*p - 12 = p. Misalkan d(v) = -2*v + p*v + 5 + 0*v. Berapa sisa jika d(0) dibagi dengan 3?
+2
+Misalkan j(z) = 20 - z**2. Misalkan 4*x = 7*x - 114. Berapa sisa jika x dibagi dengan j(0)?
+18
+Misalkan 4*d - m = 7, 31 = 2*d + m + 4*m. Misalkan 0 = -4*i - 5*b + 47, 39 = -0*i + d*i + 5*b. Misalkan -3*w + i*w - 5 = 0. Berapa sisa jika 3 dibagi dengan w?
+0
+Misalkan z(d) = 21*d**3 - d. Misalkan o(a) = 5*a**2. Misalkan h be o(-1). Misalkan h*g = g + 4. Berapa sisa jika z(g) dibagi dengan 11?
+9
+Misalkan r(g) = 4 - 4 + 8*g**2. Berapa sisa jika 14 dibagi dengan r(-1)?
+6
+Misalkan o = 31 - 15. Misalkan k(c) = -c - 2*c + 3 + 2*c. Berapa sisa jika o dibagi dengan k(-6)?
+7
+Misalkan 4*v - v + 4*g = 54, -60 = -3*v - 2*g. Berapa sisa jika 86 dibagi dengan v?
+20
+Misalkan r = 4*o - 19, 0 = o - 3*r + 9. Misalkan k be ((-8)/(-12))/(4/o). Hitung sisanya ketika 17 dibagi dengan k/(0 - (-1)/6).
+5
+Misalkan v = 32 - 20. Hitung sisanya ketika 34 dibagi dengan v.
+10
+Misalkan o (l) menjadi turunan ke-pertama dari l**4/2 + 5*l**3/3 - 5*l**2/2 + 3*l + 4. Berapa sisa jika o(3) dibagi dengan 22?
+21
+Berapa sisa jika (-3 - 21/(-6))*80 dibagi dengan 14?
+12
+Misalkan m = -2 + 19. Misalkan 3*f - 2*f = 11. Berapa sisa jika 4/3*(m - -7) dibagi dengan f?
+10
+Misalkan 268 = 3*r - 38. Misalkan -2*l = 3*u + 40 - 110, 5*u = 2*l - r. Hitung sisanya ketika l dibagi dengan 21.
+20
+Misalkan 0 = 2*x + 2, x + 2 = -5*k + 56. Berapa sisa jika 43 dibagi dengan k?
+10
+Misalkan 0 = 3*a - 4*a + 10. Misalkan v = 39 - 11. Berapa sisa jika v dibagi dengan a?
+8
+Misalkan 3*n + 2 = 4*n. Misalkan -n = 2*y - 10. Berapa sisa jika 11 dibagi dengan y?
+3
+Misalkan p(i) = -i**3 + 5*i**2 - 3*i - 1. Misalkan h be p(4). Misalkan h*y - 6 - 3 = 0. Misalkan y*w - 64 = -w. Berapa sisa jika w dibagi dengan 9?
+7
+Misalkan q(l) = l**2 - 5*l - 2. Misalkan 0*s - 3*r - 9 = -s, -3*s - 3*r = -27. Berapa sisa jika q(-4) dibagi dengan s?
+7
+Misalkan q(n) = -n - 2. Misalkan l be (2/4)/(2/(-4)). Berapa sisa jika 1 - (l - -2) - -7 dibagi dengan q(-6)?
+3
+Misalkan 5*v = 60 - 0. Berapa sisa jika 45 dibagi dengan v?
+9
+Hitung sisanya ketika ((-1720)/(-16))/5*(6 + 0) dibagi dengan 22.
+19
+Misalkan -q - 52 = -4*m + 3*q, 2*m - 36 = 4*q. Misalkan r(t) = 5*t + 5. Berapa sisa jika r(5) dibagi dengan m?
+6
+Berapa sisa jika 1/(-3) - 148/(-3) dibagi dengan 13?
+10
+Misalkan x(p) = 13 - 10*p. Misalkan i be x(9). Misalkan m = i + 130. Berapa sisa jika m dibagi dengan 14?
+11
+Misalkan s(q) = q**3 - 2*q**2 + q + 2. Misalkan o be s(2). Misalkan 0*h - 116 = -o*h. Berapa sisa jika h dibagi dengan 15?
+14
+Misalkan -3*u + 12 = -9. Berapa sisa jika u dibagi dengan 2?
+1
+Misalkan 2*r = 15 + 127. Hitung sisanya ketika r dibagi dengan 12.
+11
+Misalkan u(s) = 2*s**2 - 4*s. Misalkan h be u(2). Misalkan h = -5*x + 171 - 11. Berapa sisa jika 95 dibagi dengan x?
+31
+Misalkan g(k) = -k**3 - 6*k**2 - 4*k + 9. Berapa sisa jika 5 dibagi dengan g(-5)?
+1
+Misalkan c be (3/(-2))/((-6)/(-8)). Misalkan o be 4 + 4/2 + c. Misalkan -5*q - o*f = -30, 5 + 16 = -2*q + 5*f. Hitung sisanya ketika 5 dibagi dengan q.
+1
+Hitung sisanya ketika 43 dibagi dengan (-11)/(3/(6*-1)).
+21
+Misalkan -21 = -5*h - 2*i + 80, 0 = 2*h + 2*i - 44. Misalkan 5*a - 25 = -5*o, 5*a + 2*o - 40 = -0*o. Hitung sisanya ketika h dibagi dengan a.
+9
+Misalkan u = -15 - -129. Hitung sisanya ketika u dibagi dengan 29.
+27
+Misalkan i(j) = j**3 - 9*j**2 + 10*j - 9. Misalkan m be i(7). Misalkan f = -25 - m. Berapa sisa jika 23 dibagi dengan f?
+11
+Misalkan n = -10 + 7. Hitung sisanya ketika 21 dibagi dengan n - (-2 - 15) - 2.
+9
+Misalkan s(t) = 1 - 87*t. Misalkan k be s(-1). Misalkan l(x) = 5*x - 28. Misalkan z be l(13). Misalkan z = -u + k. Berapa sisa jika u dibagi dengan 13?
+12
+Hitung sisanya ketika 35 dibagi dengan (13/(-2) + 2)*-2.
+8
+Misalkan -5*w + 120 = 5*j, 4*w - 2 = 2*j - 20. Hitung sisanya ketika 0 - ((-34 - 1) + -1) dibagi dengan j.
+17
+Misalkan y be (0 - 1/(-2))*0. Berapa sisa jika 5 - -63 - (1 - y) dibagi dengan 17?
+16
+Misalkan p = 42 + 28. Hitung sisanya ketika p dibagi dengan 12.
+10
+Misalkan j = -341 + 573. Berapa sisa jika j dibagi dengan 39?
+37
+Misalkan i be 12/(-6) - -1*1. Hitung sisanya ketika 23 dibagi dengan 0 - i - (-12 + 1).
+11
+Berapa sisa jika (0 + 12)*(-275)/(-50) dibagi dengan 17?
+15
+Misalkan o(t) = 29 - 2*t. Berapa sisa jika 99 dibagi dengan o(6)?
+14
+Misalkan -4*d + 66 = v, -3*d + 18 = 5*v - 40. Misalkan -p + 0*p = -47. Berapa sisa jika p dibagi dengan d?
+15
+Berapa sisa jika 60 dibagi dengan ((-4)/(-3))/(20/240)?
+12
+Misalkan g(n) = -70*n**3 + n**2 - 1. Misalkan y = 91 - 73. Berapa sisa jika g(-1) dibagi dengan y?
+16
+Misalkan 6*m - 88 = 3*m - a, -4*m + 2*a = -114. Berapa sisa jika m dibagi dengan 5?
+4
+Misalkan 2*r + 15 = 73. Misalkan 2 + 2 = u. Misalkan 0 = -2*a + u*a - 20. Hitung sisanya ketika r dibagi dengan a.
+9
+Misalkan o = -20 - -28. Misalkan -2*j + 10 = 0, -s + 0*s + 5*j + 4 = 0. Berapa sisa jika s dibagi dengan o?
+5
+Misalkan o = 14 + -12. Berapa sisa jika 4 dibagi dengan o?
+0
+Misalkan m(c) = c**2. Misalkan u be m(2). Misalkan n = u + -2. Misalkan -n*h + 5*h - 45 = 0. Hitung sisanya ketika 57 dibagi dengan h.
+12
+Misalkan b = 4 + -1. Misalkan -4*x + 7*x = 24. Hitung sisanya ketika x dibagi dengan b.
+2
+Misalkan q = -8 + 43. Berapa sisa jika q dibagi dengan 19?
+16
+Misalkan w be (-1)/(-2) + (-7)/2. Misalkan y be ((-1)/w)/(1/(-9)). Hitung sisanya ketika 19 dibagi dengan 1 - 2 - (-11 - y).
+5
+Misalkan b = -33 + 55. Hitung sisanya ketika 35 dibagi dengan b.
+13
+Misalkan -q + 24 + 1 = 0. Hitung sisanya ketika q dibagi dengan 9.
+7
+Misalkan -93 - 124 = -2*z + 5*k, 3*z + k - 300 = 0. Misalkan w = z - 38. Berapa sisa jika 20 dibagi dengan 1/(-3)*w/(-3)?
+6
+Misalkan m(j) = j + 20. Berapa sisa jika 38 dibagi dengan m(-9)?
+5
+Misalkan w = 141 - 85. Misalkan -b + 21 = -2*p + 69, 2*p - 5*b = w. Misalkan 0 = 12*c - 110 + 14. Berapa sisa jika p dibagi dengan c?
+7
+Misalkan 32 = 4*y - q, -4*q = -7*q. Misalkan -73 = -5*w + 3*v, -3*v = 4*w - v - 54. Hitung sisanya ketika w dibagi dengan y.
+6
+Misalkan 3*u + 0 = 6. Misalkan -p = u*p - 27. Misalkan a(q) = -9*q - 1. Berapa sisa jika a(-2) dibagi dengan p?
+8
+Misalkan q(m) = m**3 - 7*m**2 + m - 3. Misalkan 39 - 6 = -3*a. Misalkan j = -4 - a. Hitung sisanya ketika j dibagi dengan q(7).
+3
+Misalkan u = 20 - 62. Misalkan q = u + 80. Berapa sisa jika q dibagi dengan 13?
+12
+Misalkan 5*u = 4*u + 4. Berapa sisa jika 29 dibagi dengan (-165)/(-10) + (-2)/u?
+13
+Misalkan v(c) = c**2 + 8*c + 8. Misalkan p be v(-8). Misalkan -3*s = -p*s + 85. Misalkan b = 9 - 0. Berapa sisa jika s dibagi dengan b?
+8
+Misalkan -3*t - 2*o = -147, -4*t - 2*o = -4*o - 196. Berapa sisa jika t dibagi dengan 25?
+24
+Misalkan c(n) = 0*n - 7*n - 5 + n**2 - 8. Hitung sisanya ketika 8 dibagi dengan c(9).
+3
+Misalkan q (s) menjadi turunan ke-kedua dari -s**5/20 + 3*s**4/2 - 5*s**3/2 - 21*s**2/2 + 3*s. Berapa sisa jika 35 dibagi dengan q(17)?
+9
+Misalkan 8 = 4*h - 0. Misalkan 5*k - h*k - 15 = 0. Berapa sisa jika 9 dibagi dengan k?
+4
+Misalkan 17*w + 240 = 25*w. Berapa sisa jika 117 dibagi dengan w?
+27
+Misalkan z be (8/(-10))/((-5)/(-50)). Misalkan d = 15 + z. Misalkan m(o) = -o**2 + 7*o + 10. Hitung sisanya ketika m(d) dibagi dengan 4.
+2
+Misalkan a(h) = 2*h + 5. Hitung sisanya ketika 32 dibagi dengan a(0).
+2
+Misalkan a(z) = z**3 + 17*z**2 + 14*z - 22. Misalkan u(m) = 6*m**2 - 2*m + 1. Misalkan w = -7 + 5. Berapa sisa jika u(w) dibagi dengan a(-16)?
+9
+Misalkan -k + 0*k = 3. Misalkan c be (-70)/k - (-3)/(-9). Misalkan -w + 3*o + o = -c, -3*o - 12 = 0. Berapa sisa jika 12 dibagi dengan w?
+5
+Misalkan i = 119 - 116. Misalkan p(r) = 10 - r. Misalkan 3*x + 2 = -g + 1, 2*x - 5*g = 5. Berapa sisa jika p(x) dibagi dengan i?
+1
+Misalkan g(f) = f**3 - f**2 + 3*f - 1. Misalkan z = 7 + -5. Hitung sisanya ketika (-158)/(-6) - 3/9 dibagi dengan g(z).
+8
+Misalkan f(l) = -l**2 - 2*l + 39. Berapa sisa jika 75 dibagi dengan f(0)?
+36
+Hitung sisanya ketika 17 dibagi dengan 1 - ((-27)/3 - 0).
+7
+Misalkan j = 4 + -4. Misalkan -q + 24 = -j*q. Misalkan 2*k = -2*k + q. Hitung sisanya ketika k dibagi dengan 4.
+2
+Misalkan v = 226 + -116. Misalkan -o - v = -6*o. Berapa sisa jika o dibagi dengan 6?
+4
+Misalkan g(n) = n**2 + 2*n - 4. Misalkan c be -1 + 1 + -3 + 7. Hitung sisanya ketika 77 dibagi dengan g(c).
+17
+Misalkan 0 = 2*w + 4*q - 9*q - 26, 0 = -4*w + 5*q + 32. Misalkan -4*v + 4*p + 7 - w = 0, -2*p = -10. Berapa sisa jika v dibagi dengan 4?
+2
+Misalkan f (p) menjadi turunan ke-pertama dari p**4/4 - 5*p**3/3 - 5*p**2/2 + p - 1. Berapa sisa jika 20 dibagi dengan f(6)?
+6
+Misalkan g = 217 - 121. Misalkan -5*z + g = -z. Misalkan y + 1 = -2*b + 27, -3*y = -3*b + 39. Hitung sisanya ketika z dibagi dengan b.
+11
+Misalkan t(k) = k - 7. Misalkan a be t(4). Hitung sisanya ketika 29 dibagi dengan a - (-22)/4*2.
+5
+Misalkan f = -14 - -42. Berapa sisa jika f dibagi dengan ((-10)/3)/(2/(-6))?
+8
+Misalkan -3*m + 2 = -43. Misalkan i = m - -8. Hitung sisanya ketika i dibagi dengan (-24)/60 - ((-336)/10)/4.
+7
+Misalkan 6*r = r + 110. Misalkan 16 = w + a, 82 = 5*w - a - r. Misalkan -55 = -5*y - 3*v, y - w = 4*v + 14. Hitung sisanya ketika 40 dibagi dengan y.
+12
+Misalkan -5*z - 30 = -5*q, -4*q = -3*z - 20 - 0. Berapa sisa jika (-3)/((-3)/(-7))*2/(-2) dibagi dengan q?
+1
+Misalkan c = 6 + -3. Misalkan -2*m = -4*w + 6, 0 = -c*m - 3*w + 2 + 7. Hitung sisanya ketika 1 dibagi dengan m.
+0
+Misalkan c = -4 - 3. Misalkan h = 10 + c. Berapa sisa jika 9 dibagi dengan h?
+0
+Misalkan -5*f - 1 = 2*t, 0 = -2*t + 3*t - 4*f - 32. Hitung sisanya ketika -12 + 11 - (4 + -5)*23 dibagi dengan t.
+10
+Misalkan g(o) = 3*o**2 - 5*o + 3. Hitung sisanya ketika g(3) dibagi dengan 6.
+3
+Misalkan -2*r + 3 = -n, -3 = -3*r - 2*r + 4*n. Misalkan 0 = -2*o - 3*p + 41, 4*o + 4*p - r*p - 77 = 0. Hitung sisanya ketika 36 dibagi dengan o.
+17
+Misalkan b = 20 + -13. Berapa sisa jika 32 dibagi dengan b?
+4
+Misalkan 0 = 3*k + 5*q - 136, -149 = -5*k - q + 85. Berapa sisa jika k dibagi dengan 16?
+15
+Misalkan f = 99 - 87. Hitung sisanya ketika 38 dibagi dengan f.
+2
+Misalkan a(k) = k**3 + 7*k**2 - 8*k - 3. Misalkan u be a(-8). Misalkan x be -1*3*19/u. Misalkan 4*t = 5 + x. Berapa sisa jika 10 dibagi dengan t?
+4
+Misalkan a(k) = 3*k - 19. Berapa sisa jika 22 dibagi dengan a(8)?
+2
+Misalkan d(w) = -w**3 + 8*w**2 + 2. Misalkan c be d(8). Misalkan -c*f - 12 = -6*f. Misalkan o(h) = 3*h - 2. Hitung sisanya ketika o(2) dibagi dengan f.
+1
+Hitung sisanya ketika 131 dibagi dengan (-9)/(-63) + 307/7.
+43
+Misalkan -86 - 26 = -2*t. Misalkan j + 4 = t. Berapa sisa jika j dibagi dengan 18?
+16
+Berapa sisa jika -1 - -5 - (-117 - -2) dibagi dengan 31?
+26
+Misalkan f = 7 + 4. Misalkan n(i) = -i - 6. Hitung sisanya ketika f dibagi dengan n(-9).
+2
+Misalkan k = -18 + 31. Berapa sisa jika 49 dibagi dengan k?
+10
+Misalkan 5*i + 5*c = 5, 5*i + 4 = -4*c + 11. Misalkan i*s - 40 = -2*s. Misalkan g = -4 + 27. Hitung sisanya ketika g dibagi dengan s.
+7
+Berapa sisa jika 146 dibagi dengan (-14)/(2/(28/10) + -1)?
+48
+Misalkan -18 = -5*i - 103. Misalkan g = -4 - i. Berapa sisa jika g dibagi dengan 7?
+6
+Misalkan q + 1 = 2*v - 80, 0 = -v + 5*q + 36. Misalkan i = 74 - v. Hitung sisanya ketika i dibagi dengan 9.
+6
+Misalkan p be (-9 - 3)*6/(-8). Misalkan p*z - 4*z = 25. Berapa sisa jika 14 dibagi dengan z?
+4
+Misalkan -10 = 2*g, -5*r + g = -0*r + 55. Hitung sisanya ketika 3/r + (-740)/(-16) dibagi dengan 24.
+22
+Misalkan n = 35 + 4. Misalkan o = n + -26. Hitung sisanya ketika o dibagi dengan 5.
+3
+Misalkan 2*x + 3*f = 7*f + 48, 0 = 4*f - 20. Hitung sisanya ketika 82 dibagi dengan x.
+14
+Misalkan x = -12 + 12. Misalkan x*l = -l + 3. Berapa sisa jika 7 dibagi dengan l?
+1
+Misalkan k = 6 - 33. Berapa sisa jika (-24)/60 + k/(-5) dibagi dengan 3?
+2
+Misalkan x(m) = m**2 - 5*m - 3. Misalkan -5*t + 0 + 35 = 0. Berapa sisa jika 21 dibagi dengan x(t)?
+10
+Misalkan i = 18 + -16. Misalkan 0*f - 41 = -4*z + f, 0 = -3*z - i*f + 17. Hitung sisanya ketika 32 dibagi dengan z.
+5
+Misalkan -83 = -5*t + 132. Berapa sisa jika t dibagi dengan 11?
+10
+Misalkan s = 59 + -33. Hitung sisanya ketika s dibagi dengan 9.
+8
+Misalkan u + 2 = -0*u. Misalkan q be (u/6)/(1/(-6)). Misalkan -29 = -q*x - 3*a, -4*x - 4*a + 15 = -41. Berapa sisa jika 24 dibagi dengan x?
+11
+Misalkan 2*t + 3 - 17 = 0. Berapa sisa jika t dibagi dengan ((-4)/(-12))/((12/(-27))/(-4))?
+1
+Misalkan v (n) menjadi turunan ke-ketiga dari -n**5/60 - 11*n**4/24 - 3*n**3/2 + n**2. Berapa sisa jika 25 dibagi dengan v(-9)?
+7
+Misalkan s(c) = c**2 + 2*c - 1. Misalkan x be ((-1)/(-2))/(2/(-24)). Berapa sisa jika s(x) dibagi dengan 12?
+11
+Misalkan m(u) = 3 - u. Misalkan a be m(3). Berapa sisa jika 65 dibagi dengan 3/12*(a - -68)?
+14
+Misalkan r = -187 + 289. Hitung sisanya ketika r dibagi dengan 13.
+11
+Hitung sisanya ketika (-8)/3*27/(-4) dibagi dengan 15.
+3
+Misalkan p = 8 - 5. Misalkan u(g) = g**3 - g**2 - 2*g + 3. Hitung sisanya ketika 58 dibagi dengan u(p).
+13
+Hitung sisanya ketika (-57)/6*(-7 - -5) dibagi dengan 10.
+9
+Hitung sisanya ketika 4 dibagi dengan ((-14)/(-49))/((-2)/(-14)).
+0
+Misalkan q = -9 - -19. Misalkan w(j) = j**2 - 7*j + 11. Hitung sisanya ketika w(9) dibagi dengan q.
+9
+Misalkan 5*m = 3*r - 41, 19 = 5*r - m - 20. Berapa sisa jika 24 dibagi dengan r?
+3
+Misalkan c(x) = x**3 - 3*x**2 + 2. Misalkan -3 = -q - 0*q. Hitung sisanya ketika c(q) dibagi dengan 1.
+0
+Misalkan u = -32 - -61. Berapa sisa jika u dibagi dengan 15?
+14
+Misalkan -2*d + 24 = 2*d. Misalkan 4*h - d = -2. Misalkan -4*w - 30 = -5*u, 5*u + w + 4 - 9 = 0. Hitung sisanya ketika u dibagi dengan h.
+0
+Berapa sisa jika 10 dibagi dengan ((-2)/(-7) - 60/14)/(-1)?
+2
+Misalkan -3*p + 0*p + 6 = 0. Misalkan -p*i - c = 2*i - 239, 3*i - 3*c = 183. Berapa sisa jika i dibagi dengan 21?
+18
+Misalkan u(w) = w**2 + 4*w + 7. Misalkan y be (-1)/2*1*10. Berapa sisa jika ((-35)/(-2))/((-18)/(-36)) dibagi dengan u(y)?
+11
+Misalkan r(k) = 7*k**2 - 2*k + 1. Misalkan d be r(1). Misalkan l(z) = 5*z - 8 - z - z. Berapa sisa jika 29 dibagi dengan l(d)?
+9
+Misalkan j(x) = -x**3 + 8*x**2 + 11*x - 4. Hitung sisanya ketika 55 dibagi dengan j(9).
+13
+Misalkan h be (2/3)/(4/(-6)). Berapa sisa jika (h - 0) + 48/3 dibagi dengan 4?
+3
+Misalkan l(m) = m**3 - 4*m**2 - m - 7. Misalkan y be l(5). Misalkan j be (-6)/(-4)*(3 + y). Misalkan 2*o = -o + j. Hitung sisanya ketika o dibagi dengan 5.
+3
+Misalkan 7*v - 58 = 6*v. Hitung sisanya ketika v dibagi dengan 15.
+13
+Misalkan c = 30 - 5. Misalkan g = 12 - 3. Hitung sisanya ketika c dibagi dengan g.
+7
+Misalkan i be 4/8 + (-141)/(-6). Misalkan 0 = -4*h + 60 + i. Hitung sisanya ketika h dibagi dengan 6.
+3
+Misalkan -s + 1 = 4*k - 7, 3*k = 5*s - 17. Misalkan -3*o - 2*z = -49, -o - 3*o = s*z - 60. Misalkan h = 92 + -55. Hitung sisanya ketika h dibagi dengan o.
+18
+Misalkan 0 = 2*v - 0*v - 160. Misalkan o = -56 + v. Misalkan r = -10 + 23. Berapa sisa jika o dibagi dengan r?
+11
+Misalkan 8*b - 3*b + 5*v - 20 = 0, 0 = 5*v. Berapa sisa jika 6 + (-3 - -7) + 3*-1 dibagi dengan b?
+3
+Misalkan 0 = -2*u + 2*s + 38, -3*u + 16 = 5*s - 25. Misalkan j(d) = -7*d**3 - d**2 + d. Berapa sisa jika u dibagi dengan j(-1)?
+2
+Misalkan r(k) = k + 10. Misalkan 4*w = 4*f - 28, 3 = f - 2*w - 2. Hitung sisanya ketika f dibagi dengan r(-7).
+0
+Misalkan 2*r = -a + 197, -45 = -3*r + a + 243. Hitung sisanya ketika r dibagi dengan 11.
+9
+Misalkan y(s) = s**2 - 5*s - 5. Misalkan b be y(7). Misalkan n(m) = -m**3 + 9*m**2 + 10*m + 1. Berapa sisa jika n(b) dibagi dengan 23?
+22
+Misalkan -3*o = -6*o + 300. Misalkan -96 = -3*r + 5*y - 21, -o = -4*r - 4*y. Hitung sisanya ketika 48 dibagi dengan r.
+23
+Misalkan o(y) = y**3 + 5*y**2 + 3*y + 2. Misalkan q be o(-3). Misalkan q - 4 = p. Misalkan 3*w = -3, -2*l - 5*w = 2*l - 75. Berapa sisa jika l dibagi dengan p?
+6
+Misalkan z = -27 - -31. Misalkan y(q) = 8*q**2 + 2*q + 2. Misalkan b(d) = 1. Misalkan w(s) = -3*b(s) + y(s). Berapa sisa jika w(1) dibagi dengan z?
+1
+Berapa sisa jika 6 dibagi dengan (-3)/(-2)*(-110)/(-33)?
+1
+Misalkan n(i) = 11*i - 6. Misalkan g(j) = 4 - 7*j. Misalkan u(s) = 8*g(s) + 5*n(s). Misalkan d be u(0). Hitung sisanya ketika 15 dibagi dengan 76/10 + d/5.
+7
+Misalkan s be ((-1 - 0)*-1)/1. Misalkan k(u) = 24*u. Hitung sisanya ketika k(s) dibagi dengan 9.
+6
+Misalkan 4 = -4*a - 5*t + 25, 4*a - 2*t - 14 = 0. Misalkan b = -3 + a. Misalkan 2*d + h - 2*h = 4, -d = -2*h + b. Hitung sisanya ketika 8 dibagi dengan d.
+2
+Misalkan x(k) = 2 - 4*k. Misalkan j(o) = 2 - 5*o. Misalkan v(t) = -5*j(t) + 6*x(t). Berapa sisa jika (-2 - 0)*57/(-6) dibagi dengan v(5)?
+5
+Misalkan 0 = -3*a - 2*a + 85. Misalkan w(q) = 2 - 2*q. Berapa sisa jika a dibagi dengan w(-2)?
+5
+Misalkan 0*v - 4 = -2*v. Misalkan j - 13 = -f - 0, -4*f = v*j - 24. Hitung sisanya ketika 27 dibagi dengan j.
+13
+Misalkan 3*s + 172 = -c, -2*s + 0 = -3*c + 111. Misalkan n = 83 + s. Berapa sisa jika 76 dibagi dengan n?
+24
+Misalkan x(w) = -w**2 + 8*w - 12. Misalkan q be x(6). Misalkan -2*l + 10 = q, -5*a - 3*l - 2 = -22. Berapa sisa jika a dibagi dengan 1?
+0
+Misalkan c = -56 - -87. Berapa sisa jika c dibagi dengan 16?
+15
+Misalkan o = -19 - -27. Hitung sisanya ketika 39 dibagi dengan o.
+7
+Misalkan i(c) = 0*c - 2*c + 4*c**2 + c + c**3. Misalkan z be i(-4). Misalkan 5*f = 5*a - z*a + 10, 3*a - 15 = 0. Berapa sisa jika 8 dibagi dengan f?
+2
+Misalkan 0 = j - 0 - 7. Misalkan y (f) menjadi turunan ke-ketiga dari f**4/8 - f**3 + f**2. Hitung sisanya ketika y(6) dibagi dengan j.
+5
+Misalkan 0*v + 5*o = -2*v + 27, 0 = v - 3*o + 14. Berapa sisa jika ((-2)/(-4))/(2/12) dibagi dengan v?
+0
+Berapa sisa jika 29 dibagi dengan -1 - 4*(3 + -6)?
+7
+Misalkan q = 0 + -7. Misalkan u = q + 12. Berapa sisa jika 19 dibagi dengan (4 - (-2)/(-1)) + u?
+5
+Misalkan y = -5 + 18. Misalkan j = 13 - 4. Misalkan t = j + -2. Berapa sisa jika y dibagi dengan t?
+6
+Misalkan l = 64 + -48. Hitung sisanya ketika 79 dibagi dengan l.
+15
+Misalkan v = -206 + 384. Misalkan -4*j - 2*l = -v, -j = 4*j - l - 240. Hitung sisanya ketika j dibagi dengan 12.
+11
+Misalkan -4*o + 4 = -12. Misalkan 0 = -5*z - 0*z, -2*v = -5*z - 6. Hitung sisanya ketika o dibagi dengan v.
+1
+Misalkan 3*m = 4*i - m - 144, 3*i - 112 = 2*m. Hitung sisanya ketika i dibagi dengan 7.
+5
+Misalkan 5*h - 90 = -6*s + s, -4*s + h + 57 = 0. Misalkan -z + 11 = g, 6*z = z + s. Hitung sisanya ketika -1 - -24 - 2/2 dibagi dengan g.
+6
+Misalkan q(f) = f**3 - 8*f**2 + 3*f - 9. Misalkan r = -8 - -16. Hitung sisanya ketika q(r) dibagi dengan 6.
+3
+Misalkan g(f) = -f**3 - 9*f**2 + 10*f + 2. Berapa sisa jika 9 dibagi dengan g(-10)?
+1
+Misalkan t = -3 - -3. Misalkan p = t + 29. Berapa sisa jika p dibagi dengan 10?
+9
+Misalkan s = -13 - -21. Misalkan z(p) = p**3 - 7*p**2 - 7*p - 6. Hitung sisanya ketika 4 dibagi dengan z(s).
+0
+Misalkan y = 14 - 2. Misalkan q be ((-28)/6)/((-8)/y). Misalkan q = -2*z + 77. Hitung sisanya ketika z dibagi dengan 12.
+11
+Misalkan z = -9 - -13. Berapa sisa jika 6 dibagi dengan z?
+2
+Misalkan g(r) = -r**2 + 13*r + 2. Berapa sisa jika 5 dibagi dengan g(13)?
+1
+Misalkan -5*c + 197 = 117. Berapa sisa jika 74 dibagi dengan c?
+10
+Misalkan -3*o = 4*a - 396, 4*o = a + 2*o - 88. Misalkan -a = -5*w + w. Berapa sisa jika 69 dibagi dengan w?
+21
+Misalkan 135 = 5*g - 5*a, -22 = 3*g + 2*a - 93. Misalkan p(n) = 2*n**2 + 5*n + 4. Misalkan f be (-1*1)/((-1)/(-3)). Hitung sisanya ketika g dibagi dengan p(f).
+4
+Misalkan f(b) = -b**2 - 7*b - 2. Misalkan 18 = v - n, -5*v - n = -0*v - 60. Berapa sisa jika v dibagi dengan f(-5)?
+5
+Misalkan k(o) = o**3 - 6*o**2 + 5*o - 5. Misalkan v be k(6). Misalkan g = -17 + v. Hitung sisanya ketika g dibagi dengan 5.
+3
+Hitung sisanya ketika 84 dibagi dengan (14 - -1) + (-1 - -3).
+16
+Misalkan -f - 6 = -3*f. Misalkan -3*t = -t - 3*a, f*t - 4*a + 1 = 0. Hitung sisanya ketika 11 dibagi dengan (2/(-4))/(t/36).
+5
+Berapa sisa jika (-2 + 0)*(11 - 18) dibagi dengan 4?
+2
+Misalkan t = -129 + 143. Hitung sisanya ketika 82 dibagi dengan t.
+12
+Misalkan i(c) = 7*c - 12. Berapa sisa jika 62 dibagi dengan i(3)?
+8
+Misalkan 2*g = 4*g - 5*u - 7, 21 = -3*g - 3*u. Misalkan f = g + 10. Berapa sisa jika f dibagi dengan 4?
+2
+Misalkan n be (3/2)/(6/16). Misalkan 2*c = 4*m + 78, 0 = -c + n*c - m - 112. Misalkan x(t) = t**3 - 15*t**2 + 14*t + 13. Berapa sisa jika c dibagi dengan x(14)?
+11
+Misalkan c(a) = 2 - a. Misalkan s(j) = -j**3 - 9*j**2 - 10*j + 4. Hitung sisanya ketika s(-8) dibagi dengan c(-5).
+6
+Hitung sisanya ketika 22 dibagi dengan ((-6)/8)/((-4)/64).
+10
+Misalkan i(x) = 12*x + 1. Misalkan b be i(1). Misalkan 5*f - 118 = 2*k, -5*f + 2*k + 2*k = -126. Misalkan a = f - b. Hitung sisanya ketika a dibagi dengan 5.
+4
+Misalkan -q = k - 5, 5*q - k = -0*k + 7. Misalkan -w + 0 = -q. Misalkan w*m - 5*z - 1 = -4, -z = -3. Berapa sisa jika 11 dibagi dengan m?
+5
+Misalkan o = 0 - -1. Misalkan -4*g - 4*y - 1 + 5 = 0, -3*g = y - 5. Misalkan -2*i + g = -0. Hitung sisanya ketika o dibagi dengan i.
+0
+Misalkan 6*u - 3*u + k - 3 = 0, k = -5*u + 5. Hitung sisanya ketika (0 + u)/1 - -40 dibagi dengan 11.
+8
+Misalkan w(n) = n + 8. Misalkan l be w(-8). Misalkan l = k - 18 + 2. Berapa sisa jika 47 dibagi dengan k?
+15
+Misalkan k = 13 - 5. Berapa sisa jika 39 dibagi dengan k?
+7
+Misalkan -x = -5*v + 6, -9 = -4*v - 2*x + 7*x. Hitung sisanya ketika (v - -3 - 1) + 47 dibagi dengan 17.
+16
+Misalkan 3*s = -30 + 102. Berapa sisa jika 93 dibagi dengan s?
+21
+Misalkan 4*a + 0*b - 232 = 3*b, -58 = -a - b. Hitung sisanya ketika a dibagi dengan 15.
+13
+Hitung sisanya ketika 20 dibagi dengan -8*2*(-3)/6.
+4
+Misalkan u(v) = v**3 + 4*v**2 + 2*v + 4. Hitung sisanya ketika 11 dibagi dengan u(-3).
+4
+Misalkan r = -9 - -16. Misalkan f be 51/r - (-2)/(-7). Misalkan h = f + 3. Hitung sisanya ketika h dibagi dengan 4.
+2
+Misalkan d = 52 - 19. Misalkan 3*c + j = -3*j + d, -4*c = j - 44. Berapa sisa jika 32 dibagi dengan c?
+10
+Misalkan o = 8 - 0. Hitung sisanya ketika 13 dibagi dengan o.
+5
+Misalkan -5*l = -2*l - 42. Misalkan b(o) = 1 - o. Misalkan -y + 2 - 9 = 0. Berapa sisa jika l dibagi dengan b(y)?
+6
+Hitung sisanya ketika 2 dibagi dengan (-7)/(-3) - (-2)/(-6).
+0
+Misalkan p = 2 - -3. Misalkan m(s) = 0*s**3 - s**3 + 7*s - 2 - 3*s - p*s**2. Berapa sisa jika 28 dibagi dengan m(-6)?
+8
+Misalkan z = -18 - -21. Hitung sisanya ketika 8 dibagi dengan z.
+2
+Misalkan t(y) = 3*y**2 + 7*y + 4. Hitung sisanya ketika t(5) dibagi dengan 29.
+27
+Misalkan 0 = 2*c + 2, 2*c - 8 = -w - c. Misalkan 55 = 2*p + 13. Hitung sisanya ketika p dibagi dengan w.
+10
+Misalkan g(m) = 27*m - 5. Hitung sisanya ketika g(2) dibagi dengan 13.
+10
+Misalkan k(q) = 3*q + 2. Berapa sisa jika 6 dibagi dengan k(1)?
+1
+Misalkan f be (0 - 2)*9/(-6). Misalkan 3 = 5*o + 4*c, o + 8 = -f*o + 2*c. Misalkan n = 12 - o. Berapa sisa jika n dibagi dengan 7?
+6
+Misalkan 4*s - 115 = 1. Misalkan v(w) = 4*w - 2. Misalkan f be v(3). Misalkan -k + b = 4*k - 45, 4*b - f = k. Berapa sisa jika s dibagi dengan k?
+9
+Misalkan z(b) = b**3 - 2*b**2 - 4. Misalkan o be z(3). Misalkan 123 + 622 = o*j. Misalkan q = j + -91. Hitung sisanya ketika q dibagi dengan 20.
+18
+Misalkan -3*x - 1 = -10. Misalkan d(r) = 4 - 11*r. Misalkan k be d(x). Misalkan z = k - -66. Berapa sisa jika z dibagi dengan 13?
+11
+Misalkan v(r) = -68*r**2 - r - 1. Misalkan c be v(-1). Hitung sisanya ketika 3/(2/c*-3) dibagi dengan (1 - -4)*24/10.
+10
+Misalkan -5*k - 2*p = -90, -4*k + 2*p - 6*p + 84 = 0. Hitung sisanya ketika k dibagi dengan 6.
+4
+Misalkan u be 2 + 4 + 2/(-2). Misalkan h be 2/6 + 8/3. Misalkan h*j = 6*j + 4*n - 62, 2*j = u*n + 3. Hitung sisanya ketika 41 dibagi dengan j.
+13
+Misalkan m be (-2 - -2)*(-1)/3. Misalkan m = n + 4*l + 5, -65 = -5*n - 2*l - 0*l. Hitung sisanya ketika n dibagi dengan 9.
+6
+Misalkan p = 28 - 20. Misalkan i(l) = 4*l + 1. Berapa sisa jika i(p) dibagi dengan 12?
+9
+Misalkan p = -10 - -6. Misalkan d = p + 7. Berapa sisa jika 9 dibagi dengan d?
+0
+Berapa sisa jika 44 dibagi dengan (-16)/6*(-9)/2?
+8
+Misalkan s = 48 + -30. Misalkan 0 = 4*y - 34 - s. Misalkan d = y + 2. Hitung sisanya ketika 43 dibagi dengan d.
+13
+Misalkan 0 = -2*u + 2*h + 18, 6*u = 2*u + 3*h + 31. Misalkan 84 = 2*x + u*x. Berapa sisa jika x dibagi dengan ((-10)/(-4))/((-1)/(-2))?
+4
+Misalkan l = 4 + -106. Misalkan n = -70 - l. Hitung sisanya ketika n dibagi dengan 11.
+10
+Misalkan f = 2 + -4. Berapa sisa jika 34 + f - (0 + 1) dibagi dengan 16?
+15
+Misalkan 14 = -3*k + b + 75, -2*k + 3*b = -50. Misalkan f be (-4)/(-12) + 34/(-3). Misalkan x = k + f. Hitung sisanya ketika 23 dibagi dengan x.
+7
+Misalkan 4*v + 3*c = 5*c - 20, 0 = -3*c + 6. Misalkan g = v + 18. Misalkan n = -18 + 58. Berapa sisa jika n dibagi dengan g?
+12
+Misalkan -3 + 23 = 5*z. Misalkan j = z - -14. Misalkan -5*b = 2*l - 197, b - j - 26 = -5*l. Hitung sisanya ketika b dibagi dengan 14.
+11
+Berapa sisa jika -2*((-670)/(-20))/(1/(-2)) dibagi dengan 45?
+44
+Misalkan d(h) = h**3 - 16*h**2 - 17*h + 14. Berapa sisa jika d(17) dibagi dengan 5?
+4
+Misalkan z = 54 + -24. Misalkan 3*b - b + z = 3*u, u - 10 = -3*b. Berapa sisa jika 37 dibagi dengan u?
+7
+Misalkan o = -2 + -4. Misalkan k = o + 20. Misalkan x = 61 + -34. Berapa sisa jika x dibagi dengan k?
+13
+Misalkan c - 4*z + z = 46, -3*c = -z - 106. Hitung sisanya ketika c dibagi dengan 9.
+7
+Misalkan f = 173 + -97. Hitung sisanya ketika f dibagi dengan 8.
+4
+Misalkan -4*j + 4 + 6 = -2*y, -3*j = 2*y - 4. Misalkan j*l = l + 13. Hitung sisanya ketika 37 dibagi dengan l.
+11
+Misalkan 3*v = u - 2*u + 8, -4*u = -5*v - 66. Hitung sisanya ketika -9*(-2 - (-32)/(-6)) dibagi dengan u.
+10
+Misalkan -4*v = -0*v + 24. Misalkan -5*o - 85 = -5*u, -2*u + 5 = -o - 25. Hitung sisanya ketika 2/6 - 220/v dibagi dengan u.
+11
+Misalkan -133 = -8*d + 27. Misalkan 4 = 3*c - 2*c. Misalkan c*h = 32 + d. Hitung sisanya ketika 50 dibagi dengan h.
+11
+Misalkan l(b) = -2*b**3 + 2*b**2 - b - 3. Misalkan x be 1/(-3 + 2)*2. Misalkan d be l(x). Berapa sisa jika d - 6/(-9)*3 dibagi dengan 9?
+7
+Misalkan -10 - 2 = -4*q. Berapa sisa jika 13 dibagi dengan q?
+1
+Misalkan -q = -b + 5*b - 15, -3*q + 21 = 4*b. Berapa sisa jika 6 dibagi dengan q?
+0
+Misalkan v(p) = 0*p**2 + 0*p + 2*p**2 - 1 + p. Misalkan o be v(1). Misalkan o*a = -4*u - u + 9, -4*a + 33 = -5*u. Berapa sisa jika 12 dibagi dengan a?
+5
+Misalkan v = -28 + 44. Misalkan 0 = -3*w - w + v. Misalkan -2*b + 9 = b. Berapa sisa jika w dibagi dengan b?
+1
+Misalkan a = 4 + -4. Misalkan s - 45 - 11 = a. Misalkan 0*m - s = -2*m. Berapa sisa jika m dibagi dengan 15?
+13
+Misalkan w = 6 + 36. Misalkan 0 = -2*j + 3*l + 58, -5*l - 1 = -j + w. Misalkan m = -13 + 25. Berapa sisa jika j dibagi dengan m?
+11
+Misalkan t = -142 - -196. Hitung sisanya ketika t dibagi dengan 11.
+10
+Misalkan i be (-2 - -4) + -4 - -3. Berapa sisa jika 26 dibagi dengan 15*i/(-3)*-2?
+6
+Misalkan l be 1*9 - (-6 - -9). Misalkan l*t = 7*t - 19. Berapa sisa jika 36 dibagi dengan t?
+17
+Misalkan s be 2/(-4)*2*3. Misalkan q(n) = 1 - n. Misalkan v be q(s). Hitung sisanya ketika 26 dibagi dengan 14/2*(-2 + v).
+12
+Misalkan j = 64 + -58. Misalkan -2*x - 2*q - 38 = -5*x, 2*q = -8. Hitung sisanya ketika x dibagi dengan j.
+4
+Misalkan -3*g + 4*f + 23 + 17 = 0, -2*f = g. Berapa sisa jika 36 dibagi dengan g?
+4
+Misalkan f be 4/(-14) - 37/(-7). Misalkan f*a - 6 = 3*a. Hitung sisanya ketika (6/(-4))/(a/(-40)) dibagi dengan 11.
+9
+Misalkan g - 6*g - 5 = 0. Misalkan d = g - -4. Misalkan d*j + 0*j - 39 = 0. Berapa sisa jika j dibagi dengan 7?
+6
+Misalkan h = -7 - 191. Misalkan r be ((-2)/6)/(2/h). Misalkan -j + 4*j = r. Berapa sisa jika 20 dibagi dengan j?
+9
+Misalkan j(x) = x**2 + 27*x + 10. Berapa sisa jika 111 dibagi dengan j(-28)?
+35
+Berapa sisa jika 37 dibagi dengan (40/35)/((-2)/(-7))?
+1
