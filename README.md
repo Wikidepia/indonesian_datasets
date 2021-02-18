@@ -5,6 +5,7 @@ This repository will be used to store Indonesia Dataset. Mostly from translating
 ## Table of contents
   * [Crawl](#crawl)
     * [Twitter](#twitter)
+    * [Twitter Puisi](#twitter-puisi)
   * [Dictionary](#dictionary)
     * [Wordlist](#wordlist)
   * [Paraphrase](#paraphrase)
@@ -18,6 +19,10 @@ This repository will be used to store Indonesia Dataset. Mostly from translating
 #### [Twitter](crawl/twitter)
 
 This dataset is crawled from Twitter. Contains the first 100 tweets from random 10k users and filtered using fastText.
+
+#### [Twitter Puisi](crawl/twitter-puisi)
+
+This dataset contains poem from various user on Twitter. 
 
 ## [Dictionary](dictionary)
 
