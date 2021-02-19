@@ -4,6 +4,7 @@ This repository will be used to store Indonesia Dataset. Mostly from translating
 
 ## Table of contents
   * [Crawl](#crawl)
+    * [Neliti](#neliti)
     * [Twitter](#twitter)
     * [Twitter Puisi](#twitter-puisi)
   * [Dictionary](#dictionary)
@@ -15,6 +16,10 @@ This repository will be used to store Indonesia Dataset. Mostly from translating
     * [Mathematics Dataset](#mathematics_dataset)
 
 ## [Crawl](crawl)
+
+#### [Neliti](crawl/neliti)
+
+This dataset is my attempt to replicate [The Pile arXiv](https://arxiv.org/abs/2101.00027). This dataset only contain 1/4 of the entire Neliti.com. More data will be released soon!
 
 #### [Twitter](crawl/twitter)
 
