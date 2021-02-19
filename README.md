@@ -56,3 +56,7 @@ Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset, 
 This dataset contains mathematical question and answer pairs, from a range of question types at roughly school-level difficulty. This is designed to test the mathematical learning and algebraic reasoning skills of learning models.
 
 [Original Dataset](https://github.com/deepmind/mathematics_dataset)
+
+## Disclaimer
+
+I do not own any of this dataset. Do not use for Commercial Purpose!
