@@ -14,6 +14,8 @@ This repository will be used to store Indonesia Dataset. Mostly from translating
   * [Question Answering](#question-answering)
     * [SQuAD](#SQuAD)
     * [Mathematics Dataset](#mathematics_dataset)
+  * [Summarization](#summarization)
+    * [WikiHow](#WikiHow)
 
 ## [Crawl](crawl)
 
@@ -56,6 +58,14 @@ Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset, 
 This dataset contains mathematical question and answer pairs, from a range of question types at roughly school-level difficulty. This is designed to test the mathematical learning and algebraic reasoning skills of learning models.
 
 [Original Dataset](https://github.com/deepmind/mathematics_dataset)
+
+## [Summarization](summarization)
+
+#### [WikiHow](summarization/WikiHow)
+
+WikiHow is a new large-scale dataset using the online [WikiHow](http://www.wikihow.com/) knowledge base. Each article consists of multiple paragraphs and each paragraph starts with a sentence summarizing it. By merging the paragraphs to form the article and the paragraph outlines to form the summary.
+
+[Original Dataset](https://github.com/mahnazkoupaee/WikiHow-Dataset)
 
 ## Disclaimer
 
