@@ -21,7 +21,7 @@ This repository will be used to store Indonesia Dataset. Mostly from translating
 
 #### [Neliti](crawl/neliti)
 
-This dataset is my attempt to replicate [The Pile arXiv](https://arxiv.org/abs/2101.00027). This dataset only contain 1/4 of the entire Neliti.com. More data will be released soon!
+This dataset is my attempt to replicate [The Pile arXiv](https://arxiv.org/abs/2101.00027). Full data is released now. Contains 280k publications (converted to text) from Neliti.com repository.
 
 #### [Twitter](crawl/twitter)
 
