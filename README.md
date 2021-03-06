@@ -38,7 +38,7 @@ This dataset is my attempt to replicate [The Pile arXiv](https://arxiv.org/abs/2
 
 #### [Twitter](dump/twitter)
 
-This dataset is crawled from Twitter. Contains the first 100 tweets from random 10k users and filtered using fastText.
+This dataset contains tweets from 2011, filtered from ArchiveTeam dump using fastText. More data will be released soon!
 
 ## [Paraphrase](paraphrase)
 
