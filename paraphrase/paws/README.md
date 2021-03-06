@@ -1,6 +1,8 @@
-# PAWS : Paraphrase Adversaries from Word Scrambling
+# Paraphrase Adversaries from Word Scrambling
 
-This dataset contains 108,463 human-labeled and 656k noisily labeled pairs that feature the importance of modeling structure, context, and word order information for the problem of paraphrase identification.
+[[Original Paper](https://arxiv.org/abs/1904.01130)] [[Original Dataset](https://github.com/google-research-datasets/paws)] [[Dataset Download](https://github.com/Wikidepia/indonesia_dataset/tree/master/paraphrase/paws/data)]
+
+This dataset contains 100k human-labeled pairs that feature the importance of modeling structure, context, and word order information for the problem of paraphrase identification.
 
 All translated pairs are sourced from examples in [PAWS-Wiki](https://github.com/google-research-datasets/paws#paws-wiki).
 
@@ -10,4 +12,15 @@ All translated pairs are sourced from examples in [PAWS-Wiki](https://github.com
 
 Translated to Indonesia using Google Translate API. Translate script is included.
 
-[Original Dataset](https://github.com/google-research-datasets/paws)
+## Citation
+
+```bibtex
+@misc{zhang2019paws,
+      title={PAWS: Paraphrase Adversaries from Word Scrambling}, 
+      author={Yuan Zhang and Jason Baldridge and Luheng He},
+      year={2019},
+      eprint={1904.01130},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
