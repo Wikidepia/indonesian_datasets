@@ -1,6 +1,11 @@
 # Indonesia Dataset
 
-This repository will be used to store Indonesia Dataset. Mostly from translating other dataset.
+This repository will be used to store Indonesian Datasets. 
+
+## Where did the dataset come from?
+
+1. I usually scrape from internet. 
+2. If the dataset is available in English, I use Google Translate to translate it.
 
 ## Table of contents
   * [Crawl](#crawl)
