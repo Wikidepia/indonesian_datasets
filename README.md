@@ -8,13 +8,14 @@ This repository will be used to store Indonesia Dataset. Mostly from translating
   * [Dictionary](#dictionary)
     * [Wordlist](#wordlist)
   * [Dump](#dump)
-    * [Neliti](#neliti)
     * [Twitter](#twitter)
   * [Paraphrase](#paraphrase)
     * [PAWS](#paws)
   * [Question Answering](#question-answering)
     * [SQuAD](#squad)
-    * [Mathematics Dataset](#mathematics_dataset)
+    * [Mathematics Dataset](#mathematics-dataset)
+  * [Speech](#speech)
+    * [Bible](#bible)
   * [Summarization](#summarization)
     * [WikiHow](#wikihow)
 
@@ -51,6 +52,12 @@ Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset, 
 #### [Mathematics Dataset](question-answering/mathematics_dataset)
 
 This dataset contains mathematical question and answer pairs, from a range of question types at roughly school-level difficulty. This is designed to test the mathematical learning and algebraic reasoning skills of learning models.
+
+## [Speech](speech)
+
+#### [Bible](speech/bible)
+
+Scrape audio from [Bible.is](https://bible.is). I cannot share the data because of copyright stuff. I already provide script to replicate it.
 
 ## [Summarization](summarization)
 
