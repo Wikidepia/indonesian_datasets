@@ -32,10 +32,6 @@ This dataset contains 105,226 words from Kamus Besar Bahasa Indonesia.
 
 ## [Dump](dump)
 
-#### [Neliti](dump/neliti)
-
-This dataset is my attempt to replicate [The Pile arXiv](https://arxiv.org/abs/2101.00027). Full data is released now. Contains 280k publications (converted to text) from Neliti.com repository.
-
 #### [Twitter](dump/twitter)
 
 This dataset contains tweets from 2011, filtered from ArchiveTeam dump using fastText. More data will be released soon!
