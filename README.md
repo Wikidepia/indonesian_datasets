@@ -9,6 +9,7 @@ This repository will be used to store Indonesian Datasets.
 
 ## Table of contents
   * [Crawl](#crawl)
+    * [Kaskus WebText](#kaskus-webtext)
     * [Twitter Puisi](#twitter-puisi)
   * [Dictionary](#dictionary)
     * [Wordlist](#wordlist)
@@ -25,6 +26,10 @@ This repository will be used to store Indonesian Datasets.
     * [WikiHow](#wikihow)
 
 ## [Crawl](crawl)
+
+#### [Kaskus WebText](crawl/kaskus-webtext)
+
+Scrape URLs from Kaskus (Starter only), filter to 3 or more cendol (karma). 
 
 #### [Twitter Puisi](crawl/twitter-puisi)
 
