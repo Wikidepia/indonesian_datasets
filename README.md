@@ -23,6 +23,7 @@ This repository will be used to store Indonesian Datasets.
   * [Speech](#speech)
     * [Bible](#bible)
   * [Summarization](#summarization)
+    * [Gigaword](#gigaword)
     * [WikiHow](#wikihow)
 
 ## [Crawl](crawl)
@@ -70,6 +71,10 @@ This dataset contains mathematical question and answer pairs, from a range of qu
 Scrape audio from [Bible.is](https://bible.is). I cannot share the data because of copyright stuff. I already provide script to replicate it.
 
 ## [Summarization](summarization)
+
+#### [Gigaword](summarization/gigaword)
+
+Headline-generation on a corpus of article pairs from Gigaword consisting of around 4 million articles. Use the 'org_data' provided by [https://github.com/microsoft/unilm/](https://github.com/microsoft/unilm/) which is identical to [https://github.com/harvardnlp/sent-summary](https://github.com/harvardnlp/sent-summary) but with better format.
 
 #### [WikiHow](summarization/wikihow)
 
