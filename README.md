@@ -25,6 +25,8 @@ This repository will be used to store Indonesian Datasets.
   * [Summarization](#summarization)
     * [Gigaword](#gigaword)
     * [WikiHow](#wikihow)
+  * [Translation](#translation)
+    * [ParaCrawl](#paracrawl)
 
 ## [Crawl](crawl)
 
@@ -79,6 +81,12 @@ Headline-generation on a corpus of article pairs from Gigaword consisting of aro
 #### [WikiHow](summarization/wikihow)
 
 WikiHow is a new large-scale dataset using the online [WikiHow](https://id.wikihow.com/) knowledge base. Each article consists of multiple paragraphs and each paragraph starts with a sentence summarizing it. By merging the paragraphs to form the article and the paragraph outlines to form the summary.
+
+## [Translation](translation)
+
+#### [ParaCrawl](translation/paracrawl)
+
+ParaCrawl v.7.1 is a parallel dataset with 41 language pairs primarily aligned with English (39 out of 41) and mined using the parallel-data-crawling tool Bitextor which includes downloading documents, preprocessing and normalization, aligning documents and segments, and filtering noisy data via Bicleaner. ParaCrawl focuses on European languages, but also includes 9 lower-resource, non-European language pairs in v7.1.
 
 ## Disclaimer
 
