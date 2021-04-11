@@ -1,12 +1,19 @@
 # ParaCrawl
 
-[[Dataset Download](https://hetzner.depia.wiki/IndoParaCrawl/)] [[Original Paper](https://www.aclweb.org/anthology/W19-6721/)]
+[[Dataset Download](https://huggingface.co/datasets/Wikidepia/IndoParaCrawl)] [[Original Paper](https://www.aclweb.org/anthology/W19-6721/)]
 
 ParaCrawl v.7.1 is a parallel dataset with 41 language pairs primarily aligned with English (39 out of 41) and mined using the parallel-data-crawling tool Bitextor which includes downloading documents, preprocessing and normalization, aligning documents and segments, and filtering noisy data via Bicleaner. ParaCrawl focuses on European languages, but also includes 9 lower-resource, non-European language pairs in v7.1.
 
 Originally I only wanted to test the limit of Google API. Apparently, there is no limit. The translation is still ongoing, so just wait.
 
-Download URL is not reliable, it can be changed anytime!
+## Download
+
+To download IndoParaCrawl you will need `git lfs`.
+
+```bash
+git lfs install
+git clone https://huggingface.co/datasets/Wikidepia/IndoParaCrawl
+```
 
 ## Citation
 
