@@ -11,6 +11,7 @@ This repository will be used to store Indonesian Datasets.
   * [Crawl](#crawl)
     * [Kaskus WebText](#kaskus-webtext)
     * [Twitter Puisi](#twitter-puisi)
+    * [Wipedia Links](#wikipedia-links)
   * [Dictionary](#dictionary)
     * [Wordlist](#wordlist)
   * [Dump](#dump)
@@ -37,6 +38,10 @@ Scrape URLs from Kaskus (Starter only), filter to 3 or more cendol (karma).
 #### [Twitter Puisi](crawl/twitter-puisi)
 
 This dataset contains poem from various user on Twitter. 
+
+#### [Wikipedia Links](crawl/wikipedia-links)
+
+Wikipedia have a lot of references & citations from internet. It should contain some high quality web content, this dataset contains content from 58k urls in Indonesian Wikipedia external links dump.
 
 ## [Dictionary](dictionary)
 
