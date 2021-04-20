@@ -23,6 +23,7 @@ This repository will be used to store Indonesian Datasets.
     * [Mathematics Dataset](#mathematics-dataset)
   * [Speech](#speech)
     * [Bible](#bible)
+    * [Google TTS](#google-tts)
   * [Summarization](#summarization)
     * [Gigaword](#gigaword)
     * [WikiHow](#wikihow)
@@ -76,6 +77,10 @@ This dataset contains mathematical question and answer pairs, from a range of qu
 #### [Bible](speech/bible)
 
 Scrape audio from [Bible.is](https://bible.is). I cannot share the data because of copyright stuff. I already provide script to replicate it.
+
+#### [Google TTS](speech/gtts)
+
+Automatically generated speech using Google Translate TTS. Text come from id_newspapers_2018 title. 500k utterances.
 
 ## [Summarization](summarization)
 
