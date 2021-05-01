@@ -1,11 +1,6 @@
-# Indonesia Dataset
+# Indonesian Dataset
 
-This repository will be used to store Indonesian Datasets. 
-
-## Where did the dataset come from?
-
-1. I usually scrape from internet. 
-2. If the dataset is available in English, I use Google Translate to translate it.
+Collections of Indonesian Natural Language Processing dictionaries, corpus, datasets.
 
 ## Table of contents
   * [Crawl](#crawl)
@@ -13,6 +8,7 @@ This repository will be used to store Indonesian Datasets.
     * [Twitter Puisi](#twitter-puisi)
     * [Wipedia Links](#wikipedia-links)
   * [Dictionary](#dictionary)
+    * [KBBI](#kbbi)
     * [Wordlist](#wordlist)
   * [Dump](#dump)
     * [Twitter](#twitter)
@@ -34,69 +30,73 @@ This repository will be used to store Indonesian Datasets.
 
 #### [Kaskus WebText](crawl/kaskus-webtext)
 
-Scrape URLs from Kaskus (Starter only), filter to 3 or more cendol (karma). 
+Scraped content from Kaskus with 3 cendol or more.
 
 #### [Twitter Puisi](crawl/twitter-puisi)
 
-This dataset contains poem from various user on Twitter. 
+Poems from various user on Twitter.
 
 #### [Wikipedia Links](crawl/wikipedia-links)
 
-Wikipedia have a lot of references & citations from internet. It should contain some high quality web content, this dataset contains content from 58k urls in Indonesian Wikipedia external links dump.
+Scraped content from Wikipedia external links.
 
 ## [Dictionary](dictionary)
 
+#### [KBBI](https://github.com/IllegalStashes/kbbi)
+
+Scraped Kamus Besar Bahasa Indonesia Daring.
+
 #### [Wordlist](dictionary/wordlist)
 
-This dataset contains 105,226 words from Kamus Besar Bahasa Indonesia.
+105,226 words from Kamus Besar Bahasa Indonesia.
 
 ## [Dump](dump)
 
 #### [Twitter](dump/twitter)
 
-This dataset contains tweets from 2011, filtered from ArchiveTeam dump using fastText. More data will be released soon!
+Twitter dump from [ArchiveTeam Twitter Stream Grab](https://archive.org/details/twitterstream). More data will be released soon!
 
 ## [Paraphrase](paraphrase)
 
 #### [PAWS](paraphrase/paws)
 
-This dataset contains 108,463 human-labeled and 656k noisily labeled pairs that feature the importance of modeling structure, context, and word order information for the problem of paraphrase identification.
+Translated [PAWS](https://github.com/google-research-datasets/paws) dataset from Google Research.
 
 ## [Question Answering](question-answering)
 
 #### [SQuAD](question-answering/squad)
 
-Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles, where the answer to every question is a segment of text, or span, from the corresponding reading passage, or the question might be unanswerable.
+Translated SQuAD from Stanford University.
 
 #### [Mathematics Dataset](question-answering/mathematics_dataset)
 
-This dataset contains mathematical question and answer pairs, from a range of question types at roughly school-level difficulty. This is designed to test the mathematical learning and algebraic reasoning skills of learning models.
+Automatically generated mathematical question and answer pairs. Translated from DeepMind's Mathematics Dataset.
 
 ## [Speech](speech)
 
 #### [Bible](speech/bible)
 
-Scrape audio from [Bible.is](https://bible.is). I cannot share the data because of copyright stuff. I already provide script to replicate it.
+Bible audio from [Bible.is](https://bible.is).
 
 #### [Google TTS](speech/gtts)
 
-Automatically generated speech using Google Translate TTS. Text come from id_newspapers_2018 title. 500k utterances.
+Automatically generated speech using Google Translate TTS (id-ID-Wavenet-A). 
 
 ## [Summarization](summarization)
 
 #### [Gigaword](summarization/gigaword)
 
-Headline-generation on a corpus of article pairs from Gigaword consisting of around 4 million articles. Use the 'org_data' provided by [https://github.com/microsoft/unilm/](https://github.com/microsoft/unilm/) which is identical to [https://github.com/harvardnlp/sent-summary](https://github.com/harvardnlp/sent-summary) but with better format.
+Translated English Gigaword dataset.
 
 #### [WikiHow](summarization/wikihow)
 
-WikiHow is a new large-scale dataset using the online [WikiHow](https://id.wikihow.com/) knowledge base. Each article consists of multiple paragraphs and each paragraph starts with a sentence summarizing it. By merging the paragraphs to form the article and the paragraph outlines to form the summary.
+Replicate [WikiHow: A Large Scale Text Summarization Dataset](https://arxiv.org/abs/1810.09305) to Indonesian.
 
 ## [Translation](translation)
 
 #### [ParaCrawl](translation/paracrawl)
 
-ParaCrawl v.7.1 is a parallel dataset with 41 language pairs primarily aligned with English (39 out of 41) and mined using the parallel-data-crawling tool Bitextor which includes downloading documents, preprocessing and normalization, aligning documents and segments, and filtering noisy data via Bicleaner. ParaCrawl focuses on European languages, but also includes 9 lower-resource, non-European language pairs in v7.1.
+Massively translated ParaCrawl v.7.1 from OPUS using Google Translate.
 
 ## Disclaimer
 
