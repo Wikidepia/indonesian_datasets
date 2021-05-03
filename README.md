@@ -11,6 +11,7 @@ Collections of Indonesian Natural Language Processing dictionaries, corpus, data
     * [KBBI](#kbbi)
     * [Wordlist](#wordlist)
   * [Dump](#dump)
+    * [CC-News-ID](#cc-news-id)
     * [Twitter](#twitter)
   * [Paraphrase](#paraphrase)
     * [PAWS](#paws)
@@ -51,6 +52,10 @@ Scraped Kamus Besar Bahasa Indonesia Daring.
 105,226 words from Kamus Besar Bahasa Indonesia.
 
 ## [Dump](dump)
+
+#### [CC-News-ID](dump/cc-news)
+
+Processed CC-News (CommonCrawl News). Contains News from 2016-2021 from various news outlets.
 
 #### [Twitter](dump/twitter)
 
