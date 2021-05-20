@@ -19,7 +19,6 @@ Collections of Indonesian Natural Language Processing dictionaries, corpus, data
     * [SQuAD](#squad)
     * [Mathematics Dataset](#mathematics-dataset)
   * [Speech](#speech)
-    * [Bible](#bible)
     * [Google TTS](#google-tts)
   * [Summarization](#summarization)
     * [Gigaword](#gigaword)
@@ -78,10 +77,6 @@ Translated SQuAD from Stanford University.
 Automatically generated mathematical question and answer pairs. Translated from DeepMind's Mathematics Dataset.
 
 ## [Speech](speech)
-
-#### [Bible](speech/bible)
-
-Bible audio from [Bible.is](https://bible.is).
 
 #### [Google TTS](speech/gtts)
 
