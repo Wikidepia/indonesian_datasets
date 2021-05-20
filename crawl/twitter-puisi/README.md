@@ -1,7 +1,7 @@
 # Twitter Puisi
 
-This dataset contains poem from various user on Twitter. Currently only have one user scraped.
+This dataset contains loosely filtered poem from various user on Twitter. 
 
-| User      | Poem |
-| ----------- | ----------- |
-| [PelangiPuisi](https://twitter.com/PelangiPuisi)      | 20k+       |
+| User                                             | Poem |
+| ------------------------------------------------ | ---- |
+| [PelangiPuisi](https://twitter.com/PelangiPuisi) | 80k+ |
