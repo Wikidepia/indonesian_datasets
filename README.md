@@ -15,6 +15,7 @@ Collections of Indonesian Natural Language Processing dictionaries, corpus, data
     * [Twitter](#twitter)
   * [Paraphrase](#paraphrase)
     * [PAWS](#paws)
+    * [SBERT Paraphrase Data](#sbert-paraphrase-data)
   * [Question Answering](#question-answering)
     * [SQuAD](#squad)
     * [Mathematics Dataset](#mathematics-dataset)
@@ -65,6 +66,10 @@ Twitter dump from [ArchiveTeam Twitter Stream Grab](https://archive.org/details/
 #### [PAWS](paraphrase/paws)
 
 Translated [PAWS](https://github.com/google-research-datasets/paws) dataset from Google Research.
+
+#### [SBERT Paraphrase Data](paraphrase/sbert)
+
+Various paraphrase datasets compiled by [SBERT](https://www.sbert.net/examples/training/paraphrases/README.html) translated to Indonesian.
 
 ## [Question Answering](question-answering)
 
