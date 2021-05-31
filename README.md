@@ -12,6 +12,7 @@ Collections of Indonesian Natural Language Processing dictionaries, corpus, data
     * [Wordlist](#wordlist)
   * [Dump](#dump)
     * [CC-News-ID](#cc-news-id)
+    * [Javanese Text](#javanese-text)
     * [Twitter](#twitter)
   * [Paraphrase](#paraphrase)
     * [PAWS](#paws)
@@ -56,6 +57,10 @@ Scraped Kamus Besar Bahasa Indonesia Daring.
 #### [CC-News-ID](dump/cc-news)
 
 Processed CC-News (CommonCrawl News). Contains News from 2016-2021 from various news outlets.
+
+#### [Javanese Text](dump/jv-text)
+
+Extracting Javanese text from available data.
 
 #### [Twitter](dump/twitter)
 
