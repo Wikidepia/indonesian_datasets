@@ -15,6 +15,7 @@ Collections of Indonesian Natural Language Processing dictionaries, corpus, data
     * [Javanese Text](#javanese-text)
     * [Twitter](#twitter)
   * [Paraphrase](#paraphrase)
+    * [MultiNLI](#multinli)
     * [PAWS](#paws)
     * [SBERT Paraphrase Data](#sbert-paraphrase-data)
     * [SNLI](#snli)
@@ -68,6 +69,10 @@ Extracting Javanese text from available data.
 Twitter dump from [ArchiveTeam Twitter Stream Grab](https://archive.org/details/twitterstream). More data will be released soon!
 
 ## [Paraphrase](paraphrase)
+
+#### [MultiNLI](paraphrase/multinli)
+
+The Multi-Genre Natural Language Inference (MultiNLI). The corpus is modeled on the SNLI corpus, but differs in that covers a range of genres of spoken and written text, and supports a distinctive cross-genre generalization evaluation.
 
 #### [PAWS](paraphrase/paws)
 
