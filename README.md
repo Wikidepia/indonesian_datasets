@@ -17,6 +17,7 @@ Collections of Indonesian Natural Language Processing dictionaries, corpus, data
   * [Paraphrase](#paraphrase)
     * [PAWS](#paws)
     * [SBERT Paraphrase Data](#sbert-paraphrase-data)
+    * [SNLI](#snli)
   * [Question Answering](#question-answering)
     * [SQuAD](#squad)
     * [Mathematics Dataset](#mathematics-dataset)
@@ -75,6 +76,10 @@ Translated [PAWS](https://github.com/google-research-datasets/paws) dataset from
 #### [SBERT Paraphrase Data](paraphrase/sbert)
 
 Various paraphrase datasets compiled by [SBERT](https://www.sbert.net/examples/training/paraphrases/README.html) translated to Indonesian.
+
+#### [SNLI](paraphrase/snli)
+
+The Stanford Natural Language Inference (SNLI) corpus, translated to Indonesian.
 
 ## [Question Answering](question-answering)
 
