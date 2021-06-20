@@ -26,6 +26,7 @@ Collections of Indonesian Natural Language Processing dictionaries, corpus, data
     * [Google TTS](#google-tts)
   * [Summarization](#summarization)
     * [Gigaword](#gigaword)
+    * [Reddit TLDR](#reddit-tldr)
     * [WikiHow](#wikihow)
   * [Translation](#translation)
     * [ParaCrawl](#paracrawl)
@@ -107,6 +108,10 @@ Automatically generated speech using Google Translate TTS (id-ID-Wavenet-A).
 #### [Gigaword](summarization/gigaword)
 
 Translated English Gigaword dataset.
+
+#### [Reddit TLDR](summarization/reddit_tldr)
+
+4 Million content-summary pairs translated from Webis-TLDR-17. 
 
 #### [WikiHow](summarization/wikihow)
 
