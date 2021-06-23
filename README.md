@@ -13,6 +13,7 @@ Collections of Indonesian Natural Language Processing dictionaries, corpus, data
   * [Dump](#dump)
     * [CC-News-ID](#cc-news-id)
     * [Javanese Text](#javanese-text)
+    * [mC4](#mc4)
     * [Twitter](#twitter)
   * [Paraphrase](#paraphrase)
     * [MultiNLI](#multinli)
@@ -64,6 +65,10 @@ Processed CC-News (CommonCrawl News). Contains News from 2016-2021 from various 
 #### [Javanese Text](dump/jv-text)
 
 Extracting Javanese text from available data.
+
+#### [mC4](dump/mc4)
+
+(Hopefully) clean mC4.
 
 #### [Twitter](dump/twitter)
 
