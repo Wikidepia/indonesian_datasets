@@ -1,6 +1,6 @@
 # "Clean" mC4
 
-[[Original Dataset](https://github.com/allenai/allennlp/discussions/5265)]] [[Dataset Download (Soon)](https://depia.wiki/files/mc4)]
+[[Original Dataset](https://github.com/allenai/allennlp/discussions/5265)]]
 
 Indonesian mC4 with filtering from spam, NSFW, and Gambling. Big thanks to AllenAI for releasing Multilingual C4 🙏.
 
