@@ -15,6 +15,8 @@ Collections of Indonesian Natural Language Processing dictionaries, corpus, data
     * [Javanese Text](#javanese-text)
     * [mC4](#mc4)
     * [Twitter](#twitter)
+  * [Multimodal](#multimodal)
+      * [CC12M](#cc12m)
   * [Paraphrase](#paraphrase)
     * [MultiNLI](#multinli)
     * [PAWS](#paws)
@@ -73,6 +75,12 @@ Extracting Javanese text from available data.
 #### [Twitter](dump/twitter)
 
 Twitter dump from [ArchiveTeam Twitter Stream Grab](https://archive.org/details/twitterstream). More data will be released soon!
+
+## [Multimodal](multimodal)
+
+#### [CC12M](multimodal/cc12m)
+
+Translated Conceptual Captions 12M from Google Research, meant to be used for vision-and-language pre-training.
 
 ## [Paraphrase](paraphrase)
 
