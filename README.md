@@ -16,6 +16,7 @@ Collections of Indonesian Natural Language Processing dictionaries, corpus, data
     * [mC4](#mc4)
     * [Twitter](#twitter)
   * [Multimodal](#multimodal)
+      * [CC3M](#cc3m)
       * [CC12M](#cc12m)
   * [Paraphrase](#paraphrase)
     * [MultiNLI](#multinli)
@@ -78,6 +79,10 @@ Twitter dump from [ArchiveTeam Twitter Stream Grab](https://archive.org/details/
 
 ## [Multimodal](multimodal)
 
+#### [CC3M](multimodal/cc3m)
+
+Translated Conceptual Captions 3M from Google Research.
+
 #### [CC12M](multimodal/cc12m)
 
 Translated Conceptual Captions 12M from Google Research, meant to be used for vision-and-language pre-training.
@@ -86,7 +91,7 @@ Translated Conceptual Captions 12M from Google Research, meant to be used for vi
 
 #### [MultiNLI](paraphrase/multinli)
 
-The Multi-Genre Natural Language Inference (MultiNLI). The corpus is modeled on the SNLI corpus, but differs in that covers a range of genres of spoken and written text, and supports a distinctive cross-genre generalization evaluation.
+Translated Multi-Genre Natural Language Inference (MultiNLI). The corpus is modeled on the SNLI corpus, but differs in that covers a range of genres of spoken and written text.
 
 #### [PAWS](paraphrase/paws)
 
