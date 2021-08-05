@@ -20,6 +20,7 @@ Collections of Indonesian Natural Language Processing dictionaries, corpus, data
       * [CC12M](#cc12m)
   * [Paraphrase](#paraphrase)
     * [MultiNLI](#multinli)
+    * [ParaNMT](#paranmt)
     * [PAWS](#paws)
     * [SBERT Paraphrase Data](#sbert-paraphrase-data)
     * [SNLI](#snli)
@@ -92,6 +93,10 @@ Translated Conceptual Captions 12M from Google Research, meant to be used for vi
 #### [MultiNLI](paraphrase/multinli)
 
 Translated Multi-Genre Natural Language Inference (MultiNLI). The corpus is modeled on the SNLI corpus, but differs in that covers a range of genres of spoken and written text.
+
+#### [ParaNMT](paraphrase/paranmt)
+
+Translated ParaNMT dataset, 5M filtered variant.
 
 #### [PAWS](paraphrase/paws)
 
