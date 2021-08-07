@@ -18,6 +18,7 @@ Collections of Indonesian Natural Language Processing dictionaries, corpus, data
   * [Multimodal](#multimodal)
       * [CC3M](#cc3m)
       * [CC12M](#cc12m)
+      * [YFCC100M OpenAI Subset](#yfcc100m-openai-subset)
   * [Paraphrase](#paraphrase)
     * [MultiNLI](#multinli)
     * [ParaBank](#parabank)
@@ -88,6 +89,10 @@ Translated Conceptual Captions 3M from Google Research.
 #### [CC12M](multimodal/cc12m)
 
 Translated Conceptual Captions 12M from Google Research, meant to be used for vision-and-language pre-training.
+
+#### [YFCC100M OpenAI Subset](multimodal/yfcc100m_openai)
+
+Translated YFCC100M OpenAI Subset used in CLIP dataset ablation.
 
 ## [Paraphrase](paraphrase)
 
