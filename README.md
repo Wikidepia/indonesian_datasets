@@ -36,6 +36,8 @@ Collections of Indonesian Natural Language Processing dictionaries, corpus, data
     * [Reddit TLDR](#reddit-tldr)
     * [WikiHow](#wikihow)
   * [Translation](#translation)
+    * [Europarl](#europarl)
+    * [EuroPat](#europat)
     * [ParaCrawl](#paracrawl)
 
 ## [Crawl](crawl)
@@ -152,15 +154,18 @@ Replicate [WikiHow: A Large Scale Text Summarization Dataset](https://arxiv.org/
 
 ## [Translation](translation)
 
+#### [Europarl](translation/europarl)
+
+A parallel corpus extracted from the European Parliament web site by Philipp Koehn (University of Edinburgh). The main intended use is to aid statistical machine translation research. (Translated to Indonesian using Google Translate)
+
+#### [EuroPat](translation/europat)
+
+Parallel corpora of patents from the United States Patent and Trademark Office and from the European Patent Organisation. (Translated to Indonesian using Google Translate)
+
 #### [ParaCrawl](translation/paracrawl)
 
 Massively translated ParaCrawl v.7.1 from OPUS using Google Translate.
 
-#### [Europarl](translation/europarl)
-
-A parallel corpus extracted from the European Parliament web site by Philipp Koehn (University of Edinburgh). The main intended use is to aid statistical machine translation research.
-
-Translated using Google Translate.
 
 ## Disclaimer
 
