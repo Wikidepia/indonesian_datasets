@@ -156,6 +156,12 @@ Replicate [WikiHow: A Large Scale Text Summarization Dataset](https://arxiv.org/
 
 Massively translated ParaCrawl v.7.1 from OPUS using Google Translate.
 
+#### [Europarl](translation/europarl)
+
+A parallel corpus extracted from the European Parliament web site by Philipp Koehn (University of Edinburgh). The main intended use is to aid statistical machine translation research.
+
+Translated using Google Translate.
+
 ## Disclaimer
 
 I do not own any of this dataset. Do not use for Commercial Purpose!
