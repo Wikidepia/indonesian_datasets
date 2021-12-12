@@ -1,8 +1,7 @@
-# Indonesian Podcast
+# Indonesian Unsupervised Speech Dataset
 
-[[Dataset Download (170GB)](https://cloud.depia.wiki/podcast/)]
-
-This dataset contains 2,000+ hours of speech. With transcript from ASR.
+- [[Podcast (170GB)](https://cloud.depia.wiki/podcast/)]
+- [[YouTube Ch. 1 (90GB)](https://cloud.depia.wiki/podcast/)]
 
 ## Disclaimer
 

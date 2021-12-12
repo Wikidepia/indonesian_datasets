@@ -31,7 +31,7 @@ Collections of Indonesian Natural Language Processing dictionaries, corpus, data
     * [Mathematics Dataset](#mathematics-dataset)
   * [Speech](#speech)
     * [Google TTS](#google-tts)
-    * [Podcast](#podcast)
+    * [Unsupervised](#unsupervised)
   * [Summarization](#summarization)
     * [Gigaword](#gigaword)
     * [Reddit TLDR](#reddit-tldr)
@@ -139,9 +139,9 @@ Automatically generated mathematical question and answer pairs. Translated from 
 
 Automatically generated speech using Google Translate TTS (id-ID-Wavenet-A). 
 
-#### [Podcast](speech/podcast)
+#### [Unsupervised](speech/unsupervised)
 
-2,000+ Hours of Indonesian speech. Can be used for pre-training speech recognition.
+A large-scale Indonesian speech corpus for pre-training speech recognition model.
 
 ## [Summarization](summarization)
 
