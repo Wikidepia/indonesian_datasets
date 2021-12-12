@@ -1,7 +1,7 @@
 # Indonesian Unsupervised Speech Dataset
 
 - [[Podcast (170GB)](https://cloud.depia.wiki/podcast/)]
-- [[YouTube Ch. 1 (90GB)](https://cloud.depia.wiki/podcast/)]
+- [[YouTube Ch. 1 (90GB)](https://cloud.depia.wiki/yt-ch1/)]
 
 ## Disclaimer
 
