@@ -1,6 +1,6 @@
 import json
 
-with open("data/tar/train-v2.0_small.json") as f:
+with open("train-v2.0.json") as f:
     content = json.load(f)
 
 hf_data = []
@@ -26,5 +26,5 @@ for data in content["data"]:
 
             hf_data.append(fill)
 
-with open("data/tar/hf_train-v2.0_small.json", "w") as f:
+with open("hf_train-v2.0.json", "w") as f:
     json.dump({"data": hf_data}, f)
