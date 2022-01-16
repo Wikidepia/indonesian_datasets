@@ -16,10 +16,7 @@ for data in content["data"]:
                 "question": qa["question"],
                 "answers": {"answer_start": [], "text": []}
             }
-            if qa["is_impossible"]:
-                answers = qa["plausible_answers"]
-            else:
-                answers = qa["answers"]
+            answers = qa["plausible_answers"] if qa["is_impossible"] else qa["answers"]
             for answer in answers:
                 fill["answers"]["answer_start"].append(answer["answer_start"])
                 fill["answers"]["text"].append(answer["text"])
