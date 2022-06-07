@@ -10,6 +10,8 @@ If you need to use `run_qa.py` from Hugging Face, you need to run `convert_huggi
 - `/` aligned similar to [Swedish SQuAD](https://towardsdatascience.com/swedish-question-answering-with-bert-c856ccdcc337) and translated using Google Translated
 - `/tar/` aligned using TranslateAlignRetrieve and translated using MarianMT
 
+You can try both version, and find which one is the better one.
+
 ## Citations
 
 ```bibtex
