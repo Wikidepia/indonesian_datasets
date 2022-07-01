@@ -1,5 +1,7 @@
 # Indonesian Unsupervised Speech Dataset
 
+**Currently unavailable, please contact `akmal at depia.wiki` to download.**
+
 - [[Podcast (170GB)](https://cloud.depia.wiki/podcast/)]
 - [[YouTube Ch. 1 (90GB)](https://cloud.depia.wiki/yt-ch1/)]
 
