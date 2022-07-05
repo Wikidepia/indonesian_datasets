@@ -170,8 +170,3 @@ Parallel corpora of patents from the United States Patent and Trademark Office a
 #### [ParaCrawl](translation/paracrawl)
 
 Massively translated ParaCrawl v.7.1 from OPUS using Google Translate.
-
-
-## Disclaimer
-
-I do not own any of this dataset. Do not use for Commercial Purpose!
