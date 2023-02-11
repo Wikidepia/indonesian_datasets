@@ -1,6 +1,6 @@
 # Stanford Question Answering Dataset
 
-[[Original Paper](https://arxiv.org/abs/1806.03822)] [[Original Dataset](https://rajpurkar.github.io/SQuAD-explorer/)] [[Dataset Download](https://depia.wiki/files/squad/)]
+[[Original Paper](https://arxiv.org/abs/1806.03822)] [[Original Dataset](https://rajpurkar.github.io/SQuAD-explorer/)] [[Dataset Download](https://storage.depia.wiki/squad/)]
 
 Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles, where the answer to every question is a segment of text, or span, from the corresponding reading passage, or the question might be unanswerable.
 

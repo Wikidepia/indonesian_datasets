@@ -1,6 +1,6 @@
 # GigaWord
 
-[[Dataset Download](https://depia.wiki/files/gigaword.tar.zst)]
+[[Dataset Download](https://storage.depia.wiki/gigaword.tar.zst)]
 
 Headline-generation on a corpus of article pairs from Gigaword consisting of around 4 million articles. Use the 'org_data' provided by https://github.com/microsoft/unilm/ which is identical to https://github.com/harvardnlp/sent-summary but with better format.
 

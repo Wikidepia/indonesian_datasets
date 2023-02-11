@@ -1,6 +1,6 @@
 # Reddit TLDR
 
-[[Original Paper](https://www.aclweb.org/anthology/W17-4508/)] [[Dataset Download](https://depia.wiki/files/reddit-tldr.jsonl.zst)]
+[[Original Paper](https://www.aclweb.org/anthology/W17-4508/)] [[Dataset Download](https://storage.depia.wiki/reddit-tldr.jsonl.zst)]
 
 The Webis TLDR Corpus (2017) consists of approximately 4 Million content-summary pairs extracted for Abstractive Summarization, from the Reddit dataset for the years 2006-2016. This corpus is first of its kind from the social media domain in English and has been created to compensate the lack of variety in the datasets used for abstractive summarization research using deep learning models.
 

@@ -1,6 +1,6 @@
 # YFCC100M OpenAI Subset
 
-[[Original Dataset](https://github.com/openai/CLIP/blob/main/data/yfcc100m.md)] [[Dataset Download](https://depia.wiki/files/yfcc100.jsonl.zst)]
+[[Original Dataset](https://github.com/openai/CLIP/blob/main/data/yfcc100m.md)] [[Dataset Download](https://storage.depia.wiki/yfcc100.jsonl.zst)]
 
 The subset contains 14,829,396 images, about 15% of the full dataset, which have been filtered to only keep those with natural language titles and/or descriptions in English.
 

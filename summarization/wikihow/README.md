@@ -1,6 +1,6 @@
 # WikiHow
 
-[[Original Paper](https://arxiv.org/abs/1810.09305)] [[Original Code](https://github.com/mahnazkoupaee/WikiHow-Dataset)] [[Dataset Download](https://depia.wiki/files/wikihow.json.zst)]
+[[Original Paper](https://arxiv.org/abs/1810.09305)] [[Original Code](https://github.com/mahnazkoupaee/WikiHow-Dataset)] [[Dataset Download](https://storage.depia.wiki/wikihow.json.zst)]
 
 This dataset contains Headline and Text from WikiHow Indonesia. Using the same data processing as original WikiHow dataset.
 

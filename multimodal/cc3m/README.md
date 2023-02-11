@@ -1,6 +1,6 @@
 # Conceptual Captions 3M
 
-[[Original Dataset](https://github.com/google-research-datasets/conceptual-captions)] [[Dataset Download](https://depia.wiki/files/cc3m-train.jsonl.zst)]
+[[Original Dataset](https://github.com/google-research-datasets/conceptual-captions)] [[Dataset Download](https://storage.depia.wiki/cc3m-train.jsonl.zst)]
 
 Conceptual Captions is a dataset containing (image-URL, caption) pairs designed for the training and evaluation of machine learned image captioning systems.
 

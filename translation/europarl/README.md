@@ -1,6 +1,6 @@
 # Europarl
 
-[[Dataset Download](https://depia.wiki/files/europarl.jsonl.zst)] [[Original Paper](https://aclanthology.org/2005.mtsummit-papers.11//)]
+[[Dataset Download](https://storage.depia.wiki/europarl.jsonl.zst)] [[Original Paper](https://aclanthology.org/2005.mtsummit-papers.11//)]
 
 The Europarl parallel corpus is extracted from the proceedings of the European Parliament. It includes versions in 21 European languages: Romanic (French, Italian, Spanish, Portuguese, Romanian), Germanic (English, Dutch, German, Danish, Swedish), Slavik (Bulgarian, Czech, Polish, Slovak, Slovene), Finni-Ugric (Finnish, Hungarian, Estonian), Baltic (Latvian, Lithuanian), and Greek.
 

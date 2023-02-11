@@ -1,6 +1,6 @@
 # ParaBank
 
-[[Original Dataset](https://nlp.jhu.edu/parabank/)] [[Dataset Download (v2.0)](https://depia.wiki/files/parabank-v2.0.jsonl.zst)]
+[[Original Dataset](https://nlp.jhu.edu/parabank/)] [[Dataset Download (v2.0)](https://storage.depia.wiki/parabank-v2.0.jsonl.zst)]
 
 The ParaBank project consists of a series of efforts exploring the potential for guided backtranslation for the purpose of paraphrasing with constraints. This work is spiritually connected to prior efforts at JHU in paraphrasing, in particular projects surrounding the ParaPhrase DataBase (PPDB).
 

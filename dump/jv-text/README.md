@@ -1,6 +1,6 @@
 # Javanese Text
 
-[[Dataset Download](https://depia.wiki/files/jv-text/)]
+[[Dataset Download](https://storage.depia.wiki/jv-text/)]
 
 Extracting Javanese text from available data. The data used comes from:
 
