@@ -1,6 +1,6 @@
 # Javanese Text
 
-[[Dataset Download](https://storage.depia.wiki/jv-text/)]
+[[Dataset Download](https://le4-0-66landstalker.pulsedmedia.com/public-sorechai/public_indonesian_datasets/jv-text/)]
 
 Extracting Javanese text from available data. The data used comes from:
 

@@ -1,6 +1,6 @@
 # Wikipedia Links
 
-[[Dataset Download](https://storage.depia.wiki/wikipedia-links.tar.zst)]
+[[Dataset Download](https://le4-0-66landstalker.pulsedmedia.com/public-sorechai/public_indonesian_datasets/wikipedia-links.tar.zst)]
 
 Wikipedia have a lot of references & citations from internet. It should contain some high quality web content, this dataset contains 58k urls from Indonesian Wikipedia external links dump.
 

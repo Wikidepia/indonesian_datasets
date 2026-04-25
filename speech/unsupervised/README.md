@@ -2,8 +2,8 @@
 
 **Currently unavailable, please contact `akmal at depia.wiki` to download.**
 
-- [[Podcast (170GB)](https://cloud.depia.wiki/podcast/)]
-- [[YouTube Ch. 1 (90GB)](https://cloud.depia.wiki/yt-ch1/)]
+- [[Podcast (170GB)](https://le4-0-66landstalker.pulsedmedia.com/public-sorechai/public_indonesian_datasets/podcast/)]
+- [[YouTube Ch. 1 (90GB)](https://le4-0-66landstalker.pulsedmedia.com/public-sorechai/public_indonesian_datasets/yt-ch1/)]
 
 ## Disclaimer
 

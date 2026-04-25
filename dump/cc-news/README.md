@@ -1,6 +1,6 @@
 # Indonesian CommonCrawl News
 
-[[Dataset Download](https://storage.depia.wiki/ccnews-id.tar)]
+[[Dataset Download](https://le4-0-66landstalker.pulsedmedia.com/public-sorechai/public_indonesian_datasets/ccnews-id.tar)]
 
 Processed CommonCrawl News Dataset filtered to Indonesian Language using CLD2. Content extracted using Trafilatura.
 
